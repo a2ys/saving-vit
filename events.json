@@ -2,10 +2,66 @@
   "sys": {
     "type": "Array"
   },
-  "total": 112,
+  "total": 113,
   "skip": 0,
   "limit": 100,
   "items": [
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "vEhI713Gq4Rx9v4u1o2Zd",
+        "type": "Entry",
+        "createdAt": "2025-10-18T05:55:32.465Z",
+        "updatedAt": "2025-10-18T05:55:32.465Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 14,
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Robo Race",
+        "clubName": "TechnoVIT",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-31T10:00+00:00",
+        "endDateAndTime": "2025-10-31T06:00+00:00",
+        "pricePerPerson": 500,
+        "participationType": "Solo/Duo/Trio/Squad",
+        "eventVenue": "AB3 Lawn",
+        "shortDescription": "Gear up for Robotics Racing! Claim the ultimate robotics champion title!",
+        "longDescription": "Gear up for Robotics Racing! Claim the ultimate robotics champion title!",
+        "specialEvent": true
+      }
+    },
     {
       "metadata": {
         "tags": [],
@@ -5561,62 +5617,6 @@
         "longDescription": "This event will begin with an interactive workshop where participants learn the fundamentals of reinforcement learning and get hands-on experience building and training their own models on AWS Deepracer. Following the workshop, participants will put their knowledge into action in an exciting competition, racing their trained models to achieve the fastest lap times and showcase their skills.",
         "specialEvent": false
       }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "1wmZB4nTD6wNdsrWA3VBhh",
-        "type": "Entry",
-        "createdAt": "2025-10-15T03:17:24.837Z",
-        "updatedAt": "2025-10-15T03:17:24.837Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 14,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "The Stranger Clues",
-        "clubName": "OPEN SOURCE PROGRAMMING CLUB",
-        "eventType": "Game",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "7v2AZm2eZOhEHXan7lQktJ"
-          }
-        },
-        "startDateAndTime": "2025-10-29T13:00+00:00",
-        "endDateAndTime": "2025-10-29T00:00+00:00",
-        "pricePerPerson": 50,
-        "participationType": "Solo/Duo/Trio/Squad",
-        "eventVenue": " AB1 Mini Portico",
-        "shortDescription": "In this on-campus digital treasure hunt, teams of 1-4 will learn Open Source Intelligence (OSINT). Follow online and offline clues using cybersecurity skills to reach a finale where your choices determine how you find a missing person.",
-        "longDescription": "An engaging, on-campus digital treasure hunt designed to introduce participants to Open Source Intelligence (OSINT) techniques through a mix of real-world investigation and cybersecurity puzzles. Starting from a physical location within the college, participants follow clues that take them on various online and offline trails involving web research, digital footprints, and hidden leads. All paths lead to a thrilling three-way finale where participants’ choices determine how they find a missing person. This event provides students with a fun, interactive way to build foundational OSINT and cybersecurity skills while offering management a well-rounded, technically relevant learning experience.\n \n Team size: 1-4",
-        "specialEvent": false
-      }
     }
   ],
   "includes": {
@@ -6066,51 +6066,6 @@
               }
             },
             "fileName": "IMG-20251014-WA0048 - Aneeka Reemaz A 23BEL1058 (1).jpg",
-            "contentType": "image/jpeg"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
-          "id": "7v2AZm2eZOhEHXan7lQktJ",
-          "type": "Asset",
-          "createdAt": "2025-10-15T03:14:25.877Z",
-          "updatedAt": "2025-10-15T03:14:25.877Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 3,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "THE STRANGER CLUES - Open Source Programming Club",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/7v2AZm2eZOhEHXan7lQktJ/e5141a97f23315fce2e6ce4c7dc57d43/THE_STRANGER_CLUES_-_Open_Source_Programming_Club.jpg",
-            "details": {
-              "size": 973369,
-              "image": {
-                "width": 1587,
-                "height": 2245
-              }
-            },
-            "fileName": "THE STRANGER CLUES - Open Source Programming Club.jpg",
             "contentType": "image/jpeg"
           }
         }
