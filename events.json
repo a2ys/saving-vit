@@ -19,6 +19,118 @@
             "id": "rr94wjxz7mfi"
           }
         },
+        "id": "5jTo3ukG6ULA5CQvciAaln",
+        "type": "Entry",
+        "createdAt": "2025-10-15T11:55:04.243Z",
+        "updatedAt": "2025-10-18T12:30:15.566Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 18,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Brainware",
+        "clubName": "ARTIFICIAL INTELLIGENCE CLUB",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "5WM0Gam15m4DSf8VUuLJqD"
+          }
+        },
+        "startDateAndTime": "2025-10-31T09:00+00:00",
+        "endDateAndTime": "2025-10-31T14:00+00:00",
+        "pricePerPerson": 100,
+        "participationType": "Solo",
+        "eventVenue": "AB3 201",
+        "shortDescription": "Quiz-based competition testing tech knowledge, problem-solving, and emerging technology awareness. Teams answer progressively challenging questions, fostering collaboration, quick thinking, and competitive spirit.",
+        "longDescription": "Brainware is an exciting quiz-based competition that brings a technological twist to the classic Kaun Banega Crorepati format. Participants will tackle rounds of progressively challenging questions spanning computer science, emerging technologies, logical problem-solving, and general tech knowledge. The event is designed to test technical expertise, quick thinking, and strategic decision-making in an engaging and competitive setup. Scheduled to be held on any one day of TechnoVIT, with a maximum team size of 2 members, Brainware promotes collaboration and knowledge sharing, making it a fun, intellectually stimulating highlight of TechnoVIT.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "6mzi6vStgbe2YJ7V7rdGYu",
+        "type": "Entry",
+        "createdAt": "2025-10-16T12:16:46.267Z",
+        "updatedAt": "2025-10-18T12:27:07.171Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 4,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "CTRL FUN",
+        "clubName": "SAHAYATHA",
+        "eventType": "Game",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-27T11:30:00.000Z",
+        "endDateAndTime": "2025-10-27T16:00:00.000Z",
+        "pricePerPerson": 200,
+        "participationType": "Squad",
+        "eventVenue": "AB1 Portico, Handball Court",
+        "shortDescription": "Participants navigate a multi-round event: exploring the campus to solve clues, debugging Python code snippets, competing in fun games, and popping balloons with riddles or tasks. Teams earn points each round, and the highest scorer wins.",
+        "longDescription": "Event Rounds Description<br> Round 1: Campus Hunting<br> Participants will explore the campus to solve clues and find hidden locations. This round tests<br> observation, teamwork, and problem-solving skills. The fastest teams to complete the hunt will<br> move on to the next round.<br> Round 2: Debugging in Python<br> Participants will be given Python code snippets containing errors. The task is to debug and correct<br> the code within the given time limit. This round evaluates programming knowledge, logic, and<br> accuracy.<br> Round 3: Fun Games<br> This round will consist of 4 short and exciting fun games. They are designed to bring energy,<br> laughter, and friendly competition among participants. Performance in these games will also<br> contribute to overall scores.<br> Round 4: Balloon Pop Game<br> In the final round, balloons filled with chits containing riddles or tasks will be placed. Each team<br> pops a balloon and must solve the riddle or complete the task within the time limit. Correct answers<br> or successful attempts earn points. The team with the highest score at the end is declared the<br> winner. This round is fun, fast, and decisive.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
         "id": "vEhI713Gq4Rx9v4u1o2Zd",
         "type": "Entry",
         "createdAt": "2025-10-18T05:55:32.465Z",
@@ -2819,62 +2931,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "6mzi6vStgbe2YJ7V7rdGYu",
-        "type": "Entry",
-        "createdAt": "2025-10-16T12:16:46.267Z",
-        "updatedAt": "2025-10-16T12:16:46.267Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "CTRL FUN",
-        "clubName": "SAHAYATHA",
-        "eventType": "Game",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-27T11:30:00.000Z",
-        "endDateAndTime": "2025-10-27T16:00:00.000Z",
-        "pricePerPerson": 200,
-        "participationType": "Squad",
-        "eventVenue": "AB1 Portico, Handball Court",
-        "shortDescription": "Event Rounds Description<br> Round 1: Campus Hunting<br> Participants will explore the campus to solve clues and find hidden locations. This round tests<br> observation, teamwork, and problem-solving skills. The fastest teams to complete the hunt will<br> move on to the next round.<br> Round 2: Debugging in Python<br> Participants will be given Python code snippets containing errors. The task is to debug and correct<br> the code within the given time limit. This round evaluates programming knowledge, logic, and<br> accuracy.<br> Round 3: Fun Games<br> This round will consist of 4 short and exciting fun games. They are designed to bring energy,<br> laughter, and friendly competition among participants. Performance in these games will also<br> contribute to overall scores.<br> Round 4: Balloon Pop Game<br> In the final round, balloons filled with chits containing riddles or tasks will be placed. Each team<br> pops a balloon and must solve the riddle or complete the task within the time limit. Correct answers<br> or successful attempts earn points. The team with the highest score at the end is declared the<br> winner. This round is fun, fast, and decisive.",
-        "longDescription": "Participants navigate a multi-round event: exploring the campus to solve clues, debugging Python code snippets, competing in fun games, and popping balloons with riddles or tasks. Teams earn points each round, and the highest scorer wins.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "7zNzBsozIS4630shrEcQLx",
         "type": "Entry",
         "createdAt": "2025-10-16T12:16:44.386Z",
@@ -5391,62 +5447,6 @@
         "judgementCriteria": [
           "not applicable"
         ],
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "5jTo3ukG6ULA5CQvciAaln",
-        "type": "Entry",
-        "createdAt": "2025-10-15T11:55:04.243Z",
-        "updatedAt": "2025-10-15T11:58:58.945Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 16,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Brainware",
-        "clubName": "ARTIFICIAL INTELLIGENCE CLUB",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "5WM0Gam15m4DSf8VUuLJqD"
-          }
-        },
-        "startDateAndTime": "2025-10-31T09:00+00:00",
-        "endDateAndTime": "2025-10-31T14:00+00:00",
-        "pricePerPerson": 100,
-        "participationType": "Duo",
-        "eventVenue": "AB3 201",
-        "shortDescription": "Quiz-based competition testing tech knowledge, problem-solving, and emerging technology awareness. Teams answer progressively challenging questions, fostering collaboration, quick thinking, and competitive spirit.",
-        "longDescription": "Brainware is an exciting quiz-based competition that brings a technological twist to the classic Kaun Banega Crorepati format. Participants will tackle rounds of progressively challenging questions spanning computer science, emerging technologies, logical problem-solving, and general tech knowledge. The event is designed to test technical expertise, quick thinking, and strategic decision-making in an engaging and competitive setup. Scheduled to be held on any one day of TechnoVIT, with a maximum team size of 2 members, Brainware promotes collaboration and knowledge sharing, making it a fun, intellectually stimulating highlight of TechnoVIT.",
         "specialEvent": false
       }
     },
