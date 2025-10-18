@@ -2,10 +2,122 @@
   "sys": {
     "type": "Array"
   },
-  "total": 110,
+  "total": 112,
   "skip": 0,
   "limit": 100,
   "items": [
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "2AVoalUcxDCQGCz2Q1sSF6",
+        "type": "Entry",
+        "createdAt": "2025-10-18T05:48:11.080Z",
+        "updatedAt": "2025-10-18T05:48:11.080Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 13,
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Rotor Rush",
+        "clubName": "TechnoVIT",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-11-01T14:00+00:00",
+        "endDateAndTime": "2025-11-01T20:00+00:00",
+        "pricePerPerson": 1500,
+        "participationType": "Solo/Duo/Trio/Squad",
+        "eventVenue": "MG Auditorium",
+        "shortDescription": "Dive into the future with Drone VR! Experience the thrill of piloting drones in immersive virtual reality. Test your reflexes, precision, and control as you race through stunning digital skies and futuristic arenas.",
+        "longDescription": "Dive into the future with Drone VR! Experience the thrill of piloting drones in immersive virtual reality. Test your reflexes, precision, and control as you race through stunning digital skies and futuristic arenas.",
+        "specialEvent": true
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "2jX51tsw4V5TLKZftr0suH",
+        "type": "Entry",
+        "createdAt": "2025-10-18T05:42:11.168Z",
+        "updatedAt": "2025-10-18T05:42:11.168Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 17,
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Rouge Route",
+        "clubName": "TechnoVIT",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-11-01T10:00+00:00",
+        "endDateAndTime": "2025-11-01T18:00+00:00",
+        "pricePerPerson": 1500,
+        "participationType": "Solo/Duo/Trio/Squad",
+        "eventVenue": "AB3 Amphitheatre",
+        "shortDescription": "Get ready to witness the thrill of speed and precision as cutting-edge technology takes flight! Fast reflexes and skill decide who takes the sky! Drone Racing",
+        "longDescription": "Whether you’re a drone enthusiast, a tech innovator, or just a thrill-seeker, this event promises an adrenaline rush like no other. Experience the perfect blend of aerodynamics, innovation, and competitive spirit - where every millisecond counts!",
+        "specialEvent": true
+      }
+    },
     {
       "metadata": {
         "tags": [],
@@ -5505,118 +5617,6 @@
         "longDescription": "An engaging, on-campus digital treasure hunt designed to introduce participants to Open Source Intelligence (OSINT) techniques through a mix of real-world investigation and cybersecurity puzzles. Starting from a physical location within the college, participants follow clues that take them on various online and offline trails involving web research, digital footprints, and hidden leads. All paths lead to a thrilling three-way finale where participants’ choices determine how they find a missing person. This event provides students with a fun, interactive way to build foundational OSINT and cybersecurity skills while offering management a well-rounded, technically relevant learning experience.\n \n Team size: 1-4",
         "specialEvent": false
       }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "5mkryCejPM0vEsT1r71rKt",
-        "type": "Entry",
-        "createdAt": "2025-10-15T03:12:14.380Z",
-        "updatedAt": "2025-10-15T03:12:14.380Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 14,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Drone Sim",
-        "clubName": "AUTOVIT",
-        "eventType": "Game",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "7JFgrsoZmv6HZ50em4uowA"
-          }
-        },
-        "startDateAndTime": "2025-10-31T09:00+00:00",
-        "endDateAndTime": "2025-11-01T17:30+00:00",
-        "pricePerPerson": 50,
-        "participationType": "Solo",
-        "eventVenue": "AB3 210 Satori Lab",
-        "shortDescription": "Fly drones in a realistic simulation using actual remote controllers. Participants will navigate virtual challenges, testing piloting skills in a safe environment linked to aerospace, control systems, and simulation engineering.",
-        "longDescription": "Fly drones in a realistic simulation using actual remote controllers. Participants will navigate virtual challenges, testing their piloting skills in a safe environment. The event connects to the technical domain through aerospace, control systems, and simulation engineering, showcasing real-world applications of drones in logistics, defense, and surveying.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "3e7rrybDex3VEn8UWAm1cV",
-        "type": "Entry",
-        "createdAt": "2025-10-15T02:58:47.618Z",
-        "updatedAt": "2025-10-15T02:58:47.618Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 21,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Symmetria: The Art & Math Exposition",
-        "clubName": "MATHEMATICS CLUB",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "3egm8GBILHBVPRADKeO7Wp"
-          }
-        },
-        "startDateAndTime": "2025-11-01T10:00+00:00",
-        "endDateAndTime": "2025-11-01T01:30+00:00",
-        "pricePerPerson": 100,
-        "participationType": "Duo/Trio/Squad",
-        "eventVenue": "AB4  201",
-        "shortDescription": "Choose your challenge!\nAlgorithmic Art: Generate visual art from code using mathematical principles.\nGeometric Design: Design a 3D structure demonstrating advanced geometry.\nData Sonification: Transform a dataset into a musical composition.",
-        "longDescription": "Algorithmic Art: Generate stunning visual art using code, based on mathematical principles like fractals, tessellations, or parametric equations.\n \n ​Geometric Design: Design a physical or 3D-modeled structure (e.g., a bridge, a sculpture, an architectural model) that demonstrates advanced geometric principles and structural integrity.\n \n Data Sonification: Transform a complex dataset into a musical composition, using mathematical rules to map data points to notes, rhythms, and harmonies.",
-        "specialEvent": false
-      }
     }
   ],
   "includes": {
@@ -5753,51 +5753,6 @@
             },
             "fileName": "2 - Priyadarshini R.png",
             "contentType": "image/png"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
-          "id": "3egm8GBILHBVPRADKeO7Wp",
-          "type": "Asset",
-          "createdAt": "2025-10-15T02:58:38.263Z",
-          "updatedAt": "2025-10-15T02:58:38.263Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 3,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "Blue Abstract Blank A4 Document Landscape (2) - Mathematics Club",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/3egm8GBILHBVPRADKeO7Wp/b14ec61e057c4dc802e94b23162c837c/Blue_Abstract_Blank_A4_Document_Landscape__2__-_Mathematics_Club.jpg",
-            "details": {
-              "size": 333440,
-              "image": {
-                "width": 1414,
-                "height": 2000
-              }
-            },
-            "fileName": "Blue Abstract Blank A4 Document Landscape (2) - Mathematics Club.jpg",
-            "contentType": "image/jpeg"
           }
         }
       },
@@ -6111,51 +6066,6 @@
               }
             },
             "fileName": "IMG-20251014-WA0048 - Aneeka Reemaz A 23BEL1058 (1).jpg",
-            "contentType": "image/jpeg"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
-          "id": "7JFgrsoZmv6HZ50em4uowA",
-          "type": "Asset",
-          "createdAt": "2025-10-15T03:10:17.912Z",
-          "updatedAt": "2025-10-15T03:10:17.912Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 3,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "TechnoVITPosters - IT AUTOVIT (1)",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/7JFgrsoZmv6HZ50em4uowA/e3e8d2cc7c8d7d24e1bcde61d0426487/TechnoVITPosters_-_IT_AUTOVIT__1_.jpg",
-            "details": {
-              "size": 644593,
-              "image": {
-                "width": 1587,
-                "height": 2245
-              }
-            },
-            "fileName": "TechnoVITPosters - IT AUTOVIT (1).jpg",
             "contentType": "image/jpeg"
           }
         }
