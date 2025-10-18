@@ -19,6 +19,230 @@
             "id": "rr94wjxz7mfi"
           }
         },
+        "id": "VqfdeRo6lGBwXkKUjPPKb",
+        "type": "Entry",
+        "createdAt": "2025-10-16T11:01:03.439Z",
+        "updatedAt": "2025-10-18T12:52:19.824Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Personal Finance Workshop for Young Adults",
+        "clubName": "ACM STUDENT CHAPTER",
+        "eventType": "Workshop",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-28T09:00:00.000Z",
+        "endDateAndTime": "2025-10-28T14:00:00.000Z",
+        "pricePerPerson": 50,
+        "participationType": "Solo",
+        "eventVenue": "VOC Auditorium",
+        "shortDescription": "A 4–5 hour interactive workshop for 18–23-year-olds covering budgeting, cash flow, banking, CIBIL scores, SIPs, mutual funds, taxes, and insurance. Hands-on exercises and a 30-day action plan help build financial skills, habits, and independence.",
+        "longDescription": "The Personal Finance Workshop for Young Adults is a 4–5 hour interactive session designed to equip students and early-career individuals (ages 18–23) with essential money-management skills that schools and colleges often overlook. Through engaging activities, games, and practical worksheets, participants will learn how to budget effectively, manage cash flow, understand banking and digital finance in India, build and improve their CIBIL scores, explore beginner-friendly investment options like SIPs and mutual funds, and grasp the basics of taxation and insurance. The workshop also focuses on developing positive financial habits, with a 30-day action plan to put concepts into practice. By the end, attendees will gain not just financial knowledge but also actionable strategies, confidence, and a clear roadmap to take charge of their money and build long-term financial independence.<br> <br> https://docs.google.com/document/d/1Vin4m2pyALK8fzGnrhsA4E63QgTHQiNn/edit?usp=sharing&ouid=110921576229861351143&rtpof=true&sd=true",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "30nPIg2jkTgWTmXQZdaLb2",
+        "type": "Entry",
+        "createdAt": "2025-10-17T10:23:50.018Z",
+        "updatedAt": "2025-10-18T12:50:34.681Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Obscur 33 Final Trace",
+        "clubName": "CYSCOM X FYI",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-31T08:00:00.000Z",
+        "endDateAndTime": "2025-11-01T08:00:00.000Z",
+        "pricePerPerson": 150,
+        "participationType": "Solo/Duo/Trio",
+        "eventVenue": "Kamaraj Auditorium",
+        "shortDescription": "Inspired by an award-winning game, Obscur 33: Final Trace is a story-driven cybersecurity competition. It reimagines the CTF as an immersive, multi-ending experience where you solve dynamic flags and learn cybersecurity through cinematic gameplay.",
+        "longDescription": "Inspired by an award-winning game, Obscur 33: Final Trace is a story-driven cybersecurity competition. It reimagines the CTF as an immersive, multi-ending experience where you solve dynamic flags and learn cybersecurity through cinematic gameplay.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "CWapoQx4WAgIjnAWsIzSb",
+        "type": "Entry",
+        "createdAt": "2025-10-16T11:39:09.475Z",
+        "updatedAt": "2025-10-18T12:49:23.832Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "ML Model wars",
+        "clubName": "PRODINNO",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-11-02T09:00:00.000Z",
+        "endDateAndTime": "2025-11-02T13:00:00.000Z",
+        "pricePerPerson": 49,
+        "participationType": "Solo",
+        "eventVenue": "AB3 101",
+        "shortDescription": "The teams have to train a model that will perform best for the given dataset, the event will have 2 rounds, 1st round will be to familiarize the teams and will of carry minimum weightage and the second round will carry the rest of the points and based on metrics for the ML model the winner will be chosen",
+        "longDescription": "The teams have to train a model that will perform best for the given dataset, the event will have 2 rounds, 1st round will be to familiarize the teams and will of carry minimum weightage and the second round will carry the rest of the points and based on metrics for the ML model the winner will be chosen",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "3l8jy31mYX6fNqxp7m8gw3",
+        "type": "Entry",
+        "createdAt": "2025-10-16T14:12:00.297Z",
+        "updatedAt": "2025-10-18T12:43:19.191Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Grab the CAD",
+        "clubName": "CAD CLUB",
+        "eventType": "Hackathon",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-31T09:00:00.000Z",
+        "endDateAndTime": "2025-11-01T17:00:00.000Z",
+        "pricePerPerson": 1000,
+        "participationType": "Duo",
+        "eventVenue": "Kasturba Hall",
+        "shortDescription": "A SolidWorks/Fusion 360 event with a hands-on workshop on Day 1 and a design on Day 2. The 24 hr hackathon helps participants get the hang of CSWA & CSWP exam-taking, with a chance to win CSWA/CWSP coupons and a ₹10,000 cash prize pool.",
+        "longDescription": "A SolidWorks/Fusion 360 event with a hands-on workshop on Day 1 and a design on Day 2. The 24 hr hackathon helps participants get the hang of CSWA & CSWP exam-taking, with a chance to win CSWA/CWSP coupons and a ₹10,000 cash prize pool.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
         "id": "5jTo3ukG6ULA5CQvciAaln",
         "type": "Entry",
         "createdAt": "2025-10-15T11:55:04.243Z",
@@ -395,62 +619,6 @@
         "eventVenue": "AB1 501 & AB3 701",
         "shortDescription": "It is a design workshop competition based on rocketry and orbital mechanics using a popular software Kerbal Space Programme.",
         "longDescription": "It is a design workshop competition based on rocketry and orbital mechanics using a popular software Kerbal Space Programme.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "30nPIg2jkTgWTmXQZdaLb2",
-        "type": "Entry",
-        "createdAt": "2025-10-17T10:23:50.018Z",
-        "updatedAt": "2025-10-17T10:23:50.018Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Obscur 33 Final Trace",
-        "clubName": "CYSCOM X FYI",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T08:00:00.000Z",
-        "endDateAndTime": "2025-11-01T08:00:00.000Z",
-        "pricePerPerson": 150,
-        "participationType": "Solo",
-        "eventVenue": "Kamaraj Auditorium",
-        "shortDescription": "Inspired by an award-winning game, Obscur 33: Final Trace is a story-driven cybersecurity competition. It reimagines the CTF as an immersive, multi-ending experience where you solve dynamic flags and learn cybersecurity through cinematic gameplay.",
-        "longDescription": "Inspired by an award-winning game, Obscur 33: Final Trace is a story-driven cybersecurity competition. It reimagines the CTF as an immersive, multi-ending experience where you solve dynamic flags and learn cybersecurity through cinematic gameplay.",
         "specialEvent": false
       }
     },
@@ -2483,62 +2651,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "3l8jy31mYX6fNqxp7m8gw3",
-        "type": "Entry",
-        "createdAt": "2025-10-16T14:12:00.297Z",
-        "updatedAt": "2025-10-16T14:12:00.297Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Grab the CAD",
-        "clubName": "CAD CLUB",
-        "eventType": "Hackathon",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T09:00:00.000Z",
-        "endDateAndTime": "2025-11-01T17:00:00.000Z",
-        "pricePerPerson": 500,
-        "participationType": "Duo",
-        "eventVenue": "Kasturba Hall",
-        "shortDescription": "A SolidWorks/Fusion 360 event with a hands-on workshop on Day 1 and a design on Day 2. The 24 hr hackathon helps participants get the hang of CSWA & CSWP exam-taking, with a chance to win CSWA/CWSP coupons and a ₹10,000 cash prize pool.",
-        "longDescription": "A SolidWorks/Fusion 360 event with a hands-on workshop on Day 1 and a design on Day 2. The 24 hr hackathon helps participants get the hang of CSWA & CSWP exam-taking, with a chance to win CSWA/CWSP coupons and a ₹10,000 cash prize pool.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "3nQxNqQp1xJICRkldIGkBS",
         "type": "Entry",
         "createdAt": "2025-10-16T14:11:26.426Z",
@@ -3995,62 +4107,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "CWapoQx4WAgIjnAWsIzSb",
-        "type": "Entry",
-        "createdAt": "2025-10-16T11:39:09.475Z",
-        "updatedAt": "2025-10-16T11:39:09.475Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "ML Model wars",
-        "clubName": "PRODINNO",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-11-02T09:00:00.000Z",
-        "endDateAndTime": "2025-11-02T13:00:00.000Z",
-        "pricePerPerson": 49,
-        "participationType": "Solo/Duo/Trio/Squad",
-        "eventVenue": "AB3 101",
-        "shortDescription": "The teams have to train a model that will perform best for the given dataset, the event will have 2 rounds, 1st round will be to familiarize the teams and will of carry minimum weightage and the second round will carry the rest of the points and based on metrics for the ML model the winner will be chosen",
-        "longDescription": "The teams have to train a model that will perform best for the given dataset, the event will have 2 rounds, 1st round will be to familiarize the teams and will of carry minimum weightage and the second round will carry the rest of the points and based on metrics for the ML model the winner will be chosen",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "3cIjcdN10Rj5ZvZHJqsV0Z",
         "type": "Entry",
         "createdAt": "2025-10-16T11:39:08.497Z",
@@ -4931,62 +4987,6 @@
         "eventVenue": "AB2 Soil Mechanics Lab",
         "shortDescription": "Participants will be trained about aerial surveying using surveying drone including field surveys and post processing works in topographic map preparation",
         "longDescription": "Participants will be trained about aerial surveying using surveying drone including field surveys and post processing works in topographic map preparation",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "VqfdeRo6lGBwXkKUjPPKb",
-        "type": "Entry",
-        "createdAt": "2025-10-16T11:01:03.439Z",
-        "updatedAt": "2025-10-16T11:01:03.439Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Personal Finance Workshop for Young Adults",
-        "clubName": "ACM STUDENT CHAPTER",
-        "eventType": "Workshop",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-28T09:00:00.000Z",
-        "endDateAndTime": "2025-10-28T14:00:00.000Z",
-        "pricePerPerson": 80,
-        "participationType": "Solo/Duo",
-        "eventVenue": "VOC Auditorium",
-        "shortDescription": "A 4–5 hour interactive workshop for 18–23-year-olds covering budgeting, cash flow, banking, CIBIL scores, SIPs, mutual funds, taxes, and insurance. Hands-on exercises and a 30-day action plan help build financial skills, habits, and independence.",
-        "longDescription": "The Personal Finance Workshop for Young Adults is a 4–5 hour interactive session designed to equip students and early-career individuals (ages 18–23) with essential money-management skills that schools and colleges often overlook. Through engaging activities, games, and practical worksheets, participants will learn how to budget effectively, manage cash flow, understand banking and digital finance in India, build and improve their CIBIL scores, explore beginner-friendly investment options like SIPs and mutual funds, and grasp the basics of taxation and insurance. The workshop also focuses on developing positive financial habits, with a 30-day action plan to put concepts into practice. By the end, attendees will gain not just financial knowledge but also actionable strategies, confidence, and a clear roadmap to take charge of their money and build long-term financial independence.<br> <br> https://docs.google.com/document/d/1Vin4m2pyALK8fzGnrhsA4E63QgTHQiNn/edit?usp=sharing&ouid=110921576229861351143&rtpof=true&sd=true",
         "specialEvent": false
       }
     },
