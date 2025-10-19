@@ -19,6 +19,118 @@
             "id": "rr94wjxz7mfi"
           }
         },
+        "id": "4x9dshzvSO8WbfIrGHdRP2",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:24:57.019Z",
+        "updatedAt": "2025-10-19T15:46:40.144Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 4,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Business Case Study Competition(solo)",
+        "clubName": "BUSINESS AND INNOVATION COMMUNITY (BIC)",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-11-01T10:00+00:00",
+        "endDateAndTime": "2025-11-01T13:00+00:00",
+        "pricePerPerson": 100,
+        "participationType": "Solo",
+        "eventVenue": "AB3 310",
+        "shortDescription": "A business case study competition where participants analyze real-world business problems and present practical, innovative solutions. The event aims to enhance strategic thinking, problem-solving, and presentation skills among participants.",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "4ZRPUMNstStglwlJrqfPEH",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:24:58.161Z",
+        "updatedAt": "2025-10-19T15:45:57.134Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 4,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Business Case Study Competition(trio)",
+        "clubName": "BUSINESS AND INNOVATION COMMUNITY (BIC)",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-11-01T10:00+00:00",
+        "endDateAndTime": "2025-11-01T13:00+00:00",
+        "pricePerPerson": 300,
+        "participationType": "Trio",
+        "eventVenue": "AB3 310",
+        "shortDescription": "A business case study competition where participants analyze real-world business problems and present practical, innovative solutions. The event aims to enhance strategic thinking, problem-solving, and presentation skills among participants.",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
         "id": "1LuLOsUObUBGGaaZLk1JYl",
         "type": "Entry",
         "createdAt": "2025-10-18T14:29:45.388Z",
@@ -338,118 +450,6 @@
         "participationType": "Solo",
         "eventVenue": "AB3 308",
         "shortDescription": "A talk focused on introducing prompt engineering concepts to budding entrepreneurs. The session will guide participants through the process of using AI-driven tools to enhance business strategy and decision-making. The event aims to foster creativity, critical thinking, and innovation, while providing actionable insights into applying prompt engineering for business growth.",
-        "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "4ZRPUMNstStglwlJrqfPEH",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:24:58.161Z",
-        "updatedAt": "2025-10-18T14:24:58.161Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Business Case Study Competition(trio)",
-        "clubName": "BUSINESS AND INNOVATION COMMUNITY (BIC)",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-01-11T10:00:00.000Z",
-        "endDateAndTime": "2025-01-11T13:00:00.000Z",
-        "pricePerPerson": 300,
-        "participationType": "Trio",
-        "eventVenue": "AB3 310",
-        "shortDescription": "A business case study competition where participants analyze real-world business problems and present practical, innovative solutions. The event aims to enhance strategic thinking, problem-solving, and presentation skills among participants.",
-        "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "4x9dshzvSO8WbfIrGHdRP2",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:24:57.019Z",
-        "updatedAt": "2025-10-18T14:24:57.019Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Business Case Study Competition(solo)",
-        "clubName": "BUSINESS AND INNOVATION COMMUNITY (BIC)",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-01-11T10:00:00.000Z",
-        "endDateAndTime": "2025-01-11T13:00:00.000Z",
-        "pricePerPerson": 100,
-        "participationType": "Solo",
-        "eventVenue": "AB3 310",
-        "shortDescription": "A business case study competition where participants analyze real-world business problems and present practical, innovative solutions. The event aims to enhance strategic thinking, problem-solving, and presentation skills among participants.",
         "longDescription": "",
         "specialEvent": false
       }
