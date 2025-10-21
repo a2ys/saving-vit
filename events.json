@@ -19,6 +19,174 @@
             "id": "rr94wjxz7mfi"
           }
         },
+        "id": "7C2UMB6gu3g6E906Sgm9Z9",
+        "type": "Entry",
+        "createdAt": "2025-10-16T12:16:47.431Z",
+        "updatedAt": "2025-10-21T08:05:27.755Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Make Your Own Product CNC Machining",
+        "clubName": "ASME STUDENT CHAPTER",
+        "eventType": "Workshop",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-31T08:30:00.000Z",
+        "endDateAndTime": "2025-10-31T16:30:00.000Z",
+        "pricePerPerson": 500,
+        "participationType": "Trio",
+        "eventVenue": "AB2 015",
+        "shortDescription": "Students will be gain exposure on CNC machining simulation. Hands-on session to use CNC lathe and Vertical Machining Centre to manufacture their own product. This would be beneficial for students interested to make their own product out of metals and special teams making components for their vehicles.",
+        "longDescription": "CNC machining workshop providing simulation and hands-on use of CNC lathe and vertical machining centers. Participants manufacture metal components, ideal for students creating custom parts for projects or vehicles",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "2w7ZcoQKCCRKUZvwg75jLJ",
+        "type": "Entry",
+        "createdAt": "2025-10-16T12:16:45.318Z",
+        "updatedAt": "2025-10-21T08:04:03.978Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 5,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Decoding Time  A Journey into TIME SERIES ANALYSIS",
+        "clubName": "ARTIFICIAL INTELLIGENCE CLUB",
+        "eventType": "Workshop",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-27T09:00:00.000Z",
+        "endDateAndTime": "2025-10-27T16:00+00:00",
+        "pricePerPerson": 150,
+        "participationType": "Solo",
+        "eventVenue": "Online",
+        "shortDescription": "This workshop provides a gentle intro on the applications which requires time series analysis and hands-on session on - Introduction to time-series and stationary data handling, data smoothing, autocorrelation, and AutoRegressive Integrated Moving Average (ARIMA) models and handling the Temporal data imbalance in Python,",
+        "longDescription": "This workshop provides a gentle intro on the applications which requires time series analysis and hands-on session on - Introduction to time-series and stationary data handling, data smoothing, autocorrelation, and AutoRegressive Integrated Moving Average (ARIMA) models and handling the Temporal data imbalance in Python,",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "18OhgWQ8PXdewTNmJEYJS3",
+        "type": "Entry",
+        "createdAt": "2025-10-16T11:58:01.792Z",
+        "updatedAt": "2025-10-21T08:01:00.041Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Catalyst Case Solver",
+        "clubName": "180DC X E-Cell",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-29T13:00:00.000Z",
+        "endDateAndTime": "2025-10-31T20:00:00.000Z",
+        "pricePerPerson": 59,
+        "participationType": "Solo",
+        "eventVenue": "Nethaji Auditorium",
+        "shortDescription": "Business case competition with online prelims and offline finals. Teams solve interdisciplinary problems, present to judges including a BCG Principal, and participate in a panel discussion, developing analytical thinking and professional insight.",
+        "longDescription": "The \"Catalyst Case Challenge\" is a business case competition. It features an online preliminary round and an offline final for top teams. The event is structured to attract a diverse range of students from various academic fields by presenting a complex, interdisciplinary business problem. The final round will include live presentations and a Q&A session with a distinguished judging panel, including a Principal from Boston Consulting Group (BCG), and will be followed by a panel discussion.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
         "id": "5RHAnKQlHLW3x1lPRRv2Pb",
         "type": "Entry",
         "createdAt": "2025-10-18T14:08:41.187Z",
@@ -5451,62 +5619,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "2w7ZcoQKCCRKUZvwg75jLJ",
-        "type": "Entry",
-        "createdAt": "2025-10-16T12:16:45.318Z",
-        "updatedAt": "2025-10-17T07:23:29.661Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 3,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Decoding Time  A Journey into TIME SERIES ANALYSIS",
-        "clubName": "ARTIFICIAL INTELLIGENCE CLUB",
-        "eventType": "Workshop",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-27T09:00:00.000Z",
-        "endDateAndTime": "2025-10-29T16:00+00:00",
-        "pricePerPerson": 150,
-        "participationType": "Solo",
-        "eventVenue": "Online",
-        "shortDescription": "This workshop provides a gentle intro on the applications which requires time series analysis and hands-on session on - Introduction to time-series and stationary data handling, data smoothing, autocorrelation, and AutoRegressive Integrated Moving Average (ARIMA) models and handling the Temporal data imbalance in Python,",
-        "longDescription": "This workshop provides a gentle intro on the applications which requires time series analysis and hands-on session on - Introduction to time-series and stationary data handling, data smoothing, autocorrelation, and AutoRegressive Integrated Moving Average (ARIMA) models and handling the Temporal data imbalance in Python,",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "7wtkB7Wpme4okkOUS3pyUc",
         "type": "Entry",
         "createdAt": "2025-10-16T10:43:50.324Z",
@@ -7467,62 +7579,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "7C2UMB6gu3g6E906Sgm9Z9",
-        "type": "Entry",
-        "createdAt": "2025-10-16T12:16:47.431Z",
-        "updatedAt": "2025-10-16T12:16:47.431Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Make Your Own Product CNC Machining",
-        "clubName": "ASME STUDENT CHAPTER",
-        "eventType": "Workshop",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T08:30:00.000Z",
-        "endDateAndTime": "2025-10-31T16:30:00.000Z",
-        "pricePerPerson": 300,
-        "participationType": "Trio",
-        "eventVenue": "AB2 015",
-        "shortDescription": "Students will be gain exposure on CNC machining simulation. Hands-on session to use CNC lathe and Vertical Machining Centre to manufacture their own product. This would be beneficial for students interested to make their own product out of metals and special teams making components for their vehicles.",
-        "longDescription": "CNC machining workshop providing simulation and hands-on use of CNC lathe and vertical machining centers. Participants manufacture metal components, ideal for students creating custom parts for projects or vehicles",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "7zNzBsozIS4630shrEcQLx",
         "type": "Entry",
         "createdAt": "2025-10-16T12:16:44.386Z",
@@ -8235,62 +8291,6 @@
         "eventVenue": "MG Auditorium",
         "shortDescription": "CODYSSEY is a full-day Halloween coding showdown on 31st Oct. Participants solve algorithmic challenges, attend expert sessions, compete in coding sprints, enjoy themed activities, network, and win prizes, blending technical rigor with fun.",
         "longDescription": "CODYSSEY is a full-day competitive coding showdown on Halloween day, designed to challenge participants with algorithmic problem-solving, intense coding battles, and engaging technical sessions.<br> With a Halloween theme on 31st October, the event blends technical rigor with a creative, fun-filled atmosphere to make coding more thrilling than ever before.<br> <br> Event Highlights<br> Competitive Coding Rounds – Multiple rounds of algorithmic and problem-solving challenges.<br> Speaker Session by Industry Expert – Gain insights from top professionals in the tech world.<br> Algorithmic Showdowns – Brainstorming puzzles and coding sprints with a twist.<br> Halloween-Themed Activities – Creative coding sessions and optional costume participation.<br> Networking Opportunities – Interact with peers, mentors, and sponsors.<br> Prizes, Swag, and PPIs – Rewards, goodies, and potential career opportunities.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "18OhgWQ8PXdewTNmJEYJS3",
-        "type": "Entry",
-        "createdAt": "2025-10-16T11:58:01.792Z",
-        "updatedAt": "2025-10-16T11:58:01.792Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Catalyst Case Solver",
-        "clubName": "180DC X E-Cell",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-29T13:00:00.000Z",
-        "endDateAndTime": "2025-10-31T20:00:00.000Z",
-        "pricePerPerson": 150,
-        "participationType": "Solo",
-        "eventVenue": "Nethaji Auditorium",
-        "shortDescription": "Business case competition with online prelims and offline finals. Teams solve interdisciplinary problems, present to judges including a BCG Principal, and participate in a panel discussion, developing analytical thinking and professional insight.",
-        "longDescription": "The \"Catalyst Case Challenge\" is a business case competition. It features an online preliminary round and an offline final for top teams. The event is structured to attract a diverse range of students from various academic fields by presenting a complex, interdisciplinary business problem. The final round will include live presentations and a Q&A session with a distinguished judging panel, including a Principal from Boston Consulting Group (BCG), and will be followed by a panel discussion.",
         "specialEvent": false
       }
     },
