@@ -2,10 +2,290 @@
   "sys": {
     "type": "Array"
   },
-  "total": 178,
+  "total": 177,
   "skip": 0,
-  "limit": 178,
+  "limit": 177,
   "items": [
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "2DAWktgDhdSV4JUM5gw6PI",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:19:41.921Z",
+        "updatedAt": "2025-10-21T13:47:10.216Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 5,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Red Ribbon Workshop - Digital Detox",
+        "clubName": "RED RIBBON CLUB",
+        "eventType": "Workshop",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-31T10:00:00.000Z",
+        "endDateAndTime": "2025-10-31T12:00:00.000Z",
+        "pricePerPerson": 250,
+        "participationType": "Solo",
+        "eventVenue": "AB2 702",
+        "shortDescription": "Digital detox - workshop for students to detox from digital addiction to enhance productivity and time management, which will result in stress reduction and mental health recovery.",
+        "longDescription": "Digital detox - workshop for students to detox from digital addiction to enhance productivity and time management, which will result in stress reduction and mental health recovery.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "280g7INoI1oVqNP6d9TGNe",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:11:06.594Z",
+        "updatedAt": "2025-10-21T13:35:48.649Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 4,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Hacktronics ",
+        "clubName": "IEEE PHOTONICS SOCIETY",
+        "eventType": "Hackathon",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-27T09:00:00.000Z",
+        "endDateAndTime": "2025-10-28T09:00:00.000Z",
+        "pricePerPerson": 100,
+        "participationType": "Solo",
+        "eventVenue": "Kasturba Hall",
+        "shortDescription": "Join Hackatronics, a 24-hour hackathon with separate hardware and software tracks. Tackle diverse challenges in areas like IoT, healthcare, and ML. Ideate, design, and build solutions under pressure, and gain insights from an industry expert.",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "37ezSyHjYEAvAqUqPKB7Pa",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:12:11.806Z",
+        "updatedAt": "2025-10-21T13:33:21.561Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 4,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "International Online Workshop & 24 hours Netsim Hackathon",
+        "clubName": "IEEE PHOTONICS SOCIETY",
+        "eventType": "Hackathon",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-30T11:30+00:00",
+        "endDateAndTime": "2025-10-31T11:30:00.000Z",
+        "pricePerPerson": 200,
+        "participationType": "Duo/Trio",
+        "eventVenue": "Online ",
+        "shortDescription": "This event is a International Online team event supported by Tetcos, Bangalore and IEEE photonics society.   Team Size is restricted to a minimum of 2 members to maximum of 3 members.  This event is primarily targeted for UG students who has essential knowledge or interests in Computer Networks. NetSim by Tetcos is a powerful network simulation software used to design, analyze, and visualize communication networks An online workshop familiarizes participants with hands-on network modeling and performance analysis using NetSim. The 24-hour online hackathon engages students in real-time problem-solving and innovation through multi-round simulation and debugging challenges.",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "7EWXOu9hlQ9Jn1T4aQKKUN",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:19:48.840Z",
+        "updatedAt": "2025-10-21T13:29:35.499Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 4,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Hack-Her(trio)",
+        "clubName": "WOMAN DEVELOPMENT CELL",
+        "eventType": "Hackathon",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-29T08:00:00.000Z",
+        "endDateAndTime": "2025-10-30T17:30:00.000Z",
+        "pricePerPerson": 300,
+        "participationType": "Trio",
+        "eventVenue": "Kasturba Hall",
+        "shortDescription": "Register as single person in the payment portal and then form teams. 24 hour all women hackathon based on sustainable development goals. The Women Development Cell (WDC) of VIT Chennai, in collaboration with HackClub, proudly presents a 24-Hour All-Women Hackathon as part of TechnoVIT.\n\nThis hackathon is more than just coding-it is about women paving the way for future tech. It proves that women are not only capable of excelling in hardcore tech, but also of leading the global conversation on sustainability. \nCentered around the United Nations Sustainable Development Goals (SDGs), the event challenges participants to innovate, design, and develop impactful solutions that address some of the world’s most pressing issues.\n\nOver 24 hours, brilliant women innovators will collaborate to create tech-driven solutions that advance sustainability while redefining what it means to be in technology. This is not just a hackathon-it’s a movement toward inclusivity, equality, and a sustainable future.",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "6umQynGhnQSG5x9W3c53d0",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:20:31.691Z",
+        "updatedAt": "2025-10-21T13:29:26.919Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 4,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Hack-Her(squad)",
+        "clubName": "WOMAN DEVELOPMENT CELL",
+        "eventType": "Hackathon",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-29T08:00:00.000Z",
+        "endDateAndTime": "2025-10-30T17:30:00.000Z",
+        "pricePerPerson": 400,
+        "participationType": "Squad",
+        "eventVenue": "Kasturba Hall",
+        "shortDescription": "Register as single person in the payment portal and then form teams. 24 hour all women hackathon based on sustainable development goals. The Women Development Cell (WDC) of VIT Chennai, in collaboration with HackClub, proudly presents a 24-Hour All-Women Hackathon as part of TechnoVIT.\n\nThis hackathon is more than just coding-it is about women paving the way for future tech. It proves that women are not only capable of excelling in hardcore tech, but also of leading the global conversation on sustainability. \nCentered around the United Nations Sustainable Development Goals (SDGs), the event challenges participants to innovate, design, and develop impactful solutions that address some of the world’s most pressing issues.\n\nOver 24 hours, brilliant women innovators will collaborate to create tech-driven solutions that advance sustainability while redefining what it means to be in technology. This is not just a hackathon-it’s a movement toward inclusivity, equality, and a sustainable future.",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
     {
       "metadata": {
         "tags": [],
@@ -3771,118 +4051,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "6umQynGhnQSG5x9W3c53d0",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:20:31.691Z",
-        "updatedAt": "2025-10-18T14:20:31.691Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 2,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Hack-Her(squad)",
-        "clubName": "WOMAN DEVELOPMENT CELL",
-        "eventType": "Hackathon",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-29T08:00:00.000Z",
-        "endDateAndTime": "2025-10-30T17:30:00.000Z",
-        "pricePerPerson": 400,
-        "participationType": "Squad",
-        "eventVenue": "Kasturba Hall",
-        "shortDescription": "24 hour all women hackathon based on sustainable development goals. The Women Development Cell (WDC) of VIT Chennai, in collaboration with HackClub, proudly presents a 24-Hour All-Women Hackathon as part of TechnoVIT.\n\nThis hackathon is more than just coding-it is about women paving the way for future tech. It proves that women are not only capable of excelling in hardcore tech, but also of leading the global conversation on sustainability. \nCentered around the United Nations Sustainable Development Goals (SDGs), the event challenges participants to innovate, design, and develop impactful solutions that address some of the world’s most pressing issues.\n\nOver 24 hours, brilliant women innovators will collaborate to create tech-driven solutions that advance sustainability while redefining what it means to be in technology. This is not just a hackathon-it’s a movement toward inclusivity, equality, and a sustainable future.",
-        "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "7EWXOu9hlQ9Jn1T4aQKKUN",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:19:48.840Z",
-        "updatedAt": "2025-10-18T14:19:48.840Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Hack-Her",
-        "clubName": "WOMAN DEVELOPMENT CELL",
-        "eventType": "Hackathon",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-29T08:00:00.000Z",
-        "endDateAndTime": "2025-10-30T17:30:00.000Z",
-        "pricePerPerson": 300,
-        "participationType": "Trio",
-        "eventVenue": "Kasturba Hall",
-        "shortDescription": "24 hour all women hackathon based on sustainable development goals. The Women Development Cell (WDC) of VIT Chennai, in collaboration with HackClub, proudly presents a 24-Hour All-Women Hackathon as part of TechnoVIT.\n\nThis hackathon is more than just coding-it is about women paving the way for future tech. It proves that women are not only capable of excelling in hardcore tech, but also of leading the global conversation on sustainability. \nCentered around the United Nations Sustainable Development Goals (SDGs), the event challenges participants to innovate, design, and develop impactful solutions that address some of the world’s most pressing issues.\n\nOver 24 hours, brilliant women innovators will collaborate to create tech-driven solutions that advance sustainability while redefining what it means to be in technology. This is not just a hackathon-it’s a movement toward inclusivity, equality, and a sustainable future.",
-        "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "1SZFa6U0fmQjs8xj866kWw",
         "type": "Entry",
         "createdAt": "2025-10-18T14:19:47.582Z",
@@ -4035,62 +4203,6 @@
         "eventVenue": "VOC Auditorium",
         "shortDescription": "Join VITSOL's Youth Parliament 2025! A simulated debate for students on national & global issues. 🏛️ Draft resolutions and engage in dialogue to develop critical thinking, public speaking, and policy awareness.",
         "longDescription": "The Youth Parliament 2025, organized by the VITSOL Debate Society, is a dynamic platform for students to engage in simulated parliamentary debates on pressing national and global issues. Designed to foster critical thinking, policy awareness, and public speaking, the event encourages participants to voice diverse perspectives, draft resolutions, and experience the spirit of democratic dialogue. Through rigorous debate and collaboration, young minds will learn not just to argue; but to understand, persuade, and lead.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "2DAWktgDhdSV4JUM5gw6PI",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:19:41.921Z",
-        "updatedAt": "2025-10-18T14:19:41.921Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "workshop",
-        "clubName": "RED RIBBON CLUB",
-        "eventType": "Workshop",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T10:00:00.000Z",
-        "endDateAndTime": "2025-10-31T12:00:00.000Z",
-        "pricePerPerson": 250,
-        "participationType": "Solo",
-        "eventVenue": "AB2 702",
-        "shortDescription": "Digital detox - workshop for students to detox from digital addiction to enhance productivity and time management, which will result in stress reduction and mental health recovery.",
-        "longDescription": "Digital detox - workshop for students to detox from digital addiction to enhance productivity and time management, which will result in stress reduction and mental health recovery.",
         "specialEvent": false
       }
     },
@@ -4555,62 +4667,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "37ezSyHjYEAvAqUqPKB7Pa",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:12:11.806Z",
-        "updatedAt": "2025-10-18T14:12:11.806Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "International Online Workshop & 24 hours Netsim Hackathon",
-        "clubName": "IEEE PHOTONICS SOCIETY",
-        "eventType": "Hackathon",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-27T18:30:00.000Z",
-        "endDateAndTime": "2025-10-31T11:30:00.000Z",
-        "pricePerPerson": 200,
-        "participationType": "Duo/Trio",
-        "eventVenue": "Online ",
-        "shortDescription": "This event is a International Online team event supported by Tetcos, Bangalore and IEEE photonics society.   Team Size is restricted to a minimum of 2 members to maximum of 3 members.  This event is primarily targeted for UG students who has essential knowledge or interests in Computer Networks. NetSim by Tetcos is a powerful network simulation software used to design, analyze, and visualize communication networks An online workshop familiarizes participants with hands-on network modeling and performance analysis using NetSim. The 24-hour online hackathon engages students in real-time problem-solving and innovation through multi-round simulation and debugging challenges.",
-        "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "56Ghy8bw29xvQysOOIK1XK",
         "type": "Entry",
         "createdAt": "2025-10-18T14:11:10.160Z",
@@ -4651,118 +4707,6 @@
         "eventVenue": "VOC Auditorium",
         "shortDescription": "main frame workshop by ibm senior engineer",
         "longDescription": "main frame workshop by ibm senior engineer",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "4cgJBBK2fMeF4WnerCN7jE",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:11:07.859Z",
-        "updatedAt": "2025-10-18T14:11:07.859Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Hacktronics (Squad)",
-        "clubName": "IEEE PHOTONICS SOCIETY",
-        "eventType": "Hackathon",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-27T09:00:00.000Z",
-        "endDateAndTime": "2025-10-28T09:00:00.000Z",
-        "pricePerPerson": 400,
-        "participationType": "Squad",
-        "eventVenue": "Kasturba Hall",
-        "shortDescription": "Join Hackatronics, a 24-hour hackathon with separate hardware and software tracks. Tackle diverse challenges in areas like IoT, healthcare, and ML. Ideate, design, and build solutions under pressure, and gain insights from an industry expert.",
-        "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "280g7INoI1oVqNP6d9TGNe",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:11:06.594Z",
-        "updatedAt": "2025-10-18T14:11:06.594Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Hacktronics (Trio)",
-        "clubName": "IEEE PHOTONICS SOCIETY",
-        "eventType": "Hackathon",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-27T09:00:00.000Z",
-        "endDateAndTime": "2025-10-28T09:00:00.000Z",
-        "pricePerPerson": 300,
-        "participationType": "Trio",
-        "eventVenue": "Kasturba Hall",
-        "shortDescription": "Join Hackatronics, a 24-hour hackathon with separate hardware and software tracks. Tackle diverse challenges in areas like IoT, healthcare, and ML. Ideate, design, and build solutions under pressure, and gain insights from an industry expert.",
-        "longDescription": "",
         "specialEvent": false
       }
     },
