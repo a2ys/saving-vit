@@ -19,6 +19,62 @@
             "id": "rr94wjxz7mfi"
           }
         },
+        "id": "2lHb72zDNYnAXFsQfLioYT",
+        "type": "Entry",
+        "createdAt": "2025-10-16T11:01:04.509Z",
+        "updatedAt": "2025-10-21T10:16:03.541Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Aerial Surveying using Drones",
+        "clubName": "CIVITEK",
+        "eventType": "Workshop",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-29T09:00:00.000Z",
+        "endDateAndTime": "2025-10-29T16:30:00.000Z",
+        "pricePerPerson": 200,
+        "participationType": "Solo",
+        "eventVenue": "AB2 Soil Mechanics Lab",
+        "shortDescription": "Participants will be trained about aerial surveying using surveying drone including field surveys and post processing works in topographic map preparation",
+        "longDescription": "Participants will be trained about aerial surveying using surveying drone including field surveys and post processing works in topographic map preparation",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
         "id": "7C2UMB6gu3g6E906Sgm9Z9",
         "type": "Entry",
         "createdAt": "2025-10-16T12:16:47.431Z",
@@ -9371,62 +9427,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "2lHb72zDNYnAXFsQfLioYT",
-        "type": "Entry",
-        "createdAt": "2025-10-16T11:01:04.509Z",
-        "updatedAt": "2025-10-16T11:01:04.509Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Aerial Surveying using Drones",
-        "clubName": "CIVITEK",
-        "eventType": "Workshop",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-29T09:00:00.000Z",
-        "endDateAndTime": "2025-10-29T16:30:00.000Z",
-        "pricePerPerson": 590,
-        "participationType": "Solo",
-        "eventVenue": "AB2 Soil Mechanics Lab",
-        "shortDescription": "Participants will be trained about aerial surveying using surveying drone including field surveys and post processing works in topographic map preparation",
-        "longDescription": "Participants will be trained about aerial surveying using surveying drone including field surveys and post processing works in topographic map preparation",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "5h1a8zVpuY5biC9rRQJWF7",
         "type": "Entry",
         "createdAt": "2025-10-16T11:01:02.221Z",
@@ -10730,51 +10730,6 @@
               "id": "rr94wjxz7mfi"
             }
           },
-          "id": "2KvbDfRnjAwWUCladLBY9b",
-          "type": "Asset",
-          "createdAt": "2025-10-15T03:05:16.490Z",
-          "updatedAt": "2025-10-15T03:05:16.490Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 3,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "TechnoVITPosters - IT AUTOVIT",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/2KvbDfRnjAwWUCladLBY9b/b355ad7e008aade1795254d788d2a010/TechnoVITPosters_-_IT_AUTOVIT.jpg",
-            "details": {
-              "size": 390474,
-              "image": {
-                "width": 1587,
-                "height": 2245
-              }
-            },
-            "fileName": "TechnoVITPosters - IT AUTOVIT.jpg",
-            "contentType": "image/jpeg"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
           "id": "37xuOrzMgOm7r9X2Pe0SIp",
           "type": "Asset",
           "createdAt": "2025-10-14T18:54:13.944Z",
@@ -10937,6 +10892,51 @@
               }
             },
             "fileName": "IMG-20251014-WA0048 - Aneeka Reemaz A 23BEL1058 (1).jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "2KvbDfRnjAwWUCladLBY9b",
+          "type": "Asset",
+          "createdAt": "2025-10-15T03:05:16.490Z",
+          "updatedAt": "2025-10-15T03:05:16.490Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "TechnoVITPosters - IT AUTOVIT",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/2KvbDfRnjAwWUCladLBY9b/b355ad7e008aade1795254d788d2a010/TechnoVITPosters_-_IT_AUTOVIT.jpg",
+            "details": {
+              "size": 390474,
+              "image": {
+                "width": 1587,
+                "height": 2245
+              }
+            },
+            "fileName": "TechnoVITPosters - IT AUTOVIT.jpg",
             "contentType": "image/jpeg"
           }
         }
