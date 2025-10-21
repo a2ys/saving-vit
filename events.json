@@ -19,6 +19,902 @@
             "id": "rr94wjxz7mfi"
           }
         },
+        "id": "5RHAnKQlHLW3x1lPRRv2Pb",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:08:41.187Z",
+        "updatedAt": "2025-10-21T05:33:16.019Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Ecotech quiz",
+        "clubName": "ENVIRONMENT & ENERGY PROTECTION CLUB (E2 PC)",
+        "eventType": "Game",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-31T09:00:00.000Z",
+        "endDateAndTime": "2025-11-01T16:00+00:00",
+        "pricePerPerson": 100,
+        "participationType": "Solo",
+        "eventVenue": "AB3 608",
+        "shortDescription": "Quiz on environmental technologies—covering topics like green buildings, electric vehicles, renewable energy, and waste management. The quiz includes a mix of picture identifications, MCQs, rapid-fire rounds, and fun knowledge-building challenges\n\n",
+        "longDescription": "Quiz on environmental technologies—covering topics like green buildings, electric vehicles, renewable energy, and waste management. The quiz should include a mix of picture identifications, MCQs, rapid-fire rounds, and fun knowledge-building challenges",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "7kBqOEThLj7az8BegWdl29",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:12:16.127Z",
+        "updatedAt": "2025-10-21T05:32:31.445Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "T Minus Zero: Model Rocketry",
+        "clubName": "SEDS ANTARIKSH CHAPTER",
+        "eventType": "Hackathon",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-11-01T09:00+00:00",
+        "endDateAndTime": "2025-11-01T17:00+00:00",
+        "pricePerPerson": 2200,
+        "participationType": "Duo",
+        "eventVenue": "AB1 602  & 604",
+        "shortDescription": "🚀 T Minus Zero: Model Rocketry- Get ready to ignite your passion for space! In this thrilling, hands-on event, students dive into the science of rocketry, design and build their own model rockets, and watch them soar sky-high during live launches. The best part? You get to take your very own rocket home—a souvenir of your first step into the world of rocketry!",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "25wVgiLFxVyWGVMt0MT3iq",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:12:17.324Z",
+        "updatedAt": "2025-10-21T05:32:17.784Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "PlayThePrompt",
+        "clubName": "GAME DEVELOPMENT CLUB",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-31T18:00:00.000Z",
+        "endDateAndTime": "2025-11-01T20:00+00:00",
+        "pricePerPerson": 100,
+        "participationType": "Solo",
+        "eventVenue": "Online",
+        "shortDescription": "In this competition, the task is to design, test, and gamify prompts that push AI systems to perform in creative, challenging, and unexpected ways.",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "7Av1c0a4wglMB1DPQWfaPw",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:24:51.577Z",
+        "updatedAt": "2025-10-21T05:31:57.083Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Laser Tag(solo)",
+        "clubName": "CLOUD COMPUTING CLUB",
+        "eventType": "Game",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-31T10:00:00.000Z",
+        "endDateAndTime": "2025-11-02T18:00+00:00",
+        "pricePerPerson": 300,
+        "participationType": "Solo",
+        "eventVenue": "AB4 -314",
+        "shortDescription": "LaserTag is a thrilling 5v5 arena game where you race to score the most points with laser guns against opponents. Surrounded by glowing UV lights, lasers, and vibrant artwork, the arena creates a fun, competitive vibe. Safe, beginner-friendly, and adrenaline-packed, it’s an experience you won’t forget. Step in, gear up, and let the battle begin!",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "6G7E6XMMQllE3ds5hrNQyR",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:24:52.716Z",
+        "updatedAt": "2025-10-21T05:31:39.449Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Laser Tag(duo)",
+        "clubName": "CLOUD COMPUTING CLUB",
+        "eventType": "Game",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-31T10:00:00.000Z",
+        "endDateAndTime": "2025-11-02T18:00+00:00",
+        "pricePerPerson": 275,
+        "participationType": "Duo",
+        "eventVenue": "AB4 -314",
+        "shortDescription": "LaserTag is a thrilling 5v5 arena game where you race to score the most points with laser guns against opponents. Surrounded by glowing UV lights, lasers, and vibrant artwork, the arena creates a fun, competitive vibe. Safe, beginner-friendly, and adrenaline-packed, it’s an experience you won’t forget. Step in, gear up, and let the battle begin!",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "4zVVEMtX9QqnAjQRn3SyTF",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:07:21.884Z",
+        "updatedAt": "2025-10-21T05:30:33.080Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "CTRL+CONVERSE",
+        "clubName": "TOASTMASTERS INTERNATIONAL X Wakhra Punjab",
+        "eventType": "Game",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-31T11:00:00.000Z",
+        "endDateAndTime": "2025-11-01T15:00+00:00",
+        "pricePerPerson": 100,
+        "participationType": "Solo",
+        "eventVenue": "AB3 512",
+        "shortDescription": "\"Talk the Talk\" blends tech knowledge with fun communication games. 🎤 Compete in Tech Taboo, Pitch an Object, quick-fire debates, and meme presentations. It's the perfect platform for techies and speakers to test their wit.",
+        "longDescription": "Step into a world where technology meets creativity, and ideas come alive through games and laughter! Talk the Talk is a one-of-a-kind event that blends technical wit with spontaneous communication challenges.\n\nGet ready for:\nTech Taboo – explain technical jargon without the obvious buzzwords.\nPitch an Object – sell a pen, a bottle, or even a slipper as if it’s the next big tech invention.\n404 Error – guess the hidden technical term before your time runs out.\nReverse Engineering – decode quirky product descriptions to reveal the invention.\nTech Debate Showdown – battle it out on fun, geeky topics in quick-fire debates.\nMeme the Machine – turn memes into epic mini-presentations.\nWhether you’re a techie, a speaker, or just someone who loves a good laugh, this event has something for you. Come join us, test your wit, and most importantly—Talk the Talk",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "IJoPRW3vuRBXg3LVgpo8b",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:07:18.618Z",
+        "updatedAt": "2025-10-21T05:30:21.928Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Code & Conquer Game-a-thon",
+        "clubName": "GAME DEVELOPMENT CLUB",
+        "eventType": "Hackathon",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-31T08:00:00.000Z",
+        "endDateAndTime": "2025-11-01T20:00+00:00",
+        "pricePerPerson": 100,
+        "participationType": "Solo",
+        "eventVenue": "AB1 401",
+        "shortDescription": "Code & Conquer Game-a-thon, where strategy meets skill in the ultimate gaming challenge!",
+        "longDescription": "Code & Conquer Game-a-thon, where strategy meets skill in the ultimate gaming challenge!",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "3HXFwcoR7Iasx3cTNCGAHG",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:24:53.602Z",
+        "updatedAt": "2025-10-21T05:30:01.028Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Laser Tag(squad)",
+        "clubName": "CLOUD COMPUTING CLUB",
+        "eventType": "Game",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-31T10:00:00.000Z",
+        "endDateAndTime": "2025-11-02T18:00+00:00",
+        "pricePerPerson": 250,
+        "participationType": "5+ Members",
+        "eventVenue": "AB4 -314",
+        "shortDescription": "LaserTag is a thrilling 5v5 arena game where you race to score the most points with laser guns against opponents. Surrounded by glowing UV lights, lasers, and vibrant artwork, the arena creates a fun, competitive vibe. Safe, beginner-friendly, and adrenaline-packed, it’s an experience you won’t forget. Step in, gear up, and let the battle begin!",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "6k7xRLK4Q1MZolXPA4DOgt",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:07:14.294Z",
+        "updatedAt": "2025-10-21T05:26:42.977Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Camera- Handling Workshop",
+        "clubName": "VITSION FILM MAKERS CLUB",
+        "eventType": "Workshop",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-11-02T10:00+00:00",
+        "endDateAndTime": "2025-11-02T13:00+00:00",
+        "pricePerPerson": 100,
+        "participationType": "Solo",
+        "eventVenue": "AB3 701",
+        "shortDescription": "This practical cinematography session teaches you to shoot like a pro. 🎥 Master essential camera skills like framing, panning, zooming, and stability, along with lighting, angles, and shot composition to capture truly cinematic stories.",
+        "longDescription": "Before you can direct your masterpiece, you need to learn how to handle the camera like a pro. In this practical session, you’ll master framing, panning, zooming, and stability- everything needed to shoot a scene like Scorsese or Nolan. With guidance on lighting, angles, and shot composition, you’ll be ready to capture stories that feel truly cinematic.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "55AkgdoFq2enx2DqHFarg5",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:07:15.382Z",
+        "updatedAt": "2025-10-21T05:26:20.222Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Capture The FlagDroid",
+        "clubName": "ANDROID CLUB",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-11-02T10:00+00:00",
+        "endDateAndTime": "2025-11-02T16:00+00:00",
+        "pricePerPerson": 100,
+        "participationType": "Trio/Squad",
+        "eventVenue": "AB1 502",
+        "shortDescription": "Capture the FlagDroid is a developer-style CTF. Solve development challenges to find hidden flags that double as parts of a .env file. Only teams that collect every flag can successfully deploy their application and win the competition.",
+        "longDescription": "Capture the FlagDroid is an innovative developer-style CTF where participants advance through a series of development challenges, each revealing a hidden flag that earns them points. The competition combines traditional Capture the Flag mechanics, hands-on development, and engaging bonus twists to create a challenging and educational experience. Each flag includes fun and interactive elements and also represents a part of the project’s .env file, so only teams that collect all the flags can successfully deploy their application.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "3DLnSncIN3WvjQi8iU8tl5",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:08:39.041Z",
+        "updatedAt": "2025-10-21T05:25:20.832Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Design Derby",
+        "clubName": "CAD CLUB",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-11-02T10:00+00:00",
+        "endDateAndTime": "2025-11-02T15:00+00:00",
+        "pricePerPerson": 100,
+        "participationType": "Solo",
+        "eventVenue": "AB1 406C",
+        "shortDescription": "This is a 2-phase CAD challenge! ⚙️ Phase 1 is a technical quiz on CAD and engineering fundamentals. Qualified teams advance to Phase 2, where they must create a complete 3D model from a 2D sketch. The highest combined score from both phases wins.",
+        "longDescription": "A combination of quiz followed by a cad modelling challenge. The event will be conducted in two phases:\n\nPhase 1 – Technical Quiz\nParticipants will face a quiz round focused on CAD concepts and core engineering fundamentals. Teams will be awarded points based on the accuracy and quality of their answers.\n\nPhase 2 – 3D Modeling Challenge\nQualified teams will be provided with a 2D sketch containing multiple views. Using this as reference, they must create a complete 3D model from scratch. The model’s precision, accuracy, and adherence to the given sketch will determine the points awarded.\n\nThe team with the highest combined score from both phases will be declared the winner.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "4xICgNXbs8m7vnRmFYnVEJ",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:11:05.421Z",
+        "updatedAt": "2025-10-21T05:24:52.729Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Fortress of Shadows",
+        "clubName": "MICROSOFT INNOVATION CLUB",
+        "eventType": "Workshop",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-11-02T10:00+00:00",
+        "endDateAndTime": "2025-11-02T18:00+00:00",
+        "pricePerPerson": 100,
+        "participationType": "Solo",
+        "eventVenue": "AB3-310",
+        "shortDescription": "Become a digital guardian in our cyber defense workshop. Learn Linux essentials, networking, web vulnerabilities, and OSINT strategies with hands-on tools. Test your new skills in a final Capture-the-Flag (CTF) battle.",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "RliXL9hD0hsr6zHRERqni",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:11:11.333Z",
+        "updatedAt": "2025-10-21T05:23:54.701Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "IdeaXchange (Duo)",
+        "clubName": "FRENCH CLUB collab with CLOUDOPS",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-11-02T08:00+00:00",
+        "endDateAndTime": "2025-11-02T14:00+00:00",
+        "pricePerPerson": 199,
+        "participationType": "Duo",
+        "eventVenue": "Nethaji Auditorium",
+        "shortDescription": "Join the Cloud Ops Club's Idea Challenge! Analyze global solutions to societal issues, adapt them for India, and build tech prototypes like data visualizations or AI. Collaborate and innovate for change.",
+        "longDescription": "Join us for a dynamic Idea Challenge, in collaboration with the Cloud Ops Club, where participants explore how countries like France and India have tackled societal and developmental issues. Using a case study approach, you’ll analyze successful international models and creatively reimagine them to fit India’s unique cultural, economic, and policy landscape—without comparison or judgment.\n \n This challenge also includes a technical dimension, encouraging you to transform ideas into practical, tech-enabled solutions such as data analysis, interactive visualizations, digital prototypes, or AI-driven simulations. Collaborate, innovate, and build impactful solutions through cross-cultural learning and constructive problem-solving.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "3xOsMRfujFgC8GlfL79jd1",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:11:13.749Z",
+        "updatedAt": "2025-10-21T05:23:39.946Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "IdeaXchange (Squad)",
+        "clubName": "FRENCH CLUB collab with CLOUDOPS",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-11-02T08:00+00:00",
+        "endDateAndTime": "2025-11-02T14:00+00:00",
+        "pricePerPerson": 299,
+        "participationType": "Squad",
+        "eventVenue": "Nethaji Auditorium",
+        "shortDescription": "Join the Cloud Ops Club's Idea Challenge! Analyze global solutions to societal issues, adapt them for India, and build tech prototypes like data visualizations or AI. Collaborate and innovate for change.",
+        "longDescription": "Join us for a dynamic Idea Challenge, in collaboration with the Cloud Ops Club, where participants explore how countries like France and India have tackled societal and developmental issues. Using a case study approach, you’ll analyze successful international models and creatively reimagine them to fit India’s unique cultural, economic, and policy landscape—without comparison or judgment.\n \n This challenge also includes a technical dimension, encouraging you to transform ideas into practical, tech-enabled solutions such as data analysis, interactive visualizations, digital prototypes, or AI-driven simulations. Collaborate, innovate, and build impactful solutions through cross-cultural learning and constructive problem-solving.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "2fvuoQ7DLegqkeL2CMaD47",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:11:12.542Z",
+        "updatedAt": "2025-10-21T05:23:27.035Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "IdeaXchange (Trio)",
+        "clubName": "FRENCH CLUB collab with CLOUDOPS",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-11-02T08:00+00:00",
+        "endDateAndTime": "2025-11-02T14:00+00:00",
+        "pricePerPerson": 259,
+        "participationType": "Trio",
+        "eventVenue": "Nethaji Auditorium",
+        "shortDescription": "Join the Cloud Ops Club's Idea Challenge! Analyze global solutions to societal issues, adapt them for India, and build tech prototypes like data visualizations or AI. Collaborate and innovate for change.",
+        "longDescription": "Join us for a dynamic Idea Challenge, in collaboration with the Cloud Ops Club, where participants explore how countries like France and India have tackled societal and developmental issues. Using a case study approach, you’ll analyze successful international models and creatively reimagine them to fit India’s unique cultural, economic, and policy landscape—without comparison or judgment.\n \n This challenge also includes a technical dimension, encouraging you to transform ideas into practical, tech-enabled solutions such as data analysis, interactive visualizations, digital prototypes, or AI-driven simulations. Collaborate, innovate, and build impactful solutions through cross-cultural learning and constructive problem-solving.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "7rDr6XCLvJJGj4u9v4iy59",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:12:14.027Z",
+        "updatedAt": "2025-10-21T05:23:03.245Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "pcb workshop",
+        "clubName": "IEEE WOMEN IN ENGINEERING (IEEE-WIE)",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-11-02T08:00+00:00",
+        "endDateAndTime": "2025-11-02T13:20+00:00",
+        "pricePerPerson": 50,
+        "participationType": "Solo",
+        "eventVenue": "AB3 301",
+        "shortDescription": "A hands-on workshop covering the end-to-end **PCB** process. 💡 Participants learn to design circuits using software like **KiCad/Eagle**, fabricate boards through etching and drilling, and assemble them by soldering components.",
+        "longDescription": "A PCB workshop is a hands-on session where participants learn how to design, fabricate, and assemble electronic circuits on a PCB. This workshop covers the basics of electronics, circuit design using software tools like KiCad or Eagle, and the manufacturing process, including etching, drilling, and soldering components.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
         "id": "yR5hnn0lUzQZGnk6znExi",
         "type": "Entry",
         "createdAt": "2025-10-18T14:08:46.899Z",
@@ -1307,174 +2203,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "3HXFwcoR7Iasx3cTNCGAHG",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:24:53.602Z",
-        "updatedAt": "2025-10-18T14:24:53.602Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Laser Tag(squad)",
-        "clubName": "CLOUD COMPUTING CLUB",
-        "eventType": "Game",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T10:00:00.000Z",
-        "endDateAndTime": "2025-02-11T18:00:00.000Z",
-        "pricePerPerson": 250,
-        "participationType": "5+ Members",
-        "eventVenue": "AB4 -314",
-        "shortDescription": "LaserTag is a thrilling 5v5 arena game where you race to score the most points with laser guns against opponents. Surrounded by glowing UV lights, lasers, and vibrant artwork, the arena creates a fun, competitive vibe. Safe, beginner-friendly, and adrenaline-packed, it’s an experience you won’t forget. Step in, gear up, and let the battle begin!",
-        "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "6G7E6XMMQllE3ds5hrNQyR",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:24:52.716Z",
-        "updatedAt": "2025-10-18T14:24:52.716Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Laser Tag(duo)",
-        "clubName": "CLOUD COMPUTING CLUB",
-        "eventType": "Game",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T10:00:00.000Z",
-        "endDateAndTime": "2025-02-11T18:00:00.000Z",
-        "pricePerPerson": 275,
-        "participationType": "Duo",
-        "eventVenue": "AB4 -314",
-        "shortDescription": "LaserTag is a thrilling 5v5 arena game where you race to score the most points with laser guns against opponents. Surrounded by glowing UV lights, lasers, and vibrant artwork, the arena creates a fun, competitive vibe. Safe, beginner-friendly, and adrenaline-packed, it’s an experience you won’t forget. Step in, gear up, and let the battle begin!",
-        "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "7Av1c0a4wglMB1DPQWfaPw",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:24:51.577Z",
-        "updatedAt": "2025-10-18T14:24:51.577Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Laser Tag(solo)",
-        "clubName": "CLOUD COMPUTING CLUB",
-        "eventType": "Game",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T10:00:00.000Z",
-        "endDateAndTime": "2025-02-11T18:00:00.000Z",
-        "pricePerPerson": 300,
-        "participationType": "Solo",
-        "eventVenue": "AB4 -314",
-        "shortDescription": "LaserTag is a thrilling 5v5 arena game where you race to score the most points with laser guns against opponents. Surrounded by glowing UV lights, lasers, and vibrant artwork, the arena creates a fun, competitive vibe. Safe, beginner-friendly, and adrenaline-packed, it’s an experience you won’t forget. Step in, gear up, and let the battle begin!",
-        "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "6umQynGhnQSG5x9W3c53d0",
         "type": "Entry",
         "createdAt": "2025-10-18T14:20:31.691Z",
@@ -2595,118 +3323,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "25wVgiLFxVyWGVMt0MT3iq",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:12:17.324Z",
-        "updatedAt": "2025-10-18T14:12:17.324Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "PlayThePrompt",
-        "clubName": "GAME DEVELOPMENT CLUB",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T18:00:00.000Z",
-        "endDateAndTime": "2025-01-11T20:00:00.000Z",
-        "pricePerPerson": 100,
-        "participationType": "Solo",
-        "eventVenue": "Online",
-        "shortDescription": "In this competition, the task is to design, test, and gamify prompts that push AI systems to perform in creative, challenging, and unexpected ways.",
-        "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "7kBqOEThLj7az8BegWdl29",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:12:16.127Z",
-        "updatedAt": "2025-10-18T14:12:16.127Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "T Minus Zero: Model Rocketry",
-        "clubName": "SEDS ANTARIKSH CHAPTER",
-        "eventType": "Hackathon",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-01-11T09:00:00.000Z",
-        "endDateAndTime": "2025-01-11T17:00:00.000Z",
-        "pricePerPerson": 2200,
-        "participationType": "Duo",
-        "eventVenue": "AB1 602  & 604",
-        "shortDescription": "🚀 T Minus Zero: Model Rocketry- Get ready to ignite your passion for space! In this thrilling, hands-on event, students dive into the science of rocketry, design and build their own model rockets, and watch them soar sky-high during live launches. The best part? You get to take your very own rocket home—a souvenir of your first step into the world of rocketry!",
-        "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "43xH35N5H0suswAvEsuPiL",
         "type": "Entry",
         "createdAt": "2025-10-18T14:12:15.067Z",
@@ -2763,62 +3379,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "7rDr6XCLvJJGj4u9v4iy59",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:12:14.027Z",
-        "updatedAt": "2025-10-18T14:12:14.027Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "pcb workshop",
-        "clubName": "IEEE WOMEN IN ENGINEERING (IEEE-WIE)",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-02-11T08:00:00.000Z",
-        "endDateAndTime": "2025-02-11T13:20:00.000Z",
-        "pricePerPerson": 50,
-        "participationType": "Solo",
-        "eventVenue": "AB3 301",
-        "shortDescription": "A hands-on workshop covering the end-to-end **PCB** process. 💡 Participants learn to design circuits using software like **KiCad/Eagle**, fabricate boards through etching and drilling, and assemble them by soldering components.",
-        "longDescription": "A PCB workshop is a hands-on session where participants learn how to design, fabricate, and assemble electronic circuits on a PCB. This workshop covers the basics of electronics, circuit design using software tools like KiCad or Eagle, and the manufacturing process, including etching, drilling, and soldering components.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "37ezSyHjYEAvAqUqPKB7Pa",
         "type": "Entry",
         "createdAt": "2025-10-18T14:12:11.806Z",
@@ -2859,174 +3419,6 @@
         "eventVenue": "Online ",
         "shortDescription": "This event is a International Online team event supported by Tetcos, Bangalore and IEEE photonics society.   Team Size is restricted to a minimum of 2 members to maximum of 3 members.  This event is primarily targeted for UG students who has essential knowledge or interests in Computer Networks. NetSim by Tetcos is a powerful network simulation software used to design, analyze, and visualize communication networks An online workshop familiarizes participants with hands-on network modeling and performance analysis using NetSim. The 24-hour online hackathon engages students in real-time problem-solving and innovation through multi-round simulation and debugging challenges.",
         "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "3xOsMRfujFgC8GlfL79jd1",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:11:13.749Z",
-        "updatedAt": "2025-10-18T14:11:13.749Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "IdeaXchange (Squad)",
-        "clubName": "FRENCH CLUB collab with CLOUDOPS",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-02-11T08:00:00.000Z",
-        "endDateAndTime": "2025-02-11T14:00:00.000Z",
-        "pricePerPerson": 299,
-        "participationType": "Squad",
-        "eventVenue": "Nethaji Auditorium",
-        "shortDescription": "Join the Cloud Ops Club's Idea Challenge! Analyze global solutions to societal issues, adapt them for India, and build tech prototypes like data visualizations or AI. Collaborate and innovate for change.",
-        "longDescription": "Join us for a dynamic Idea Challenge, in collaboration with the Cloud Ops Club, where participants explore how countries like France and India have tackled societal and developmental issues. Using a case study approach, you’ll analyze successful international models and creatively reimagine them to fit India’s unique cultural, economic, and policy landscape—without comparison or judgment.\n \n This challenge also includes a technical dimension, encouraging you to transform ideas into practical, tech-enabled solutions such as data analysis, interactive visualizations, digital prototypes, or AI-driven simulations. Collaborate, innovate, and build impactful solutions through cross-cultural learning and constructive problem-solving.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "2fvuoQ7DLegqkeL2CMaD47",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:11:12.542Z",
-        "updatedAt": "2025-10-18T14:11:12.542Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "IdeaXchange (Trio)",
-        "clubName": "FRENCH CLUB collab with CLOUDOPS",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-02-11T08:00:00.000Z",
-        "endDateAndTime": "2025-02-11T14:00:00.000Z",
-        "pricePerPerson": 259,
-        "participationType": "Trio",
-        "eventVenue": "Nethaji Auditorium",
-        "shortDescription": "Join the Cloud Ops Club's Idea Challenge! Analyze global solutions to societal issues, adapt them for India, and build tech prototypes like data visualizations or AI. Collaborate and innovate for change.",
-        "longDescription": "Join us for a dynamic Idea Challenge, in collaboration with the Cloud Ops Club, where participants explore how countries like France and India have tackled societal and developmental issues. Using a case study approach, you’ll analyze successful international models and creatively reimagine them to fit India’s unique cultural, economic, and policy landscape—without comparison or judgment.\n \n This challenge also includes a technical dimension, encouraging you to transform ideas into practical, tech-enabled solutions such as data analysis, interactive visualizations, digital prototypes, or AI-driven simulations. Collaborate, innovate, and build impactful solutions through cross-cultural learning and constructive problem-solving.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "RliXL9hD0hsr6zHRERqni",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:11:11.333Z",
-        "updatedAt": "2025-10-18T14:11:11.333Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "IdeaXchange (Duo)",
-        "clubName": "FRENCH CLUB collab with CLOUDOPS",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-02-11T08:00:00.000Z",
-        "endDateAndTime": "2025-02-11T14:00:00.000Z",
-        "pricePerPerson": 199,
-        "participationType": "Duo",
-        "eventVenue": "Nethaji Auditorium",
-        "shortDescription": "Join the Cloud Ops Club's Idea Challenge! Analyze global solutions to societal issues, adapt them for India, and build tech prototypes like data visualizations or AI. Collaborate and innovate for change.",
-        "longDescription": "Join us for a dynamic Idea Challenge, in collaboration with the Cloud Ops Club, where participants explore how countries like France and India have tackled societal and developmental issues. Using a case study approach, you’ll analyze successful international models and creatively reimagine them to fit India’s unique cultural, economic, and policy landscape—without comparison or judgment.\n \n This challenge also includes a technical dimension, encouraging you to transform ideas into practical, tech-enabled solutions such as data analysis, interactive visualizations, digital prototypes, or AI-driven simulations. Collaborate, innovate, and build impactful solutions through cross-cultural learning and constructive problem-solving.",
         "specialEvent": false
       }
     },
@@ -3194,62 +3586,6 @@
         "participationType": "Trio",
         "eventVenue": "Kasturba Hall",
         "shortDescription": "Join Hackatronics, a 24-hour hackathon with separate hardware and software tracks. Tackle diverse challenges in areas like IoT, healthcare, and ML. Ideate, design, and build solutions under pressure, and gain insights from an industry expert.",
-        "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "4xICgNXbs8m7vnRmFYnVEJ",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:11:05.421Z",
-        "updatedAt": "2025-10-18T14:11:05.421Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Fortress of Shadows",
-        "clubName": "MICROSOFT INNOVATION CLUB",
-        "eventType": "Workshop",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-02-11T10:00:00.000Z",
-        "endDateAndTime": "2025-02-11T18:00:00.000Z",
-        "pricePerPerson": 100,
-        "participationType": "Solo",
-        "eventVenue": "AB3-310",
-        "shortDescription": "Become a digital guardian in our cyber defense workshop. Learn Linux essentials, networking, web vulnerabilities, and OSINT strategies with hands-on tools. Test your new skills in a final Capture-the-Flag (CTF) battle.",
         "longDescription": "",
         "specialEvent": false
       }
@@ -3491,62 +3827,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "5RHAnKQlHLW3x1lPRRv2Pb",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:08:41.187Z",
-        "updatedAt": "2025-10-18T14:08:41.187Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Ecotech quiz",
-        "clubName": "ENVIRONMENT & ENERGY PROTECTION CLUB (E2 PC)",
-        "eventType": "Game",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T09:00:00.000Z",
-        "endDateAndTime": "2025-01-11T16:00:00.000Z",
-        "pricePerPerson": 100,
-        "participationType": "Solo",
-        "eventVenue": "AB3 608",
-        "shortDescription": "Quiz on environmental technologies—covering topics like green buildings, electric vehicles, renewable energy, and waste management. The quiz includes a mix of picture identifications, MCQs, rapid-fire rounds, and fun knowledge-building challenges\n\n",
-        "longDescription": "Quiz on environmental technologies—covering topics like green buildings, electric vehicles, renewable energy, and waste management. The quiz should include a mix of picture identifications, MCQs, rapid-fire rounds, and fun knowledge-building challenges",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "7FqUFvC3aRPyNaNj3gpint",
         "type": "Entry",
         "createdAt": "2025-10-18T14:08:40.105Z",
@@ -3587,118 +3867,6 @@
         "eventVenue": "AB3 409",
         "shortDescription": "Hands on session for Mastering in Digital marketing techniques by building ideas to product.",
         "longDescription": "Hands on session for Mastering in Digital marketing techniques by building ideas to product.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "3DLnSncIN3WvjQi8iU8tl5",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:08:39.041Z",
-        "updatedAt": "2025-10-18T14:08:39.041Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Design Derby",
-        "clubName": "CAD CLUB",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-02-11T10:00:00.000Z",
-        "endDateAndTime": "2025-02-11T15:00:00.000Z",
-        "pricePerPerson": 100,
-        "participationType": "Solo",
-        "eventVenue": "AB1 406C",
-        "shortDescription": "This is a 2-phase CAD challenge! ⚙️ Phase 1 is a technical quiz on CAD and engineering fundamentals. Qualified teams advance to Phase 2, where they must create a complete 3D model from a 2D sketch. The highest combined score from both phases wins.",
-        "longDescription": "A combination of quiz followed by a cad modelling challenge. The event will be conducted in two phases:\n\nPhase 1 – Technical Quiz\nParticipants will face a quiz round focused on CAD concepts and core engineering fundamentals. Teams will be awarded points based on the accuracy and quality of their answers.\n\nPhase 2 – 3D Modeling Challenge\nQualified teams will be provided with a 2D sketch containing multiple views. Using this as reference, they must create a complete 3D model from scratch. The model’s precision, accuracy, and adherence to the given sketch will determine the points awarded.\n\nThe team with the highest combined score from both phases will be declared the winner.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "4zVVEMtX9QqnAjQRn3SyTF",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:07:21.884Z",
-        "updatedAt": "2025-10-18T14:07:21.884Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "CTRL+CONVERSE",
-        "clubName": "TOASTMASTERS INTERNATIONAL X Wakhra Punjab",
-        "eventType": "Game",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T11:00:00.000Z",
-        "endDateAndTime": "2025-01-11T15:00:00.000Z",
-        "pricePerPerson": 100,
-        "participationType": "Solo",
-        "eventVenue": "AB3 512",
-        "shortDescription": "\"Talk the Talk\" blends tech knowledge with fun communication games. 🎤 Compete in Tech Taboo, Pitch an Object, quick-fire debates, and meme presentations. It's the perfect platform for techies and speakers to test their wit.",
-        "longDescription": "Step into a world where technology meets creativity, and ideas come alive through games and laughter! Talk the Talk is a one-of-a-kind event that blends technical wit with spontaneous communication challenges.\n\nGet ready for:\nTech Taboo – explain technical jargon without the obvious buzzwords.\nPitch an Object – sell a pen, a bottle, or even a slipper as if it’s the next big tech invention.\n404 Error – guess the hidden technical term before your time runs out.\nReverse Engineering – decode quirky product descriptions to reveal the invention.\nTech Debate Showdown – battle it out on fun, geeky topics in quick-fire debates.\nMeme the Machine – turn memes into epic mini-presentations.\nWhether you’re a techie, a speaker, or just someone who loves a good laugh, this event has something for you. Come join us, test your wit, and most importantly—Talk the Talk",
         "specialEvent": false
       }
     },
@@ -3771,62 +3939,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "IJoPRW3vuRBXg3LVgpo8b",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:07:18.618Z",
-        "updatedAt": "2025-10-18T14:07:18.618Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Code & Conquer Game-a-thon",
-        "clubName": "GAME DEVELOPMENT CLUB",
-        "eventType": "Hackathon",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T08:00:00.000Z",
-        "endDateAndTime": "2025-01-11T20:00:00.000Z",
-        "pricePerPerson": 100,
-        "participationType": "Solo",
-        "eventVenue": "AB1 401",
-        "shortDescription": "Code & Conquer Game-a-thon, where strategy meets skill in the ultimate gaming challenge!",
-        "longDescription": "Code & Conquer Game-a-thon, where strategy meets skill in the ultimate gaming challenge!",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "2nW7giPavBJcmrJPqsmMpc",
         "type": "Entry",
         "createdAt": "2025-10-18T14:07:16.498Z",
@@ -3867,118 +3979,6 @@
         "eventVenue": "AB3 301",
         "shortDescription": "In this \"Shark Tank\" style event, aspiring directors fix an underperforming movie. 🎬 Dissect its flaws and pitch a new vision—covering story, characters, and visuals—to judges acting as producers. Negotiate to secure the most profitable deal.",
         "longDescription": "This event is based on shark tank where the business owners are replaced by aspiring young directors and the sharks are producers who are willing to finance their movies.\nOur event's main focus is for aspiring young directors to gain more knowledge on what goes behind making a successful movie.\nAs part of the event, we will be giving them each a movie which they will have to dissect and understand which part caused the movie's underperformance.\nFurther when they pitch the movie with their inputs to everything from the storyline, characters, camera aesthetics and sound effects.\nNow the new upgraded version of the movie will be narrated by them to the judges and negotiate with them and try to exceed the break-even amount thus making more profit making them the champion.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "55AkgdoFq2enx2DqHFarg5",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:07:15.382Z",
-        "updatedAt": "2025-10-18T14:07:15.382Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Capture The FlagDroid",
-        "clubName": "ANDROID CLUB",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-02-11T10:00:00.000Z",
-        "endDateAndTime": "2025-02-11T16:00:00.000Z",
-        "pricePerPerson": 100,
-        "participationType": "Trio/Squad",
-        "eventVenue": "AB1 502",
-        "shortDescription": "Capture the FlagDroid is a developer-style CTF. Solve development challenges to find hidden flags that double as parts of a .env file. Only teams that collect every flag can successfully deploy their application and win the competition.",
-        "longDescription": "Capture the FlagDroid is an innovative developer-style CTF where participants advance through a series of development challenges, each revealing a hidden flag that earns them points. The competition combines traditional Capture the Flag mechanics, hands-on development, and engaging bonus twists to create a challenging and educational experience. Each flag includes fun and interactive elements and also represents a part of the project’s .env file, so only teams that collect all the flags can successfully deploy their application.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "6k7xRLK4Q1MZolXPA4DOgt",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:07:14.294Z",
-        "updatedAt": "2025-10-18T14:07:14.294Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Camera- Handling Workshop",
-        "clubName": "VITSION FILM MAKERS CLUB",
-        "eventType": "Workshop",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-02-11T10:00:00.000Z",
-        "endDateAndTime": "2025-02-11T13:00:00.000Z",
-        "pricePerPerson": 100,
-        "participationType": "Solo",
-        "eventVenue": "AB3 701",
-        "shortDescription": "This practical cinematography session teaches you to shoot like a pro. 🎥 Master essential camera skills like framing, panning, zooming, and stability, along with lighting, angles, and shot composition to capture truly cinematic stories.",
-        "longDescription": "Before you can direct your masterpiece, you need to learn how to handle the camera like a pro. In this practical session, you’ll master framing, panning, zooming, and stability- everything needed to shoot a scene like Scorsese or Nolan. With guidance on lighting, angles, and shot composition, you’ll be ready to capture stories that feel truly cinematic.",
         "specialEvent": false
       }
     },
