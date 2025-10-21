@@ -2,10 +2,178 @@
   "sys": {
     "type": "Array"
   },
-  "total": 179,
+  "total": 180,
   "skip": 0,
-  "limit": 179,
+  "limit": 180,
   "items": [
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "6pcXmfU9WCHRQh7o3d6p8P",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:25:00.321Z",
+        "updatedAt": "2025-10-21T11:44:55.277Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Treasure Verse (Solo)",
+        "clubName": "Augmented & Virtual Reality (AVR) Club",
+        "eventType": "Entertainment",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-31T09:00:00.000Z",
+        "endDateAndTime": "2025-10-31T17:00:00.000Z",
+        "pricePerPerson": 75,
+        "participationType": "Solo",
+        "eventVenue": "AB1 Amphitheatre",
+        "shortDescription": "The event involves a virtual treasure with the help of VR Headset kits where the participants will have to find the hidden treasure in the VR Model and will be timed. The winners will be chosen based on the quickest to figure out the hidden treasures/objects. The game will slightly resemble a variant of a virtual easter egg.",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "MT0YphIEdHtWXWMadmpZd",
+        "type": "Entry",
+        "createdAt": "2025-10-21T11:44:38.378Z",
+        "updatedAt": "2025-10-21T11:44:38.378Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 4,
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Treasure Verse (Duo)",
+        "clubName": "Augmented & Virtual Reality (AVR) Club",
+        "eventType": "Entertainment",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-31T09:00:00.000Z",
+        "endDateAndTime": "2025-10-31T17:00:00.000Z",
+        "pricePerPerson": 120,
+        "participationType": "Solo",
+        "eventVenue": "AB1 Amphitheatre",
+        "shortDescription": "The event involves a virtual treasure with the help of VR Headset kits where the participants will have to find the hidden treasure in the VR Model and will be timed. The winners will be chosen based on the quickest to figure out the hidden treasures/objects. The game will slightly resemble a variant of a virtual easter egg.",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "2WL91OUjopT3MHVNgCDpAb",
+        "type": "Entry",
+        "createdAt": "2025-10-16T11:25:11.467Z",
+        "updatedAt": "2025-10-21T11:42:59.044Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Design The Device",
+        "clubName": "IEEE ELECTRON DEVICE SOCIETY (IEEE-EDS)",
+        "eventType": "Workshop",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-11-01T09:00:00.000Z",
+        "endDateAndTime": "2025-11-01T16:00:00.000Z",
+        "pricePerPerson": 50,
+        "participationType": "Solo",
+        "eventVenue": "AB1 607B",
+        "shortDescription": "Design the Device is a workshop to help students understand the basics of semiconductor device simulation. It gives a simple introduction to how TCAD tools are used in research and industry for designing and analyzing electronic devices.",
+        "longDescription": "Design the Device is a workshop to help students understand the basics of semiconductor device simulation. It gives a simple introduction to how TCAD tools are used in research and industry for designing and analyzing electronic devices.",
+        "specialEvent": false
+      }
+    },
     {
       "metadata": {
         "tags": [],
@@ -2858,62 +3026,6 @@
         "participationType": "Solo",
         "eventVenue": "AB1-701",
         "shortDescription": "Technical talk by an industrial expert- Mr.Hariprasath",
-        "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "6pcXmfU9WCHRQh7o3d6p8P",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:25:00.321Z",
-        "updatedAt": "2025-10-18T14:25:00.321Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Treasure Verse",
-        "clubName": "Augmented & Virtual Reality (AVR) Club",
-        "eventType": "Entertainment",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T09:00:00.000Z",
-        "endDateAndTime": "2025-10-31T17:00:00.000Z",
-        "pricePerPerson": 75,
-        "participationType": "Solo",
-        "eventVenue": "AB1 Amphitheatre",
-        "shortDescription": "The event involves a virtual treasure with the help of VR Headset kits where the participants will have to find the hidden treasure in the VR Model and will be timed. The winners will be chosen based on the quickest to figure out the hidden treasures/objects. The game will slightly resemble a variant of a virtual easter egg.",
         "longDescription": "",
         "specialEvent": false
       }
@@ -8979,62 +9091,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "2WL91OUjopT3MHVNgCDpAb",
-        "type": "Entry",
-        "createdAt": "2025-10-16T11:25:11.467Z",
-        "updatedAt": "2025-10-16T11:25:11.467Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Design The Device",
-        "clubName": "IEEE ELECTRON DEVICE SOCIETY (IEEE-EDS)",
-        "eventType": "Workshop",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-11-01T09:00:00.000Z",
-        "endDateAndTime": "2025-11-01T16:00:00.000Z",
-        "pricePerPerson": 50,
-        "participationType": "Duo",
-        "eventVenue": "AB1 607B",
-        "shortDescription": "Design the Device is a workshop to help students understand the basics of semiconductor device simulation. It gives a simple introduction to how TCAD tools are used in research and industry for designing and analyzing electronic devices.",
-        "longDescription": "Design the Device is a workshop to help students understand the basics of semiconductor device simulation. It gives a simple introduction to how TCAD tools are used in research and industry for designing and analyzing electronic devices.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "7vHBUOL3GfbRyNKARNJOEc",
         "type": "Entry",
         "createdAt": "2025-10-16T11:20:32.438Z",
@@ -10052,51 +10108,6 @@
               "id": "rr94wjxz7mfi"
             }
           },
-          "id": "37xuOrzMgOm7r9X2Pe0SIp",
-          "type": "Asset",
-          "createdAt": "2025-10-14T18:54:13.944Z",
-          "updatedAt": "2025-10-14T18:54:13.944Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 3,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "gen ai event - VITCC ACM Student Chapter",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/37xuOrzMgOm7r9X2Pe0SIp/627e5e0ba367eba72872dde780155c22/gen_ai_event_-_VITCC_ACM_Student_Chapter.png",
-            "details": {
-              "size": 451834,
-              "image": {
-                "width": 1080,
-                "height": 1920
-              }
-            },
-            "fileName": "gen_ai_event - VITCC ACM Student Chapter.png",
-            "contentType": "image/png"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
           "id": "42jcutc0wBg63mfsz93rF5",
           "type": "Asset",
           "createdAt": "2025-10-14T18:29:28.330Z",
@@ -10485,6 +10496,51 @@
             },
             "fileName": "TechnoVITPosters - IT AUTOVIT.jpg",
             "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "37xuOrzMgOm7r9X2Pe0SIp",
+          "type": "Asset",
+          "createdAt": "2025-10-14T18:54:13.944Z",
+          "updatedAt": "2025-10-14T18:54:13.944Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "gen ai event - VITCC ACM Student Chapter",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/37xuOrzMgOm7r9X2Pe0SIp/627e5e0ba367eba72872dde780155c22/gen_ai_event_-_VITCC_ACM_Student_Chapter.png",
+            "details": {
+              "size": 451834,
+              "image": {
+                "width": 1080,
+                "height": 1920
+              }
+            },
+            "fileName": "gen_ai_event - VITCC ACM Student Chapter.png",
+            "contentType": "image/png"
           }
         }
       },
