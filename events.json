@@ -2,10 +2,346 @@
   "sys": {
     "type": "Array"
   },
-  "total": 190,
+  "total": 179,
   "skip": 0,
-  "limit": 190,
+  "limit": 179,
   "items": [
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "5jTo3ukG6ULA5CQvciAaln",
+        "type": "Entry",
+        "createdAt": "2025-10-15T11:55:04.243Z",
+        "updatedAt": "2025-10-21T11:17:19.832Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 21,
+        "revision": 4,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Brainware",
+        "clubName": "ARTIFICIAL INTELLIGENCE CLUB",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "5WM0Gam15m4DSf8VUuLJqD"
+          }
+        },
+        "startDateAndTime": "2025-10-31T09:00+00:00",
+        "endDateAndTime": "2025-10-31T14:00+00:00",
+        "pricePerPerson": 100,
+        "participationType": "Solo/Duo",
+        "eventVenue": "AB3 201",
+        "shortDescription": "Quiz-based competition testing tech knowledge, problem-solving, and emerging technology awareness. Teams answer progressively challenging questions, fostering collaboration, quick thinking, and competitive spirit.",
+        "longDescription": "Brainware is an exciting quiz-based competition that brings a technological twist to the classic Kaun Banega Crorepati format. Participants will tackle rounds of progressively challenging questions spanning computer science, emerging technologies, logical problem-solving, and general tech knowledge. The event is designed to test technical expertise, quick thinking, and strategic decision-making in an engaging and competitive setup. Scheduled to be held on any one day of TechnoVIT, with a maximum team size of 2 members, Brainware promotes collaboration and knowledge sharing, making it a fun, intellectually stimulating highlight of TechnoVIT.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "2OLKhBX7VGal2Z9maaQf0V",
+        "type": "Entry",
+        "createdAt": "2025-10-16T14:13:14.609Z",
+        "updatedAt": "2025-10-21T11:13:19.951Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Create Autonomous AI with Open Source Ollama",
+        "clubName": "YUVA",
+        "eventType": "Workshop",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-11-01T09:00:00.000Z",
+        "endDateAndTime": "2025-11-01T16:00:00.000Z",
+        "pricePerPerson": 118,
+        "participationType": "Solo",
+        "eventVenue": "AB1 209",
+        "shortDescription": "Workshop Title: Building Intelligent Agents with Ollama: A Practical Workshop Resource Person: Aishwarya Sundaresan – Lead Consultant @ Infosys | Executive MBA in Data Science & AI Description: Dive into the world of Agentic AI in this hands-on workshop designed for students, developers, and professionals eager to explore intelligent agents. Ollama is an advanced platform for building, managing, and deploying Agentic AI applications. It enables developers and AI enthusiasts to create intelligent agents that can perform autonomous tasks, make decisions, and interact with users or other systems. Under the guidance of Aishwarya Sundaresan, a leading AI consultant at Infosys, participants will gain practical experience in building, training, and deploying intelligent AI agents using the Ollama tool. The resource person has 14 years of digital transformation experience with a focus on meticulous technology implementation. Her journey in e-commerce consulting has honed a keen attention to detail and a strategic approach to business strategy, consistently driving growth and innovation. Her top skills include Solution Architecture , Digital Transformation, Large Language Models (LLM), Artificial Intelligence (AI). The resource person will provide hands-on training on Realtime E-commerce use cases. This workshop will cover: Fundamentals of Agentic AI and its real-world applications Step-by-step guidance on using Ollama for agent creation Hands-on exercises to design and deploy intelligent agents on Realtime E-commerce use cases Best practices for optimizing AI agent performance By the end of the session, participants will have a working understanding of how to create functional AI agents and leverage them for practical applications in business, research, and technology.",
+        "longDescription": "Workshop Title: Building Intelligent Agents with Ollama: A Practical Workshop<br> Resource Person: Aishwarya Sundaresan – Lead Consultant @ Infosys | Executive MBA in Data Science & AI<br> <br> Description:<br> Dive into the world of Agentic AI in this hands-on workshop designed for students, developers, and professionals eager to explore intelligent agents. Ollama is an advanced platform for building, managing, and deploying Agentic AI applications. It enables developers and AI enthusiasts to create intelligent agents that can perform autonomous tasks, make decisions, and interact with users or other systems. Under the guidance of Aishwarya Sundaresan, a leading AI consultant at Infosys, participants will gain practical experience in building, training, and deploying intelligent AI agents using the Ollama tool. The resource person has 14 years of digital transformation experience with a focus on meticulous technology implementation. Her journey in e-commerce consulting has honed a keen attention to detail and a strategic approach to business strategy, consistently driving growth and innovation. Her top skills include Solution Architecture , Digital Transformation, Large Language Models (LLM), Artificial Intelligence (AI). The resource person will provide hands-on training on Realtime E-commerce use cases.<br> <br> <br> This workshop will cover:<br> <br> Fundamentals of Agentic AI and its real-world applications<br> <br> Step-by-step guidance on using Ollama for agent creation<br> <br> Hands-on exercises to design and deploy intelligent agents on Realtime E-commerce use cases<br> <br> Best practices for optimizing AI agent performance<br> <br> By the end of the session, participants will have a working understanding of how to create functional AI agents and leverage them for practical applications in business, research, and technology.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "7wDMAjAEh8H0DeYXzjtwCu",
+        "type": "Entry",
+        "createdAt": "2025-10-15T02:50:04.329Z",
+        "updatedAt": "2025-10-21T11:08:33.650Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 16,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Workshop on PCB",
+        "clubName": "IEEE COMPUTER SOCIETY (IEEE-CS)",
+        "eventType": "Workshop",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "5xGcUNgvVl7OWbNkT3agak"
+          }
+        },
+        "startDateAndTime": "2025-10-31T09:00+00:00",
+        "endDateAndTime": "2025-10-31T16:00+00:00",
+        "pricePerPerson": 300,
+        "participationType": "Solo",
+        "eventVenue": "AB3 602",
+        "shortDescription": "Interactive event designed to teach participants the practical skills of designing and fabricating electronic circuits on PCB platforms.",
+        "longDescription": "Interactive event designed to teach participants the practical skills of designing and fabricating electronic circuits on PCB platforms.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "1wmZB4nTD6wNdsrWA3VBhh",
+        "type": "Entry",
+        "createdAt": "2025-10-15T03:17:24.837Z",
+        "updatedAt": "2025-10-21T11:05:31.016Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 16,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "The Stranger Clues",
+        "clubName": "OPEN SOURCE PROGRAMMING CLUB",
+        "eventType": "Game",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "7v2AZm2eZOhEHXan7lQktJ"
+          }
+        },
+        "startDateAndTime": "2025-10-29T13:00+00:00",
+        "endDateAndTime": "2025-10-29T00:00+00:00",
+        "pricePerPerson": 50,
+        "participationType": "Solo",
+        "eventVenue": " AB1 Mini Portico",
+        "shortDescription": "In this on-campus digital treasure hunt, teams of 1-4 will learn Open Source Intelligence (OSINT). Follow online and offline clues using cybersecurity skills to reach a finale where your choices determine how you find a missing person.",
+        "longDescription": "An engaging, on-campus digital treasure hunt designed to introduce participants to Open Source Intelligence (OSINT) techniques through a mix of real-world investigation and cybersecurity puzzles. Starting from a physical location within the college, participants follow clues that take them on various online and offline trails involving web research, digital footprints, and hidden leads. All paths lead to a thrilling three-way finale where participants’ choices determine how they find a missing person. This event provides students with a fun, interactive way to build foundational OSINT and cybersecurity skills while offering management a well-rounded, technically relevant learning experience.\n \n Team size: 1-4",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "braRd8Uq5WN8vxoQYnA1P",
+        "type": "Entry",
+        "createdAt": "2025-10-14T18:57:03.795Z",
+        "updatedAt": "2025-10-21T11:03:39.034Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 16,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Build A Bridge",
+        "clubName": "AUTOVIT",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "7rpcxPKSUTTC2WmhukoQhO"
+          }
+        },
+        "startDateAndTime": "2025-10-31T10:00+00:00",
+        "endDateAndTime": "2025-10-31T04:00+00:00",
+        "pricePerPerson": 300,
+        "participationType": "Trio",
+        "eventVenue": "AB3 208",
+        "shortDescription": "Teams of 3 get a fixed budget to build a bridge and load-bearing structure. Completing mini-challenges earns extra materials. Participants must optimize resources, time, and construction strategy to create the strongest, most efficient structure",
+        "longDescription": "we provide each participating team with a fixed budget, which they can spend on materials that we have in store and use to build a bridge to cross a gap and a structure that can take the maximum load. Participants are also given a chance to complete some small challenges to get more budget for materials. They now must optimize time spent on challenges materials and the time spent on constructing the bridge . Team of 3 will take on this challenge",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "1nCGK2YhYTdXKs3gTIp4nL",
+        "type": "Entry",
+        "createdAt": "2025-10-14T18:37:15.873Z",
+        "updatedAt": "2025-10-21T10:57:22.945Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 19,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "GreenCode Hackathon: Innovation for Agriculture",
+        "clubName": "AGRHI INNOVATORS CLUB",
+        "eventType": "Hackathon",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "60RaLyiHMNKjzSgWlr8lCY"
+          }
+        },
+        "startDateAndTime": "2025-10-30T09:00+00:00",
+        "endDateAndTime": "2025-10-30T18:00+00:00",
+        "pricePerPerson": 60,
+        "participationType": "Solo",
+        "eventVenue": "AB3 309",
+        "shortDescription": "The “Green Code: OpenCV and App Development Applications in Agriculture” workshop offers hands-on training in integrating computer vision and mobile app technologies for smart farming solutions. Participants will learn how to use OpenCV for crop monitoring, disease detection, and yield analysis, along with app development tools to create farmer-friendly digital interfaces. The session bridges technology and agriculture, empowering students and innovators to develop sustainable, data-driven farm management applications.",
+        "longDescription": "💻 Hackathon Problem Statement 1\n \n Title: DirectLink: Producers to Consumers\n \n Description:\n Cut out the middleman, empower the farmer! In this hackathon challenge, you’ll design software solutions that connect producers directly with consumers, ensuring fair pricing, transparency, and trust. Build platforms, apps, or digital tools that revolutionize agri-markets and put power back into the hands of the growers. Innovation meets impact!\n \n \n 🤖 Hackathon Problem Statement 2\n \n Title: AgriBot: Chat for Change\n \n Description:\n Bring AI to the fields! This challenge invites you to create a farmer-friendly chatbot that provides instant guidance — from crop care and weather updates to market trends and government schemes. Build a smart conversational assistant that’s simple, accessible, and impactful for rural communities. Let’s code solutions that speak the farmers’ language!",
+        "specialEvent": false
+      }
+    },
     {
       "metadata": {
         "tags": [],
@@ -4611,286 +4947,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "7BBriJbjSaTXQ79eavkBvv",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:07:09.075Z",
-        "updatedAt": "2025-10-18T14:07:09.075Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Workshop on PCB (Trio)",
-        "clubName": "IEEE COMPUTER SOCIETY (IEEE-CS)",
-        "eventType": "Workshop",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T09:00:00.000Z",
-        "endDateAndTime": "2025-10-31T16:00:00.000Z",
-        "pricePerPerson": 900,
-        "participationType": "Trio",
-        "eventVenue": "AB3 602",
-        "shortDescription": "Interactive event designed to teach participants the practical skills of designing and fabricating electronic circuits on PCB platforms.",
-        "longDescription": "Interactive event designed to teach participants the practical skills of designing and fabricating electronic circuits on PCB platforms.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "5FfGYzQ2CZCEedmY91v2zj",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:07:08.055Z",
-        "updatedAt": "2025-10-18T14:07:08.055Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Workshop on PCB (Duo)",
-        "clubName": "IEEE COMPUTER SOCIETY (IEEE-CS)",
-        "eventType": "Workshop",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T09:00:00.000Z",
-        "endDateAndTime": "2025-10-31T16:00:00.000Z",
-        "pricePerPerson": 600,
-        "participationType": "Duo",
-        "eventVenue": "AB3 602",
-        "shortDescription": "Interactive event designed to teach participants the practical skills of designing and fabricating electronic circuits on PCB platforms.",
-        "longDescription": "Interactive event designed to teach participants the practical skills of designing and fabricating electronic circuits on PCB platforms.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "4epzpE3j939wReVBYghEKT",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:07:07.016Z",
-        "updatedAt": "2025-10-18T14:07:07.016Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Workshop on PCB (Solo)",
-        "clubName": "IEEE COMPUTER SOCIETY (IEEE-CS)",
-        "eventType": "Workshop",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T09:00:00.000Z",
-        "endDateAndTime": "2025-10-31T16:00:00.000Z",
-        "pricePerPerson": 300,
-        "participationType": "Solo",
-        "eventVenue": "AB3 602",
-        "shortDescription": "Interactive event designed to teach participants the practical skills of designing and fabricating electronic circuits on PCB platforms.",
-        "longDescription": "Interactive event designed to teach participants the practical skills of designing and fabricating electronic circuits on PCB platforms.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "shaZG9g7AjCUEu546PKwA",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:07:05.948Z",
-        "updatedAt": "2025-10-18T14:07:05.948Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "The Stranger Clues (Solo)",
-        "clubName": "OPEN SOURCE PROGRAMMING CLUB",
-        "eventType": "Game",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-29T13:00:00.000Z",
-        "endDateAndTime": "2025-10-29T16:00:00.000Z",
-        "pricePerPerson": 50,
-        "participationType": "Solo",
-        "eventVenue": " AB1 Mini Portico",
-        "shortDescription": "In this on-campus digital treasure hunt, teams of 1-4 will learn Open Source Intelligence (OSINT). Follow online and offline clues using cybersecurity skills to reach a finale where your choices determine how you find a missing person.",
-        "longDescription": "An engaging, on-campus digital treasure hunt designed to introduce participants to Open Source Intelligence (OSINT) techniques through a mix of real-world investigation and cybersecurity puzzles. Starting from a physical location within the college, participants follow clues that take them on various online and offline trails involving web research, digital footprints, and hidden leads. All paths lead to a thrilling three-way finale where participants’ choices determine how they find a missing person. This event provides students with a fun, interactive way to build foundational OSINT and cybersecurity skills while offering management a well-rounded, technically relevant learning experience.\n \n Team size: 1-4",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "55uWrR5h7YKRgyyoBK7X0X",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:07:04.652Z",
-        "updatedAt": "2025-10-18T14:07:04.652Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Build A Bridge (Duo)",
-        "clubName": "AUTOVIT",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T10:00:00.000Z",
-        "endDateAndTime": "2025-10-31T16:00:00.000Z",
-        "pricePerPerson": 100,
-        "participationType": "Duo",
-        "eventVenue": "AB3 208",
-        "shortDescription": "In this challenge, teams of 3 receive a fixed budget to buy materials from our store. Their goal: build a bridge to cross a gap and a structure to support maximum load. Complete mini-challenges to earn more budget, but you must optimize your time!",
-        "longDescription": "we provide each participating team with a fixed budget, which they can spend on materials that we have in store and use to build a bridge to cross a gap and a structure that can take the maximum load. Participants are also given a chance to complete some small challenges to get more budget for materials. They now must optimize time spent on challenges materials and the time spent on constructing the bridge . Team of 3 will take on this challenge",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "VqfdeRo6lGBwXkKUjPPKb",
         "type": "Entry",
         "createdAt": "2025-10-16T11:01:03.439Z",
@@ -5099,62 +5155,6 @@
         "eventVenue": "Kasturba Hall",
         "shortDescription": "A SolidWorks/Fusion 360 event with a hands-on workshop on Day 1 and a design on Day 2. The 24 hr hackathon helps participants get the hang of CSWA & CSWP exam-taking, with a chance to win CSWA/CWSP coupons and a ₹10,000 cash prize pool.",
         "longDescription": "A SolidWorks/Fusion 360 event with a hands-on workshop on Day 1 and a design on Day 2. The 24 hr hackathon helps participants get the hang of CSWA & CSWP exam-taking, with a chance to win CSWA/CWSP coupons and a ₹10,000 cash prize pool.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "5jTo3ukG6ULA5CQvciAaln",
-        "type": "Entry",
-        "createdAt": "2025-10-15T11:55:04.243Z",
-        "updatedAt": "2025-10-18T12:30:15.566Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 18,
-        "revision": 3,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Brainware",
-        "clubName": "ARTIFICIAL INTELLIGENCE CLUB",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "5WM0Gam15m4DSf8VUuLJqD"
-          }
-        },
-        "startDateAndTime": "2025-10-31T09:00+00:00",
-        "endDateAndTime": "2025-10-31T14:00+00:00",
-        "pricePerPerson": 100,
-        "participationType": "Solo",
-        "eventVenue": "AB3 201",
-        "shortDescription": "Quiz-based competition testing tech knowledge, problem-solving, and emerging technology awareness. Teams answer progressively challenging questions, fostering collaboration, quick thinking, and competitive spirit.",
-        "longDescription": "Brainware is an exciting quiz-based competition that brings a technological twist to the classic Kaun Banega Crorepati format. Participants will tackle rounds of progressively challenging questions spanning computer science, emerging technologies, logical problem-solving, and general tech knowledge. The event is designed to test technical expertise, quick thinking, and strategic decision-making in an engaging and competitive setup. Scheduled to be held on any one day of TechnoVIT, with a maximum team size of 2 members, Brainware promotes collaboration and knowledge sharing, making it a fun, intellectually stimulating highlight of TechnoVIT.",
         "specialEvent": false
       }
     },
@@ -7131,118 +7131,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "2OLKhBX7VGal2Z9maaQf0V",
-        "type": "Entry",
-        "createdAt": "2025-10-16T14:13:14.609Z",
-        "updatedAt": "2025-10-16T14:13:14.609Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Create Autonomous AI with Open Source Ollama",
-        "clubName": "YUVA",
-        "eventType": "Workshop",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-11-01T09:00:00.000Z",
-        "endDateAndTime": "2025-11-01T16:00:00.000Z",
-        "pricePerPerson": 250,
-        "participationType": "Solo",
-        "eventVenue": "AB1 209",
-        "shortDescription": "Workshop Title: Building Intelligent Agents with Ollama: A Practical Workshop Resource Person: Aishwarya Sundaresan – Lead Consultant @ Infosys | Executive MBA in Data Science & AI Description: Dive into the world of Agentic AI in this hands-on workshop designed for students, developers, and professionals eager to explore intelligent agents. Ollama is an advanced platform for building, managing, and deploying Agentic AI applications. It enables developers and AI enthusiasts to create intelligent agents that can perform autonomous tasks, make decisions, and interact with users or other systems. Under the guidance of Aishwarya Sundaresan, a leading AI consultant at Infosys, participants will gain practical experience in building, training, and deploying intelligent AI agents using the Ollama tool. The resource person has 14 years of digital transformation experience with a focus on meticulous technology implementation. Her journey in e-commerce consulting has honed a keen attention to detail and a strategic approach to business strategy, consistently driving growth and innovation. Her top skills include Solution Architecture , Digital Transformation, Large Language Models (LLM), Artificial Intelligence (AI). The resource person will provide hands-on training on Realtime E-commerce use cases. This workshop will cover: Fundamentals of Agentic AI and its real-world applications Step-by-step guidance on using Ollama for agent creation Hands-on exercises to design and deploy intelligent agents on Realtime E-commerce use cases Best practices for optimizing AI agent performance By the end of the session, participants will have a working understanding of how to create functional AI agents and leverage them for practical applications in business, research, and technology.",
-        "longDescription": "Workshop Title: Building Intelligent Agents with Ollama: A Practical Workshop<br> Resource Person: Aishwarya Sundaresan – Lead Consultant @ Infosys | Executive MBA in Data Science & AI<br> <br> Description:<br> Dive into the world of Agentic AI in this hands-on workshop designed for students, developers, and professionals eager to explore intelligent agents. Ollama is an advanced platform for building, managing, and deploying Agentic AI applications. It enables developers and AI enthusiasts to create intelligent agents that can perform autonomous tasks, make decisions, and interact with users or other systems. Under the guidance of Aishwarya Sundaresan, a leading AI consultant at Infosys, participants will gain practical experience in building, training, and deploying intelligent AI agents using the Ollama tool. The resource person has 14 years of digital transformation experience with a focus on meticulous technology implementation. Her journey in e-commerce consulting has honed a keen attention to detail and a strategic approach to business strategy, consistently driving growth and innovation. Her top skills include Solution Architecture , Digital Transformation, Large Language Models (LLM), Artificial Intelligence (AI). The resource person will provide hands-on training on Realtime E-commerce use cases.<br> <br> <br> This workshop will cover:<br> <br> Fundamentals of Agentic AI and its real-world applications<br> <br> Step-by-step guidance on using Ollama for agent creation<br> <br> Hands-on exercises to design and deploy intelligent agents on Realtime E-commerce use cases<br> <br> Best practices for optimizing AI agent performance<br> <br> By the end of the session, participants will have a working understanding of how to create functional AI agents and leverage them for practical applications in business, research, and technology.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "62IKGMLUz30zYVVS7uY8D0",
-        "type": "Entry",
-        "createdAt": "2025-10-16T14:13:12.985Z",
-        "updatedAt": "2025-10-16T14:13:12.985Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "GreenCode Hackathon Innovation for Agriculture",
-        "clubName": "AGRHI INNOVATORS CLUB",
-        "eventType": "Hackathon",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-30T09:00:00.000Z",
-        "endDateAndTime": "2025-10-30T18:00:00.000Z",
-        "pricePerPerson": 236,
-        "participationType": "Solo/Duo/Trio",
-        "eventVenue": "AB3 309",
-        "shortDescription": "Participants tackle two agriculture-focused challenges. DirectLink connects farmers to consumers for fair pricing and transparency. AgriBot builds AI chatbots offering crop guidance, weather updates, and market insights for rural communities.",
-        "longDescription": "💻 Hackathon Problem Statement 1<br> <br> Title: DirectLink: Producers to Consumers<br> <br> Description:<br> Cut out the middleman, empower the farmer! In this hackathon challenge, you’ll design software solutions that connect producers directly with consumers, ensuring fair pricing, transparency, and trust. Build platforms, apps, or digital tools that revolutionize agri-markets and put power back into the hands of the growers. Innovation meets impact!<br> <br> <br> 🤖 Hackathon Problem Statement 2<br> <br> Title: AgriBot: Chat for Change<br> <br> Description:<br> Bring AI to the fields! This challenge invites you to create a farmer-friendly chatbot that provides instant guidance — from crop care and weather updates to market trends and government schemes. Build a smart conversational assistant that’s simple, accessible, and impactful for rural communities. Let’s code solutions that speak the farmers’ language!",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "26xPjgy5jNS9dKZm2xl7bf",
         "type": "Entry",
         "createdAt": "2025-10-16T14:13:11.781Z",
@@ -8755,118 +8643,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "3cIjcdN10Rj5ZvZHJqsV0Z",
-        "type": "Entry",
-        "createdAt": "2025-10-16T11:39:08.497Z",
-        "updatedAt": "2025-10-16T11:39:08.497Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Build A Bridge (Trio)",
-        "clubName": "AUTOVIT",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T10:00:00.000Z",
-        "endDateAndTime": "2025-10-31T16:00:00.000Z",
-        "pricePerPerson": 300,
-        "participationType": "Trio",
-        "eventVenue": "AB3 208",
-        "shortDescription": "Teams of 3 get a fixed budget to build a bridge and load-bearing structure. Completing mini-challenges earns extra materials. Participants must optimize resources, time, and construction strategy to create the strongest, most efficient structure",
-        "longDescription": "we provide each participating team with a fixed budget, which they can spend on materials that we have in store and use to build a bridge to cross a gap and a structure that can take the maximum load. Participants are also given a chance to complete some small challenges to get more budget for materials. They now must optimize time spent on challenges materials and the time spent on constructing the bridge . Team of 3 will take on this challenge",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "5Hi6XztJ3yfHMbcsWKG0rJ",
-        "type": "Entry",
-        "createdAt": "2025-10-16T11:39:07.335Z",
-        "updatedAt": "2025-10-16T11:39:07.335Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Build A Bridge (Solo)",
-        "clubName": "AUTOVIT",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T10:00:00.000Z",
-        "endDateAndTime": "2025-10-31T16:00:00.000Z",
-        "pricePerPerson": 100,
-        "participationType": "Solo",
-        "eventVenue": "AB3 208",
-        "shortDescription": "Teams of 3 get a fixed budget to build a bridge and load-bearing structure. Completing mini-challenges earns extra materials. Participants must optimize resources, time, and construction strategy to create the strongest, most efficient structure",
-        "longDescription": "we provide each participating team with a fixed budget, which they can spend on materials that we have in store and use to build a bridge to cross a gap and a structure that can take the maximum load. Participants are also given a chance to complete some small challenges to get more budget for materials. They now must optimize time spent on challenges materials and the time spent on constructing the bridge . Team of 3 will take on this challenge",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "6GyFQnbgLlzmOFBMroJazY",
         "type": "Entry",
         "createdAt": "2025-10-16T11:33:49.944Z",
@@ -9937,68 +9713,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "UuZNNvbrdIbGSpVu3noWa",
-        "type": "Entry",
-        "createdAt": "2025-10-15T11:17:27.650Z",
-        "updatedAt": "2025-10-16T05:28:53.767Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 25,
-        "revision": 4,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Workshop on Agentic AI for Beginners:Autonomous AI with Open-Source Ollama",
-        "clubName": "YUVA",
-        "eventType": "Workshop",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "3HPdNanTAFCFOGGuLxMDwP"
-          }
-        },
-        "startDateAndTime": "2025-11-01T09:00+00:00",
-        "endDateAndTime": "2025-11-01T16:00+00:00",
-        "pricePerPerson": 250,
-        "participationType": "Solo",
-        "eventVenue": "AB1 209",
-        "shortDescription": "Led by Aishwarya Sundaresan (Infosys), this hands-on workshop explores Agentic AI. Participants learn to build, train, and deploy intelligent agents on real-time e-commerce use cases using Ollama, gaining practical AI experience.",
-        "longDescription": "Workshop Title: Building Intelligent Agents with Ollama: A Practical Workshop<br> Resource Person: Aishwarya Sundaresan – Lead Consultant @ Infosys | Executive MBA in Data Science & AI<br> <br> Description:<br> Dive into the world of Agentic AI in this hands-on workshop designed for students, developers, and professionals eager to explore intelligent agents. Ollama is an advanced platform for building, managing, and deploying Agentic AI applications. It enables developers and AI enthusiasts to create intelligent agents that can perform autonomous tasks, make decisions, and interact with users or other systems. Under the guidance of Aishwarya Sundaresan, a leading AI consultant at Infosys, participants will gain practical experience in building, training, and deploying intelligent AI agents using the Ollama tool. The resource person has 14 years of digital transformation experience with a focus on meticulous technology implementation. Her journey in e-commerce consulting has honed a keen attention to detail and a strategic approach to business strategy, consistently driving growth and innovation. Her top skills include Solution Architecture , Digital Transformation, Large Language Models (LLM), Artificial Intelligence (AI). The resource person will provide hands-on training on Realtime E-commerce use cases.<br> <br> <br> This workshop will cover:<br> <br> Fundamentals of Agentic AI and its real-world applications<br> <br> Step-by-step guidance on using Ollama for agent creation<br> <br> Hands-on exercises to design and deploy intelligent agents on Realtime E-commerce use cases<br> <br> Best practices for optimizing AI agent performance<br> <br> By the end of the session, participants will have a working understanding of how to create functional AI agents and leverage them for practical applications in business, research, and technology.",
-        "rules": [
-          "Register in advance and attend fully for a certificate. Basic Python/AI knowledge preferred. Bring a laptop with internet and install Ollama if needed. Participate actively, respect others, and don’t share materials. Be punctual to avoid missing key parts."
-        ],
-        "judgementCriteria": [
-          "not applicable"
-        ],
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "6fISydGQHEs8bHTyNGAj2h",
         "type": "Entry",
         "createdAt": "2025-10-14T18:47:55.659Z",
@@ -10167,62 +9881,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "1wmZB4nTD6wNdsrWA3VBhh",
-        "type": "Entry",
-        "createdAt": "2025-10-15T03:17:24.837Z",
-        "updatedAt": "2025-10-15T03:17:24.837Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 14,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "The Stranger Clues",
-        "clubName": "OPEN SOURCE PROGRAMMING CLUB",
-        "eventType": "Game",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "7v2AZm2eZOhEHXan7lQktJ"
-          }
-        },
-        "startDateAndTime": "2025-10-29T13:00+00:00",
-        "endDateAndTime": "2025-10-29T00:00+00:00",
-        "pricePerPerson": 50,
-        "participationType": "Solo/Duo/Trio/Squad",
-        "eventVenue": " AB1 Mini Portico",
-        "shortDescription": "In this on-campus digital treasure hunt, teams of 1-4 will learn Open Source Intelligence (OSINT). Follow online and offline clues using cybersecurity skills to reach a finale where your choices determine how you find a missing person.",
-        "longDescription": "An engaging, on-campus digital treasure hunt designed to introduce participants to Open Source Intelligence (OSINT) techniques through a mix of real-world investigation and cybersecurity puzzles. Starting from a physical location within the college, participants follow clues that take them on various online and offline trails involving web research, digital footprints, and hidden leads. All paths lead to a thrilling three-way finale where participants’ choices determine how they find a missing person. This event provides students with a fun, interactive way to build foundational OSINT and cybersecurity skills while offering management a well-rounded, technically relevant learning experience.\n \n Team size: 1-4",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "5mkryCejPM0vEsT1r71rKt",
         "type": "Entry",
         "createdAt": "2025-10-15T03:12:14.380Z",
@@ -10263,174 +9921,6 @@
         "eventVenue": "AB3 210 Satori Lab",
         "shortDescription": "Fly drones in a realistic simulation using actual remote controllers. Participants will navigate virtual challenges, testing piloting skills in a safe environment linked to aerospace, control systems, and simulation engineering.",
         "longDescription": "Fly drones in a realistic simulation using actual remote controllers. Participants will navigate virtual challenges, testing their piloting skills in a safe environment. The event connects to the technical domain through aerospace, control systems, and simulation engineering, showcasing real-world applications of drones in logistics, defense, and surveying.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "3e7rrybDex3VEn8UWAm1cV",
-        "type": "Entry",
-        "createdAt": "2025-10-15T02:58:47.618Z",
-        "updatedAt": "2025-10-15T02:58:47.618Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 21,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Symmetria: The Art & Math Exposition",
-        "clubName": "MATHEMATICS CLUB",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "3egm8GBILHBVPRADKeO7Wp"
-          }
-        },
-        "startDateAndTime": "2025-11-01T10:00+00:00",
-        "endDateAndTime": "2025-11-01T01:30+00:00",
-        "pricePerPerson": 100,
-        "participationType": "Duo/Trio/Squad",
-        "eventVenue": "AB4  201",
-        "shortDescription": "Choose your challenge!\nAlgorithmic Art: Generate visual art from code using mathematical principles.\nGeometric Design: Design a 3D structure demonstrating advanced geometry.\nData Sonification: Transform a dataset into a musical composition.",
-        "longDescription": "Algorithmic Art: Generate stunning visual art using code, based on mathematical principles like fractals, tessellations, or parametric equations.\n \n ​Geometric Design: Design a physical or 3D-modeled structure (e.g., a bridge, a sculpture, an architectural model) that demonstrates advanced geometric principles and structural integrity.\n \n Data Sonification: Transform a complex dataset into a musical composition, using mathematical rules to map data points to notes, rhythms, and harmonies.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "7wDMAjAEh8H0DeYXzjtwCu",
-        "type": "Entry",
-        "createdAt": "2025-10-15T02:50:04.329Z",
-        "updatedAt": "2025-10-15T02:50:04.329Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 14,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Workshop on PCB",
-        "clubName": "IEEE COMPUTER SOCIETY (IEEE-CS)",
-        "eventType": "Workshop",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "5xGcUNgvVl7OWbNkT3agak"
-          }
-        },
-        "startDateAndTime": "2025-10-31T09:00+00:00",
-        "endDateAndTime": "2025-10-31T16:00+00:00",
-        "pricePerPerson": 300,
-        "participationType": "Solo/Duo/Trio",
-        "eventVenue": "AB3 602",
-        "shortDescription": "Interactive event designed to teach participants the practical skills of designing and fabricating electronic circuits on PCB platforms.",
-        "longDescription": "Interactive event designed to teach participants the practical skills of designing and fabricating electronic circuits on PCB platforms.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "5UuP8xiUSVrucNBc3HZiku",
-        "type": "Entry",
-        "createdAt": "2025-10-15T02:43:30.944Z",
-        "updatedAt": "2025-10-15T02:43:30.944Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 13,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Frame it with Figma",
-        "clubName": "CLOUD COMPUTING CLUB",
-        "eventType": "Workshop",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "3oh8rIU6orV0p3UtUqMEth"
-          }
-        },
-        "startDateAndTime": "2025-10-29T10:00+01:00",
-        "endDateAndTime": "2025-10-29T18:00+00:00",
-        "pricePerPerson": 100,
-        "participationType": "Solo",
-        "eventVenue": "Kamaraj Auditorium",
-        "shortDescription": "Hands-on Figma workshop: learn wireframes, mockups, prototypes, then design a complete UI. Win cash prizes, certificates for all.",
-        "longDescription": "Hands-on Figma workshop: learn wireframes, mockups, prototypes, then design a complete UI. Win cash prizes, certificates for all.",
         "specialEvent": false
       }
     },
@@ -10543,118 +10033,6 @@
         "eventVenue": "AB1 402",
         "shortDescription": "In this high-intensity escape room, physical puzzles meet a technical CTF. Teams of 2-3 have 30 minutes to find clues in the room and use them on a central laptop to hack their way to freedom. Solve every puzzle to win before time expires!",
         "longDescription": "A high-intensity challenge where physical puzzles and technical CTFs collide. Teams of 2-3 must decipher clues in the room to execute commands on a central laptop, unlock files, and escape within 30 minutes by collaborating and solving all puzzles.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "braRd8Uq5WN8vxoQYnA1P",
-        "type": "Entry",
-        "createdAt": "2025-10-14T18:57:03.795Z",
-        "updatedAt": "2025-10-14T18:57:03.795Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 14,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Build A Bridge",
-        "clubName": "AUTOVIT",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "7rpcxPKSUTTC2WmhukoQhO"
-          }
-        },
-        "startDateAndTime": "2025-10-31T10:00+00:00",
-        "endDateAndTime": "2025-10-31T04:00+00:00",
-        "pricePerPerson": 100,
-        "participationType": "Trio",
-        "eventVenue": "AB3 208",
-        "shortDescription": "Teams of 3 get a fixed budget to build a bridge and load-bearing structure. Completing mini-challenges earns extra materials. Participants must optimize resources, time, and construction strategy to create the strongest, most efficient structure",
-        "longDescription": "we provide each participating team with a fixed budget, which they can spend on materials that we have in store and use to build a bridge to cross a gap and a structure that can take the maximum load. Participants are also given a chance to complete some small challenges to get more budget for materials. They now must optimize time spent on challenges materials and the time spent on constructing the bridge . Team of 3 will take on this challenge",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "1nCGK2YhYTdXKs3gTIp4nL",
-        "type": "Entry",
-        "createdAt": "2025-10-14T18:37:15.873Z",
-        "updatedAt": "2025-10-14T18:38:44.446Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 17,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "GreenCode Hackathon: Innovation for Agriculture",
-        "clubName": "AGRHI INNOVATORS CLUB",
-        "eventType": "Hackathon",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "60RaLyiHMNKjzSgWlr8lCY"
-          }
-        },
-        "startDateAndTime": "2025-10-30T09:00+00:00",
-        "endDateAndTime": "2025-10-30T18:00+00:00",
-        "pricePerPerson": 236,
-        "participationType": "Solo",
-        "eventVenue": "AB3 309",
-        "shortDescription": "The “Green Code: OpenCV and App Development Applications in Agriculture” workshop offers hands-on training in integrating computer vision and mobile app technologies for smart farming solutions. Participants will learn how to use OpenCV for crop monitoring, disease detection, and yield analysis, along with app development tools to create farmer-friendly digital interfaces. The session bridges technology and agriculture, empowering students and innovators to develop sustainable, data-driven farm management applications.",
-        "longDescription": "💻 Hackathon Problem Statement 1\n \n Title: DirectLink: Producers to Consumers\n \n Description:\n Cut out the middleman, empower the farmer! In this hackathon challenge, you’ll design software solutions that connect producers directly with consumers, ensuring fair pricing, transparency, and trust. Build platforms, apps, or digital tools that revolutionize agri-markets and put power back into the hands of the growers. Innovation meets impact!\n \n \n 🤖 Hackathon Problem Statement 2\n \n Title: AgriBot: Chat for Change\n \n Description:\n Bring AI to the fields! This challenge invites you to create a farmer-friendly chatbot that provides instant guidance — from crop care and weather updates to market trends and government schemes. Build a smart conversational assistant that’s simple, accessible, and impactful for rural communities. Let’s code solutions that speak the farmers’ language!",
         "specialEvent": false
       }
     }
@@ -10898,6 +10276,186 @@
               "id": "rr94wjxz7mfi"
             }
           },
+          "id": "5xGcUNgvVl7OWbNkT3agak",
+          "type": "Asset",
+          "createdAt": "2025-10-15T02:49:52.273Z",
+          "updatedAt": "2025-10-15T02:49:52.273Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "PCB workshop-Ieee-compsoc-final - Shruthi Reddy",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/5xGcUNgvVl7OWbNkT3agak/2391e095d74bbef60e93e1ba80349223/PCB_workshop-Ieee-compsoc-final_-_Shruthi_Reddy.png",
+            "details": {
+              "size": 531617,
+              "image": {
+                "width": 490,
+                "height": 687
+              }
+            },
+            "fileName": "PCB workshop-Ieee-compsoc-final - Shruthi Reddy.png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "60RaLyiHMNKjzSgWlr8lCY",
+          "type": "Asset",
+          "createdAt": "2025-10-14T18:38:37.727Z",
+          "updatedAt": "2025-10-14T18:38:37.727Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "GreenCode (1) - Abirami S",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/60RaLyiHMNKjzSgWlr8lCY/c4ce1d447cd8c82213b0b2502bc12e95/GreenCode__1__-_Abirami_S.jpg",
+            "details": {
+              "size": 409340,
+              "image": {
+                "width": 1587,
+                "height": 2245
+              }
+            },
+            "fileName": "GreenCode (1) - Abirami S.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "7rpcxPKSUTTC2WmhukoQhO",
+          "type": "Asset",
+          "createdAt": "2025-10-14T18:56:06.663Z",
+          "updatedAt": "2025-10-14T18:56:06.663Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Na",
+          "description": "we provide each participating team with a fixed budget, which they can spend on materials that we have in store and use to build a bridge to cross a gap and a structure that can take the maximum load. Participants are also given a chance to complete some small challenges to get more budget for materials. They now must optimize time spent on challenges materials and the time spent on constructing the bridge . Team of 3 will take on this challenge",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/7rpcxPKSUTTC2WmhukoQhO/94fe315a8b5880a8f91848328e4e3d96/TechnoVITPosters_-_IT_AUTOVIT.jpg",
+            "details": {
+              "size": 455585,
+              "image": {
+                "width": 1587,
+                "height": 2245
+              }
+            },
+            "fileName": "TechnoVITPosters - IT AUTOVIT.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "7v2AZm2eZOhEHXan7lQktJ",
+          "type": "Asset",
+          "createdAt": "2025-10-15T03:14:25.877Z",
+          "updatedAt": "2025-10-15T03:14:25.877Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "THE STRANGER CLUES - Open Source Programming Club",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/7v2AZm2eZOhEHXan7lQktJ/e5141a97f23315fce2e6ce4c7dc57d43/THE_STRANGER_CLUES_-_Open_Source_Programming_Club.jpg",
+            "details": {
+              "size": 973369,
+              "image": {
+                "width": 1587,
+                "height": 2245
+              }
+            },
+            "fileName": "THE STRANGER CLUES - Open Source Programming Club.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
           "id": "2KvbDfRnjAwWUCladLBY9b",
           "type": "Asset",
           "createdAt": "2025-10-15T03:05:16.490Z",
@@ -10926,141 +10484,6 @@
               }
             },
             "fileName": "TechnoVITPosters - IT AUTOVIT.jpg",
-            "contentType": "image/jpeg"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
-          "id": "3HPdNanTAFCFOGGuLxMDwP",
-          "type": "Asset",
-          "createdAt": "2025-10-15T11:14:13.519Z",
-          "updatedAt": "2025-10-15T11:14:13.519Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 3,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "2 - Priyadarshini R",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/3HPdNanTAFCFOGGuLxMDwP/3c4967b46febd2bd4c0884d9ced2bbc0/2_-_Priyadarshini_R.png",
-            "details": {
-              "size": 935498,
-              "image": {
-                "width": 1587,
-                "height": 2245
-              }
-            },
-            "fileName": "2 - Priyadarshini R.png",
-            "contentType": "image/png"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
-          "id": "3egm8GBILHBVPRADKeO7Wp",
-          "type": "Asset",
-          "createdAt": "2025-10-15T02:58:38.263Z",
-          "updatedAt": "2025-10-15T02:58:38.263Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 3,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "Blue Abstract Blank A4 Document Landscape (2) - Mathematics Club",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/3egm8GBILHBVPRADKeO7Wp/b14ec61e057c4dc802e94b23162c837c/Blue_Abstract_Blank_A4_Document_Landscape__2__-_Mathematics_Club.jpg",
-            "details": {
-              "size": 333440,
-              "image": {
-                "width": 1414,
-                "height": 2000
-              }
-            },
-            "fileName": "Blue Abstract Blank A4 Document Landscape (2) - Mathematics Club.jpg",
-            "contentType": "image/jpeg"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
-          "id": "3oh8rIU6orV0p3UtUqMEth",
-          "type": "Asset",
-          "createdAt": "2025-10-15T02:43:22.886Z",
-          "updatedAt": "2025-10-15T02:43:22.886Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 3,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "WhatsApp Image 2025-10-10 at 17.49.45 6d1a40e9 - CloudOps VITC",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/3oh8rIU6orV0p3UtUqMEth/32a5cb1a2096a5587cab866257acf9f4/WhatsApp_Image_2025-10-10_at_17.49.45_6d1a40e9_-_CloudOps_VITC.jpg",
-            "details": {
-              "size": 298366,
-              "image": {
-                "width": 1236,
-                "height": 1600
-              }
-            },
-            "fileName": "WhatsApp Image 2025-10-10 at 17.49.45_6d1a40e9 - CloudOps VITC.jpg",
             "contentType": "image/jpeg"
           }
         }
@@ -11258,96 +10681,6 @@
               "id": "rr94wjxz7mfi"
             }
           },
-          "id": "5xGcUNgvVl7OWbNkT3agak",
-          "type": "Asset",
-          "createdAt": "2025-10-15T02:49:52.273Z",
-          "updatedAt": "2025-10-15T02:49:52.273Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 3,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "PCB workshop-Ieee-compsoc-final - Shruthi Reddy",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/5xGcUNgvVl7OWbNkT3agak/2391e095d74bbef60e93e1ba80349223/PCB_workshop-Ieee-compsoc-final_-_Shruthi_Reddy.png",
-            "details": {
-              "size": 531617,
-              "image": {
-                "width": 490,
-                "height": 687
-              }
-            },
-            "fileName": "PCB workshop-Ieee-compsoc-final - Shruthi Reddy.png",
-            "contentType": "image/png"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
-          "id": "60RaLyiHMNKjzSgWlr8lCY",
-          "type": "Asset",
-          "createdAt": "2025-10-14T18:38:37.727Z",
-          "updatedAt": "2025-10-14T18:38:37.727Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 3,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "GreenCode (1) - Abirami S",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/60RaLyiHMNKjzSgWlr8lCY/c4ce1d447cd8c82213b0b2502bc12e95/GreenCode__1__-_Abirami_S.jpg",
-            "details": {
-              "size": 409340,
-              "image": {
-                "width": 1587,
-                "height": 2245
-              }
-            },
-            "fileName": "GreenCode (1) - Abirami S.jpg",
-            "contentType": "image/jpeg"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
           "id": "6OHduzb0cokTRQXgpvxykk",
           "type": "Asset",
           "createdAt": "2025-10-14T18:47:41.033Z",
@@ -11511,96 +10844,6 @@
               }
             },
             "fileName": "game poster - Benila S.jpg",
-            "contentType": "image/jpeg"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
-          "id": "7rpcxPKSUTTC2WmhukoQhO",
-          "type": "Asset",
-          "createdAt": "2025-10-14T18:56:06.663Z",
-          "updatedAt": "2025-10-14T18:56:06.663Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 4,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "Na",
-          "description": "we provide each participating team with a fixed budget, which they can spend on materials that we have in store and use to build a bridge to cross a gap and a structure that can take the maximum load. Participants are also given a chance to complete some small challenges to get more budget for materials. They now must optimize time spent on challenges materials and the time spent on constructing the bridge . Team of 3 will take on this challenge",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/7rpcxPKSUTTC2WmhukoQhO/94fe315a8b5880a8f91848328e4e3d96/TechnoVITPosters_-_IT_AUTOVIT.jpg",
-            "details": {
-              "size": 455585,
-              "image": {
-                "width": 1587,
-                "height": 2245
-              }
-            },
-            "fileName": "TechnoVITPosters - IT AUTOVIT.jpg",
-            "contentType": "image/jpeg"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
-          "id": "7v2AZm2eZOhEHXan7lQktJ",
-          "type": "Asset",
-          "createdAt": "2025-10-15T03:14:25.877Z",
-          "updatedAt": "2025-10-15T03:14:25.877Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 3,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "THE STRANGER CLUES - Open Source Programming Club",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/7v2AZm2eZOhEHXan7lQktJ/e5141a97f23315fce2e6ce4c7dc57d43/THE_STRANGER_CLUES_-_Open_Source_Programming_Club.jpg",
-            "details": {
-              "size": 973369,
-              "image": {
-                "width": 1587,
-                "height": 2245
-              }
-            },
-            "fileName": "THE STRANGER CLUES - Open Source Programming Club.jpg",
             "contentType": "image/jpeg"
           }
         }
