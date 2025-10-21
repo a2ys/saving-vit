@@ -2,10 +2,122 @@
   "sys": {
     "type": "Array"
   },
-  "total": 179,
+  "total": 178,
   "skip": 0,
-  "limit": 179,
+  "limit": 178,
   "items": [
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "79TD3bkEuPxdpxHHV06UTU",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:08:43.423Z",
+        "updatedAt": "2025-10-21T13:22:10.787Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Electronic circuit design contest (Squad)",
+        "clubName": "ENFUSE",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-31T13:30:00.000Z",
+        "endDateAndTime": "2025-10-31T17:30:00.000Z",
+        "pricePerPerson": 400,
+        "participationType": "Squad",
+        "eventVenue": "AB1 306 Control and Instrumentation Lab ",
+        "shortDescription": "Register as single person in the payment portal and then form teams. Tackle a simple engineering design problem in ECE, EEE, or CSE. Your challenge is to create a theoretical design, build a mandatory hardware prototype on a breadboard or PCB, and validate your results using simulation software.",
+        "longDescription": "Students will be given a simple engineering design problem related to Electrical, Electronics, Communication and Computer Engineering. Interested others may also join.\n \n Students have to identify the system, make a theoretical design, identify the components required and make a hardware prototype (mandatory) using breadboard or general purpose pcb. The results of the prototype shall be validated using any simulation software.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "59v8btyTT66hjUmx2c1kHs",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:08:42.316Z",
+        "updatedAt": "2025-10-21T13:22:01.177Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 7,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Electronic circuit design contest (Trio)",
+        "clubName": "ENFUSE",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-31T13:30:00.000Z",
+        "endDateAndTime": "2025-10-31T17:30:00.000Z",
+        "pricePerPerson": 300,
+        "participationType": "Trio",
+        "eventVenue": "AB1 306 Control and Instrumentation Lab ",
+        "shortDescription": "Register as single person in the payment portal and then form teams. Tackle a simple engineering design problem in ECE, EEE, or CSE. Your challenge is to create a theoretical design, build a mandatory hardware prototype on a breadboard or PCB, and validate your results using simulation software.",
+        "longDescription": "Students will be given a simple engineering design problem related to Electrical, Electronics, Communication and Computer Engineering. Interested others may also join.\n \n Students have to identify the system, make a theoretical design, identify the components required and make a hardware prototype (mandatory) using breadboard or general purpose pcb. The results of the prototype shall be validated using any simulation software.",
+        "specialEvent": false
+      }
+    },
     {
       "metadata": {
         "tags": [],
@@ -3659,62 +3771,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "57due0zFThXucRYkPFk7FR",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:24:54.655Z",
-        "updatedAt": "2025-10-18T14:24:54.655Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "THE PRIVACY PARADOX ",
-        "clubName": "VITC DEBATE SOCIETY",
-        "eventType": "Entertainment",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-29T09:00:00.000Z",
-        "endDateAndTime": "2025-10-29T16:00:00.000Z",
-        "pricePerPerson": 150,
-        "participationType": "Solo",
-        "eventVenue": "AB3 501",
-        "shortDescription": "A Model-UN style debate where each participant represents a country and deliberates on the pressing agenda: “Artificial Intelligence and Surveillance: Balancing National Security with the Right to Privacy.” The event will encourage critical thinking, negotiation, and global policy discussion on how nations can leverage AI for security without compromising fundamental human rights.",
-        "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "6umQynGhnQSG5x9W3c53d0",
         "type": "Entry",
         "createdAt": "2025-10-18T14:20:31.691Z",
@@ -4819,118 +4875,6 @@
         "eventVenue": "AB3 312",
         "shortDescription": "With a focus on the future of devices, this event seeks to highlight how advancements in semiconductor technology, quantum devices, flexible electronics, and AI-integrated systems are redefining industries and society.",
         "longDescription": "With a focus on the future of devices, this event seeks to highlight how advancements in semiconductor technology, quantum devices, flexible electronics, and AI-integrated systems are redefining industries and society.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "79TD3bkEuPxdpxHHV06UTU",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:08:43.423Z",
-        "updatedAt": "2025-10-18T14:08:43.423Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Electronic circuit design contest (Squad)",
-        "clubName": "ENFUSE",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T13:30:00.000Z",
-        "endDateAndTime": "2025-10-31T17:30:00.000Z",
-        "pricePerPerson": 400,
-        "participationType": "Squad",
-        "eventVenue": "AB1 306 Control and Instrumentation Lab ",
-        "shortDescription": "Tackle a simple engineering design problem in ECE, EEE, or CSE. Your challenge is to create a theoretical design, build a mandatory hardware prototype on a breadboard or PCB, and validate your results using simulation software.",
-        "longDescription": "Students will be given a simple engineering design problem related to Electrical, Electronics, Communication and Computer Engineering. Interested others may also join.\n \n Students have to identify the system, make a theoretical design, identify the components required and make a hardware prototype (mandatory) using breadboard or general purpose pcb. The results of the prototype shall be validated using any simulation software.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "59v8btyTT66hjUmx2c1kHs",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:08:42.316Z",
-        "updatedAt": "2025-10-18T14:08:42.316Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Electronic circuit design contest (Trio)",
-        "clubName": "ENFUSE",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T13:30:00.000Z",
-        "endDateAndTime": "2025-10-31T17:30:00.000Z",
-        "pricePerPerson": 300,
-        "participationType": "Trio",
-        "eventVenue": "AB1 306 Control and Instrumentation Lab ",
-        "shortDescription": "Tackle a simple engineering design problem in ECE, EEE, or CSE. Your challenge is to create a theoretical design, build a mandatory hardware prototype on a breadboard or PCB, and validate your results using simulation software.",
-        "longDescription": "Students will be given a simple engineering design problem related to Electrical, Electronics, Communication and Computer Engineering. Interested others may also join.\n \n Students have to identify the system, make a theoretical design, identify the components required and make a hardware prototype (mandatory) using breadboard or general purpose pcb. The results of the prototype shall be validated using any simulation software.",
         "specialEvent": false
       }
     },
