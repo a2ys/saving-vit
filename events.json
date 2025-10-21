@@ -19,6 +19,790 @@
             "id": "rr94wjxz7mfi"
           }
         },
+        "id": "yR5hnn0lUzQZGnk6znExi",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:08:46.899Z",
+        "updatedAt": "2025-10-21T05:21:31.298Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "The Escape room Psych Lab lockdown",
+        "clubName": "RED RIBBON CLUB",
+        "eventType": "Game",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-11-01T10:00+00:00",
+        "endDateAndTime": "2025-11-01T13:00+00:00",
+        "pricePerPerson": 500,
+        "participationType": "Squad",
+        "eventVenue": "AB2 701  psychometric lab",
+        "shortDescription": "A group of psychologists are trapped in a lab by their superiors. Forced to cooperate, they must overcome their differences and retrieve vital information to escape the deafening silence and the lab's confines.",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "ha5lhqtqY6jKVmVoG6qwp",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:07:17.547Z",
+        "updatedAt": "2025-10-21T05:21:07.016Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Circuit-A-Thon",
+        "clubName": "INTEGRATED CIRCUITS & SYSTEM DESIGN (ICSD)",
+        "eventType": "Hackathon",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-11-01T08:00+00:00",
+        "endDateAndTime": "2025-11-01T08:00+00:00",
+        "pricePerPerson": 200,
+        "participationType": "Solo",
+        "eventVenue": "AB1 505",
+        "shortDescription": "Circuit-A-Thon is a fast-paced hardware buildathon where teams design and demo circuits (analog, mixed-signal, IoT, FPGA). With guided checkpoints, mentor hours, and on-bench testing, participants turn ideas into measurable, demo-ready prototypes.",
+        "longDescription": "Circuit-A-Thon is a fast-paced hardware buildathon where teams design, prototype, and demo working electronic circuits—from analog front-ends and mixed-signal blocks to embedded/IoT systems and FPGA logic. Guided checkpoints, mentor hours, and on-bench testing help participants turn ideas into measurable, demo-ready prototypes.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "6FIhYpR5KudoUTqHlhlLkd",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:07:20.788Z",
+        "updatedAt": "2025-10-21T05:20:27.429Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Codegolf",
+        "clubName": "THE HACK CLUB",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-11-01T09:00+00:00",
+        "endDateAndTime": "2025-11-01T13:00+00:00",
+        "pricePerPerson": 50,
+        "participationType": "Solo",
+        "eventVenue": "AB3 102",
+        "shortDescription": "In Code Golf, solve coding problems with the shortest possible code. Every character counts in this high-energy challenge. The winner is the one who writes the leanest, most elegant solution in a battle of logic, creativity, and brevity.",
+        "longDescription": "Code Golf is a high-energy coding challenge where participants must solve problems with the shortest possible code. Every character counts, and the winner is the one who trims their logic down to the leanest, most elegant solution. It’s a battle of logic, creativity, and brevity—where less truly is more.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "4hV4t7IBpjgRQoPAwlw8Ub",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:11:09.068Z",
+        "updatedAt": "2025-10-21T05:20:00.645Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Healing Hues",
+        "clubName": "Designers Club",
+        "eventType": "Workshop",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-11-01T10:00+00:00",
+        "endDateAndTime": "2025-11-01T12:00+00:00",
+        "pricePerPerson": 150,
+        "participationType": "Duo",
+        "eventVenue": "AB1 701",
+        "shortDescription": "Explore your inner world in this immersive face art competition. Generate a unique emotional prompt using AI or introspection. Transform your face into a canvas of healing and expression, interpreting yourself through color, symbolism, and design.\n\n",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "39w0AmK2qU6envFFbkzz0p",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:11:16.208Z",
+        "updatedAt": "2025-10-21T05:19:22.721Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 4,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Innovate to Escape (Squad)",
+        "clubName": "PRODINNO",
+        "eventType": "Game",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-11-01T09:00+00:00",
+        "endDateAndTime": "2025-11-01T17:00+00:00",
+        "pricePerPerson": 240,
+        "participationType": "Squad",
+        "eventVenue": "AB3 104",
+        "shortDescription": "This is a 3-stage tech escape challenge! 🔐 Stage 1: Solve resistor and Python puzzles for a 3-digit key. Stage 2: Use a UV light to find a hidden schematic and complete a physical circuit. Stage 3: Decrypt a hex command for the final password.",
+        "longDescription": "Stage 1: The Technical Key: Participants begin by searching for clues to unlock a secured component box. The solution is not a simple number, but a 3-digit code derived from technical knowledge: interpreting resistor color codes from a schematic, calculating the output of a Python programming snippet, and identifying a standard secure network port.\n• Stage 2: The Circuit Completion: Using a UV light, teams will uncover a hidden, incomplete circuit diagram. Their task is to correctly interpret the schematic and use physical wires to complete the circuit on the main prototype device, demonstrating a practical understanding of electronic pathways.\n• Stage 3: The Hexadecimal Override: The finale requires teams to decrypt a hexadecimal command key displayed on the prototype's screen. Using a provided Hex-to-ASCII chart, they must translate the machine code into a final password, simulating a system override.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "2ghW4MCV8jSIzKXXQZoEzW",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:11:17.372Z",
+        "updatedAt": "2025-10-21T05:19:00.713Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Innovate to Escape (Group)",
+        "clubName": "PRODINNO",
+        "eventType": "Game",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-11-01T09:00+00:00",
+        "endDateAndTime": "2025-11-01T17:00+00:00",
+        "pricePerPerson": 300,
+        "participationType": "5+ Members",
+        "eventVenue": "AB3 104",
+        "shortDescription": "This is a 3-stage tech escape challenge! 🔐 Stage 1: Solve resistor and Python puzzles for a 3-digit key. Stage 2: Use a UV light to find a hidden schematic and complete a physical circuit. Stage 3: Decrypt a hex command for the final password.",
+        "longDescription": "Stage 1: The Technical Key: Participants begin by searching for clues to unlock a secured component box. The solution is not a simple number, but a 3-digit code derived from technical knowledge: interpreting resistor color codes from a schematic, calculating the output of a Python programming snippet, and identifying a standard secure network port.\n• Stage 2: The Circuit Completion: Using a UV light, teams will uncover a hidden, incomplete circuit diagram. Their task is to correctly interpret the schematic and use physical wires to complete the circuit on the main prototype device, demonstrating a practical understanding of electronic pathways.\n• Stage 3: The Hexadecimal Override: The finale requires teams to decrypt a hexadecimal command key displayed on the prototype's screen. Using a provided Hex-to-ASCII chart, they must translate the machine code into a final password, simulating a system override.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "2gFvLEVozMdI4xSi7Bfduf",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:11:14.954Z",
+        "updatedAt": "2025-10-21T05:18:46.399Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Innovate to Escape (Trio)",
+        "clubName": "PRODINNO",
+        "eventType": "Game",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-11-01T09:00+00:00",
+        "endDateAndTime": "2025-11-01T17:00+00:00",
+        "pricePerPerson": 180,
+        "participationType": "Trio",
+        "eventVenue": "AB3 104",
+        "shortDescription": "This is a 3-stage tech escape challenge! 🔐 Stage 1: Solve resistor and Python puzzles for a 3-digit key. Stage 2: Use a UV light to find a hidden schematic and complete a physical circuit. Stage 3: Decrypt a hex command for the final password.",
+        "longDescription": "Stage 1: The Technical Key: Participants begin by searching for clues to unlock a secured component box. The solution is not a simple number, but a 3-digit code derived from technical knowledge: interpreting resistor color codes from a schematic, calculating the output of a Python programming snippet, and identifying a standard secure network port.\n• Stage 2: The Circuit Completion: Using a UV light, teams will uncover a hidden, incomplete circuit diagram. Their task is to correctly interpret the schematic and use physical wires to complete the circuit on the main prototype device, demonstrating a practical understanding of electronic pathways.\n• Stage 3: The Hexadecimal Override: The finale requires teams to decrypt a hexadecimal command key displayed on the prototype's screen. Using a provided Hex-to-ASCII chart, they must translate the machine code into a final password, simulating a system override.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "RBVudOLZeTyNJjbSP0EiL",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:12:12.939Z",
+        "updatedAt": "2025-10-21T05:18:07.496Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "OhmegaHack",
+        "clubName": "INTEGRATED CIRCUITS & SYSTEM DESIGN (ICSD)",
+        "eventType": "Hackathon",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-11-01T09:00+00:00",
+        "endDateAndTime": "2025-11-01T18:00+00:00",
+        "pricePerPerson": 150,
+        "participationType": "Trio",
+        "eventVenue": "AB2 001",
+        "shortDescription": "Join our single-stage hackathon on **VLSI and general electronics**! 🚀 Participants will choose a problem statement on the event day. Solutions will be judged on **innovation, creativity, and originality** by a panel of faculty and students.",
+        "longDescription": "Hackathon with problem statements on VLSI and general electronics. A single stage hackathon in which participants will be given problem statements to choose from on the day. They will then be judged based on multiple criteria such as innovation, creativity, originality etc by a mix of faculty and students.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "REUv3A4bQMHaQBrdwrYYm",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:14:44.014Z",
+        "updatedAt": "2025-10-21T05:17:24.385Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 5,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "ScriptWave",
+        "clubName": "INTEGRATED CIRCUITS & SYSTEM DESIGN (ICSD)",
+        "eventType": "Hackathon",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-11-01T08:00+00:00",
+        "endDateAndTime": "2025-11-02T18:00+00:00",
+        "pricePerPerson": 50,
+        "participationType": "Solo",
+        "eventVenue": "AB3 409",
+        "shortDescription": "ScriptWave is a hands-on hackathon where teams tackle scripting and verification challenges. Create scripts, build testbenches,and debug digital designs to gain practical experience with industry tools in a collaborative, problem-solving environment.\n\n",
+        "longDescription": "ScriptWave is a hands-on hackathon where participants dive into scripting and verification challenges to test and validate digital designs. Teams will create scripts, build testbenches, and debug solutions in a collaborative environment, gaining practical experience with industry-relevant tools and methodologies. The event emphasizes problem-solving, innovation, and efficiency, giving participants a real taste of digital design verification in action.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "2TnwvkgwBrQXaw2BZaUgO2",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:12:19.400Z",
+        "updatedAt": "2025-10-21T05:16:57.794Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Quiz - O - Mania (Duo)",
+        "clubName": "INDIAN CONCRETE INSTITUTE STUDENT CHAPTER",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-11-01T09:00+00:00",
+        "endDateAndTime": "2025-11-01T15:00+00:00",
+        "pricePerPerson": 100,
+        "participationType": "Duo",
+        "eventVenue": "AB3 101",
+        "shortDescription": "Quiz-o-Mania (Visual Civil Quiz)\n \n Identify structures, famous bridges, construction failures, or equipment from pictures.",
+        "longDescription": "Quiz-o-Mania (Visual Civil Quiz)\n \n Identify structures, famous bridges, construction failures, or equipment from pictures.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "1QrGlqwCph82gx1E8PsFKs",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:12:20.460Z",
+        "updatedAt": "2025-10-21T05:16:40.234Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 6,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Quiz - O - Mania (Trio)",
+        "clubName": "INDIAN CONCRETE INSTITUTE STUDENT CHAPTER",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-11-01T09:00+00:00",
+        "endDateAndTime": "2025-11-01T15:00+00:00",
+        "pricePerPerson": 150,
+        "participationType": "Trio",
+        "eventVenue": "AB3 101",
+        "shortDescription": "Quiz-o-Mania (Visual Civil Quiz)\n \n Identify structures, famous bridges, construction failures, or equipment from pictures.",
+        "longDescription": "Quiz-o-Mania (Visual Civil Quiz)\n \n Identify structures, famous bridges, construction failures, or equipment from pictures.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "wyF64aCoqRZPer0ZnKWPB",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:19:45.305Z",
+        "updatedAt": "2025-10-21T05:14:51.954Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 4,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Render Quest 2.0",
+        "clubName": "Augmented & Virtual Reality Club",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-11-01T13:30+00:00",
+        "endDateAndTime": "2025-11-01T17:30+00:00",
+        "pricePerPerson": 50,
+        "participationType": "Solo",
+        "eventVenue": "AB3-208",
+        "shortDescription": "People familiar and interested in blender are given a free hand for their creativities based on selective themes and will be judged by 3D modeling department of the club based on their skills, creativity and proficiency of Blender Software.",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "7njazLSSe0cMlYdK4ZiUGx",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:14:44.930Z",
+        "updatedAt": "2025-10-21T05:12:59.082Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 4,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Techno Prix",
+        "clubName": "ENACTUS VIT CHENNAI X GDG",
+        "eventType": "Game",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-11-01T09:00+00:00",
+        "endDateAndTime": "2025-11-01T17:00+00:00",
+        "pricePerPerson": 400,
+        "participationType": "Squad",
+        "eventVenue": "Clock Court, MBA Amphi, AB1 Portico, AB3 Portico, AB1 Side Entrance, AB1 Mini Portico, AB3 First Floor Classroom, Outside/Near MG, and AB3 Amphi (Back Side) (Multiple checkpoints throughout the campus)",
+        "shortDescription": "Techno Prix is a campus-wide event where teams of 4 navigate checkpoints, tackling challenges that test entrepreneurship and strategy. Compete in activities like Shark Tank pitches, SDG card trading, and meme marketing to win.",
+        "longDescription": "Techno Prix is an interactive, campus-wide event designed to foster entrepreneurship, strategic thinking, collaborative problem-solving, and innovation among students. Teams of four will navigate a series of 10 checkpoints across the campus, participating in challenges that combine business creativity, negotiation, and gameplay.\n \n Participants will engage in activities such as:\n -Shark Tank Mini: Pitch creative business ideas to earn investment points.\n -SDG Deck Trade: Strategically negotiate and collect Sustainable Development Goal cards to maximize rewards.\n -Reverse Shark Tank: Present unconventional or humorous business ideas persuasively.\n -Customer Chaos Challenge: Demonstrate adaptability and sales skills by addressing unique customer demands.\n -Meme Marketing Mayhem: Develop marketing content for given products, emphasizing creativity and engagement.\n -GDG GameDev PlayZone: Experience and compete in games created by the GameDev team, earning points and advantages through interactive gameplay.\n \n The event aims to encourage entrepreneurial thinking, creativity, teamwork, and campus-wide interaction, while maintaining an enjoyable and competitive environment.\n \n Team Composition: 4 members per team\n Venue: Multiple checkpoints across the campus",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "5P8ThUgT1SpAVUr7XmZUPY",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:24:55.895Z",
+        "updatedAt": "2025-10-21T05:11:50.573Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 4,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "THE PROJECT X",
+        "clubName": "VITC DEBATE SOCIETY",
+        "eventType": "Entertainment",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-11-01T10:00+00:00",
+        "endDateAndTime": "2025-11-01T16:00+00:00",
+        "pricePerPerson": 150,
+        "participationType": "Solo",
+        "eventVenue": "AB3-601",
+        "shortDescription": "Step into a high-stakes world where a powerful corporation hides its darkest secrets. Project X is an interactive debate-meets-tech challenge where participants investigate a staged corporate cover-up. Teams will interrogate witnesses, uncover digital evidence, and hack through simulated firewalls to reveal the truth. With three thrilling rounds — The Interrogation Gauntlet, The Data Heist, and The Press Conference — this event blends sharp debating skills with technical forensics. Do you have what it takes to expose the truth or defend the indefensible?",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
         "id": "4x9dshzvSO8WbfIrGHdRP2",
         "type": "Entry",
         "createdAt": "2025-10-18T14:24:57.019Z",
@@ -467,62 +1251,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "5P8ThUgT1SpAVUr7XmZUPY",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:24:55.895Z",
-        "updatedAt": "2025-10-18T14:24:55.895Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "THE PROJECT X",
-        "clubName": "VITC DEBATE SOCIETY",
-        "eventType": "Entertainment",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-01-11T10:00:00.000Z",
-        "endDateAndTime": "2025-01-11T16:00:00.000Z",
-        "pricePerPerson": 150,
-        "participationType": "Solo",
-        "eventVenue": "AB3-601",
-        "shortDescription": "Step into a high-stakes world where a powerful corporation hides its darkest secrets. Project X is an interactive debate-meets-tech challenge where participants investigate a staged corporate cover-up. Teams will interrogate witnesses, uncover digital evidence, and hack through simulated firewalls to reveal the truth. With three thrilling rounds — The Interrogation Gauntlet, The Data Heist, and The Press Conference — this event blends sharp debating skills with technical forensics. Do you have what it takes to expose the truth or defend the indefensible?",
-        "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "57due0zFThXucRYkPFk7FR",
         "type": "Entry",
         "createdAt": "2025-10-18T14:24:54.655Z",
@@ -954,62 +1682,6 @@
         "participationType": "Duo/Trio",
         "eventVenue": "AB1 - 002",
         "shortDescription": "A event where we’ll providing the participants with LEDs,resistors and Arduino UNO, the team with the most creative design of LEDs desigining will be the winner",
-        "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "wyF64aCoqRZPer0ZnKWPB",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:19:45.305Z",
-        "updatedAt": "2025-10-18T14:19:45.305Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Render Quest 2.0",
-        "clubName": "Augmented & Virtual Reality Club",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-01-01T13:30:00.000Z",
-        "endDateAndTime": "2025-01-01T17:30:00.000Z",
-        "pricePerPerson": 50,
-        "participationType": "Solo",
-        "eventVenue": "AB3-208",
-        "shortDescription": "People familiar and interested in blender are given a free hand for their creativities based on selective themes and will be judged by 3D modeling department of the club based on their skills, creativity and proficiency of Blender Software.",
         "longDescription": "",
         "specialEvent": false
       }
@@ -1587,118 +2259,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "7njazLSSe0cMlYdK4ZiUGx",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:14:44.930Z",
-        "updatedAt": "2025-10-18T14:14:44.930Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Techno Prix",
-        "clubName": "ENACTUS VIT CHENNAI X GDG",
-        "eventType": "Game",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-01-11T09:00:00.000Z",
-        "endDateAndTime": "2025-01-11T17:00:00.000Z",
-        "pricePerPerson": 400,
-        "participationType": "Squad",
-        "eventVenue": "Clock Court, MBA Amphi, AB1 Portico, AB3 Portico, AB1 Side Entrance, AB1 Mini Portico, AB3 First Floor Classroom, Outside/Near MG, and AB3 Amphi (Back Side) (Multiple checkpoints throughout the campus)",
-        "shortDescription": "Techno Prix is a campus-wide event where teams of 4 navigate checkpoints, tackling challenges that test entrepreneurship and strategy. Compete in activities like Shark Tank pitches, SDG card trading, and meme marketing to win.",
-        "longDescription": "Techno Prix is an interactive, campus-wide event designed to foster entrepreneurship, strategic thinking, collaborative problem-solving, and innovation among students. Teams of four will navigate a series of 10 checkpoints across the campus, participating in challenges that combine business creativity, negotiation, and gameplay.\n \n Participants will engage in activities such as:\n -Shark Tank Mini: Pitch creative business ideas to earn investment points.\n -SDG Deck Trade: Strategically negotiate and collect Sustainable Development Goal cards to maximize rewards.\n -Reverse Shark Tank: Present unconventional or humorous business ideas persuasively.\n -Customer Chaos Challenge: Demonstrate adaptability and sales skills by addressing unique customer demands.\n -Meme Marketing Mayhem: Develop marketing content for given products, emphasizing creativity and engagement.\n -GDG GameDev PlayZone: Experience and compete in games created by the GameDev team, earning points and advantages through interactive gameplay.\n \n The event aims to encourage entrepreneurial thinking, creativity, teamwork, and campus-wide interaction, while maintaining an enjoyable and competitive environment.\n \n Team Composition: 4 members per team\n Venue: Multiple checkpoints across the campus",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "REUv3A4bQMHaQBrdwrYYm",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:14:44.014Z",
-        "updatedAt": "2025-10-18T14:14:44.014Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "ScriptWave",
-        "clubName": "INTEGRATED CIRCUITS & SYSTEM DESIGN (ICSD)",
-        "eventType": "Hackathon",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-01-11T08:00:00.000Z",
-        "endDateAndTime": "2025-02-11T18:00:00.000Z",
-        "pricePerPerson": 50,
-        "participationType": "Solo",
-        "eventVenue": "AB3 409",
-        "shortDescription": "ScriptWave is a hands-on hackathon where teams tackle scripting and verification challenges. Create scripts, build testbenches,and debug digital designs to gain practical experience with industry tools in a collaborative, problem-solving environment.\n\n",
-        "longDescription": "ScriptWave is a hands-on hackathon where participants dive into scripting and verification challenges to test and validate digital designs. Teams will create scripts, build testbenches, and debug solutions in a collaborative environment, gaining practical experience with industry-relevant tools and methodologies. The event emphasizes problem-solving, innovation, and efficiency, giving participants a real taste of digital design verification in action.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "2RCN6Y7xm5TiT8f2Uy0pgx",
         "type": "Entry",
         "createdAt": "2025-10-18T14:14:42.912Z",
@@ -1963,118 +2523,6 @@
         "eventVenue": "AB3 Portico",
         "shortDescription": "In Robo Soccer, a competition by the IEEE RAS Student Chapter at TechnoVIT, students design and program autonomous robots to play soccer. ⚽ This hands-on challenge is a platform to showcase skills in robotics, AI, and strategic teamwork.",
         "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "1QrGlqwCph82gx1E8PsFKs",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:12:20.460Z",
-        "updatedAt": "2025-10-18T14:12:20.460Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Quiz - O - Mania (Trio)",
-        "clubName": "INDIAN CONCRETE INSTITUTE STUDENT CHAPTER",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-01-11T09:00:00.000Z",
-        "endDateAndTime": "2025-01-11T15:00:00.000Z",
-        "pricePerPerson": 150,
-        "participationType": "Trio",
-        "eventVenue": "AB3 101",
-        "shortDescription": "Quiz-o-Mania (Visual Civil Quiz)\n \n Identify structures, famous bridges, construction failures, or equipment from pictures.",
-        "longDescription": "Quiz-o-Mania (Visual Civil Quiz)\n \n Identify structures, famous bridges, construction failures, or equipment from pictures.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "2TnwvkgwBrQXaw2BZaUgO2",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:12:19.400Z",
-        "updatedAt": "2025-10-18T14:12:19.400Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Quiz - O - Mania (Duo)",
-        "clubName": "INDIAN CONCRETE INSTITUTE STUDENT CHAPTER",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-01-11T09:00:00.000Z",
-        "endDateAndTime": "2025-01-11T15:00:00.000Z",
-        "pricePerPerson": 100,
-        "participationType": "Duo",
-        "eventVenue": "AB3 101",
-        "shortDescription": "Quiz-o-Mania (Visual Civil Quiz)\n \n Identify structures, famous bridges, construction failures, or equipment from pictures.",
-        "longDescription": "Quiz-o-Mania (Visual Civil Quiz)\n \n Identify structures, famous bridges, construction failures, or equipment from pictures.",
         "specialEvent": false
       }
     },
@@ -2371,62 +2819,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "RBVudOLZeTyNJjbSP0EiL",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:12:12.939Z",
-        "updatedAt": "2025-10-18T14:12:12.939Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "OhmegaHack",
-        "clubName": "INTEGRATED CIRCUITS & SYSTEM DESIGN (ICSD)",
-        "eventType": "Hackathon",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-01-11T09:00:00.000Z",
-        "endDateAndTime": "2025-01-11T18:00:00.000Z",
-        "pricePerPerson": 150,
-        "participationType": "Trio",
-        "eventVenue": "AB2 001",
-        "shortDescription": "Join our single-stage hackathon on **VLSI and general electronics**! 🚀 Participants will choose a problem statement on the event day. Solutions will be judged on **innovation, creativity, and originality** by a panel of faculty and students.",
-        "longDescription": "Hackathon with problem statements on VLSI and general electronics. A single stage hackathon in which participants will be given problem statements to choose from on the day. They will then be judged based on multiple criteria such as innovation, creativity, originality etc by a mix of faculty and students.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "37ezSyHjYEAvAqUqPKB7Pa",
         "type": "Entry",
         "createdAt": "2025-10-18T14:12:11.806Z",
@@ -2467,174 +2859,6 @@
         "eventVenue": "Online ",
         "shortDescription": "This event is a International Online team event supported by Tetcos, Bangalore and IEEE photonics society.   Team Size is restricted to a minimum of 2 members to maximum of 3 members.  This event is primarily targeted for UG students who has essential knowledge or interests in Computer Networks. NetSim by Tetcos is a powerful network simulation software used to design, analyze, and visualize communication networks An online workshop familiarizes participants with hands-on network modeling and performance analysis using NetSim. The 24-hour online hackathon engages students in real-time problem-solving and innovation through multi-round simulation and debugging challenges.",
         "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "2ghW4MCV8jSIzKXXQZoEzW",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:11:17.372Z",
-        "updatedAt": "2025-10-18T14:11:17.372Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Innovate to Escape (Group)",
-        "clubName": "PRODINNO",
-        "eventType": "Game",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-01-11T09:00:00.000Z",
-        "endDateAndTime": "2025-01-11T17:00:00.000Z",
-        "pricePerPerson": 300,
-        "participationType": "5+ Members",
-        "eventVenue": "AB3 104",
-        "shortDescription": "This is a 3-stage tech escape challenge! 🔐 Stage 1: Solve resistor and Python puzzles for a 3-digit key. Stage 2: Use a UV light to find a hidden schematic and complete a physical circuit. Stage 3: Decrypt a hex command for the final password.",
-        "longDescription": "Stage 1: The Technical Key: Participants begin by searching for clues to unlock a secured component box. The solution is not a simple number, but a 3-digit code derived from technical knowledge: interpreting resistor color codes from a schematic, calculating the output of a Python programming snippet, and identifying a standard secure network port.\n• Stage 2: The Circuit Completion: Using a UV light, teams will uncover a hidden, incomplete circuit diagram. Their task is to correctly interpret the schematic and use physical wires to complete the circuit on the main prototype device, demonstrating a practical understanding of electronic pathways.\n• Stage 3: The Hexadecimal Override: The finale requires teams to decrypt a hexadecimal command key displayed on the prototype's screen. Using a provided Hex-to-ASCII chart, they must translate the machine code into a final password, simulating a system override.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "39w0AmK2qU6envFFbkzz0p",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:11:16.208Z",
-        "updatedAt": "2025-10-18T14:11:16.208Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Innovate to Escape (Squad)",
-        "clubName": "PRODINNO",
-        "eventType": "Game",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-01-11T09:00:00.000Z",
-        "endDateAndTime": "2025-01-11T17:00:00.000Z",
-        "pricePerPerson": 240,
-        "participationType": "Squad",
-        "eventVenue": "AB3 104",
-        "shortDescription": "This is a 3-stage tech escape challenge! 🔐 Stage 1: Solve resistor and Python puzzles for a 3-digit key. Stage 2: Use a UV light to find a hidden schematic and complete a physical circuit. Stage 3: Decrypt a hex command for the final password.",
-        "longDescription": "Stage 1: The Technical Key: Participants begin by searching for clues to unlock a secured component box. The solution is not a simple number, but a 3-digit code derived from technical knowledge: interpreting resistor color codes from a schematic, calculating the output of a Python programming snippet, and identifying a standard secure network port.\n• Stage 2: The Circuit Completion: Using a UV light, teams will uncover a hidden, incomplete circuit diagram. Their task is to correctly interpret the schematic and use physical wires to complete the circuit on the main prototype device, demonstrating a practical understanding of electronic pathways.\n• Stage 3: The Hexadecimal Override: The finale requires teams to decrypt a hexadecimal command key displayed on the prototype's screen. Using a provided Hex-to-ASCII chart, they must translate the machine code into a final password, simulating a system override.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "2gFvLEVozMdI4xSi7Bfduf",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:11:14.954Z",
-        "updatedAt": "2025-10-18T14:11:14.954Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Innovate to Escape (Trio)",
-        "clubName": "PRODINNO",
-        "eventType": "Game",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-01-11T09:00:00.000Z",
-        "endDateAndTime": "2025-01-11T17:00:00.000Z",
-        "pricePerPerson": 180,
-        "participationType": "Trio",
-        "eventVenue": "AB3 104",
-        "shortDescription": "This is a 3-stage tech escape challenge! 🔐 Stage 1: Solve resistor and Python puzzles for a 3-digit key. Stage 2: Use a UV light to find a hidden schematic and complete a physical circuit. Stage 3: Decrypt a hex command for the final password.",
-        "longDescription": "Stage 1: The Technical Key: Participants begin by searching for clues to unlock a secured component box. The solution is not a simple number, but a 3-digit code derived from technical knowledge: interpreting resistor color codes from a schematic, calculating the output of a Python programming snippet, and identifying a standard secure network port.\n• Stage 2: The Circuit Completion: Using a UV light, teams will uncover a hidden, incomplete circuit diagram. Their task is to correctly interpret the schematic and use physical wires to complete the circuit on the main prototype device, demonstrating a practical understanding of electronic pathways.\n• Stage 3: The Hexadecimal Override: The finale requires teams to decrypt a hexadecimal command key displayed on the prototype's screen. Using a provided Hex-to-ASCII chart, they must translate the machine code into a final password, simulating a system override.",
         "specialEvent": false
       }
     },
@@ -2875,62 +3099,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "4hV4t7IBpjgRQoPAwlw8Ub",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:11:09.068Z",
-        "updatedAt": "2025-10-18T14:11:09.068Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Healing Hues",
-        "clubName": "Designers Club",
-        "eventType": "Workshop",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-01-11T10:00:00.000Z",
-        "endDateAndTime": "2025-01-11T12:00:00.000Z",
-        "pricePerPerson": 150,
-        "participationType": "Duo",
-        "eventVenue": "AB1 701",
-        "shortDescription": "Explore your inner world in this immersive face art competition. Generate a unique emotional prompt using AI or introspection. Transform your face into a canvas of healing and expression, interpreting yourself through color, symbolism, and design.\n\n",
-        "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "4cgJBBK2fMeF4WnerCN7jE",
         "type": "Entry",
         "createdAt": "2025-10-18T14:11:07.859Z",
@@ -3082,62 +3250,6 @@
         "participationType": "Solo",
         "eventVenue": "AB3-310",
         "shortDescription": "Become a digital guardian in our cyber defense workshop. Learn Linux essentials, networking, web vulnerabilities, and OSINT strategies with hands-on tools. Test your new skills in a final Capture-the-Flag (CTF) battle.",
-        "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "yR5hnn0lUzQZGnk6znExi",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:08:46.899Z",
-        "updatedAt": "2025-10-18T14:08:46.899Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "The Escape room Psych Lab lockdown",
-        "clubName": "RED RIBBON CLUB",
-        "eventType": "Game",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-01-11T10:00:00.000Z",
-        "endDateAndTime": "2025-01-11T13:00:00.000Z",
-        "pricePerPerson": 500,
-        "participationType": "Squad",
-        "eventVenue": "AB2 701  psychometric lab",
-        "shortDescription": "A group of psychologists are trapped in a lab by their superiors. Forced to cooperate, they must overcome their differences and retrieve vital information to escape the deafening silence and the lab's confines.",
         "longDescription": "",
         "specialEvent": false
       }
@@ -3603,62 +3715,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "6FIhYpR5KudoUTqHlhlLkd",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:07:20.788Z",
-        "updatedAt": "2025-10-18T14:07:20.788Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Codegolf",
-        "clubName": "THE HACK CLUB",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-01-11T09:00:00.000Z",
-        "endDateAndTime": "2025-01-11T13:00:00.000Z",
-        "pricePerPerson": 50,
-        "participationType": "Solo",
-        "eventVenue": "AB3 102",
-        "shortDescription": "In Code Golf, solve coding problems with the shortest possible code. Every character counts in this high-energy challenge. The winner is the one who writes the leanest, most elegant solution in a battle of logic, creativity, and brevity.",
-        "longDescription": "Code Golf is a high-energy coding challenge where participants must solve problems with the shortest possible code. Every character counts, and the winner is the one who trims their logic down to the leanest, most elegant solution. It’s a battle of logic, creativity, and brevity—where less truly is more.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "FhBKBmMhz3MVRRYwP4Obq",
         "type": "Entry",
         "createdAt": "2025-10-18T14:07:19.716Z",
@@ -3755,62 +3811,6 @@
         "eventVenue": "AB1 401",
         "shortDescription": "Code & Conquer Game-a-thon, where strategy meets skill in the ultimate gaming challenge!",
         "longDescription": "Code & Conquer Game-a-thon, where strategy meets skill in the ultimate gaming challenge!",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "ha5lhqtqY6jKVmVoG6qwp",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:07:17.547Z",
-        "updatedAt": "2025-10-18T14:07:17.547Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Circuit-A-Thon",
-        "clubName": "INTEGRATED CIRCUITS & SYSTEM DESIGN (ICSD)",
-        "eventType": "Hackathon",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-01-11T08:00:00.000Z",
-        "endDateAndTime": "2025-01-11T08:00:00.000Z",
-        "pricePerPerson": 200,
-        "participationType": "Solo",
-        "eventVenue": "AB1 505",
-        "shortDescription": "Circuit-A-Thon is a fast-paced hardware buildathon where teams design and demo circuits (analog, mixed-signal, IoT, FPGA). With guided checkpoints, mentor hours, and on-bench testing, participants turn ideas into measurable, demo-ready prototypes.",
-        "longDescription": "Circuit-A-Thon is a fast-paced hardware buildathon where teams design, prototype, and demo working electronic circuits—from analog front-ends and mixed-signal blocks to embedded/IoT systems and FPGA logic. Guided checkpoints, mentor hours, and on-bench testing help participants turn ideas into measurable, demo-ready prototypes.",
         "specialEvent": false
       }
     },
