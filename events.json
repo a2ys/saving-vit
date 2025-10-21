@@ -2,10 +2,1018 @@
   "sys": {
     "type": "Array"
   },
-  "total": 180,
+  "total": 179,
   "skip": 0,
-  "limit": 180,
+  "limit": 179,
   "items": [
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "2nW7giPavBJcmrJPqsmMpc",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:07:16.498Z",
+        "updatedAt": "2025-10-21T12:38:08.666Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Cine Sharks 2.o",
+        "clubName": "VITSION FILM MAKERS CLUB",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-31T09:00:00.000Z",
+        "endDateAndTime": "2025-10-31T16:00:00.000Z",
+        "pricePerPerson": 100,
+        "participationType": "Solo",
+        "eventVenue": "AB3 301",
+        "shortDescription": "In this \"Shark Tank\" style event, aspiring directors fix an underperforming movie. 🎬 Dissect its flaws and pitch a new vision—covering story, characters, and visuals—to judges acting as producers. Negotiate to secure the most profitable deal.",
+        "longDescription": "This event is based on shark tank where the business owners are replaced by aspiring young directors and the sharks are producers who are willing to finance their movies.\nOur event's main focus is for aspiring young directors to gain more knowledge on what goes behind making a successful movie.\nAs part of the event, we will be giving them each a movie which they will have to dissect and understand which part caused the movie's underperformance.\nFurther when they pitch the movie with their inputs to everything from the storyline, characters, camera aesthetics and sound effects.\nNow the new upgraded version of the movie will be narrated by them to the judges and negotiate with them and try to exceed the break-even amount thus making more profit making them the champion.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "2Hq7m0eLbsI99y8LqBu6if",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:13:01.109Z",
+        "updatedAt": "2025-10-21T12:28:52.313Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Robo Tug of War",
+        "clubName": "TechnoVIT",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-31T10:00:00.000Z",
+        "endDateAndTime": "2025-10-31T18:00:00.000Z",
+        "pricePerPerson": 500,
+        "participationType": "Solo",
+        "eventVenue": "AB3 Outside parking",
+        "shortDescription": "Robot Tug of War",
+        "longDescription": "Robot Tug of War",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "1qacEW3ugxuw6EQzbDQMwD",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:13:00.006Z",
+        "updatedAt": "2025-10-21T12:28:25.142Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Robo Sumo",
+        "clubName": "TechnoVIT",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-31T10:00:00.000Z",
+        "endDateAndTime": "2025-10-31T18:00:00.000Z",
+        "pricePerPerson": 500,
+        "participationType": "Solo",
+        "eventVenue": "AB3 Amphitheatre",
+        "shortDescription": "Robot Sumo\n",
+        "longDescription": "Robot Sumo\n",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "5yi5DZ4Ag9jCbKPrGbgpv3",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:12:59.044Z",
+        "updatedAt": "2025-10-21T12:27:46.595Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Robo Soccer",
+        "clubName": "IEEE ROBOTICS & AUTOMATION SOCIETY (IEEE-RAS)",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-29T09:00:00.000Z",
+        "endDateAndTime": "2025-10-29T17:00:00.000Z",
+        "pricePerPerson": 150,
+        "participationType": "Duo",
+        "eventVenue": "AB3 Portico",
+        "shortDescription": "In Robo Soccer, a competition by the IEEE RAS Student Chapter at TechnoVIT, students design and program autonomous robots to play soccer. ⚽ This hands-on challenge is a platform to showcase skills in robotics, AI, and strategic teamwork.",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "4xqIFFh2yuBAwN05g89cuC",
+        "type": "Entry",
+        "createdAt": "2025-10-16T11:33:48.821Z",
+        "updatedAt": "2025-10-21T12:27:25.316Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "SKETCH2STAGE",
+        "clubName": "THE HACK CLUB",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-31T09:00:00.000Z",
+        "endDateAndTime": "2025-10-31T13:00:00.000Z",
+        "pricePerPerson": 60,
+        "participationType": "Solo",
+        "eventVenue": "AB3 701",
+        "shortDescription": "Participants transform initial sketches into fully functional apps/websites addressing real-world problems. Teams design, develop and pitch solutions, judged on innovation, functionality, usability, and presentation.",
+        "longDescription": "Sketch2Stage will be an event organized by Hack Club, designed to inspire creativity, innovation, and problem-solving among students. This event challenges participants to transform their initial ideas the “sketch” into fully functional digital solutions and pitch it on “stage”<br> Participants will be presented with a set of real-world problem statements and will have a fixed time to design and develop an app or website particularly the design and user experience that addresses these challenges. The event emphasizes not just technical skills, but also innovation, usability, and the ability to communicate ideas effectively.<br> Once development concludes, teams will get the opportunity to pitch their solutions to a panel of judges. The pitch is a crucial part of the competition, allowing participants to showcase their product’s features, the problem it solves, and their vision for impact.<br> Winners will be selected based on criteria such as originality, relevance to the problem statement, functionality, user experience, and presentation skills.<br> Sketch2Stage will allow students to gain hands-on experience in product development, learn to work collaboratively under deadlines, and enhance their pitching and presentation abilities all while competing in a fun, energetic, and innovation-driven environment.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "7JaelZHtZouCjXBZzdhxG",
+        "type": "Entry",
+        "createdAt": "2025-10-16T11:20:27.945Z",
+        "updatedAt": "2025-10-21T12:26:12.818Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Sungazing",
+        "clubName": "SEDS ANTARIKSH CHAPTER",
+        "eventType": "Workshop",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-31T14:00:00.000Z",
+        "endDateAndTime": "2025-11-02T17:30:00.000Z",
+        "pricePerPerson": 140,
+        "participationType": "Solo",
+        "eventVenue": "AB3 Terrace",
+        "shortDescription": "We'll get hydrogen alpha telescope to enable students to watch the sun, sunspots, solar flares etc. Along with this we'll also teach people how to operate a telescope.",
+        "longDescription": "We'll get hydrogen alpha telescope to enable students to watch the sun, sunspots, solar flares etc. Along with this we'll also teach people how to operate a telescope.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "2TnwvkgwBrQXaw2BZaUgO2",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:12:19.400Z",
+        "updatedAt": "2025-10-21T12:25:02.500Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 6,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Quiz - O - Mania",
+        "clubName": "INDIAN CONCRETE INSTITUTE STUDENT CHAPTER",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-11-01T09:00+00:00",
+        "endDateAndTime": "2025-11-01T15:00+00:00",
+        "pricePerPerson": 50,
+        "participationType": "Duo/Trio",
+        "eventVenue": "AB3 101",
+        "shortDescription": "Quiz-o-Mania (Visual Civil Quiz)\n \n Identify structures, famous bridges, construction failures, or equipment from pictures.",
+        "longDescription": "Quiz-o-Mania (Visual Civil Quiz)\n \n Identify structures, famous bridges, construction failures, or equipment from pictures.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "5O5OaCBSuZAZyjZs3NTBWf",
+        "type": "Entry",
+        "createdAt": "2025-10-21T12:24:17.887Z",
+        "updatedAt": "2025-10-21T12:24:17.887Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 14,
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Sustainable Robots",
+        "clubName": "BIS",
+        "eventType": "Hackathon",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-28T08:00+00:00",
+        "endDateAndTime": "2025-10-28T20:00+00:00",
+        "pricePerPerson": 0,
+        "participationType": "Squad",
+        "eventVenue": "AB3-701",
+        "shortDescription": "24-hour hackathon where teams build AI-driven robotic solutions. Focus on innovative automation standards and prototype development, combining coding, design, and engineering to redefine robotics automation benchmarks.",
+        "longDescription": "Sustainable robots is a 24-hour innovative hackathon designed to bring together coders, designers, and medical innovators to build groundbreaking solutions for standards in Robotics automation, AI-driven automation and more! Participants will work in teams to develop standards for products and prototypes that could define/redefine standards and redefine AI automated robotic solutions",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "Mmzh8wlk8mbwZIg94inuw",
+        "type": "Entry",
+        "createdAt": "2025-10-21T12:22:20.626Z",
+        "updatedAt": "2025-10-21T12:22:58.146Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 4,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "PlayThePrompt Duo",
+        "clubName": "GAME DEVELOPMENT CLUB",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-31T18:00:00.000Z",
+        "endDateAndTime": "2025-11-01T20:00+00:00",
+        "pricePerPerson": 200,
+        "participationType": "Duo",
+        "eventVenue": "Online",
+        "shortDescription": "In this competition, the task is to design, test, and gamify prompts that push AI systems to perform in creative, challenging, and unexpected ways.",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "292T8LjPTtzGpX3JjPN8FS",
+        "type": "Entry",
+        "createdAt": "2025-10-21T12:20:13.948Z",
+        "updatedAt": "2025-10-21T12:20:13.948Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 10,
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "T Minus Zero Model Rocketry - Special Event",
+        "clubName": "SEDS ANTARIKSH CHAPTER",
+        "eventType": "Hackathon",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-11-01T09:00+00:00",
+        "endDateAndTime": "2025-11-01T18:00+00:00",
+        "pricePerPerson": 22001,
+        "participationType": "Solo",
+        "eventVenue": "AB1 602",
+        "shortDescription": "🚀 T Minus Zero: Model Rocketry- Get ready to ignite your passion for space! In this thrilling, hands-on event, students dive into the science of rocketry, design and build their own model rockets, and watch them soar sky-high during live launches. The best part? You get to take your very own rocket home—a souvenir of your first step into the world of rocketry!",
+        "longDescription": "🚀 T Minus Zero: Model Rocketry- Get ready to ignite your passion for space! In this thrilling, hands-on event, students dive into the science of rocketry, design and build their own model rockets, and watch them soar sky-high during live launches. The best part? You get to take your very own rocket home—a souvenir of your first step into the world of rocketry!",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "1i46AiGmCwEyk7LcgurNKX",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:16:02.024Z",
+        "updatedAt": "2025-10-21T12:17:40.685Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "The Royale : from Data to Depth(trio)",
+        "clubName": "DATA SCIENCE CLUB",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-30T09:00:00.000Z",
+        "endDateAndTime": "2025-10-30T18:30:00.000Z",
+        "pricePerPerson": 300,
+        "participationType": "Trio",
+        "eventVenue": "Kamaraj Auditorium",
+        "shortDescription": "This multi-round event features a workshop on all three tiers of ML, followed by quizzes. Participants then tackle a unique problem-solving challenge in a final competition, with a live scoreboard tracking progress to determine the winner.",
+        "longDescription": "The event is of Multiple rounds , a workshop covering all three tiers of ML(supervised , unsupervised , reinforcement learning) , followed by a competition round . The final challenge has an ambiguous challenge that involves unique problem solving .\n between these rounds , quizzes will be conducted to reinforce understanding brfore advancing further . \n a realtime score board will be presented as and when the participants build their project , the winner will be declared and be awarded with prize money .",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "50Ne3M7plHCG2VW1gQqEQh",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:16:00.676Z",
+        "updatedAt": "2025-10-21T12:17:25.672Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "The Royale : from Data to Depth(duo)",
+        "clubName": "DATA SCIENCE CLUB",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-30T09:00:00.000Z",
+        "endDateAndTime": "2025-10-30T18:30:00.000Z",
+        "pricePerPerson": 250,
+        "participationType": "Duo",
+        "eventVenue": "Kamaraj Auditorium",
+        "shortDescription": "This multi-round event features a workshop on all three tiers of ML, followed by quizzes. Participants then tackle a unique problem-solving challenge in a final competition, with a live scoreboard tracking progress to determine the winner.",
+        "longDescription": "The event is of Multiple rounds , a workshop covering all three tiers of ML(supervised , unsupervised , reinforcement learning) , followed by a competition round . The final challenge has an ambiguous challenge that involves unique problem solving .\n between these rounds , quizzes will be conducted to reinforce understanding brfore advancing further . \n a realtime score board will be presented as and when the participants build their project , the winner will be declared and be awarded with prize money .",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "2GZxl6ZfrG4ZjWeQGSNmSF",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:16:02.945Z",
+        "updatedAt": "2025-10-21T12:16:55.201Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 4,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "The Royale : from Data to Depth(Solo)",
+        "clubName": "DATA SCIENCE CLUB",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-30T09:00:00.000Z",
+        "endDateAndTime": "2025-10-30T18:30:00.000Z",
+        "pricePerPerson": 200,
+        "participationType": "Squad",
+        "eventVenue": "Kamaraj Auditorium",
+        "shortDescription": "This multi-round event features a workshop on all three tiers of ML, followed by quizzes. Participants then tackle a unique problem-solving challenge in a final competition, with a live scoreboard tracking progress to determine the winner.",
+        "longDescription": "The event is of Multiple rounds , a workshop covering all three tiers of ML(supervised , unsupervised , reinforcement learning) , followed by a competition round . The final challenge has an ambiguous challenge that involves unique problem solving .\n between these rounds , quizzes will be conducted to reinforce understanding brfore advancing further . \n a realtime score board will be presented as and when the participants build their project , the winner will be declared and be awarded with prize money .",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "7rDr6XCLvJJGj4u9v4iy59",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:12:14.027Z",
+        "updatedAt": "2025-10-21T12:15:30.306Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 5,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Pcb design for PWM inverter circuit",
+        "clubName": "IEEE WOMEN IN ENGINEERING (IEEE-WIE)",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-11-02T08:00+00:00",
+        "endDateAndTime": "2025-11-02T13:20+00:00",
+        "pricePerPerson": 50,
+        "participationType": "Solo",
+        "eventVenue": "AB3 301",
+        "shortDescription": "A hands-on workshop covering the end-to-end **PCB** process. 💡 Participants learn to design circuits using software like **KiCad/Eagle**, fabricate boards through etching and drilling, and assemble them by soldering components.",
+        "longDescription": "A PCB workshop is a hands-on session where participants learn how to design, fabricate, and assemble electronic circuits on a PCB. This workshop covers the basics of electronics, circuit design using software tools like KiCad or Eagle, and the manufacturing process, including etching, drilling, and soldering components.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "weFuxihQuaPaTIzn8dEpX",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:19:43.155Z",
+        "updatedAt": "2025-10-21T12:08:29.782Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Workshop on AI",
+        "clubName": "ARTIFICIAL INTELLIGENCE CLUB",
+        "eventType": "Workshop",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-31T08:00:00.000Z",
+        "endDateAndTime": "2025-10-31T12:00:00.000Z",
+        "pricePerPerson": 100,
+        "participationType": "Solo",
+        "eventVenue": "AB1-201,202",
+        "shortDescription": "This event is aimed at consideration of advanced AI and ML in the global market and industrial prospective which is interesting for the large audience.",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "2gFvLEVozMdI4xSi7Bfduf",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:11:14.954Z",
+        "updatedAt": "2025-10-21T12:07:38.207Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 7,
+        "revision": 4,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Innovate to Escape",
+        "clubName": "PRODINNO",
+        "eventType": "Game",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-11-01T09:00+00:00",
+        "endDateAndTime": "2025-11-01T17:00+00:00",
+        "pricePerPerson": 60,
+        "participationType": "Trio/Squad/5+ Members",
+        "eventVenue": "AB3 104",
+        "shortDescription": "This is a 3-stage tech escape challenge! 🔐 Stage 1: Solve resistor and Python puzzles for a 3-digit key. Stage 2: Use a UV light to find a hidden schematic and complete a physical circuit. Stage 3: Decrypt a hex command for the final password.",
+        "longDescription": "Stage 1: The Technical Key: Participants begin by searching for clues to unlock a secured component box. The solution is not a simple number, but a 3-digit code derived from technical knowledge: interpreting resistor color codes from a schematic, calculating the output of a Python programming snippet, and identifying a standard secure network port.\n• Stage 2: The Circuit Completion: Using a UV light, teams will uncover a hidden, incomplete circuit diagram. Their task is to correctly interpret the schematic and use physical wires to complete the circuit on the main prototype device, demonstrating a practical understanding of electronic pathways.\n• Stage 3: The Hexadecimal Override: The finale requires teams to decrypt a hexadecimal command key displayed on the prototype's screen. Using a provided Hex-to-ASCII chart, they must translate the machine code into a final password, simulating a system override.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "5oAn2ZtZoTUmldxOc0RQmq",
+        "type": "Entry",
+        "createdAt": "2025-10-21T12:07:20.238Z",
+        "updatedAt": "2025-10-21T12:07:20.238Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 13,
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "One Day National Level Workshop on Cyber Security",
+        "clubName": "DREAM MERCHANT",
+        "eventType": "Workshop",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-27T08:00+00:00",
+        "endDateAndTime": "2025-10-27T16:00+00:00",
+        "pricePerPerson": 100,
+        "participationType": "Solo",
+        "eventVenue": "Online",
+        "shortDescription": "A one-day, hands-on workshop covering essential cybersecurity tools—Kali, Nmap, Wireshark, Metasploit, and SIEM (Splunk/ELK)—through guided labs. Participants practice network scanning, web-app testing, malware/packet analysis, and incident response mapped to real industrial scenarios. Includes industry case studies, security best practices, and insights on certifications and career paths.",
+        "longDescription": "A one-day, hands-on workshop covering essential cybersecurity tools—Kali, Nmap, Wireshark, Metasploit, and SIEM (Splunk/ELK)—through guided labs. Participants practice network scanning, web-app testing, malware/packet analysis, and incident response mapped to real industrial scenarios. Includes industry case studies, security best practices, and insights on certifications and career paths.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "6G7E6XMMQllE3ds5hrNQyR",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:24:52.716Z",
+        "updatedAt": "2025-10-21T11:54:44.864Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 5,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Laser Tag(duo)",
+        "clubName": "CLOUD COMPUTING CLUB",
+        "eventType": "Game",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-31T10:00:00.000Z",
+        "endDateAndTime": "2025-11-02T18:00+00:00",
+        "pricePerPerson": 550,
+        "participationType": "Duo",
+        "eventVenue": "AB4 -314",
+        "shortDescription": "LaserTag is a thrilling 5v5 arena game where you race to score the most points with laser guns against opponents. Surrounded by glowing UV lights, lasers, and vibrant artwork, the arena creates a fun, competitive vibe. Safe, beginner-friendly, and adrenaline-packed, it’s an experience you won’t forget. Step in, gear up, and let the battle begin!",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
     {
       "metadata": {
         "tags": [],
@@ -1419,62 +2427,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "6G7E6XMMQllE3ds5hrNQyR",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:24:52.716Z",
-        "updatedAt": "2025-10-21T05:31:39.449Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 3,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Laser Tag(duo)",
-        "clubName": "CLOUD COMPUTING CLUB",
-        "eventType": "Game",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T10:00:00.000Z",
-        "endDateAndTime": "2025-11-02T18:00+00:00",
-        "pricePerPerson": 275,
-        "participationType": "Duo",
-        "eventVenue": "AB4 -314",
-        "shortDescription": "LaserTag is a thrilling 5v5 arena game where you race to score the most points with laser guns against opponents. Surrounded by glowing UV lights, lasers, and vibrant artwork, the arena creates a fun, competitive vibe. Safe, beginner-friendly, and adrenaline-packed, it’s an experience you won’t forget. Step in, gear up, and let the battle begin!",
-        "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "4zVVEMtX9QqnAjQRn3SyTF",
         "type": "Entry",
         "createdAt": "2025-10-18T14:07:21.884Z",
@@ -1979,62 +2931,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "7rDr6XCLvJJGj4u9v4iy59",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:12:14.027Z",
-        "updatedAt": "2025-10-21T05:23:03.245Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 3,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "pcb workshop",
-        "clubName": "IEEE WOMEN IN ENGINEERING (IEEE-WIE)",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-11-02T08:00+00:00",
-        "endDateAndTime": "2025-11-02T13:20+00:00",
-        "pricePerPerson": 50,
-        "participationType": "Solo",
-        "eventVenue": "AB3 301",
-        "shortDescription": "A hands-on workshop covering the end-to-end **PCB** process. 💡 Participants learn to design circuits using software like **KiCad/Eagle**, fabricate boards through etching and drilling, and assemble them by soldering components.",
-        "longDescription": "A PCB workshop is a hands-on session where participants learn how to design, fabricate, and assemble electronic circuits on a PCB. This workshop covers the basics of electronics, circuit design using software tools like KiCad or Eagle, and the manufacturing process, including etching, drilling, and soldering components.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "yR5hnn0lUzQZGnk6znExi",
         "type": "Entry",
         "createdAt": "2025-10-18T14:08:46.899Z",
@@ -2091,62 +2987,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "6FIhYpR5KudoUTqHlhlLkd",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:07:20.788Z",
-        "updatedAt": "2025-10-21T05:20:27.429Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 3,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Codegolf",
-        "clubName": "THE HACK CLUB",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-11-01T09:00+00:00",
-        "endDateAndTime": "2025-11-01T13:00+00:00",
-        "pricePerPerson": 50,
-        "participationType": "Solo",
-        "eventVenue": "AB3 102",
-        "shortDescription": "In Code Golf, solve coding problems with the shortest possible code. Every character counts in this high-energy challenge. The winner is the one who writes the leanest, most elegant solution in a battle of logic, creativity, and brevity.",
-        "longDescription": "Code Golf is a high-energy coding challenge where participants must solve problems with the shortest possible code. Every character counts, and the winner is the one who trims their logic down to the leanest, most elegant solution. It’s a battle of logic, creativity, and brevity—where less truly is more.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "4hV4t7IBpjgRQoPAwlw8Ub",
         "type": "Entry",
         "createdAt": "2025-10-18T14:11:09.068Z",
@@ -2187,174 +3027,6 @@
         "eventVenue": "AB1 701",
         "shortDescription": "Explore your inner world in this immersive face art competition. Generate a unique emotional prompt using AI or introspection. Transform your face into a canvas of healing and expression, interpreting yourself through color, symbolism, and design.\n\n",
         "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "39w0AmK2qU6envFFbkzz0p",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:11:16.208Z",
-        "updatedAt": "2025-10-21T05:19:22.721Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 4,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Innovate to Escape (Squad)",
-        "clubName": "PRODINNO",
-        "eventType": "Game",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-11-01T09:00+00:00",
-        "endDateAndTime": "2025-11-01T17:00+00:00",
-        "pricePerPerson": 240,
-        "participationType": "Squad",
-        "eventVenue": "AB3 104",
-        "shortDescription": "This is a 3-stage tech escape challenge! 🔐 Stage 1: Solve resistor and Python puzzles for a 3-digit key. Stage 2: Use a UV light to find a hidden schematic and complete a physical circuit. Stage 3: Decrypt a hex command for the final password.",
-        "longDescription": "Stage 1: The Technical Key: Participants begin by searching for clues to unlock a secured component box. The solution is not a simple number, but a 3-digit code derived from technical knowledge: interpreting resistor color codes from a schematic, calculating the output of a Python programming snippet, and identifying a standard secure network port.\n• Stage 2: The Circuit Completion: Using a UV light, teams will uncover a hidden, incomplete circuit diagram. Their task is to correctly interpret the schematic and use physical wires to complete the circuit on the main prototype device, demonstrating a practical understanding of electronic pathways.\n• Stage 3: The Hexadecimal Override: The finale requires teams to decrypt a hexadecimal command key displayed on the prototype's screen. Using a provided Hex-to-ASCII chart, they must translate the machine code into a final password, simulating a system override.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "2ghW4MCV8jSIzKXXQZoEzW",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:11:17.372Z",
-        "updatedAt": "2025-10-21T05:19:00.713Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 3,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Innovate to Escape (Group)",
-        "clubName": "PRODINNO",
-        "eventType": "Game",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-11-01T09:00+00:00",
-        "endDateAndTime": "2025-11-01T17:00+00:00",
-        "pricePerPerson": 300,
-        "participationType": "5+ Members",
-        "eventVenue": "AB3 104",
-        "shortDescription": "This is a 3-stage tech escape challenge! 🔐 Stage 1: Solve resistor and Python puzzles for a 3-digit key. Stage 2: Use a UV light to find a hidden schematic and complete a physical circuit. Stage 3: Decrypt a hex command for the final password.",
-        "longDescription": "Stage 1: The Technical Key: Participants begin by searching for clues to unlock a secured component box. The solution is not a simple number, but a 3-digit code derived from technical knowledge: interpreting resistor color codes from a schematic, calculating the output of a Python programming snippet, and identifying a standard secure network port.\n• Stage 2: The Circuit Completion: Using a UV light, teams will uncover a hidden, incomplete circuit diagram. Their task is to correctly interpret the schematic and use physical wires to complete the circuit on the main prototype device, demonstrating a practical understanding of electronic pathways.\n• Stage 3: The Hexadecimal Override: The finale requires teams to decrypt a hexadecimal command key displayed on the prototype's screen. Using a provided Hex-to-ASCII chart, they must translate the machine code into a final password, simulating a system override.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "2gFvLEVozMdI4xSi7Bfduf",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:11:14.954Z",
-        "updatedAt": "2025-10-21T05:18:46.399Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 3,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Innovate to Escape (Trio)",
-        "clubName": "PRODINNO",
-        "eventType": "Game",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-11-01T09:00+00:00",
-        "endDateAndTime": "2025-11-01T17:00+00:00",
-        "pricePerPerson": 180,
-        "participationType": "Trio",
-        "eventVenue": "AB3 104",
-        "shortDescription": "This is a 3-stage tech escape challenge! 🔐 Stage 1: Solve resistor and Python puzzles for a 3-digit key. Stage 2: Use a UV light to find a hidden schematic and complete a physical circuit. Stage 3: Decrypt a hex command for the final password.",
-        "longDescription": "Stage 1: The Technical Key: Participants begin by searching for clues to unlock a secured component box. The solution is not a simple number, but a 3-digit code derived from technical knowledge: interpreting resistor color codes from a schematic, calculating the output of a Python programming snippet, and identifying a standard secure network port.\n• Stage 2: The Circuit Completion: Using a UV light, teams will uncover a hidden, incomplete circuit diagram. Their task is to correctly interpret the schematic and use physical wires to complete the circuit on the main prototype device, demonstrating a practical understanding of electronic pathways.\n• Stage 3: The Hexadecimal Override: The finale requires teams to decrypt a hexadecimal command key displayed on the prototype's screen. Using a provided Hex-to-ASCII chart, they must translate the machine code into a final password, simulating a system override.",
         "specialEvent": false
       }
     },
@@ -2467,118 +3139,6 @@
         "eventVenue": "AB3 409",
         "shortDescription": "ScriptWave is a hands-on hackathon where teams tackle scripting and verification challenges. Create scripts, build testbenches,and debug digital designs to gain practical experience with industry tools in a collaborative, problem-solving environment.\n\n",
         "longDescription": "ScriptWave is a hands-on hackathon where participants dive into scripting and verification challenges to test and validate digital designs. Teams will create scripts, build testbenches, and debug solutions in a collaborative environment, gaining practical experience with industry-relevant tools and methodologies. The event emphasizes problem-solving, innovation, and efficiency, giving participants a real taste of digital design verification in action.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "2TnwvkgwBrQXaw2BZaUgO2",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:12:19.400Z",
-        "updatedAt": "2025-10-21T05:16:57.794Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 3,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Quiz - O - Mania (Duo)",
-        "clubName": "INDIAN CONCRETE INSTITUTE STUDENT CHAPTER",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-11-01T09:00+00:00",
-        "endDateAndTime": "2025-11-01T15:00+00:00",
-        "pricePerPerson": 100,
-        "participationType": "Duo",
-        "eventVenue": "AB3 101",
-        "shortDescription": "Quiz-o-Mania (Visual Civil Quiz)\n \n Identify structures, famous bridges, construction failures, or equipment from pictures.",
-        "longDescription": "Quiz-o-Mania (Visual Civil Quiz)\n \n Identify structures, famous bridges, construction failures, or equipment from pictures.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "1QrGlqwCph82gx1E8PsFKs",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:12:20.460Z",
-        "updatedAt": "2025-10-21T05:16:40.234Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 6,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Quiz - O - Mania (Trio)",
-        "clubName": "INDIAN CONCRETE INSTITUTE STUDENT CHAPTER",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-11-01T09:00+00:00",
-        "endDateAndTime": "2025-11-01T15:00+00:00",
-        "pricePerPerson": 150,
-        "participationType": "Trio",
-        "eventVenue": "AB3 101",
-        "shortDescription": "Quiz-o-Mania (Visual Civil Quiz)\n \n Identify structures, famous bridges, construction failures, or equipment from pictures.",
-        "longDescription": "Quiz-o-Mania (Visual Civil Quiz)\n \n Identify structures, famous bridges, construction failures, or equipment from pictures.",
         "specialEvent": false
       }
     },
@@ -3435,62 +3995,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "weFuxihQuaPaTIzn8dEpX",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:19:43.155Z",
-        "updatedAt": "2025-10-18T14:19:43.155Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Workshop on AI (TENTATIVE)",
-        "clubName": "ARTIFICIAL INTELLIGENCE CLUB",
-        "eventType": "Workshop",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T08:00:00.000Z",
-        "endDateAndTime": "2025-10-31T12:00:00.000Z",
-        "pricePerPerson": 100,
-        "participationType": "Solo",
-        "eventVenue": "AB1-201,202",
-        "shortDescription": "This event is aimed at consideration of advanced AI and ML in the global market and industrial prospective which is interesting for the large audience.",
-        "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "2DAWktgDhdSV4JUM5gw6PI",
         "type": "Entry",
         "createdAt": "2025-10-18T14:19:41.921Z",
@@ -3715,174 +4219,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "2GZxl6ZfrG4ZjWeQGSNmSF",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:16:02.945Z",
-        "updatedAt": "2025-10-18T14:16:02.945Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "The Royale : from Data to Depth(squad)",
-        "clubName": "DATA SCIENCE CLUB",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-30T09:00:00.000Z",
-        "endDateAndTime": "2025-10-30T18:30:00.000Z",
-        "pricePerPerson": 300,
-        "participationType": "Squad",
-        "eventVenue": "Kamaraj Auditorium",
-        "shortDescription": "This multi-round event features a workshop on all three tiers of ML, followed by quizzes. Participants then tackle a unique problem-solving challenge in a final competition, with a live scoreboard tracking progress to determine the winner.",
-        "longDescription": "The event is of Multiple rounds , a workshop covering all three tiers of ML(supervised , unsupervised , reinforcement learning) , followed by a competition round . The final challenge has an ambiguous challenge that involves unique problem solving .\n between these rounds , quizzes will be conducted to reinforce understanding brfore advancing further . \n a realtime score board will be presented as and when the participants build their project , the winner will be declared and be awarded with prize money .",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "1i46AiGmCwEyk7LcgurNKX",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:16:02.024Z",
-        "updatedAt": "2025-10-18T14:16:02.024Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "The Royale : from Data to Depth(trio)",
-        "clubName": "DATA SCIENCE CLUB",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-30T09:00:00.000Z",
-        "endDateAndTime": "2025-10-30T18:30:00.000Z",
-        "pricePerPerson": 250,
-        "participationType": "Trio",
-        "eventVenue": "Kamaraj Auditorium",
-        "shortDescription": "This multi-round event features a workshop on all three tiers of ML, followed by quizzes. Participants then tackle a unique problem-solving challenge in a final competition, with a live scoreboard tracking progress to determine the winner.",
-        "longDescription": "The event is of Multiple rounds , a workshop covering all three tiers of ML(supervised , unsupervised , reinforcement learning) , followed by a competition round . The final challenge has an ambiguous challenge that involves unique problem solving .\n between these rounds , quizzes will be conducted to reinforce understanding brfore advancing further . \n a realtime score board will be presented as and when the participants build their project , the winner will be declared and be awarded with prize money .",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "50Ne3M7plHCG2VW1gQqEQh",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:16:00.676Z",
-        "updatedAt": "2025-10-18T14:16:00.676Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "The Royale : from Data to Depth(duo)",
-        "clubName": "DATA SCIENCE CLUB",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-30T09:00:00.000Z",
-        "endDateAndTime": "2025-10-30T18:30:00.000Z",
-        "pricePerPerson": 200,
-        "participationType": "Duo",
-        "eventVenue": "Kamaraj Auditorium",
-        "shortDescription": "This multi-round event features a workshop on all three tiers of ML, followed by quizzes. Participants then tackle a unique problem-solving challenge in a final competition, with a live scoreboard tracking progress to determine the winner.",
-        "longDescription": "The event is of Multiple rounds , a workshop covering all three tiers of ML(supervised , unsupervised , reinforcement learning) , followed by a competition round . The final challenge has an ambiguous challenge that involves unique problem solving .\n between these rounds , quizzes will be conducted to reinforce understanding brfore advancing further . \n a realtime score board will be presented as and when the participants build their project , the winner will be declared and be awarded with prize money .",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "4gL5cpDCK23mkgsm7OzKSI",
         "type": "Entry",
         "createdAt": "2025-10-18T14:14:45.860Z",
@@ -4034,174 +4370,6 @@
         "participationType": "Squad",
         "eventVenue": "Kasturba Hall",
         "shortDescription": "Students in teams of 4, guided by a mentor, will build a phone-controlled RC car with a servo-operated pick and drop system using 3D printed parts. They'll then compete in a championship to move blocks across a terrain in the shortest time.",
-        "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "2Hq7m0eLbsI99y8LqBu6if",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:13:01.109Z",
-        "updatedAt": "2025-10-18T14:13:01.109Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Robo Tug of War",
-        "clubName": "TechnoVIT",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T10:00:00.000Z",
-        "endDateAndTime": "2025-10-31T18:00:00.000Z",
-        "pricePerPerson": 0,
-        "participationType": "Solo",
-        "eventVenue": "AB3 Outside parking",
-        "shortDescription": "Robot Tug of War",
-        "longDescription": "Robot Tug of War",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "1qacEW3ugxuw6EQzbDQMwD",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:13:00.006Z",
-        "updatedAt": "2025-10-18T14:13:00.006Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Robo Sumo",
-        "clubName": "TechnoVIT",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T10:00:00.000Z",
-        "endDateAndTime": "2025-10-31T18:00:00.000Z",
-        "pricePerPerson": 0,
-        "participationType": "Solo",
-        "eventVenue": "AB3 Amphitheatre",
-        "shortDescription": "Robot Sumo\n",
-        "longDescription": "Robot Sumo\n",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "5yi5DZ4Ag9jCbKPrGbgpv3",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:12:59.044Z",
-        "updatedAt": "2025-10-18T14:12:59.044Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Robo Soccer",
-        "clubName": "IEEE ROBOTICS & AUTOMATION SOCIETY (IEEE-RAS)",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-29T09:00:00.000Z",
-        "endDateAndTime": "2025-10-29T17:00:00.000Z",
-        "pricePerPerson": 300,
-        "participationType": "Duo",
-        "eventVenue": "AB3 Portico",
-        "shortDescription": "In Robo Soccer, a competition by the IEEE RAS Student Chapter at TechnoVIT, students design and program autonomous robots to play soccer. ⚽ This hands-on challenge is a platform to showcase skills in robotics, AI, and strategic teamwork.",
         "longDescription": "",
         "specialEvent": false
       }
@@ -4875,62 +5043,6 @@
         "eventVenue": "VOC Auditorium",
         "shortDescription": "In this hands-on workshop, you'll become a web architect. 💻 Master the core blocks—**HTML, CSS, & JavaScript**—before advancing to responsive design and frontend frameworks. You'll learn modern best practices by building real-world projects.",
         "longDescription": "The digital empire of tomorrow rests in the hands of its builders. This workshop empowers you to become an architect of the web, starting from the core building blocks — HTML, CSS, and JavaScript — to advanced frameworks and responsive design. You’ll work on real-world projects, learn modern best practices, and craft websites that are not just functional but breathtaking. Create experiences that leave a mark.\n Highlights: HTML, CSS, JavaScript, Responsive Design, Frontend Frameworks, Hands-on Project Building.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "2nW7giPavBJcmrJPqsmMpc",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:07:16.498Z",
-        "updatedAt": "2025-10-18T14:07:16.498Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Cine Sharks 2.o",
-        "clubName": "VITSION FILM MAKERS CLUB",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T09:00:00.000Z",
-        "endDateAndTime": "2025-10-31T16:00:00.000Z",
-        "pricePerPerson": 100,
-        "participationType": "Solo/Duo",
-        "eventVenue": "AB3 301",
-        "shortDescription": "In this \"Shark Tank\" style event, aspiring directors fix an underperforming movie. 🎬 Dissect its flaws and pitch a new vision—covering story, characters, and visuals—to judges acting as producers. Negotiate to secure the most profitable deal.",
-        "longDescription": "This event is based on shark tank where the business owners are replaced by aspiring young directors and the sharks are producers who are willing to finance their movies.\nOur event's main focus is for aspiring young directors to gain more knowledge on what goes behind making a successful movie.\nAs part of the event, we will be giving them each a movie which they will have to dissect and understand which part caused the movie's underperformance.\nFurther when they pitch the movie with their inputs to everything from the storyline, characters, camera aesthetics and sound effects.\nNow the new upgraded version of the movie will be narrated by them to the judges and negotiate with them and try to exceed the break-even amount thus making more profit making them the champion.",
         "specialEvent": false
       }
     },
@@ -8811,62 +8923,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "4xqIFFh2yuBAwN05g89cuC",
-        "type": "Entry",
-        "createdAt": "2025-10-16T11:33:48.821Z",
-        "updatedAt": "2025-10-16T11:33:48.821Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "SKETCH2STAGE",
-        "clubName": "THE HACK CLUB",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T09:00:00.000Z",
-        "endDateAndTime": "2025-10-31T13:00:00.000Z",
-        "pricePerPerson": 60,
-        "participationType": "Duo/Trio/Squad",
-        "eventVenue": "AB3 701",
-        "shortDescription": "Participants transform initial sketches into fully functional apps/websites addressing real-world problems. Teams design, develop and pitch solutions, judged on innovation, functionality, usability, and presentation.",
-        "longDescription": "Sketch2Stage will be an event organized by Hack Club, designed to inspire creativity, innovation, and problem-solving among students. This event challenges participants to transform their initial ideas the “sketch” into fully functional digital solutions and pitch it on “stage”<br> Participants will be presented with a set of real-world problem statements and will have a fixed time to design and develop an app or website particularly the design and user experience that addresses these challenges. The event emphasizes not just technical skills, but also innovation, usability, and the ability to communicate ideas effectively.<br> Once development concludes, teams will get the opportunity to pitch their solutions to a panel of judges. The pitch is a crucial part of the competition, allowing participants to showcase their product’s features, the problem it solves, and their vision for impact.<br> Winners will be selected based on criteria such as originality, relevance to the problem statement, functionality, user experience, and presentation skills.<br> Sketch2Stage will allow students to gain hands-on experience in product development, learn to work collaboratively under deadlines, and enhance their pitching and presentation abilities all while competing in a fun, energetic, and innovation-driven environment.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "3ZJ4pWciMX72FVwXVRLs8B",
         "type": "Entry",
         "createdAt": "2025-10-16T11:33:47.758Z",
@@ -9147,62 +9203,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "7Gz6VXvTqVGxizUQOsRh2e",
-        "type": "Entry",
-        "createdAt": "2025-10-16T11:20:31.235Z",
-        "updatedAt": "2025-10-16T11:20:31.235Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Trade Titans (Squad)",
-        "clubName": "PRODINNO",
-        "eventType": "Game",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T09:00:00.000Z",
-        "endDateAndTime": "2025-10-31T13:00:00.000Z",
-        "pricePerPerson": 59,
-        "participationType": "Squad",
-        "eventVenue": "AB3 401",
-        "shortDescription": "Trade of Titans – Event SummaryTrade of Titans is a technology-driven economic strategy simulation where teams act as countries in a structured trade ecosystem. Each team starts with defined resources and virtual currency, then engages in multiple rounds of barter and monetary trade to balance imports, exports, and deficits. The event is highly technical, integrating: Data analysis & quantitative reasoning – interpreting trade values, price volatility, and optimization of resource balance. Game theory & strategy design – crafting competitive/cooperative negotiation strategies under uncertainty. Algorithmic thinking – designing heuristics, decision trees, and computational models for trade decisions. Tech-enabled simulation – using digital tools, dashboards, or simulators to model dynamic markets and respond to shocks in real time. Alongside technical skills, participants must also demonstrate strategic communication and fast-paced decision-making. This makes the event not just about negotiation but about applying computational strategy, optimization, and algorithmic reasoning in a competitive, simulation-based environment.",
-        "longDescription": "Trade of Titans – Event Summary<br><br>Trade of Titans is a technology-driven economic strategy simulation where teams act as countries in a structured trade ecosystem. Each team starts with defined resources and virtual currency, then engages in multiple rounds of barter and monetary trade to balance imports, exports, and deficits.<br><br>The event is highly technical, integrating:<br><br>Data analysis & quantitative reasoning – interpreting trade values, price volatility, and optimization of resource balance.<br><br>Game theory & strategy design – crafting competitive/cooperative negotiation strategies under uncertainty.<br><br>Algorithmic thinking – designing heuristics, decision trees, and computational models for trade decisions.<br><br>Tech-enabled simulation – using digital tools, dashboards, or simulators to model dynamic markets and respond to shocks in real time.<br><br>Alongside technical skills, participants must also demonstrate strategic communication and fast-paced decision-making. This makes the event not just about negotiation but about applying computational strategy, optimization, and algorithmic reasoning in a competitive, simulation-based environment.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "5D2pGmTsbLG6GQUZxiaQas",
         "type": "Entry",
         "createdAt": "2025-10-16T11:20:30.194Z",
@@ -9299,62 +9299,6 @@
         "eventVenue": "AB3 101 Gallery Class Room",
         "shortDescription": "One-day analytics challenge testing web scraping, dashboard creation, and data storytelling. Participants transform raw data into insights within hours and present findings for evaluation in a fast-paced environment.",
         "longDescription": "We are excited to propose “Insight Sprint: The Data Dive Challenge”, a 1-day analytics showdown designed to test participants’ skills in web scraping, dashboard creation, and data storytelling. The event is built around the theme “From Raw Data to Real Insights in Just 4 Hours”, creating a dynamic platform for data enthusiasts to showcase their talent under real-world time pressure.<br> <br> 📅 Event Timeline (9:00 AM – 1:00 PM)<br> 09:00 – 09:30 AM | Inauguration & Briefing<br> <br> 09:30 – 10:45 AM | Web Scraping Challenge<br> <br> 10:45 – 11:45 AM | Dashboard Creation Round<br> <br> 11:45 – 12:30 PM | Data Storytelling & Final Presentations<br> <br> 12:30 – 01:00 PM | Evaluation, Results & Closing Remarks",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "7JaelZHtZouCjXBZzdhxG",
-        "type": "Entry",
-        "createdAt": "2025-10-16T11:20:27.945Z",
-        "updatedAt": "2025-10-16T11:20:27.945Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Sungazing",
-        "clubName": "SOLAR SOIRÉE-SUNGAZING",
-        "eventType": "Workshop",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T14:00:00.000Z",
-        "endDateAndTime": "2025-11-02T17:30:00.000Z",
-        "pricePerPerson": 140,
-        "participationType": "Solo",
-        "eventVenue": "AB3 Terrace",
-        "shortDescription": "We'll get hydrogen alpha telescope to enable students to watch the sun, sunspots, solar flares etc. Along with this we'll also teach people how to operate a telescope.",
-        "longDescription": "We'll get hydrogen alpha telescope to enable students to watch the sun, sunspots, solar flares etc. Along with this we'll also teach people how to operate a telescope.",
         "specialEvent": false
       }
     },
