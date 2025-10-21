@@ -2,10 +2,178 @@
   "sys": {
     "type": "Array"
   },
-  "total": 177,
+  "total": 178,
   "skip": 0,
-  "limit": 177,
+  "limit": 178,
   "items": [
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "6EOS8pWl5ZOsCkskCt3WMH",
+        "type": "Entry",
+        "createdAt": "2025-10-16T11:58:03.984Z",
+        "updatedAt": "2025-10-21T15:07:58.531Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 6,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "GDG CODYSSEY",
+        "clubName": "GOOGLE DEVELOPER GROUPS (GDG)",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-31T10:00:00.000Z",
+        "endDateAndTime": "2025-10-31T17:30:00.000Z",
+        "pricePerPerson": 150,
+        "participationType": "Solo",
+        "eventVenue": "MG Auditorium",
+        "shortDescription": "CODYSSEY is a full-day Halloween coding showdown on 31st Oct. Participants solve algorithmic challenges, attend expert sessions, compete in coding sprints, enjoy themed activities, network, and win prizes, blending technical rigor with fun.",
+        "longDescription": "CODYSSEY is a full-day competitive coding showdown on Halloween day, designed to challenge participants with algorithmic problem-solving, intense coding battles, and engaging technical sessions.<br> With a Halloween theme on 31st October, the event blends technical rigor with a creative, fun-filled atmosphere to make coding more thrilling than ever before.<br> <br> Event Highlights<br> Competitive Coding Rounds – Multiple rounds of algorithmic and problem-solving challenges.<br> Speaker Session by Industry Expert – Gain insights from top professionals in the tech world.<br> Algorithmic Showdowns – Brainstorming puzzles and coding sprints with a twist.<br> Halloween-Themed Activities – Creative coding sessions and optional costume participation.<br> Networking Opportunities – Interact with peers, mentors, and sponsors.<br> Prizes, Swag, and PPIs – Rewards, goodies, and potential career opportunities.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "30nPIg2jkTgWTmXQZdaLb2",
+        "type": "Entry",
+        "createdAt": "2025-10-17T10:23:50.018Z",
+        "updatedAt": "2025-10-21T15:06:15.980Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 8,
+        "revision": 4,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Obscur 33 Final Trace",
+        "clubName": "CYSCOM X FYI",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-31T08:00:00.000Z",
+        "endDateAndTime": "2025-11-01T08:00:00.000Z",
+        "pricePerPerson": 150,
+        "participationType": "Solo",
+        "eventVenue": "Kamaraj Auditorium",
+        "shortDescription": "Final Trace is a story-driven 24-hour cybersecurity CTF with dynamic challenges, branched endings, and a huge prize pool.",
+        "longDescription": "Get ready for Final Trace, the flagship 24-hour CTF by CYSCOM & FYI, with a ₹60,000+ prize pool. This is a story-driven hacking adventure where every choice you make changes the outcome. Solve dynamic flags, uncover hidden twists, and navigate multiple endings that keep you hooked from start to finish. It’s unlike any CTF you’ve tried before.\nAlong the way, join expert sessions on AI and cybersecurity, pick up cutting-edge techniques, and compete alongside top talent. Whether you’re chasing the prize, the thrill, or the challenge, Final Trace guarantees 24 hours of nonstop strategy, suspense, and fun. The story moves fast—be there to shape it.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "1qDvKC9Fo90R2dYh7hS3Tk",
+        "type": "Entry",
+        "createdAt": "2025-10-21T15:01:05.801Z",
+        "updatedAt": "2025-10-21T15:01:05.801Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 12,
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Sketch-A-Thon",
+        "clubName": "FINE ARTS CLUB (TFAC)",
+        "eventType": "Hackathon",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-31T10:00+00:00",
+        "endDateAndTime": "2025-10-31T16:00+00:00",
+        "pricePerPerson": 150,
+        "participationType": "Solo",
+        "eventVenue": "AB1 Portico",
+        "shortDescription": "Join the \"Canvas for Tomorrow\" Sketch-A-Thon! 🎨 Project your ideas on a UN Sustainable Development Goal (SDG) through paintings and sketches. You must also propose a technical solution to achieve your chosen goal.",
+        "longDescription": "Join the \"Canvas for Tomorrow\" Sketch-A-Thon! 🎨 Project your ideas on a UN Sustainable Development Goal (SDG) through paintings and sketches. You must also propose a technical solution to achieve your chosen goal.",
+        "specialEvent": false
+      }
+    },
     {
       "metadata": {
         "tags": [],
@@ -172,62 +340,6 @@
         "shortDescription": "Get ready to witness the thrill of speed and precision as cutting-edge technology takes flight! Fast reflexes and skill decide who takes the sky! Drone Racing",
         "longDescription": "Whether you’re a drone enthusiast, a tech innovator, or just a thrill-seeker, this event promises an adrenaline rush like no other. Experience the perfect blend of aerodynamics, innovation, and competitive spirit - where every millisecond counts!",
         "specialEvent": true
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "30nPIg2jkTgWTmXQZdaLb2",
-        "type": "Entry",
-        "createdAt": "2025-10-17T10:23:50.018Z",
-        "updatedAt": "2025-10-21T14:06:06.796Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 6,
-        "revision": 3,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Obscur 33 Final Trace",
-        "clubName": "CYSCOM X FYI",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T08:00:00.000Z",
-        "endDateAndTime": "2025-11-01T08:00:00.000Z",
-        "pricePerPerson": 150,
-        "participationType": "Solo/Duo/Trio",
-        "eventVenue": "Kamaraj Auditorium",
-        "shortDescription": "Final Trace is a story-driven 24-hour cybersecurity CTF with dynamic challenges, branched endings, and a huge prize pool.",
-        "longDescription": "Get ready for Final Trace, the flagship 24-hour CTF by CYSCOM & FYI, with a ₹60,000+ prize pool. This is a story-driven hacking adventure where every choice you make changes the outcome. Solve dynamic flags, uncover hidden twists, and navigate multiple endings that keep you hooked from start to finish. It’s unlike any CTF you’ve tried before.\nAlong the way, join expert sessions on AI and cybersecurity, pick up cutting-edge techniques, and compete alongside top talent. Whether you’re chasing the prize, the thrill, or the challenge, Final Trace guarantees 24 hours of nonstop strategy, suspense, and fun. The story moves fast—be there to shape it.",
-        "specialEvent": false
       }
     },
     {
@@ -8459,62 +8571,6 @@
         "eventVenue": "Netaji Auditorium",
         "shortDescription": "The two-day Startup Conclave inspires and guides students in entrepreneurship. Day 1 features interactive sessions with speakers sharing journeys and strategies. Day 2 focuses on startup pitches judged by experts, concluding with a prize distribution.",
         "longDescription": "The Startup Conclave is a two-day event focused on inspiring and guiding students in their entrepreneurial journeys.<br> Day 1: Innovation & Insight : This day will feature motivational and interactive sessions with three renowned speakers. They will share their personal stories of turning ideas into successful ventures, detailing the challenges, strategies, and key milestones they encountered. <br> Day 2 : Pitch : This day will focus on the practical application of entrepreneurial skills. Following two final speaker sessions, a dedicated startup pitching event will take place. This provides a platform for student startups to present their ideas to a panel of judges, investors, and industry experts. The event will culminate with a prize distribution ceremony to recognize and reward innovative ideas.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "6EOS8pWl5ZOsCkskCt3WMH",
-        "type": "Entry",
-        "createdAt": "2025-10-16T11:58:03.984Z",
-        "updatedAt": "2025-10-16T11:58:03.984Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "GDG CODYSSEY",
-        "clubName": "GOOGLE DEVELOPER STUDENT CLUB (GDSC)",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T10:00:00.000Z",
-        "endDateAndTime": "2025-10-31T17:30:00.000Z",
-        "pricePerPerson": 150,
-        "participationType": "Solo",
-        "eventVenue": "MG Auditorium",
-        "shortDescription": "CODYSSEY is a full-day Halloween coding showdown on 31st Oct. Participants solve algorithmic challenges, attend expert sessions, compete in coding sprints, enjoy themed activities, network, and win prizes, blending technical rigor with fun.",
-        "longDescription": "CODYSSEY is a full-day competitive coding showdown on Halloween day, designed to challenge participants with algorithmic problem-solving, intense coding battles, and engaging technical sessions.<br> With a Halloween theme on 31st October, the event blends technical rigor with a creative, fun-filled atmosphere to make coding more thrilling than ever before.<br> <br> Event Highlights<br> Competitive Coding Rounds – Multiple rounds of algorithmic and problem-solving challenges.<br> Speaker Session by Industry Expert – Gain insights from top professionals in the tech world.<br> Algorithmic Showdowns – Brainstorming puzzles and coding sprints with a twist.<br> Halloween-Themed Activities – Creative coding sessions and optional costume participation.<br> Networking Opportunities – Interact with peers, mentors, and sponsors.<br> Prizes, Swag, and PPIs – Rewards, goodies, and potential career opportunities.",
         "specialEvent": false
       }
     },
