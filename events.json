@@ -19,6 +19,286 @@
             "id": "rr94wjxz7mfi"
           }
         },
+        "id": "6mzi6vStgbe2YJ7V7rdGYu",
+        "type": "Entry",
+        "createdAt": "2025-10-16T12:16:46.267Z",
+        "updatedAt": "2025-10-21T11:37:26.837Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 6,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "CTRL FUN",
+        "clubName": "SAHAYATHA",
+        "eventType": "Game",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-27T11:30:00.000Z",
+        "endDateAndTime": "2025-10-27T16:00:00.000Z",
+        "pricePerPerson": 50,
+        "participationType": "Solo",
+        "eventVenue": "AB1 Portico, Handball Court",
+        "shortDescription": "Participants navigate a multi-round event: exploring the campus to solve clues, debugging Python code snippets, competing in fun games, and popping balloons with riddles or tasks. Teams earn points each round, and the highest scorer wins.",
+        "longDescription": "Event Rounds Description<br> Round 1: Campus Hunting<br> Participants will explore the campus to solve clues and find hidden locations. This round tests<br> observation, teamwork, and problem-solving skills. The fastest teams to complete the hunt will<br> move on to the next round.<br> Round 2: Debugging in Python<br> Participants will be given Python code snippets containing errors. The task is to debug and correct<br> the code within the given time limit. This round evaluates programming knowledge, logic, and<br> accuracy.<br> Round 3: Fun Games<br> This round will consist of 4 short and exciting fun games. They are designed to bring energy,<br> laughter, and friendly competition among participants. Performance in these games will also<br> contribute to overall scores.<br> Round 4: Balloon Pop Game<br> In the final round, balloons filled with chits containing riddles or tasks will be placed. Each team<br> pops a balloon and must solve the riddle or complete the task within the time limit. Correct answers<br> or successful attempts earn points. The team with the highest score at the end is declared the<br> winner. This round is fun, fast, and decisive.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "3WCO3lWc4aXnz9AyHqvj9R",
+        "type": "Entry",
+        "createdAt": "2025-10-16T11:25:13.841Z",
+        "updatedAt": "2025-10-21T11:34:53.997Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 5,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Cook Off",
+        "clubName": "CODECHEF - VIT",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-11-02T08:00:00.000Z",
+        "endDateAndTime": "2025-11-02T15:00:00.000Z",
+        "pricePerPerson": 99,
+        "participationType": "Solo",
+        "eventVenue": "MG Auditorium",
+        "shortDescription": "Competitive programming round where participants will be solving cp questions and the top 3 will be awarded",
+        "longDescription": "Competitive programming round where participants will be solving cp questions and the top 3 will be awarded",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "2B9WmVUcMXnXXapgsvmdVu",
+        "type": "Entry",
+        "createdAt": "2025-10-16T11:45:12.418Z",
+        "updatedAt": "2025-10-21T11:27:12.951Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Coder's Heist",
+        "clubName": "ACM-W",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-11-01T09:00:00.000Z",
+        "endDateAndTime": "2025-11-01T16:30:00.000Z",
+        "pricePerPerson": 50,
+        "participationType": "Solo",
+        "eventVenue": "AB3 201",
+        "shortDescription": "Participants code to overcome the problem , find the clue and get closer to solution.",
+        "longDescription": "Participants code to overcome the problem , find the clue and get closer to solution.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "IJoPRW3vuRBXg3LVgpo8b",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:07:18.618Z",
+        "updatedAt": "2025-10-21T11:24:39.718Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 5,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Code & Conquer Game-a-thon",
+        "clubName": "GAME DEVELOPMENT CLUB",
+        "eventType": "Hackathon",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-31T08:00:00.000Z",
+        "endDateAndTime": "2025-11-01T20:00+00:00",
+        "pricePerPerson": 50,
+        "participationType": "Solo",
+        "eventVenue": "AB1 401",
+        "shortDescription": "Code & Conquer Game-a-thon, where strategy meets skill in the ultimate gaming challenge!",
+        "longDescription": "Code & Conquer Game-a-thon, where strategy meets skill in the ultimate gaming challenge!",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "ha5lhqtqY6jKVmVoG6qwp",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:07:17.547Z",
+        "updatedAt": "2025-10-21T11:22:23.496Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 5,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Circuit-A-Thon",
+        "clubName": "INTEGRATED CIRCUITS & SYSTEM DESIGN (ICSD)",
+        "eventType": "Hackathon",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-11-01T08:00+00:00",
+        "endDateAndTime": "2025-11-01T08:00+00:00",
+        "pricePerPerson": 600,
+        "participationType": "Trio",
+        "eventVenue": "AB1 505",
+        "shortDescription": "Circuit-A-Thon is a fast-paced hardware buildathon where teams design and demo circuits (analog, mixed-signal, IoT, FPGA). With guided checkpoints, mentor hours, and on-bench testing, participants turn ideas into measurable, demo-ready prototypes.",
+        "longDescription": "Circuit-A-Thon is a fast-paced hardware buildathon where teams design, prototype, and demo working electronic circuits—from analog front-ends and mixed-signal blocks to embedded/IoT systems and FPGA logic. Guided checkpoints, mentor hours, and on-bench testing help participants turn ideas into measurable, demo-ready prototypes.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
         "id": "5jTo3ukG6ULA5CQvciAaln",
         "type": "Entry",
         "createdAt": "2025-10-15T11:55:04.243Z",
@@ -1083,62 +1363,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "IJoPRW3vuRBXg3LVgpo8b",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:07:18.618Z",
-        "updatedAt": "2025-10-21T05:30:21.928Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 3,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Code & Conquer Game-a-thon",
-        "clubName": "GAME DEVELOPMENT CLUB",
-        "eventType": "Hackathon",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T08:00:00.000Z",
-        "endDateAndTime": "2025-11-01T20:00+00:00",
-        "pricePerPerson": 100,
-        "participationType": "Solo",
-        "eventVenue": "AB1 401",
-        "shortDescription": "Code & Conquer Game-a-thon, where strategy meets skill in the ultimate gaming challenge!",
-        "longDescription": "Code & Conquer Game-a-thon, where strategy meets skill in the ultimate gaming challenge!",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "3HXFwcoR7Iasx3cTNCGAHG",
         "type": "Entry",
         "createdAt": "2025-10-18T14:24:53.602Z",
@@ -1683,62 +1907,6 @@
         "eventVenue": "AB2 701  psychometric lab",
         "shortDescription": "A group of psychologists are trapped in a lab by their superiors. Forced to cooperate, they must overcome their differences and retrieve vital information to escape the deafening silence and the lab's confines.",
         "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "ha5lhqtqY6jKVmVoG6qwp",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:07:17.547Z",
-        "updatedAt": "2025-10-21T05:21:07.016Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 3,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Circuit-A-Thon",
-        "clubName": "INTEGRATED CIRCUITS & SYSTEM DESIGN (ICSD)",
-        "eventType": "Hackathon",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-11-01T08:00+00:00",
-        "endDateAndTime": "2025-11-01T08:00+00:00",
-        "pricePerPerson": 200,
-        "participationType": "Solo",
-        "eventVenue": "AB1 505",
-        "shortDescription": "Circuit-A-Thon is a fast-paced hardware buildathon where teams design and demo circuits (analog, mixed-signal, IoT, FPGA). With guided checkpoints, mentor hours, and on-bench testing, participants turn ideas into measurable, demo-ready prototypes.",
-        "longDescription": "Circuit-A-Thon is a fast-paced hardware buildathon where teams design, prototype, and demo working electronic circuits—from analog front-ends and mixed-signal blocks to embedded/IoT systems and FPGA logic. Guided checkpoints, mentor hours, and on-bench testing help participants turn ideas into measurable, demo-ready prototypes.",
         "specialEvent": false
       }
     },
@@ -2579,62 +2747,6 @@
         "eventVenue": "VOC Auditorium",
         "shortDescription": "Technical talk from invited guest from IBM Bangluru and Delhi. Inaugration and keynote speaker deligate from Netherlands.",
         "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "3WCO3lWc4aXnz9AyHqvj9R",
-        "type": "Entry",
-        "createdAt": "2025-10-16T11:25:13.841Z",
-        "updatedAt": "2025-10-18T14:28:49.615Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 3,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Cook Off",
-        "clubName": "CODECHEF - VIT",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-11-02T08:00:00.000Z",
-        "endDateAndTime": "2025-11-02T15:00:00.000Z",
-        "pricePerPerson": 99,
-        "participationType": "Solo/Duo",
-        "eventVenue": "MG Auditorium",
-        "shortDescription": "Competitive programming round where participants will be solving cp questions and the top 3 will be awarded",
-        "longDescription": "Competitive programming round where participants will be solving cp questions and the top 3 will be awarded",
         "specialEvent": false
       }
     },
@@ -5155,62 +5267,6 @@
         "eventVenue": "Kasturba Hall",
         "shortDescription": "A SolidWorks/Fusion 360 event with a hands-on workshop on Day 1 and a design on Day 2. The 24 hr hackathon helps participants get the hang of CSWA & CSWP exam-taking, with a chance to win CSWA/CWSP coupons and a ₹10,000 cash prize pool.",
         "longDescription": "A SolidWorks/Fusion 360 event with a hands-on workshop on Day 1 and a design on Day 2. The 24 hr hackathon helps participants get the hang of CSWA & CSWP exam-taking, with a chance to win CSWA/CWSP coupons and a ₹10,000 cash prize pool.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "6mzi6vStgbe2YJ7V7rdGYu",
-        "type": "Entry",
-        "createdAt": "2025-10-16T12:16:46.267Z",
-        "updatedAt": "2025-10-18T12:27:07.171Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 4,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "CTRL FUN",
-        "clubName": "SAHAYATHA",
-        "eventType": "Game",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-27T11:30:00.000Z",
-        "endDateAndTime": "2025-10-27T16:00:00.000Z",
-        "pricePerPerson": 200,
-        "participationType": "Squad",
-        "eventVenue": "AB1 Portico, Handball Court",
-        "shortDescription": "Participants navigate a multi-round event: exploring the campus to solve clues, debugging Python code snippets, competing in fun games, and popping balloons with riddles or tasks. Teams earn points each round, and the highest scorer wins.",
-        "longDescription": "Event Rounds Description<br> Round 1: Campus Hunting<br> Participants will explore the campus to solve clues and find hidden locations. This round tests<br> observation, teamwork, and problem-solving skills. The fastest teams to complete the hunt will<br> move on to the next round.<br> Round 2: Debugging in Python<br> Participants will be given Python code snippets containing errors. The task is to debug and correct<br> the code within the given time limit. This round evaluates programming knowledge, logic, and<br> accuracy.<br> Round 3: Fun Games<br> This round will consist of 4 short and exciting fun games. They are designed to bring energy,<br> laughter, and friendly competition among participants. Performance in these games will also<br> contribute to overall scores.<br> Round 4: Balloon Pop Game<br> In the final round, balloons filled with chits containing riddles or tasks will be placed. Each team<br> pops a balloon and must solve the riddle or complete the task within the time limit. Correct answers<br> or successful attempts earn points. The team with the highest score at the end is declared the<br> winner. This round is fun, fast, and decisive.",
         "specialEvent": false
       }
     },
@@ -8515,62 +8571,6 @@
         "eventVenue": "AB1 Mini Conference hall",
         "shortDescription": "A healthcare entrepreneur is an innovator who develops and implements business solutions to improve medical services, patient care, or health technology. They combine medical insight with entrepreneurial skills to create impactful healthcare ventures",
         "longDescription": "A healthcare entrepreneur is an innovator who develops and implements business solutions to improve medical services, patient care, or health technology. They combine medical insight with entrepreneurial skills to create impactful healthcare ventures",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "2B9WmVUcMXnXXapgsvmdVu",
-        "type": "Entry",
-        "createdAt": "2025-10-16T11:45:12.418Z",
-        "updatedAt": "2025-10-16T11:45:12.418Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Coder's Heist",
-        "clubName": "ACM-W",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-11-01T09:00:00.000Z",
-        "endDateAndTime": "2025-11-01T16:30:00.000Z",
-        "pricePerPerson": 50,
-        "participationType": "Solo/Duo/Trio/Squad",
-        "eventVenue": "AB3 201",
-        "shortDescription": "Participants code to overcome the problem , find the clue and get closer to solution.",
-        "longDescription": "Participants code to overcome the problem , find the clue and get closer to solution.",
         "specialEvent": false
       }
     },
