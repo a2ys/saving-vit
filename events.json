@@ -19,6 +19,62 @@
             "id": "rr94wjxz7mfi"
           }
         },
+        "id": "1LuLOsUObUBGGaaZLk1JYl",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:29:45.388Z",
+        "updatedAt": "2025-10-21T14:50:27.412Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "IBM Qiskit Fall Fest 2025",
+        "clubName": "THE QUANTUMPLATORS",
+        "eventType": "Workshop",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-28T08:00:00.000Z",
+        "endDateAndTime": "2025-10-30T14:00:00.000Z",
+        "pricePerPerson": 200,
+        "participationType": "Solo",
+        "eventVenue": "VOC Auditorium",
+        "shortDescription": "Qiskit Fall Fest is a global series of student-led events celebrating quantum computing. Organized by The Quantumplators with support from IBM Quantum, it offers workshops, coding challenges, and hackathons for all skill levels. The 2025 edition commemorates a century of quantum science, fostering community engagement and hands-on learning",
+        "longDescription": "Qiskit Fall Fest is a global series of student-led events celebrating quantum computing. Organized by The Quantumplators with support from IBM Quantum, it offers workshops, coding challenges, and hackathons for all skill levels. The 2025 edition commemorates a century of quantum science, fostering community engagement and hands-on learning",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
         "id": "2AVoalUcxDCQGCz2Q1sSF6",
         "type": "Entry",
         "createdAt": "2025-10-18T05:48:11.080Z",
@@ -4034,62 +4090,6 @@
         "participationType": "Trio",
         "eventVenue": "AB3 310",
         "shortDescription": "A business case study competition where participants analyze real-world business problems and present practical, innovative solutions. The event aims to enhance strategic thinking, problem-solving, and presentation skills among participants.",
-        "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "1LuLOsUObUBGGaaZLk1JYl",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:29:45.388Z",
-        "updatedAt": "2025-10-18T14:29:45.388Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "IBM Qiskit Fall Fest 2025",
-        "clubName": "THE QUANTUMPLATORS",
-        "eventType": "Workshop",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-28T08:00:00.000Z",
-        "endDateAndTime": "2025-10-30T14:00:00.000Z",
-        "pricePerPerson": 200,
-        "participationType": "Solo",
-        "eventVenue": "VOC Auditorium",
-        "shortDescription": "Technical talk from invited guest from IBM Bangluru and Delhi. Inaugration and keynote speaker deligate from Netherlands.",
         "longDescription": "",
         "specialEvent": false
       }
