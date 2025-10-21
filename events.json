@@ -2,10 +2,178 @@
   "sys": {
     "type": "Array"
   },
-  "total": 191,
+  "total": 190,
   "skip": 0,
-  "limit": 191,
+  "limit": 190,
   "items": [
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "7jmAelKSbCXWJhETnUQ32Z",
+        "type": "Entry",
+        "createdAt": "2025-10-16T12:09:11.343Z",
+        "updatedAt": "2025-10-21T10:49:29.100Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "IGNITE Team of 3",
+        "clubName": "FRATERNITY OF LEADERS",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-28T10:30+00:00",
+        "endDateAndTime": "2025-10-28T12:00:00.000Z",
+        "pricePerPerson": 285,
+        "participationType": "Trio",
+        "eventVenue": "Netaji Auditorium",
+        "shortDescription": "The two-day Startup Conclave inspires and guides students in entrepreneurship. Day 1 features interactive sessions with speakers sharing journeys and strategies. Day 2 focuses on startup pitches judged by experts, concluding with a prize distribution.",
+        "longDescription": "The Startup Conclave is a two-day event focused on inspiring and guiding students in their entrepreneurial journeys.<br> Day 1: Innovation & Insight : This day will feature motivational and interactive sessions with three renowned speakers. They will share their personal stories of turning ideas into successful ventures, detailing the challenges, strategies, and key milestones they encountered. <br> Day 2 : Pitch : This day will focus on the practical application of entrepreneurial skills. Following two final speaker sessions, a dedicated startup pitching event will take place. This provides a platform for student startups to present their ideas to a panel of judges, investors, and industry experts. The event will culminate with a prize distribution ceremony to recognize and reward innovative ideas.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "3MeLfkYbjNtodYLN9ggG3Y",
+        "type": "Entry",
+        "createdAt": "2025-10-14T18:34:07.536Z",
+        "updatedAt": "2025-10-21T10:48:46.996Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 15,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "IGNITE",
+        "clubName": "FRATERNITY OF LEADERS",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "4iqdHopoSaFjpNP0gQOD6c"
+          }
+        },
+        "startDateAndTime": "2025-10-28T10:30+00:00",
+        "endDateAndTime": "2025-10-29T12:00+00:00",
+        "pricePerPerson": 50,
+        "participationType": "Duo/Trio/Squad",
+        "eventVenue": "Netaji Auditorium",
+        "shortDescription": "The two-day Startup Conclave inspires and guides students in entrepreneurship. Day 1 features interactive sessions with speakers sharing journeys and strategies. Day 2 focuses on startup pitches judged by experts, concluding with a prize distribution.",
+        "longDescription": "The Startup Conclave is a two-day event focused on inspiring and guiding students in their entrepreneurial journeys.\n Day 1: Innovation & Insight : This day will feature motivational and interactive sessions with three renowned speakers. They will share their personal stories of turning ideas into successful ventures, detailing the challenges, strategies, and key milestones they encountered. \n Day 2 : Pitch : This day will focus on the practical application of entrepreneurial skills. Following two final speaker sessions, a dedicated startup pitching event will take place. This provides a platform for student startups to present their ideas to a panel of judges, investors, and industry experts. The event will culminate with a prize distribution ceremony to recognize and reward innovative ideas.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "EVUgVDNTBb8ofcB23oj1v",
+        "type": "Entry",
+        "createdAt": "2025-10-14T18:29:36.695Z",
+        "updatedAt": "2025-10-21T10:46:22.538Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 23,
+        "revision": 4,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Robosoccer",
+        "clubName": "INTERNET OF THINGS COMMUNITY (IOTHINC) X VOICE IT",
+        "eventType": "Game",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "42jcutc0wBg63mfsz93rF5"
+          }
+        },
+        "startDateAndTime": "2025-10-31T09:00+00:00",
+        "endDateAndTime": "2025-11-02T18:00+00:00",
+        "pricePerPerson": 100,
+        "participationType": "Duo",
+        "eventVenue": "AB3 Portico",
+        "shortDescription": "Its a robosoccer event (2v2) . Two bots designed by the club engineers per team equipped with shooting mechanisms are provided to be controlled by the participants.",
+        "longDescription": "Its a robosoccer event (2v2) . Two bots designed by the club engineers per team equipped with shooting mechanisms are provided to be controlled by the participants.",
+        "specialEvent": false
+      }
+    },
     {
       "metadata": {
         "tags": [],
@@ -8251,62 +8419,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "7jmAelKSbCXWJhETnUQ32Z",
-        "type": "Entry",
-        "createdAt": "2025-10-16T12:09:11.343Z",
-        "updatedAt": "2025-10-16T12:09:11.343Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "IGNITE Team of 3",
-        "clubName": "FRATERNITY OF LEADERS",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-28T09:00:00.000Z",
-        "endDateAndTime": "2025-10-28T12:00:00.000Z",
-        "pricePerPerson": 285,
-        "participationType": "Trio",
-        "eventVenue": "Netaji Auditorium",
-        "shortDescription": "The two-day Startup Conclave inspires and guides students in entrepreneurship. Day 1 features interactive sessions with speakers sharing journeys and strategies. Day 2 focuses on startup pitches judged by experts, concluding with a prize distribution.",
-        "longDescription": "The Startup Conclave is a two-day event focused on inspiring and guiding students in their entrepreneurial journeys.<br> Day 1: Innovation & Insight : This day will feature motivational and interactive sessions with three renowned speakers. They will share their personal stories of turning ideas into successful ventures, detailing the challenges, strategies, and key milestones they encountered. <br> Day 2 : Pitch : This day will focus on the practical application of entrepreneurial skills. Following two final speaker sessions, a dedicated startup pitching event will take place. This provides a platform for student startups to present their ideas to a panel of judges, investors, and industry experts. The event will culminate with a prize distribution ceremony to recognize and reward innovative ideas.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "6EOS8pWl5ZOsCkskCt3WMH",
         "type": "Entry",
         "createdAt": "2025-10-16T11:58:03.984Z",
@@ -10545,174 +10657,6 @@
         "longDescription": "💻 Hackathon Problem Statement 1\n \n Title: DirectLink: Producers to Consumers\n \n Description:\n Cut out the middleman, empower the farmer! In this hackathon challenge, you’ll design software solutions that connect producers directly with consumers, ensuring fair pricing, transparency, and trust. Build platforms, apps, or digital tools that revolutionize agri-markets and put power back into the hands of the growers. Innovation meets impact!\n \n \n 🤖 Hackathon Problem Statement 2\n \n Title: AgriBot: Chat for Change\n \n Description:\n Bring AI to the fields! This challenge invites you to create a farmer-friendly chatbot that provides instant guidance — from crop care and weather updates to market trends and government schemes. Build a smart conversational assistant that’s simple, accessible, and impactful for rural communities. Let’s code solutions that speak the farmers’ language!",
         "specialEvent": false
       }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "3MeLfkYbjNtodYLN9ggG3Y",
-        "type": "Entry",
-        "createdAt": "2025-10-14T18:34:07.536Z",
-        "updatedAt": "2025-10-14T18:34:07.536Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 12,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "IGNITE",
-        "clubName": "FRATERNITY OF LEADERS",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "4iqdHopoSaFjpNP0gQOD6c"
-          }
-        },
-        "startDateAndTime": "2025-10-28T09:00+00:00",
-        "endDateAndTime": "2025-10-29T12:00+00:00",
-        "pricePerPerson": 50,
-        "participationType": "Squad",
-        "eventVenue": "Netaji Auditorium",
-        "shortDescription": "The two-day Startup Conclave inspires and guides students in entrepreneurship. Day 1 features interactive sessions with speakers sharing journeys and strategies. Day 2 focuses on startup pitches judged by experts, concluding with a prize distribution.",
-        "longDescription": "The Startup Conclave is a two-day event focused on inspiring and guiding students in their entrepreneurial journeys.\n Day 1: Innovation & Insight : This day will feature motivational and interactive sessions with three renowned speakers. They will share their personal stories of turning ideas into successful ventures, detailing the challenges, strategies, and key milestones they encountered. \n Day 2 : Pitch : This day will focus on the practical application of entrepreneurial skills. Following two final speaker sessions, a dedicated startup pitching event will take place. This provides a platform for student startups to present their ideas to a panel of judges, investors, and industry experts. The event will culminate with a prize distribution ceremony to recognize and reward innovative ideas.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "EVUgVDNTBb8ofcB23oj1v",
-        "type": "Entry",
-        "createdAt": "2025-10-14T18:29:36.695Z",
-        "updatedAt": "2025-10-14T18:29:36.695Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 16,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Robosoccer",
-        "clubName": "INTERNET OF THINGS COMMUNITY (IOTHINC)",
-        "eventType": "Game",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "42jcutc0wBg63mfsz93rF5"
-          }
-        },
-        "startDateAndTime": "2025-10-31T09:00+00:00",
-        "endDateAndTime": "2025-11-02T18:00+00:00",
-        "pricePerPerson": 50,
-        "participationType": "Duo",
-        "eventVenue": "AB3 Portico",
-        "shortDescription": "Its a robosoccer event (2v2) . Two bots designed by the club engineers per team equipped with shooting mechanisms are provided to be controlled by the participants.",
-        "longDescription": "Its a robosoccer event (2v2) . Two bots designed by the club engineers per team equipped with shooting mechanisms are provided to be controlled by the participants.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "5zaUpVMhfUHLy6hRUSTYV1",
-        "type": "Entry",
-        "createdAt": "2025-10-14T18:22:53.894Z",
-        "updatedAt": "2025-10-14T18:22:53.894Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 15,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Code the Future: ESP Workshop",
-        "clubName": "AGRHI INNOVATORS CLUB",
-        "eventType": "Workshop",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "3yWTLXlHR2fUCumWzvsOKq"
-          }
-        },
-        "startDateAndTime": "2025-10-31T00:00+00:00",
-        "endDateAndTime": "2025-10-31T00:00+00:00",
-        "pricePerPerson": 60,
-        "participationType": "Solo",
-        "eventVenue": "AB3 612",
-        "shortDescription": "Explore the Internet of Things in this hands-on workshop! Learn to program ESP microcontrollers and build exciting projects, from smart devices to real-world automation. Perfect for beginners and tinkerers ready to code, create, and innovate.",
-        "longDescription": "Get hands-on with the Internet of Things! This workshop introduces you to the world of ESP microcontrollers, where hardware meets innovation. Learn to program, connect, and build exciting projects using ESP boards, from smart devices to real-world automation. Whether you’re a beginner or a tinkerer, this is your chance to code, create, and craft the connected future.",
-        "specialEvent": false
-      }
     }
   ],
   "includes": {
@@ -10775,6 +10719,51 @@
               "id": "rr94wjxz7mfi"
             }
           },
+          "id": "42jcutc0wBg63mfsz93rF5",
+          "type": "Asset",
+          "createdAt": "2025-10-14T18:29:28.330Z",
+          "updatedAt": "2025-10-14T18:29:28.330Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "IMG-20251010-WA0013 - IoTHINC - VIT Chennai",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/42jcutc0wBg63mfsz93rF5/35a0b99f43aea055778e98acc289c7f2/IMG-20251010-WA0013_-_IoTHINC_-_VIT_Chennai.jpg",
+            "details": {
+              "size": 530506,
+              "image": {
+                "width": 988,
+                "height": 1280
+              }
+            },
+            "fileName": "IMG-20251010-WA0013 - IoTHINC - VIT Chennai.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
           "id": "47Xb2cPhpwsklnk79zlQto",
           "type": "Asset",
           "createdAt": "2025-10-15T19:41:42.624Z",
@@ -10819,6 +10808,51 @@
               "id": "rr94wjxz7mfi"
             }
           },
+          "id": "4iqdHopoSaFjpNP0gQOD6c",
+          "type": "Asset",
+          "createdAt": "2025-10-14T18:33:56.167Z",
+          "updatedAt": "2025-10-14T18:33:56.167Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 7,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Na",
+          "description": "The two-day Startup Conclave inspires and guides students in entrepreneurship. Day 1 features interactive sessions with speakers sharing journeys and strategies. Day 2 focuses on startup pitches judged by experts, concluding with a prize distribution.",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/4iqdHopoSaFjpNP0gQOD6c/eceb5960e60fd08ffcbbfbf6f738e1bb/Poster_FoL_-_Fraternity_Of_Leaders.jpeg",
+            "details": {
+              "size": 252284,
+              "image": {
+                "width": 1131,
+                "height": 1600
+              }
+            },
+            "fileName": "Poster_FoL - Fraternity Of Leaders.jpeg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
           "id": "5WM0Gam15m4DSf8VUuLJqD",
           "type": "Asset",
           "createdAt": "2025-10-15T11:34:03.308Z",
@@ -10847,51 +10881,6 @@
               }
             },
             "fileName": "Brainware (updated) - Kaushik Saravanan.jpg",
-            "contentType": "image/jpeg"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
-          "id": "6xVQmlw9iUvK3hIZJe9oqi",
-          "type": "Asset",
-          "createdAt": "2025-10-14T18:06:44.488Z",
-          "updatedAt": "2025-10-14T18:06:44.488Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 7,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "Hack  a cure",
-          "description": "In this 24-hour hackathon, teams will design medical AI systems using Retrieval Augmented Generation (RAG). Leverage medical literature to build solutions, deploy them as APIs, and compete based on accuracy, evidence citation, and reliability.",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/6xVQmlw9iUvK3hIZJe9oqi/8920e49c70ec86e9fef24fbd48b94117/IMG-20251014-WA0048_-_Aneeka_Reemaz_A_23BEL1058__1_.jpg",
-            "details": {
-              "size": 134983,
-              "image": {
-                "width": 890,
-                "height": 1280
-              }
-            },
-            "fileName": "IMG-20251014-WA0048 - Aneeka Reemaz A 23BEL1058 (1).jpg",
             "contentType": "image/jpeg"
           }
         }
@@ -11089,96 +11078,6 @@
               "id": "rr94wjxz7mfi"
             }
           },
-          "id": "3yWTLXlHR2fUCumWzvsOKq",
-          "type": "Asset",
-          "createdAt": "2025-10-14T18:22:43.058Z",
-          "updatedAt": "2025-10-14T18:22:43.058Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 3,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "ESP Workshop (2) - Abirami S",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/3yWTLXlHR2fUCumWzvsOKq/104bceac578646ef8a6f0991ad62a975/ESP_Workshop__2__-_Abirami_S.png",
-            "details": {
-              "size": 544207,
-              "image": {
-                "width": 1587,
-                "height": 2245
-              }
-            },
-            "fileName": "ESP_Workshop (2) - Abirami S.png",
-            "contentType": "image/png"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
-          "id": "42jcutc0wBg63mfsz93rF5",
-          "type": "Asset",
-          "createdAt": "2025-10-14T18:29:28.330Z",
-          "updatedAt": "2025-10-14T18:29:28.330Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 3,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "IMG-20251010-WA0013 - IoTHINC - VIT Chennai",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/42jcutc0wBg63mfsz93rF5/35a0b99f43aea055778e98acc289c7f2/IMG-20251010-WA0013_-_IoTHINC_-_VIT_Chennai.jpg",
-            "details": {
-              "size": 530506,
-              "image": {
-                "width": 988,
-                "height": 1280
-              }
-            },
-            "fileName": "IMG-20251010-WA0013 - IoTHINC - VIT Chennai.jpg",
-            "contentType": "image/jpeg"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
           "id": "4Ix6PVl0AolFhukMHBzyAy",
           "type": "Asset",
           "createdAt": "2025-10-14T10:01:28.047Z",
@@ -11252,51 +11151,6 @@
               }
             },
             "fileName": "technovit event poster - Sangeetha.jpg",
-            "contentType": "image/jpeg"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
-          "id": "4iqdHopoSaFjpNP0gQOD6c",
-          "type": "Asset",
-          "createdAt": "2025-10-14T18:33:56.167Z",
-          "updatedAt": "2025-10-14T18:33:56.167Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 7,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "Na",
-          "description": "The two-day Startup Conclave inspires and guides students in entrepreneurship. Day 1 features interactive sessions with speakers sharing journeys and strategies. Day 2 focuses on startup pitches judged by experts, concluding with a prize distribution.",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/4iqdHopoSaFjpNP0gQOD6c/eceb5960e60fd08ffcbbfbf6f738e1bb/Poster_FoL_-_Fraternity_Of_Leaders.jpeg",
-            "details": {
-              "size": 252284,
-              "image": {
-                "width": 1131,
-                "height": 1600
-              }
-            },
-            "fileName": "Poster_FoL - Fraternity Of Leaders.jpeg",
             "contentType": "image/jpeg"
           }
         }
@@ -11522,6 +11376,51 @@
               }
             },
             "fileName": "Screenshot_20251010_163239_WhatsApp - Divya.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "6xVQmlw9iUvK3hIZJe9oqi",
+          "type": "Asset",
+          "createdAt": "2025-10-14T18:06:44.488Z",
+          "updatedAt": "2025-10-14T18:06:44.488Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 7,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Hack  a cure",
+          "description": "In this 24-hour hackathon, teams will design medical AI systems using Retrieval Augmented Generation (RAG). Leverage medical literature to build solutions, deploy them as APIs, and compete based on accuracy, evidence citation, and reliability.",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/6xVQmlw9iUvK3hIZJe9oqi/8920e49c70ec86e9fef24fbd48b94117/IMG-20251014-WA0048_-_Aneeka_Reemaz_A_23BEL1058__1_.jpg",
+            "details": {
+              "size": 134983,
+              "image": {
+                "width": 890,
+                "height": 1280
+              }
+            },
+            "fileName": "IMG-20251014-WA0048 - Aneeka Reemaz A 23BEL1058 (1).jpg",
             "contentType": "image/jpeg"
           }
         }
