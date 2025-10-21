@@ -19,6 +19,286 @@
             "id": "rr94wjxz7mfi"
           }
         },
+        "id": "2AVoalUcxDCQGCz2Q1sSF6",
+        "type": "Entry",
+        "createdAt": "2025-10-18T05:48:11.080Z",
+        "updatedAt": "2025-10-21T14:20:02.721Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 15,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Rotor Rush",
+        "clubName": "TechnoVIT",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-11-01T14:00+00:00",
+        "endDateAndTime": "2025-11-01T20:00+00:00",
+        "pricePerPerson": 1500,
+        "participationType": "Solo/Duo/Trio/Squad",
+        "eventVenue": "MG Auditorium",
+        "shortDescription": "Dive into the future with Drone VR! Experience the thrill of piloting drones in immersive virtual reality. Test your reflexes, precision, and control as you race through stunning digital skies and futuristic arenas.",
+        "longDescription": "Dive into the future with Drone VR! Experience the thrill of piloting drones in immersive virtual reality. Test your reflexes, precision, and control as you race through stunning digital skies and futuristic arenas.",
+        "specialEvent": true
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "2jX51tsw4V5TLKZftr0suH",
+        "type": "Entry",
+        "createdAt": "2025-10-18T05:42:11.168Z",
+        "updatedAt": "2025-10-21T14:15:33.259Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 19,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Rogue Route",
+        "clubName": "TechnoVIT",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-11-01T10:00+00:00",
+        "endDateAndTime": "2025-11-01T18:00+00:00",
+        "pricePerPerson": 1500,
+        "participationType": "Solo/Duo/Trio/Squad",
+        "eventVenue": "AB3 Amphitheatre",
+        "shortDescription": "Get ready to witness the thrill of speed and precision as cutting-edge technology takes flight! Fast reflexes and skill decide who takes the sky! Drone Racing",
+        "longDescription": "Whether you’re a drone enthusiast, a tech innovator, or just a thrill-seeker, this event promises an adrenaline rush like no other. Experience the perfect blend of aerodynamics, innovation, and competitive spirit - where every millisecond counts!",
+        "specialEvent": true
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "30nPIg2jkTgWTmXQZdaLb2",
+        "type": "Entry",
+        "createdAt": "2025-10-17T10:23:50.018Z",
+        "updatedAt": "2025-10-21T14:06:06.796Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 6,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Obscur 33 Final Trace",
+        "clubName": "CYSCOM X FYI",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-31T08:00:00.000Z",
+        "endDateAndTime": "2025-11-01T08:00:00.000Z",
+        "pricePerPerson": 150,
+        "participationType": "Solo/Duo/Trio",
+        "eventVenue": "Kamaraj Auditorium",
+        "shortDescription": "Final Trace is a story-driven 24-hour cybersecurity CTF with dynamic challenges, branched endings, and a huge prize pool.",
+        "longDescription": "Get ready for Final Trace, the flagship 24-hour CTF by CYSCOM & FYI, with a ₹60,000+ prize pool. This is a story-driven hacking adventure where every choice you make changes the outcome. Solve dynamic flags, uncover hidden twists, and navigate multiple endings that keep you hooked from start to finish. It’s unlike any CTF you’ve tried before.\nAlong the way, join expert sessions on AI and cybersecurity, pick up cutting-edge techniques, and compete alongside top talent. Whether you’re chasing the prize, the thrill, or the challenge, Final Trace guarantees 24 hours of nonstop strategy, suspense, and fun. The story moves fast—be there to shape it.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "REUv3A4bQMHaQBrdwrYYm",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:14:44.014Z",
+        "updatedAt": "2025-10-21T14:03:31.505Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 7,
+        "revision": 4,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "ScriptWave",
+        "clubName": "INTEGRATED CIRCUITS & SYSTEM DESIGN (ICSD)",
+        "eventType": "Hackathon",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-11-01T08:00+00:00",
+        "endDateAndTime": "2025-11-02T18:00+00:00",
+        "pricePerPerson": 50,
+        "participationType": "Solo",
+        "eventVenue": "AB3 312",
+        "shortDescription": "ScriptWave is a hands-on hackathon where teams tackle scripting and verification challenges. Create scripts, build testbenches,and debug digital designs to gain practical experience with industry tools in a collaborative, problem-solving environment.\n\n",
+        "longDescription": "ScriptWave is a hands-on hackathon where participants dive into scripting and verification challenges to test and validate digital designs. Teams will create scripts, build testbenches, and debug solutions in a collaborative environment, gaining practical experience with industry-relevant tools and methodologies. The event emphasizes problem-solving, innovation, and efficiency, giving participants a real taste of digital design verification in action.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "3nZ5jh6pLpp2OI09eTJoaG",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:13:02.174Z",
+        "updatedAt": "2025-10-21T13:59:53.065Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 5,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "ServoCore\n",
+        "clubName": "ROBOTICS CLUB X Dreadnought Robotics X AUVC (Autonomous Unmanned Vehicles Club)",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-28T10:00:00.000Z",
+        "endDateAndTime": "2025-10-29T08:00:00.000Z",
+        "pricePerPerson": 1200,
+        "participationType": "Squad",
+        "eventVenue": "Kasturba Hall",
+        "shortDescription": "Students in teams of 4, guided by a mentor, will build a phone-controlled RC car with a servo-operated pick and drop system using 3D printed parts. They'll then compete in a championship to move blocks across a terrain in the shortest time.",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
         "id": "2DAWktgDhdSV4JUM5gw6PI",
         "type": "Entry",
         "createdAt": "2025-10-18T14:19:41.921Z",
@@ -3491,62 +3771,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "REUv3A4bQMHaQBrdwrYYm",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:14:44.014Z",
-        "updatedAt": "2025-10-21T05:17:24.385Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 5,
-        "revision": 3,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "ScriptWave",
-        "clubName": "INTEGRATED CIRCUITS & SYSTEM DESIGN (ICSD)",
-        "eventType": "Hackathon",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-11-01T08:00+00:00",
-        "endDateAndTime": "2025-11-02T18:00+00:00",
-        "pricePerPerson": 50,
-        "participationType": "Solo",
-        "eventVenue": "AB3 409",
-        "shortDescription": "ScriptWave is a hands-on hackathon where teams tackle scripting and verification challenges. Create scripts, build testbenches,and debug digital designs to gain practical experience with industry tools in a collaborative, problem-solving environment.\n\n",
-        "longDescription": "ScriptWave is a hands-on hackathon where participants dive into scripting and verification challenges to test and validate digital designs. Teams will create scripts, build testbenches, and debug solutions in a collaborative environment, gaining practical experience with industry-relevant tools and methodologies. The event emphasizes problem-solving, innovation, and efficiency, giving participants a real taste of digital design verification in action.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "wyF64aCoqRZPer0ZnKWPB",
         "type": "Entry",
         "createdAt": "2025-10-18T14:19:45.305Z",
@@ -4499,62 +4723,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "3nZ5jh6pLpp2OI09eTJoaG",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:13:02.174Z",
-        "updatedAt": "2025-10-18T14:13:02.174Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "ServoCore\n",
-        "clubName": "ROBOTICS CLUB (collab with Dreadnought Robotics and AUVC (Autonomous Unmanned Vehicles Club))\n",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-28T10:00:00.000Z",
-        "endDateAndTime": "2025-10-29T08:00:00.000Z",
-        "pricePerPerson": 1200,
-        "participationType": "Squad",
-        "eventVenue": "Kasturba Hall",
-        "shortDescription": "Students in teams of 4, guided by a mentor, will build a phone-controlled RC car with a servo-operated pick and drop system using 3D printed parts. They'll then compete in a championship to move blocks across a terrain in the shortest time.",
-        "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "4f7nRq9bjXpYBZpAR9dXmc",
         "type": "Entry",
         "createdAt": "2025-10-18T14:12:18.209Z",
@@ -5227,62 +5395,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "30nPIg2jkTgWTmXQZdaLb2",
-        "type": "Entry",
-        "createdAt": "2025-10-17T10:23:50.018Z",
-        "updatedAt": "2025-10-18T12:50:34.681Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 3,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Obscur 33 Final Trace",
-        "clubName": "CYSCOM X FYI",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T08:00:00.000Z",
-        "endDateAndTime": "2025-11-01T08:00:00.000Z",
-        "pricePerPerson": 150,
-        "participationType": "Solo/Duo/Trio",
-        "eventVenue": "Kamaraj Auditorium",
-        "shortDescription": "Inspired by an award-winning game, Obscur 33: Final Trace is a story-driven cybersecurity competition. It reimagines the CTF as an immersive, multi-ending experience where you solve dynamic flags and learn cybersecurity through cinematic gameplay.",
-        "longDescription": "Inspired by an award-winning game, Obscur 33: Final Trace is a story-driven cybersecurity competition. It reimagines the CTF as an immersive, multi-ending experience where you solve dynamic flags and learn cybersecurity through cinematic gameplay.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "CWapoQx4WAgIjnAWsIzSb",
         "type": "Entry",
         "createdAt": "2025-10-16T11:39:09.475Z",
@@ -5435,118 +5547,6 @@
         "eventVenue": "AB3 Lawn",
         "shortDescription": "Gear up for Robotics Racing! Claim the ultimate robotics champion title!",
         "longDescription": "Gear up for Robotics Racing! Claim the ultimate robotics champion title!",
-        "specialEvent": true
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "2AVoalUcxDCQGCz2Q1sSF6",
-        "type": "Entry",
-        "createdAt": "2025-10-18T05:48:11.080Z",
-        "updatedAt": "2025-10-18T05:48:11.080Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 13,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Rotor Rush",
-        "clubName": "TechnoVIT",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-11-01T14:00+00:00",
-        "endDateAndTime": "2025-11-01T20:00+00:00",
-        "pricePerPerson": 1500,
-        "participationType": "Solo/Duo/Trio/Squad",
-        "eventVenue": "MG Auditorium",
-        "shortDescription": "Dive into the future with Drone VR! Experience the thrill of piloting drones in immersive virtual reality. Test your reflexes, precision, and control as you race through stunning digital skies and futuristic arenas.",
-        "longDescription": "Dive into the future with Drone VR! Experience the thrill of piloting drones in immersive virtual reality. Test your reflexes, precision, and control as you race through stunning digital skies and futuristic arenas.",
-        "specialEvent": true
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "2jX51tsw4V5TLKZftr0suH",
-        "type": "Entry",
-        "createdAt": "2025-10-18T05:42:11.168Z",
-        "updatedAt": "2025-10-18T05:42:11.168Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 17,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Rouge Route",
-        "clubName": "TechnoVIT",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-11-01T10:00+00:00",
-        "endDateAndTime": "2025-11-01T18:00+00:00",
-        "pricePerPerson": 1500,
-        "participationType": "Solo/Duo/Trio/Squad",
-        "eventVenue": "AB3 Amphitheatre",
-        "shortDescription": "Get ready to witness the thrill of speed and precision as cutting-edge technology takes flight! Fast reflexes and skill decide who takes the sky! Drone Racing",
-        "longDescription": "Whether you’re a drone enthusiast, a tech innovator, or just a thrill-seeker, this event promises an adrenaline rush like no other. Experience the perfect blend of aerodynamics, innovation, and competitive spirit - where every millisecond counts!",
         "specialEvent": true
       }
     },
