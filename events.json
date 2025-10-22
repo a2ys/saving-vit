@@ -2,10 +2,1242 @@
   "sys": {
     "type": "Array"
   },
-  "total": 177,
+  "total": 175,
   "skip": 0,
-  "limit": 177,
+  "limit": 175,
   "items": [
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "1lhNRMBbHhEMvc98JZ1HG8",
+        "type": "Entry",
+        "createdAt": "2025-10-16T14:16:07.568Z",
+        "updatedAt": "2025-10-22T19:52:44.016Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 5,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Quantum Meets AI The Rise of Quantum Deep Learning",
+        "clubName": "ARTIFICIAL INTELLIGENCE CLUB",
+        "eventType": "Workshop",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "7tG4XEMSxxy5Tp7wQIcsu9"
+          }
+        },
+        "startDateAndTime": "2025-10-29T10:00:00.000Z",
+        "endDateAndTime": "2025-10-29T16:00:00.000Z",
+        "pricePerPerson": 100,
+        "participationType": "Solo",
+        "eventVenue": "AB3 201",
+        "shortDescription": "Explore quantum computing principles like superposition and entanglement to accelerate deep learning. Learn hybrid algorithms, quantum-inspired neural networks, and see hands-on demos highlighting future AI applications.",
+        "longDescription": "This workshop explores how quantum computing principles, such as superposition and entanglement, can accelerate and transform deep learning models. Participants will learn about quantum-inspired neural networks, hybrid quantum-classical algorithms, and their potential in solving complex problems. Hands-on demonstrations and case studies will highlight the future of quantum-enhanced AI applications.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "7kBqOEThLj7az8BegWdl29",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:12:16.127Z",
+        "updatedAt": "2025-10-22T19:51:35.605Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 5,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "T Minus Zero: Model Rocketry",
+        "clubName": "SEDS ANTARIKSH CHAPTER",
+        "eventType": "Hackathon",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "44cBoqcd2fOUCLG8S8zOx9"
+          }
+        },
+        "startDateAndTime": "2025-11-01T09:00+00:00",
+        "endDateAndTime": "2025-11-01T17:00+00:00",
+        "pricePerPerson": 2200,
+        "participationType": "Duo",
+        "eventVenue": "AB1 602  & 604",
+        "shortDescription": "🚀 T Minus Zero: Model Rocketry- Get ready to ignite your passion for space! In this thrilling, hands-on event, students dive into the science of rocketry, design and build their own model rockets, and watch them soar sky-high during live launches. The best part? You get to take your very own rocket home—a souvenir of your first step into the world of rocketry!",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "4jsAHewa0wcCEhFj1oabU2",
+        "type": "Entry",
+        "createdAt": "2025-10-16T12:28:11.556Z",
+        "updatedAt": "2025-10-22T19:50:28.458Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 4,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Workshop on Smart Gearboxes ",
+        "clubName": "TECH RESEARCHERS CLUB (TRC)",
+        "eventType": "Workshop",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "1hGNwPeTFAcJiP9GkJFqjD"
+          }
+        },
+        "startDateAndTime": "2025-11-01T10:00:00.000Z",
+        "endDateAndTime": "2025-11-01T11:30:00.000Z",
+        "pricePerPerson": 59,
+        "participationType": "Solo",
+        "eventVenue": "AB3 308",
+        "shortDescription": "Join our workshop on smart gearboxes and their role in sustainability. Learn gear system basics, how innovations drive efficiency, and future trends. Led by Swaminathan T., an R&D expert with 10+ years of experience on defense and ISRO projects.",
+        "longDescription": "Join our workshop on smart gearboxes and their role in sustainability. Learn gear system basics, how innovations drive efficiency, and future trends. Led by Swaminathan T., an R&D expert with 10+ years of experience on defense and ISRO projects.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "5hrIXu41teIPnQdG2ivevc",
+        "type": "Entry",
+        "createdAt": "2025-10-16T12:16:39.261Z",
+        "updatedAt": "2025-10-22T19:49:35.150Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "AWS DeepRacer 2 Trio",
+        "clubName": "IEEE ROBOTICS & AUTOMATION SOCIETY (IEEE-RAS)",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "tOjH2Mx3wBHX3hZp5I3eY"
+          }
+        },
+        "startDateAndTime": "2025-11-01T08:00:00.000Z",
+        "endDateAndTime": "2025-11-01T18:00:00.000Z",
+        "pricePerPerson": 580,
+        "participationType": "Trio",
+        "eventVenue": "Netaji Auditorium",
+        "shortDescription": "Participants begin with a workshop on reinforcement learning, building and training models on AWS Deepracer. They then compete by racing their models for fastest lap times, applying their skills in an exciting, hands-on competition.",
+        "longDescription": "This event will begin with an interactive workshop where participants learn the fundamentals of reinforcement learning and get hands-on experience building and training their own models on AWS Deepracer. Following the workshop, participants will put their knowledge into action in an exciting competition, racing their trained models to achieve the fastest lap times and showcase their skills.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "7DRAJYSfbYTlmDcTUji3S9",
+        "type": "Entry",
+        "createdAt": "2025-10-16T12:16:38.245Z",
+        "updatedAt": "2025-10-22T19:49:19.180Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "AWS DeepRacer 2 Duo",
+        "clubName": "IEEE ROBOTICS & AUTOMATION SOCIETY (IEEE-RAS)",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "tOjH2Mx3wBHX3hZp5I3eY"
+          }
+        },
+        "startDateAndTime": "2025-11-01T08:00:00.000Z",
+        "endDateAndTime": "2025-11-01T18:00:00.000Z",
+        "pricePerPerson": 390,
+        "participationType": "Duo",
+        "eventVenue": "Netaji Auditorium",
+        "shortDescription": "Participants begin with a workshop on reinforcement learning, building and training models on AWS Deepracer. They then compete by racing their models for fastest lap times, applying their skills in an exciting, hands-on competition.",
+        "longDescription": "This event will begin with an interactive workshop where participants learn the fundamentals of reinforcement learning and get hands-on experience building and training their own models on AWS Deepracer. Following the workshop, participants will put their knowledge into action in an exciting competition, racing their trained models to achieve the fastest lap times and showcase their skills.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "3aRvzzHwvkITTqaxx1QegW",
+        "type": "Entry",
+        "createdAt": "2025-10-16T12:16:37.178Z",
+        "updatedAt": "2025-10-22T19:48:51.384Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "AWS DeepRacer 2 Solo",
+        "clubName": "IEEE ROBOTICS & AUTOMATION SOCIETY (IEEE-RAS)",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "tOjH2Mx3wBHX3hZp5I3eY"
+          }
+        },
+        "startDateAndTime": "2025-11-01T08:00:00.000Z",
+        "endDateAndTime": "2025-11-01T18:00:00.000Z",
+        "pricePerPerson": 200,
+        "participationType": "Solo",
+        "eventVenue": "Netaji Auditorium",
+        "shortDescription": "Participants begin with a workshop on reinforcement learning, building and training models on AWS Deepracer. They then compete by racing their models for fastest lap times, applying their skills in an exciting, hands-on competition.",
+        "longDescription": "This event will begin with an interactive workshop where participants learn the fundamentals of reinforcement learning and get hands-on experience building and training their own models on AWS Deepracer. Following the workshop, participants will put their knowledge into action in an exciting competition, racing their trained models to achieve the fastest lap times and showcase their skills.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "REUv3A4bQMHaQBrdwrYYm",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:14:44.014Z",
+        "updatedAt": "2025-10-22T19:48:24.015Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 9,
+        "revision": 5,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "ScriptWave",
+        "clubName": "INTEGRATED CIRCUITS & SYSTEM DESIGN (ICSD)",
+        "eventType": "Hackathon",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "7jeKvPZrqiD6ExDGMG4ZfT"
+          }
+        },
+        "startDateAndTime": "2025-11-01T08:00+00:00",
+        "endDateAndTime": "2025-11-02T18:00+00:00",
+        "pricePerPerson": 50,
+        "participationType": "Solo",
+        "eventVenue": "AB3 312",
+        "shortDescription": "ScriptWave is a hands-on hackathon where teams tackle scripting and verification challenges. Create scripts, build testbenches,and debug digital designs to gain practical experience with industry tools in a collaborative, problem-solving environment.\n\n",
+        "longDescription": "ScriptWave is a hands-on hackathon where participants dive into scripting and verification challenges to test and validate digital designs. Teams will create scripts, build testbenches, and debug solutions in a collaborative environment, gaining practical experience with industry-relevant tools and methodologies. The event emphasizes problem-solving, innovation, and efficiency, giving participants a real taste of digital design verification in action.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "7njazLSSe0cMlYdK4ZiUGx",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:14:44.930Z",
+        "updatedAt": "2025-10-22T19:47:05.973Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 6,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Techno Prix",
+        "clubName": "ENACTUS VIT CHENNAI X GDG",
+        "eventType": "Game",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "64m2b1bkZPgWpTEn3sJX6T"
+          }
+        },
+        "startDateAndTime": "2025-11-01T09:00+00:00",
+        "endDateAndTime": "2025-11-01T17:00+00:00",
+        "pricePerPerson": 400,
+        "participationType": "Squad",
+        "eventVenue": "Clock Court, MBA Amphi, AB1 Portico, AB3 Portico, AB1 Side Entrance, AB1 Mini Portico, AB3 First Floor Classroom, Outside/Near MG, and AB3 Amphi (Back Side) (Multiple checkpoints throughout the campus)",
+        "shortDescription": "Techno Prix is a campus-wide event where teams of 4 navigate checkpoints, tackling challenges that test entrepreneurship and strategy. Compete in activities like Shark Tank pitches, SDG card trading, and meme marketing to win.",
+        "longDescription": "Techno Prix is an interactive, campus-wide event designed to foster entrepreneurship, strategic thinking, collaborative problem-solving, and innovation among students. Teams of four will navigate a series of 10 checkpoints across the campus, participating in challenges that combine business creativity, negotiation, and gameplay.\n \n Participants will engage in activities such as:\n -Shark Tank Mini: Pitch creative business ideas to earn investment points.\n -SDG Deck Trade: Strategically negotiate and collect Sustainable Development Goal cards to maximize rewards.\n -Reverse Shark Tank: Present unconventional or humorous business ideas persuasively.\n -Customer Chaos Challenge: Demonstrate adaptability and sales skills by addressing unique customer demands.\n -Meme Marketing Mayhem: Develop marketing content for given products, emphasizing creativity and engagement.\n -GDG GameDev PlayZone: Experience and compete in games created by the GameDev team, earning points and advantages through interactive gameplay.\n \n The event aims to encourage entrepreneurial thinking, creativity, teamwork, and campus-wide interaction, while maintaining an enjoyable and competitive environment.\n \n Team Composition: 4 members per team\n Venue: Multiple checkpoints across the campus",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "4V1lrplLakBFYoMHQx5fAP",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:19:40.804Z",
+        "updatedAt": "2025-10-22T19:46:59.337Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 4,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "VOID(5+ members)",
+        "clubName": "OPEN SOURCE PROGRAMMING CLUB",
+        "eventType": "Hackathon",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-28T09:00:00.000Z",
+        "endDateAndTime": "2025-10-29T10:00:00.000Z",
+        "pricePerPerson": 1000,
+        "participationType": "5+ Members",
+        "eventVenue": "MG Auditorium",
+        "shortDescription": "ONLY SHORTLISTED STUDENTS!! Join VØID:v1, a 24-hour hackathon where technology meets entrepreneurship. Go beyond coding to build a functional prototype and a comprehensive business plan, turning visionary ideas into viable businesses across diverse innovation tracks.",
+        "longDescription": "VØID:v1 is built for the restless and the bold - those who refuse to watch the future unfold and instead choose to shape it. Scheduled for 28th & 29th October 2025, this 24-hour hackathon is more than just a coding competition. It is an arena where creativity collides with technology, where ideas roar louder than Wall Street, and where teams don't just build projects - they spark movements. \n\nVOID is an innovation-focused hackathon where top minds converge to build groundbreaking, disruptive solutions. It's more than just a coding competition; it's a platform for turning visionary ideas into viable businesses. Participants will not only create groundbreaking, functional prototypes but will also develop comprehensive business plans, including pitch decks and Business Model Canvases (BMCs), preparing them for real-world application. VOID is where technology meets entrepreneurship, creating a future-ready cohort of innovators.\n\nPowered by the Open Source Programming Club (OSPC) and the Business Innovation Club (BIC) of VIT Chennai, and hosted on Devfolio, VØID provides the perfect platform to showcase talent, collaborate with like-minded peers, and turn visionary ideas into tangible, game-changing outcomes.\n\n🌐 Tracks:\n1. FinTech & Digital Payments\n2. HealthTech & EdTech\n3. RetailTech, SaaS & Smart Mobility\n4. AgriTech & SDG\n5. Open Innovation",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "4EJpp8ytXVo5ZZB1GWLfhs",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:19:39.679Z",
+        "updatedAt": "2025-10-22T19:46:27.329Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 4,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "VOID(squad)",
+        "clubName": "OPEN SOURCE PROGRAMMING CLUB",
+        "eventType": "Hackathon",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-28T09:00:00.000Z",
+        "endDateAndTime": "2025-10-29T10:00:00.000Z",
+        "pricePerPerson": 800,
+        "participationType": "Squad",
+        "eventVenue": "MG Auditorium",
+        "shortDescription": "ONLY SHORTLISTED TEAMS!! Join VØID:v1, a 24-hour hackathon where technology meets entrepreneurship. Go beyond coding to build a functional prototype and a comprehensive business plan, turning visionary ideas into viable businesses across diverse innovation tracks.",
+        "longDescription": "VØID:v1 is built for the restless and the bold - those who refuse to watch the future unfold and instead choose to shape it. Scheduled for 28th & 29th October 2025, this 24-hour hackathon is more than just a coding competition. It is an arena where creativity collides with technology, where ideas roar louder than Wall Street, and where teams don't just build projects - they spark movements. \n\nVOID is an innovation-focused hackathon where top minds converge to build groundbreaking, disruptive solutions. It's more than just a coding competition; it's a platform for turning visionary ideas into viable businesses. Participants will not only create groundbreaking, functional prototypes but will also develop comprehensive business plans, including pitch decks and Business Model Canvases (BMCs), preparing them for real-world application. VOID is where technology meets entrepreneurship, creating a future-ready cohort of innovators.\n\nPowered by the Open Source Programming Club (OSPC) and the Business Innovation Club (BIC) of VIT Chennai, and hosted on Devfolio, VØID provides the perfect platform to showcase talent, collaborate with like-minded peers, and turn visionary ideas into tangible, game-changing outcomes.\n\n🌐 Tracks:\n1. FinTech & Digital Payments\n2. HealthTech & EdTech\n3. RetailTech, SaaS & Smart Mobility\n4. AgriTech & SDG\n5. Open Innovation",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "2WL91OUjopT3MHVNgCDpAb",
+        "type": "Entry",
+        "createdAt": "2025-10-16T11:25:11.467Z",
+        "updatedAt": "2025-10-22T19:46:07.738Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 5,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Design The Device",
+        "clubName": "IEEE ELECTRON DEVICE SOCIETY (IEEE-EDS)",
+        "eventType": "Workshop",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "6VofLNV1tjZKeQ1oUcxxMO"
+          }
+        },
+        "startDateAndTime": "2025-11-01T09:00:00.000Z",
+        "endDateAndTime": "2025-11-01T16:00:00.000Z",
+        "pricePerPerson": 50,
+        "participationType": "Solo",
+        "eventVenue": "AB1 607B",
+        "shortDescription": "Design the Device is a workshop to help students understand the basics of semiconductor device simulation. It gives a simple introduction to how TCAD tools are used in research and industry for designing and analyzing electronic devices.",
+        "longDescription": "Design the Device is a workshop to help students understand the basics of semiconductor device simulation. It gives a simple introduction to how TCAD tools are used in research and industry for designing and analyzing electronic devices.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "7cFWzjhy88n0paVuFDb7ys",
+        "type": "Entry",
+        "createdAt": "2025-10-16T12:16:41.341Z",
+        "updatedAt": "2025-10-22T19:44:41.775Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Symmetria The Art and Math Exposition Duo",
+        "clubName": "MATHEMATICS CLUB",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "73L08wLpoCOx37hS1yuM4I"
+          }
+        },
+        "startDateAndTime": "2025-11-01T10:00:00.000Z",
+        "endDateAndTime": "2025-11-01T13:30:00.000Z",
+        "pricePerPerson": 120,
+        "participationType": "Duo",
+        "eventVenue": "AB4  201",
+        "shortDescription": "Create visual or physical works from mathematical or data principles. Participants can generate algorithmic art, design geometric or 3D structures, or sonify datasets into music, combining creativity, math, and technical skills.",
+        "longDescription": "Algorithmic Art: Generate stunning visual art using code, based on mathematical principles like fractals, tessellations, or parametric equations.<br> <br> ​Geometric Design: Design a physical or 3D-modeled structure (e.g., a bridge, a sculpture, an architectural model) that demonstrates advanced geometric principles and structural integrity.<br> <br> Data Sonification: Transform a complex dataset into a musical composition, using mathematical rules to map data points to notes, rhythms, and harmonies.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "RliXL9hD0hsr6zHRERqni",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:11:11.333Z",
+        "updatedAt": "2025-10-22T19:44:36.272Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 7,
+        "revision": 4,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "IdeaXchange (Duo)",
+        "clubName": "FRENCH CLUB X CLOUDOPS",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "6BKTVmxaCKhzK5YZQDd0Yz"
+          }
+        },
+        "startDateAndTime": "2025-11-02T08:00+00:00",
+        "endDateAndTime": "2025-11-02T14:00+00:00",
+        "pricePerPerson": 199,
+        "participationType": "Duo",
+        "eventVenue": "Nethaji Auditorium",
+        "shortDescription": "Join the Cloud Ops Club's Idea Challenge! Analyze global solutions to societal issues, adapt them for India, and build tech prototypes like data visualizations or AI. Collaborate and innovate for change.",
+        "longDescription": "Join us for a dynamic Idea Challenge, in collaboration with the Cloud Ops Club, where participants explore how countries like France and India have tackled societal and developmental issues. Using a case study approach, you’ll analyze successful international models and creatively reimagine them to fit India’s unique cultural, economic, and policy landscape—without comparison or judgment.\n \n This challenge also includes a technical dimension, encouraging you to transform ideas into practical, tech-enabled solutions such as data analysis, interactive visualizations, digital prototypes, or AI-driven simulations. Collaborate, innovate, and build impactful solutions through cross-cultural learning and constructive problem-solving.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "5I13mIvUQr8S5A732C29dG",
+        "type": "Entry",
+        "createdAt": "2025-10-16T12:16:42.365Z",
+        "updatedAt": "2025-10-22T19:44:23.878Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 4,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Symmetria The Art and Math Exposition Trio",
+        "clubName": "MATHEMATICS CLUB",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "73L08wLpoCOx37hS1yuM4I"
+          }
+        },
+        "startDateAndTime": "2025-11-01T10:00:00.000Z",
+        "endDateAndTime": "2025-11-01T13:30:00.000Z",
+        "pricePerPerson": 150,
+        "participationType": "Trio",
+        "eventVenue": "AB4  201",
+        "shortDescription": "Create visual or physical works from mathematical or data principles. Participants can generate algorithmic art, design geometric or 3D structures, or sonify datasets into music, combining creativity, math, and technical skills.",
+        "longDescription": "Algorithmic Art: Generate stunning visual art using code, based on mathematical principles like fractals, tessellations, or parametric equations.<br> <br> ​Geometric Design: Design a physical or 3D-modeled structure (e.g., a bridge, a sculpture, an architectural model) that demonstrates advanced geometric principles and structural integrity.<br> <br> Data Sonification: Transform a complex dataset into a musical composition, using mathematical rules to map data points to notes, rhythms, and harmonies.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "3xOsMRfujFgC8GlfL79jd1",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:11:13.749Z",
+        "updatedAt": "2025-10-22T19:44:22.346Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 7,
+        "revision": 4,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "IdeaXchange (Squad)",
+        "clubName": "FRENCH CLUB X CLOUDOPS",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "6BKTVmxaCKhzK5YZQDd0Yz"
+          }
+        },
+        "startDateAndTime": "2025-11-02T08:00+00:00",
+        "endDateAndTime": "2025-11-02T14:00+00:00",
+        "pricePerPerson": 299,
+        "participationType": "Squad",
+        "eventVenue": "Nethaji Auditorium",
+        "shortDescription": "Join the Cloud Ops Club's Idea Challenge! Analyze global solutions to societal issues, adapt them for India, and build tech prototypes like data visualizations or AI. Collaborate and innovate for change.",
+        "longDescription": "Join us for a dynamic Idea Challenge, in collaboration with the Cloud Ops Club, where participants explore how countries like France and India have tackled societal and developmental issues. Using a case study approach, you’ll analyze successful international models and creatively reimagine them to fit India’s unique cultural, economic, and policy landscape—without comparison or judgment.\n \n This challenge also includes a technical dimension, encouraging you to transform ideas into practical, tech-enabled solutions such as data analysis, interactive visualizations, digital prototypes, or AI-driven simulations. Collaborate, innovate, and build impactful solutions through cross-cultural learning and constructive problem-solving.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "2siroMIz0jq5isTYxSJJvn",
+        "type": "Entry",
+        "createdAt": "2025-10-16T11:45:13.562Z",
+        "updatedAt": "2025-10-22T19:44:11.539Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Healthcare entrepreneur",
+        "clubName": "ACM-W",
+        "eventType": "Workshop",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "3nw7CS2slVeq0d6csmB75A"
+          }
+        },
+        "startDateAndTime": "2025-10-29T09:30:00.000Z",
+        "endDateAndTime": "2025-10-29T11:30:00.000Z",
+        "pricePerPerson": 236,
+        "participationType": "Solo",
+        "eventVenue": "AB1 Mini Conference hall",
+        "shortDescription": "A healthcare entrepreneur is an innovator who develops and implements business solutions to improve medical services, patient care, or health technology. They combine medical insight with entrepreneurial skills to create impactful healthcare ventures",
+        "longDescription": "A healthcare entrepreneur is an innovator who develops and implements business solutions to improve medical services, patient care, or health technology. They combine medical insight with entrepreneurial skills to create impactful healthcare ventures",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "1VzkXRnloPbAsyEuR8wRuP",
+        "type": "Entry",
+        "createdAt": "2025-10-16T12:16:40.226Z",
+        "updatedAt": "2025-10-22T19:44:05.302Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Symmetria The Art and Math Exposition Solo",
+        "clubName": "MATHEMATICS CLUB",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "73L08wLpoCOx37hS1yuM4I"
+          }
+        },
+        "startDateAndTime": "2025-11-01T10:00:00.000Z",
+        "endDateAndTime": "2025-11-01T13:30:00.000Z",
+        "pricePerPerson": 70,
+        "participationType": "Solo",
+        "eventVenue": "AB4  201",
+        "shortDescription": "Create visual or physical works from mathematical or data principles. Participants can generate algorithmic art, design geometric or 3D structures, or sonify datasets into music, combining creativity, math, and technical skills.",
+        "longDescription": "Algorithmic Art: Generate stunning visual art using code, based on mathematical principles like fractals, tessellations, or parametric equations.<br> <br> ​Geometric Design: Design a physical or 3D-modeled structure (e.g., a bridge, a sculpture, an architectural model) that demonstrates advanced geometric principles and structural integrity.<br> <br> Data Sonification: Transform a complex dataset into a musical composition, using mathematical rules to map data points to notes, rhythms, and harmonies.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "2fvuoQ7DLegqkeL2CMaD47",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:11:12.542Z",
+        "updatedAt": "2025-10-22T19:44:01.314Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 8,
+        "revision": 4,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "IdeaXchange (Trio)",
+        "clubName": "FRENCH CLUB X CLOUDOPS",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "6BKTVmxaCKhzK5YZQDd0Yz"
+          }
+        },
+        "startDateAndTime": "2025-11-02T08:00+00:00",
+        "endDateAndTime": "2025-11-02T14:00+00:00",
+        "pricePerPerson": 259,
+        "participationType": "Trio",
+        "eventVenue": "Nethaji Auditorium",
+        "shortDescription": "Join the Cloud Ops Club's Idea Challenge! Analyze global solutions to societal issues, adapt them for India, and build tech prototypes like data visualizations or AI. Collaborate and innovate for change.",
+        "longDescription": "Join us for a dynamic Idea Challenge, in collaboration with the Cloud Ops Club, where participants explore how countries like France and India have tackled societal and developmental issues. Using a case study approach, you’ll analyze successful international models and creatively reimagine them to fit India’s unique cultural, economic, and policy landscape—without comparison or judgment.\n \n This challenge also includes a technical dimension, encouraging you to transform ideas into practical, tech-enabled solutions such as data analysis, interactive visualizations, digital prototypes, or AI-driven simulations. Collaborate, innovate, and build impactful solutions through cross-cultural learning and constructive problem-solving.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "5D2pGmTsbLG6GQUZxiaQas",
+        "type": "Entry",
+        "createdAt": "2025-10-16T11:20:30.194Z",
+        "updatedAt": "2025-10-22T19:43:08.239Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Maths talent test",
+        "clubName": "MATHEMATICS CLUB",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "5g9lnRQzowmK1J23xMk2SG"
+          }
+        },
+        "startDateAndTime": "2025-11-01T10:00:00.000Z",
+        "endDateAndTime": "2025-11-01T13:00:00.000Z",
+        "pricePerPerson": 50,
+        "participationType": "Solo",
+        "eventVenue": "AB3 305",
+        "shortDescription": "Triggered problems will be given to solve in a minute time",
+        "longDescription": "triggered problems will be given to solve in a minute time",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "2gFvLEVozMdI4xSi7Bfduf",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:11:14.954Z",
+        "updatedAt": "2025-10-22T19:41:42.092Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 9,
+        "revision": 5,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Innovate to Escape",
+        "clubName": "PRODINNO",
+        "eventType": "Game",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "5l2Umov3w2rRFlN1ZlKFQR"
+          }
+        },
+        "startDateAndTime": "2025-11-01T09:00+00:00",
+        "endDateAndTime": "2025-11-01T17:00+00:00",
+        "pricePerPerson": 60,
+        "participationType": "Trio/Squad/5+ Members",
+        "eventVenue": "AB3 104",
+        "shortDescription": "This is a 3-stage tech escape challenge! 🔐 Stage 1: Solve resistor and Python puzzles for a 3-digit key. Stage 2: Use a UV light to find a hidden schematic and complete a physical circuit. Stage 3: Decrypt a hex command for the final password.",
+        "longDescription": "Stage 1: The Technical Key: Participants begin by searching for clues to unlock a secured component box. The solution is not a simple number, but a 3-digit code derived from technical knowledge: interpreting resistor color codes from a schematic, calculating the output of a Python programming snippet, and identifying a standard secure network port.\n• Stage 2: The Circuit Completion: Using a UV light, teams will uncover a hidden, incomplete circuit diagram. Their task is to correctly interpret the schematic and use physical wires to complete the circuit on the main prototype device, demonstrating a practical understanding of electronic pathways.\n• Stage 3: The Hexadecimal Override: The finale requires teams to decrypt a hexadecimal command key displayed on the prototype's screen. Using a provided Hex-to-ASCII chart, they must translate the machine code into a final password, simulating a system override.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "2SNqKTCfjBAhfyrVbD8Sfq",
+        "type": "Entry",
+        "createdAt": "2025-10-16T14:14:17.788Z",
+        "updatedAt": "2025-10-22T19:41:39.525Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Matlab a Thon",
+        "clubName": "IEEE SIGNAL PROCESSING SOCIETY (IEEE-SPS)",
+        "eventType": "Hackathon",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "63MQ128DbQTZMwpTP385J5"
+          }
+        },
+        "startDateAndTime": "2025-10-28T08:00:00.000Z",
+        "endDateAndTime": "2025-10-29T08:00:00.000Z",
+        "pricePerPerson": 500,
+        "participationType": "Duo",
+        "eventVenue": "AB3 510 5G lab ",
+        "shortDescription": "Students will be given series of problem statements to be solved only by MATLAB and SIMULINK.",
+        "longDescription": "Students will be given series of problem statements to be solved only by MATLAB and SIMULINK.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "7vHBUOL3GfbRyNKARNJOEc",
+        "type": "Entry",
+        "createdAt": "2025-10-16T11:20:32.438Z",
+        "updatedAt": "2025-10-22T19:40:51.561Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Trade Titans (Solo)",
+        "clubName": "PRODINNO",
+        "eventType": "Game",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "57HKagG4rBSTJG3BX16MEn"
+          }
+        },
+        "startDateAndTime": "2025-10-31T09:00:00.000Z",
+        "endDateAndTime": "2025-10-31T13:00:00.000Z",
+        "pricePerPerson": 89,
+        "participationType": "Solo",
+        "eventVenue": "AB3 401",
+        "shortDescription": "Trade of Titans – Event Summary Trade of Titans is a technology-driven economic strategy simulation where teams act as countries in a structured trade ecosystem. Each team starts with defined resources and virtual currency, then engages in multiple rounds of barter and monetary trade to balance imports, exports, and deficits. The event is highly technical, integrating: Data analysis & quantitative reasoning – interpreting trade values, price volatility, and optimization of resource balance. Game theory & strategy design – crafting competitive/cooperative negotiation strategies under uncertainty. Algorithmic thinking – designing heuristics, decision trees, and computational models for trade decisions. Tech-enabled simulation – using digital tools, dashboards, or simulators to model dynamic markets and respond to shocks in real time. Alongside technical skills, participants must also demonstrate strategic communication and fast-paced decision-making. This makes the event not just about negotiation but about applying computational strategy, optimization, and algorithmic reasoning in a competitive, simulation-based environment.",
+        "longDescription": "Trade of Titans – Event Summary<br><br>Trade of Titans is a technology-driven economic strategy simulation where teams act as countries in a structured trade ecosystem. Each team starts with defined resources and virtual currency, then engages in multiple rounds of barter and monetary trade to balance imports, exports, and deficits.<br><br>The event is highly technical, integrating:<br><br>Data analysis & quantitative reasoning – interpreting trade values, price volatility, and optimization of resource balance.<br><br>Game theory & strategy design – crafting competitive/cooperative negotiation strategies under uncertainty.<br><br>Algorithmic thinking – designing heuristics, decision trees, and computational models for trade decisions.<br><br>Tech-enabled simulation – using digital tools, dashboards, or simulators to model dynamic markets and respond to shocks in real time.<br><br>Alongside technical skills, participants must also demonstrate strategic communication and fast-paced decision-making. This makes the event not just about negotiation but about applying computational strategy, optimization, and algorithmic reasoning in a competitive, simulation-based environment.",
+        "specialEvent": false
+      }
+    },
     {
       "metadata": {
         "tags": [],
@@ -2489,118 +3721,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "3xOsMRfujFgC8GlfL79jd1",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:11:13.749Z",
-        "updatedAt": "2025-10-22T19:19:16.264Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 5,
-        "revision": 3,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "IdeaXchange (Squad)",
-        "clubName": "FRENCH CLUB collab with CLOUDOPS",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "6BKTVmxaCKhzK5YZQDd0Yz"
-          }
-        },
-        "startDateAndTime": "2025-11-02T08:00+00:00",
-        "endDateAndTime": "2025-11-02T14:00+00:00",
-        "pricePerPerson": 299,
-        "participationType": "Squad",
-        "eventVenue": "Nethaji Auditorium",
-        "shortDescription": "Join the Cloud Ops Club's Idea Challenge! Analyze global solutions to societal issues, adapt them for India, and build tech prototypes like data visualizations or AI. Collaborate and innovate for change.",
-        "longDescription": "Join us for a dynamic Idea Challenge, in collaboration with the Cloud Ops Club, where participants explore how countries like France and India have tackled societal and developmental issues. Using a case study approach, you’ll analyze successful international models and creatively reimagine them to fit India’s unique cultural, economic, and policy landscape—without comparison or judgment.\n \n This challenge also includes a technical dimension, encouraging you to transform ideas into practical, tech-enabled solutions such as data analysis, interactive visualizations, digital prototypes, or AI-driven simulations. Collaborate, innovate, and build impactful solutions through cross-cultural learning and constructive problem-solving.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "2fvuoQ7DLegqkeL2CMaD47",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:11:12.542Z",
-        "updatedAt": "2025-10-22T19:19:01.140Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 6,
-        "revision": 3,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "IdeaXchange (Trio)",
-        "clubName": "FRENCH CLUB collab with CLOUDOPS",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "6BKTVmxaCKhzK5YZQDd0Yz"
-          }
-        },
-        "startDateAndTime": "2025-11-02T08:00+00:00",
-        "endDateAndTime": "2025-11-02T14:00+00:00",
-        "pricePerPerson": 259,
-        "participationType": "Trio",
-        "eventVenue": "Nethaji Auditorium",
-        "shortDescription": "Join the Cloud Ops Club's Idea Challenge! Analyze global solutions to societal issues, adapt them for India, and build tech prototypes like data visualizations or AI. Collaborate and innovate for change.",
-        "longDescription": "Join us for a dynamic Idea Challenge, in collaboration with the Cloud Ops Club, where participants explore how countries like France and India have tackled societal and developmental issues. Using a case study approach, you’ll analyze successful international models and creatively reimagine them to fit India’s unique cultural, economic, and policy landscape—without comparison or judgment.\n \n This challenge also includes a technical dimension, encouraging you to transform ideas into practical, tech-enabled solutions such as data analysis, interactive visualizations, digital prototypes, or AI-driven simulations. Collaborate, innovate, and build impactful solutions through cross-cultural learning and constructive problem-solving.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "2lHb72zDNYnAXFsQfLioYT",
         "type": "Entry",
         "createdAt": "2025-10-16T11:01:04.509Z",
@@ -2641,62 +3761,6 @@
         "eventVenue": "AB2 Soil Mechanics Lab",
         "shortDescription": "Participants will be trained about aerial surveying using surveying drone including field surveys and post processing works in topographic map preparation",
         "longDescription": "Participants will be trained about aerial surveying using surveying drone including field surveys and post processing works in topographic map preparation",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "RliXL9hD0hsr6zHRERqni",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:11:11.333Z",
-        "updatedAt": "2025-10-22T19:18:45.415Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 5,
-        "revision": 3,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "IdeaXchange (Duo)",
-        "clubName": "FRENCH CLUB collab with CLOUDOPS",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "6BKTVmxaCKhzK5YZQDd0Yz"
-          }
-        },
-        "startDateAndTime": "2025-11-02T08:00+00:00",
-        "endDateAndTime": "2025-11-02T14:00+00:00",
-        "pricePerPerson": 199,
-        "participationType": "Duo",
-        "eventVenue": "Nethaji Auditorium",
-        "shortDescription": "Join the Cloud Ops Club's Idea Challenge! Analyze global solutions to societal issues, adapt them for India, and build tech prototypes like data visualizations or AI. Collaborate and innovate for change.",
-        "longDescription": "Join us for a dynamic Idea Challenge, in collaboration with the Cloud Ops Club, where participants explore how countries like France and India have tackled societal and developmental issues. Using a case study approach, you’ll analyze successful international models and creatively reimagine them to fit India’s unique cultural, economic, and policy landscape—without comparison or judgment.\n \n This challenge also includes a technical dimension, encouraging you to transform ideas into practical, tech-enabled solutions such as data analysis, interactive visualizations, digital prototypes, or AI-driven simulations. Collaborate, innovate, and build impactful solutions through cross-cultural learning and constructive problem-solving.",
         "specialEvent": false
       }
     },
@@ -5849,62 +6913,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "REUv3A4bQMHaQBrdwrYYm",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:14:44.014Z",
-        "updatedAt": "2025-10-21T14:03:31.505Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 7,
-        "revision": 4,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "ScriptWave",
-        "clubName": "INTEGRATED CIRCUITS & SYSTEM DESIGN (ICSD)",
-        "eventType": "Hackathon",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-11-01T08:00+00:00",
-        "endDateAndTime": "2025-11-02T18:00+00:00",
-        "pricePerPerson": 50,
-        "participationType": "Solo",
-        "eventVenue": "AB3 312",
-        "shortDescription": "ScriptWave is a hands-on hackathon where teams tackle scripting and verification challenges. Create scripts, build testbenches,and debug digital designs to gain practical experience with industry tools in a collaborative, problem-solving environment.\n\n",
-        "longDescription": "ScriptWave is a hands-on hackathon where participants dive into scripting and verification challenges to test and validate digital designs. Teams will create scripts, build testbenches, and debug solutions in a collaborative environment, gaining practical experience with industry-relevant tools and methodologies. The event emphasizes problem-solving, innovation, and efficiency, giving participants a real taste of digital design verification in action.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "79TD3bkEuPxdpxHHV06UTU",
         "type": "Entry",
         "createdAt": "2025-10-18T14:08:43.423Z",
@@ -6185,62 +7193,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "292T8LjPTtzGpX3JjPN8FS",
-        "type": "Entry",
-        "createdAt": "2025-10-21T12:20:13.948Z",
-        "updatedAt": "2025-10-21T12:20:13.948Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 10,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "T Minus Zero Model Rocketry - Special Event",
-        "clubName": "SEDS ANTARIKSH CHAPTER",
-        "eventType": "Hackathon",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-11-01T09:00+00:00",
-        "endDateAndTime": "2025-11-01T18:00+00:00",
-        "pricePerPerson": 22001,
-        "participationType": "Solo",
-        "eventVenue": "AB1 602",
-        "shortDescription": "🚀 T Minus Zero: Model Rocketry- Get ready to ignite your passion for space! In this thrilling, hands-on event, students dive into the science of rocketry, design and build their own model rockets, and watch them soar sky-high during live launches. The best part? You get to take your very own rocket home—a souvenir of your first step into the world of rocketry!",
-        "longDescription": "🚀 T Minus Zero: Model Rocketry- Get ready to ignite your passion for space! In this thrilling, hands-on event, students dive into the science of rocketry, design and build their own model rockets, and watch them soar sky-high during live launches. The best part? You get to take your very own rocket home—a souvenir of your first step into the world of rocketry!",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "7rDr6XCLvJJGj4u9v4iy59",
         "type": "Entry",
         "createdAt": "2025-10-18T14:12:14.027Z",
@@ -6337,118 +7289,6 @@
         "eventVenue": "AB1-201,202",
         "shortDescription": "This event is aimed at consideration of advanced AI and ML in the global market and industrial prospective which is interesting for the large audience.",
         "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "2gFvLEVozMdI4xSi7Bfduf",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:11:14.954Z",
-        "updatedAt": "2025-10-21T12:07:38.207Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 7,
-        "revision": 4,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Innovate to Escape",
-        "clubName": "PRODINNO",
-        "eventType": "Game",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-11-01T09:00+00:00",
-        "endDateAndTime": "2025-11-01T17:00+00:00",
-        "pricePerPerson": 60,
-        "participationType": "Trio/Squad/5+ Members",
-        "eventVenue": "AB3 104",
-        "shortDescription": "This is a 3-stage tech escape challenge! 🔐 Stage 1: Solve resistor and Python puzzles for a 3-digit key. Stage 2: Use a UV light to find a hidden schematic and complete a physical circuit. Stage 3: Decrypt a hex command for the final password.",
-        "longDescription": "Stage 1: The Technical Key: Participants begin by searching for clues to unlock a secured component box. The solution is not a simple number, but a 3-digit code derived from technical knowledge: interpreting resistor color codes from a schematic, calculating the output of a Python programming snippet, and identifying a standard secure network port.\n• Stage 2: The Circuit Completion: Using a UV light, teams will uncover a hidden, incomplete circuit diagram. Their task is to correctly interpret the schematic and use physical wires to complete the circuit on the main prototype device, demonstrating a practical understanding of electronic pathways.\n• Stage 3: The Hexadecimal Override: The finale requires teams to decrypt a hexadecimal command key displayed on the prototype's screen. Using a provided Hex-to-ASCII chart, they must translate the machine code into a final password, simulating a system override.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "2WL91OUjopT3MHVNgCDpAb",
-        "type": "Entry",
-        "createdAt": "2025-10-16T11:25:11.467Z",
-        "updatedAt": "2025-10-21T11:42:59.044Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 3,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Design The Device",
-        "clubName": "IEEE ELECTRON DEVICE SOCIETY (IEEE-EDS)",
-        "eventType": "Workshop",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-11-01T09:00:00.000Z",
-        "endDateAndTime": "2025-11-01T16:00:00.000Z",
-        "pricePerPerson": 50,
-        "participationType": "Solo",
-        "eventVenue": "AB1 607B",
-        "shortDescription": "Design the Device is a workshop to help students understand the basics of semiconductor device simulation. It gives a simple introduction to how TCAD tools are used in research and industry for designing and analyzing electronic devices.",
-        "longDescription": "Design the Device is a workshop to help students understand the basics of semiconductor device simulation. It gives a simple introduction to how TCAD tools are used in research and industry for designing and analyzing electronic devices.",
         "specialEvent": false
       }
     },
@@ -6801,62 +7641,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "7kBqOEThLj7az8BegWdl29",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:12:16.127Z",
-        "updatedAt": "2025-10-21T05:32:31.445Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 3,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "T Minus Zero: Model Rocketry",
-        "clubName": "SEDS ANTARIKSH CHAPTER",
-        "eventType": "Hackathon",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-11-01T09:00+00:00",
-        "endDateAndTime": "2025-11-01T17:00+00:00",
-        "pricePerPerson": 2200,
-        "participationType": "Duo",
-        "eventVenue": "AB1 602  & 604",
-        "shortDescription": "🚀 T Minus Zero: Model Rocketry- Get ready to ignite your passion for space! In this thrilling, hands-on event, students dive into the science of rocketry, design and build their own model rockets, and watch them soar sky-high during live launches. The best part? You get to take your very own rocket home—a souvenir of your first step into the world of rocketry!",
-        "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "25wVgiLFxVyWGVMt0MT3iq",
         "type": "Entry",
         "createdAt": "2025-10-18T14:12:17.324Z",
@@ -7065,62 +7849,6 @@
         "eventVenue": "AB3-310",
         "shortDescription": "Become a digital guardian in our cyber defense workshop. Learn Linux essentials, networking, web vulnerabilities, and OSINT strategies with hands-on tools. Test your new skills in a final Capture-the-Flag (CTF) battle.",
         "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "7njazLSSe0cMlYdK4ZiUGx",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:14:44.930Z",
-        "updatedAt": "2025-10-21T05:12:59.082Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 4,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Techno Prix",
-        "clubName": "ENACTUS VIT CHENNAI X GDG",
-        "eventType": "Game",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-11-01T09:00+00:00",
-        "endDateAndTime": "2025-11-01T17:00+00:00",
-        "pricePerPerson": 400,
-        "participationType": "Squad",
-        "eventVenue": "Clock Court, MBA Amphi, AB1 Portico, AB3 Portico, AB1 Side Entrance, AB1 Mini Portico, AB3 First Floor Classroom, Outside/Near MG, and AB3 Amphi (Back Side) (Multiple checkpoints throughout the campus)",
-        "shortDescription": "Techno Prix is a campus-wide event where teams of 4 navigate checkpoints, tackling challenges that test entrepreneurship and strategy. Compete in activities like Shark Tank pitches, SDG card trading, and meme marketing to win.",
-        "longDescription": "Techno Prix is an interactive, campus-wide event designed to foster entrepreneurship, strategic thinking, collaborative problem-solving, and innovation among students. Teams of four will navigate a series of 10 checkpoints across the campus, participating in challenges that combine business creativity, negotiation, and gameplay.\n \n Participants will engage in activities such as:\n -Shark Tank Mini: Pitch creative business ideas to earn investment points.\n -SDG Deck Trade: Strategically negotiate and collect Sustainable Development Goal cards to maximize rewards.\n -Reverse Shark Tank: Present unconventional or humorous business ideas persuasively.\n -Customer Chaos Challenge: Demonstrate adaptability and sales skills by addressing unique customer demands.\n -Meme Marketing Mayhem: Develop marketing content for given products, emphasizing creativity and engagement.\n -GDG GameDev PlayZone: Experience and compete in games created by the GameDev team, earning points and advantages through interactive gameplay.\n \n The event aims to encourage entrepreneurial thinking, creativity, teamwork, and campus-wide interaction, while maintaining an enjoyable and competitive environment.\n \n Team Composition: 4 members per team\n Venue: Multiple checkpoints across the campus",
         "specialEvent": false
       }
     },
@@ -7473,118 +8201,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "4V1lrplLakBFYoMHQx5fAP",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:19:40.804Z",
-        "updatedAt": "2025-10-18T14:19:40.804Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "VOID(5+ members)",
-        "clubName": "OPEN SOURCE PROGRAMMING CLUB",
-        "eventType": "Hackathon",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-28T09:00:00.000Z",
-        "endDateAndTime": "2025-10-29T10:00:00.000Z",
-        "pricePerPerson": 1000,
-        "participationType": "5+ Members",
-        "eventVenue": "MG Auditorium",
-        "shortDescription": "Join VØID:v1, a 24-hour hackathon where technology meets entrepreneurship. Go beyond coding to build a functional prototype and a comprehensive business plan, turning visionary ideas into viable businesses across diverse innovation tracks.",
-        "longDescription": "VØID:v1 is built for the restless and the bold - those who refuse to watch the future unfold and instead choose to shape it. Scheduled for 28th & 29th October 2025, this 24-hour hackathon is more than just a coding competition. It is an arena where creativity collides with technology, where ideas roar louder than Wall Street, and where teams don't just build projects - they spark movements. \n\nVOID is an innovation-focused hackathon where top minds converge to build groundbreaking, disruptive solutions. It's more than just a coding competition; it's a platform for turning visionary ideas into viable businesses. Participants will not only create groundbreaking, functional prototypes but will also develop comprehensive business plans, including pitch decks and Business Model Canvases (BMCs), preparing them for real-world application. VOID is where technology meets entrepreneurship, creating a future-ready cohort of innovators.\n\nPowered by the Open Source Programming Club (OSPC) and the Business Innovation Club (BIC) of VIT Chennai, and hosted on Devfolio, VØID provides the perfect platform to showcase talent, collaborate with like-minded peers, and turn visionary ideas into tangible, game-changing outcomes.\n\n🌐 Tracks:\n1. FinTech & Digital Payments\n2. HealthTech & EdTech\n3. RetailTech, SaaS & Smart Mobility\n4. AgriTech & SDG\n5. Open Innovation",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "4EJpp8ytXVo5ZZB1GWLfhs",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:19:39.679Z",
-        "updatedAt": "2025-10-18T14:19:39.679Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "VOID(squad)",
-        "clubName": "OPEN SOURCE PROGRAMMING CLUB",
-        "eventType": "Hackathon",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-28T09:00:00.000Z",
-        "endDateAndTime": "2025-10-29T10:00:00.000Z",
-        "pricePerPerson": 800,
-        "participationType": "Squad",
-        "eventVenue": "MG Auditorium",
-        "shortDescription": "Join VØID:v1, a 24-hour hackathon where technology meets entrepreneurship. Go beyond coding to build a functional prototype and a comprehensive business plan, turning visionary ideas into viable businesses across diverse innovation tracks.",
-        "longDescription": "VØID:v1 is built for the restless and the bold - those who refuse to watch the future unfold and instead choose to shape it. Scheduled for 28th & 29th October 2025, this 24-hour hackathon is more than just a coding competition. It is an arena where creativity collides with technology, where ideas roar louder than Wall Street, and where teams don't just build projects - they spark movements. \n\nVOID is an innovation-focused hackathon where top minds converge to build groundbreaking, disruptive solutions. It's more than just a coding competition; it's a platform for turning visionary ideas into viable businesses. Participants will not only create groundbreaking, functional prototypes but will also develop comprehensive business plans, including pitch decks and Business Model Canvases (BMCs), preparing them for real-world application. VOID is where technology meets entrepreneurship, creating a future-ready cohort of innovators.\n\nPowered by the Open Source Programming Club (OSPC) and the Business Innovation Club (BIC) of VIT Chennai, and hosted on Devfolio, VØID provides the perfect platform to showcase talent, collaborate with like-minded peers, and turn visionary ideas into tangible, game-changing outcomes.\n\n🌐 Tracks:\n1. FinTech & Digital Payments\n2. HealthTech & EdTech\n3. RetailTech, SaaS & Smart Mobility\n4. AgriTech & SDG\n5. Open Innovation",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "7FqUFvC3aRPyNaNj3gpint",
         "type": "Entry",
         "createdAt": "2025-10-18T14:08:40.105Z",
@@ -7865,62 +8481,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "1lhNRMBbHhEMvc98JZ1HG8",
-        "type": "Entry",
-        "createdAt": "2025-10-16T14:16:07.568Z",
-        "updatedAt": "2025-10-17T06:33:53.803Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 3,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Quantum Meets AI The Rise of Quantum Deep Learning",
-        "clubName": "ARTIFICIAL INTELLIGENCE CLUB",
-        "eventType": "Workshop",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-29T10:00:00.000Z",
-        "endDateAndTime": "2025-10-29T16:00:00.000Z",
-        "pricePerPerson": 100,
-        "participationType": "Solo",
-        "eventVenue": "AB3 201",
-        "shortDescription": "Explore quantum computing principles like superposition and entanglement to accelerate deep learning. Learn hybrid algorithms, quantum-inspired neural networks, and see hands-on demos highlighting future AI applications.",
-        "longDescription": "This workshop explores how quantum computing principles, such as superposition and entanglement, can accelerate and transform deep learning models. Participants will learn about quantum-inspired neural networks, hybrid quantum-classical algorithms, and their potential in solving complex problems. Hands-on demonstrations and case studies will highlight the future of quantum-enhanced AI applications.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "725uP6SzL6dK6LZq31E1lS",
         "type": "Entry",
         "createdAt": "2025-10-16T14:16:06.453Z",
@@ -8185,62 +8745,6 @@
         "eventVenue": "AB1 606A Embedded Systems Lab",
         "shortDescription": "Neural Strokes: AI for Cultural Creativity explores the intersection of tradition and technology, where artificial intelligence reimagines cultural drawings and heritage art forms.",
         "longDescription": "Neural Strokes: AI for Cultural Creativity explores the intersection of tradition and technology, where artificial intelligence reimagines cultural drawings and heritage art forms.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "2SNqKTCfjBAhfyrVbD8Sfq",
-        "type": "Entry",
-        "createdAt": "2025-10-16T14:14:17.788Z",
-        "updatedAt": "2025-10-16T14:14:17.788Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Matlab a Thon",
-        "clubName": "IEEE SIGNAL PROCESSING SOCIETY (IEEE-SPS)",
-        "eventType": "Hackathon",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-28T08:00:00.000Z",
-        "endDateAndTime": "2025-10-29T08:00:00.000Z",
-        "pricePerPerson": 500,
-        "participationType": "Duo",
-        "eventVenue": "AB3 510 5G lab ",
-        "shortDescription": "Students will be given series of problem statements to be solved only by MATLAB and SIMULINK.",
-        "longDescription": "Students will be given series of problem statements to be solved only by MATLAB and SIMULINK.",
         "specialEvent": false
       }
     },
@@ -8873,62 +9377,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "4jsAHewa0wcCEhFj1oabU2",
-        "type": "Entry",
-        "createdAt": "2025-10-16T12:28:11.556Z",
-        "updatedAt": "2025-10-16T12:28:11.556Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Workshop on Smart Gearboxes ",
-        "clubName": "TECH RESEARCHERS CLUB (TRC)",
-        "eventType": "Workshop",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-11-01T10:00:00.000Z",
-        "endDateAndTime": "2025-11-01T11:30:00.000Z",
-        "pricePerPerson": 59,
-        "participationType": "Solo",
-        "eventVenue": "AB3 308",
-        "shortDescription": "Join our workshop on smart gearboxes and their role in sustainability. Learn gear system basics, how innovations drive efficiency, and future trends. Led by Swaminathan T., an R&D expert with 10+ years of experience on defense and ISRO projects.",
-        "longDescription": "Join our workshop on smart gearboxes and their role in sustainability. Learn gear system basics, how innovations drive efficiency, and future trends. Led by Swaminathan T., an R&D expert with 10+ years of experience on defense and ISRO projects.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "7zNzBsozIS4630shrEcQLx",
         "type": "Entry",
         "createdAt": "2025-10-16T12:16:44.386Z",
@@ -9041,342 +9489,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "5I13mIvUQr8S5A732C29dG",
-        "type": "Entry",
-        "createdAt": "2025-10-16T12:16:42.365Z",
-        "updatedAt": "2025-10-16T12:16:42.365Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Symmetria The Art and Math Exposition Trio",
-        "clubName": "MATHEMATICS CLUB",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-11-01T10:00:00.000Z",
-        "endDateAndTime": "2025-11-01T13:30:00.000Z",
-        "pricePerPerson": 150,
-        "participationType": "Trio",
-        "eventVenue": "AB4  201",
-        "shortDescription": "Create visual or physical works from mathematical or data principles. Participants can generate algorithmic art, design geometric or 3D structures, or sonify datasets into music, combining creativity, math, and technical skills.",
-        "longDescription": "Algorithmic Art: Generate stunning visual art using code, based on mathematical principles like fractals, tessellations, or parametric equations.<br> <br> ​Geometric Design: Design a physical or 3D-modeled structure (e.g., a bridge, a sculpture, an architectural model) that demonstrates advanced geometric principles and structural integrity.<br> <br> Data Sonification: Transform a complex dataset into a musical composition, using mathematical rules to map data points to notes, rhythms, and harmonies.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "7cFWzjhy88n0paVuFDb7ys",
-        "type": "Entry",
-        "createdAt": "2025-10-16T12:16:41.341Z",
-        "updatedAt": "2025-10-16T12:16:41.341Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Symmetria The Art and Math Exposition Duo",
-        "clubName": "MATHEMATICS CLUB",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-11-01T10:00:00.000Z",
-        "endDateAndTime": "2025-11-01T13:30:00.000Z",
-        "pricePerPerson": 120,
-        "participationType": "Duo",
-        "eventVenue": "AB4  201",
-        "shortDescription": "Create visual or physical works from mathematical or data principles. Participants can generate algorithmic art, design geometric or 3D structures, or sonify datasets into music, combining creativity, math, and technical skills.",
-        "longDescription": "Algorithmic Art: Generate stunning visual art using code, based on mathematical principles like fractals, tessellations, or parametric equations.<br> <br> ​Geometric Design: Design a physical or 3D-modeled structure (e.g., a bridge, a sculpture, an architectural model) that demonstrates advanced geometric principles and structural integrity.<br> <br> Data Sonification: Transform a complex dataset into a musical composition, using mathematical rules to map data points to notes, rhythms, and harmonies.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "1VzkXRnloPbAsyEuR8wRuP",
-        "type": "Entry",
-        "createdAt": "2025-10-16T12:16:40.226Z",
-        "updatedAt": "2025-10-16T12:16:40.226Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Symmetria The Art and Math Exposition Solo",
-        "clubName": "MATHEMATICS CLUB",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-11-01T10:00:00.000Z",
-        "endDateAndTime": "2025-11-01T13:30:00.000Z",
-        "pricePerPerson": 70,
-        "participationType": "Solo",
-        "eventVenue": "AB4  201",
-        "shortDescription": "Create visual or physical works from mathematical or data principles. Participants can generate algorithmic art, design geometric or 3D structures, or sonify datasets into music, combining creativity, math, and technical skills.",
-        "longDescription": "Algorithmic Art: Generate stunning visual art using code, based on mathematical principles like fractals, tessellations, or parametric equations.<br> <br> ​Geometric Design: Design a physical or 3D-modeled structure (e.g., a bridge, a sculpture, an architectural model) that demonstrates advanced geometric principles and structural integrity.<br> <br> Data Sonification: Transform a complex dataset into a musical composition, using mathematical rules to map data points to notes, rhythms, and harmonies.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "5hrIXu41teIPnQdG2ivevc",
-        "type": "Entry",
-        "createdAt": "2025-10-16T12:16:39.261Z",
-        "updatedAt": "2025-10-16T12:16:39.261Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "AWS DeepRacer 2 Trio",
-        "clubName": "IEEE ROBOTICS & AUTOMATION SOCIETY (IEEE-RAS)",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-11-01T08:00:00.000Z",
-        "endDateAndTime": "2025-11-01T18:00:00.000Z",
-        "pricePerPerson": 580,
-        "participationType": "Trio",
-        "eventVenue": "Netaji Auditorium",
-        "shortDescription": "Participants begin with a workshop on reinforcement learning, building and training models on AWS Deepracer. They then compete by racing their models for fastest lap times, applying their skills in an exciting, hands-on competition.",
-        "longDescription": "This event will begin with an interactive workshop where participants learn the fundamentals of reinforcement learning and get hands-on experience building and training their own models on AWS Deepracer. Following the workshop, participants will put their knowledge into action in an exciting competition, racing their trained models to achieve the fastest lap times and showcase their skills.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "7DRAJYSfbYTlmDcTUji3S9",
-        "type": "Entry",
-        "createdAt": "2025-10-16T12:16:38.245Z",
-        "updatedAt": "2025-10-16T12:16:38.245Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "AWS DeepRacer 2 Duo",
-        "clubName": "IEEE ROBOTICS & AUTOMATION SOCIETY (IEEE-RAS)",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-11-01T08:00:00.000Z",
-        "endDateAndTime": "2025-11-01T18:00:00.000Z",
-        "pricePerPerson": 390,
-        "participationType": "Duo",
-        "eventVenue": "Netaji Auditorium",
-        "shortDescription": "Participants begin with a workshop on reinforcement learning, building and training models on AWS Deepracer. They then compete by racing their models for fastest lap times, applying their skills in an exciting, hands-on competition.",
-        "longDescription": "This event will begin with an interactive workshop where participants learn the fundamentals of reinforcement learning and get hands-on experience building and training their own models on AWS Deepracer. Following the workshop, participants will put their knowledge into action in an exciting competition, racing their trained models to achieve the fastest lap times and showcase their skills.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "3aRvzzHwvkITTqaxx1QegW",
-        "type": "Entry",
-        "createdAt": "2025-10-16T12:16:37.178Z",
-        "updatedAt": "2025-10-16T12:16:37.178Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "AWS DeepRacer 2 Solo",
-        "clubName": "IEEE ROBOTICS & AUTOMATION SOCIETY (IEEE-RAS)",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-11-01T08:00:00.000Z",
-        "endDateAndTime": "2025-11-01T18:00:00.000Z",
-        "pricePerPerson": 200,
-        "participationType": "Solo",
-        "eventVenue": "Netaji Auditorium",
-        "shortDescription": "Participants begin with a workshop on reinforcement learning, building and training models on AWS Deepracer. They then compete by racing their models for fastest lap times, applying their skills in an exciting, hands-on competition.",
-        "longDescription": "This event will begin with an interactive workshop where participants learn the fundamentals of reinforcement learning and get hands-on experience building and training their own models on AWS Deepracer. Following the workshop, participants will put their knowledge into action in an exciting competition, racing their trained models to achieve the fastest lap times and showcase their skills.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "6DBF3QGuj8N0CJCg0yS8y1",
         "type": "Entry",
         "createdAt": "2025-10-16T12:09:15.197Z",
@@ -9433,62 +9545,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "2siroMIz0jq5isTYxSJJvn",
-        "type": "Entry",
-        "createdAt": "2025-10-16T11:45:13.562Z",
-        "updatedAt": "2025-10-16T11:45:13.562Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Healthcare entrepreneur",
-        "clubName": "ACM-W",
-        "eventType": "Workshop",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-29T09:30:00.000Z",
-        "endDateAndTime": "2025-10-29T11:30:00.000Z",
-        "pricePerPerson": 236,
-        "participationType": "Solo",
-        "eventVenue": "AB1 Mini Conference hall",
-        "shortDescription": "A healthcare entrepreneur is an innovator who develops and implements business solutions to improve medical services, patient care, or health technology. They combine medical insight with entrepreneurial skills to create impactful healthcare ventures",
-        "longDescription": "A healthcare entrepreneur is an innovator who develops and implements business solutions to improve medical services, patient care, or health technology. They combine medical insight with entrepreneurial skills to create impactful healthcare ventures",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "4imNpNbEA3ugoEwYJOC3zX",
         "type": "Entry",
         "createdAt": "2025-10-16T11:39:10.428Z",
@@ -9529,118 +9585,6 @@
         "eventVenue": "AB3 North Square Road",
         "shortDescription": "Gear up for the Road Rash event, where participants build their own RC cars and then battle it out on a rugged dirt track. Put your creativity, engineering skills, and driving control to the test as custom-built machines race over bumps, ramps, and sharp turns for the championship.",
         "longDescription": "Gear up for the Road Rash event, where participants build their own RC cars and then battle it out on a rugged dirt track. Put your creativity, engineering skills, and driving control to the test as custom-built machines race over bumps, ramps, and sharp turns for the championship.<br>",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "7vHBUOL3GfbRyNKARNJOEc",
-        "type": "Entry",
-        "createdAt": "2025-10-16T11:20:32.438Z",
-        "updatedAt": "2025-10-16T11:20:32.438Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Trade Titans (Solo)",
-        "clubName": "PRODINNO",
-        "eventType": "Game",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T09:00:00.000Z",
-        "endDateAndTime": "2025-10-31T13:00:00.000Z",
-        "pricePerPerson": 89,
-        "participationType": "Solo",
-        "eventVenue": "AB3 401",
-        "shortDescription": "Trade of Titans – Event Summary Trade of Titans is a technology-driven economic strategy simulation where teams act as countries in a structured trade ecosystem. Each team starts with defined resources and virtual currency, then engages in multiple rounds of barter and monetary trade to balance imports, exports, and deficits. The event is highly technical, integrating: Data analysis & quantitative reasoning – interpreting trade values, price volatility, and optimization of resource balance. Game theory & strategy design – crafting competitive/cooperative negotiation strategies under uncertainty. Algorithmic thinking – designing heuristics, decision trees, and computational models for trade decisions. Tech-enabled simulation – using digital tools, dashboards, or simulators to model dynamic markets and respond to shocks in real time. Alongside technical skills, participants must also demonstrate strategic communication and fast-paced decision-making. This makes the event not just about negotiation but about applying computational strategy, optimization, and algorithmic reasoning in a competitive, simulation-based environment.",
-        "longDescription": "Trade of Titans – Event Summary<br><br>Trade of Titans is a technology-driven economic strategy simulation where teams act as countries in a structured trade ecosystem. Each team starts with defined resources and virtual currency, then engages in multiple rounds of barter and monetary trade to balance imports, exports, and deficits.<br><br>The event is highly technical, integrating:<br><br>Data analysis & quantitative reasoning – interpreting trade values, price volatility, and optimization of resource balance.<br><br>Game theory & strategy design – crafting competitive/cooperative negotiation strategies under uncertainty.<br><br>Algorithmic thinking – designing heuristics, decision trees, and computational models for trade decisions.<br><br>Tech-enabled simulation – using digital tools, dashboards, or simulators to model dynamic markets and respond to shocks in real time.<br><br>Alongside technical skills, participants must also demonstrate strategic communication and fast-paced decision-making. This makes the event not just about negotiation but about applying computational strategy, optimization, and algorithmic reasoning in a competitive, simulation-based environment.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "5D2pGmTsbLG6GQUZxiaQas",
-        "type": "Entry",
-        "createdAt": "2025-10-16T11:20:30.194Z",
-        "updatedAt": "2025-10-16T11:20:30.194Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Maths talent test",
-        "clubName": "MATHEMATICS CLUB",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-11-01T10:00:00.000Z",
-        "endDateAndTime": "2025-11-01T13:00:00.000Z",
-        "pricePerPerson": 50,
-        "participationType": "Solo",
-        "eventVenue": "AB3 305",
-        "shortDescription": "Triggered problems will be given to solve in a minute time",
-        "longDescription": "triggered problems will be given to solve in a minute time",
         "specialEvent": false
       }
     },
@@ -9753,62 +9697,6 @@
         "eventVenue": "AB3 412 LAB",
         "shortDescription": "Hire-Ability Lab gets you future-ready — sharpening how you think, solve, and break problems down from first principles. It’s about mindset to tackle challenges and skills to land the job",
         "longDescription": "Hire-Ability Lab gets you future-ready — sharpening how you think, solve, and break problems down from first principles. It’s about mindset to tackle challenges and skills to land the job",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "5IWAvNY4UrYAhAlfQ1tpZj",
-        "type": "Entry",
-        "createdAt": "2025-10-14T18:42:02.671Z",
-        "updatedAt": "2025-10-15T05:43:39.066Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 16,
-        "revision": 3,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "AWS DeepRacer 2.0",
-        "clubName": "IEEE ROBOTICS & AUTOMATION SOCIETY (IEEE-RAS)",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "5BbpphceFveFOvtKxw9SK2"
-          }
-        },
-        "startDateAndTime": "2025-11-01T08:00+00:00",
-        "endDateAndTime": "2025-11-01T18:00+00:00",
-        "pricePerPerson": 200,
-        "participationType": "Solo/Duo/Trio",
-        "eventVenue": "Netaji Auditorium",
-        "shortDescription": "Participants begin with a workshop on reinforcement learning, building and training models on AWS Deepracer. They then compete by racing their models for fastest lap times, applying their skills in an exciting, hands-on competition.",
-        "longDescription": "This event will begin with an interactive workshop where participants learn the fundamentals of reinforcement learning and get hands-on experience building and training their own models on AWS Deepracer. Following the workshop, participants will put their knowledge into action in an exciting competition, racing their trained models to achieve the fastest lap times and showcase their skills.",
         "specialEvent": false
       }
     },
@@ -9968,51 +9856,6 @@
               }
             },
             "fileName": "Animatathon_Animation_club.png",
-            "contentType": "image/png"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
-          "id": "17hgCoCi9rLyw4DBBUVvY2",
-          "type": "Asset",
-          "createdAt": "2025-10-22T13:54:10.131Z",
-          "updatedAt": "2025-10-22T13:54:10.131Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 3,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "WHODUNIT.EXE (3) (1) - Helix",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/17hgCoCi9rLyw4DBBUVvY2/bb70666ad74be6c26cd3a89ba291fbe1/WHODUNIT.EXE__3___1__-_Helix.png",
-            "details": {
-              "size": 686875,
-              "image": {
-                "width": 1414,
-                "height": 2000
-              }
-            },
-            "fileName": "WHODUNIT.EXE (3) (1) - Helix.png",
             "contentType": "image/png"
           }
         }
@@ -10284,6 +10127,51 @@
             },
             "fileName": "Event_Poster - Christopher Columbus C.jpeg",
             "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "1hGNwPeTFAcJiP9GkJFqjD",
+          "type": "Asset",
+          "createdAt": "2025-10-22T19:50:23.302Z",
+          "updatedAt": "2025-10-22T19:50:23.302Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "TRC TechnoVIT poster - Prayasha Nanda",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/1hGNwPeTFAcJiP9GkJFqjD/27a3710979ad0ced3cd3bf468e52f6d8/TRC_TechnoVIT_poster_-_Prayasha_Nanda.png",
+            "details": {
+              "size": 769145,
+              "image": {
+                "width": 800,
+                "height": 1000
+              }
+            },
+            "fileName": "TRC_TechnoVIT_poster - Prayasha Nanda.png",
+            "contentType": "image/png"
           }
         }
       },
@@ -11065,51 +10953,6 @@
               "id": "rr94wjxz7mfi"
             }
           },
-          "id": "3UAW2KLYHytZ3umzQOsaFJ",
-          "type": "Asset",
-          "createdAt": "2025-10-22T13:40:02.946Z",
-          "updatedAt": "2025-10-22T13:40:02.946Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 3,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "IMG 5804 - Ojas Singh",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/3UAW2KLYHytZ3umzQOsaFJ/5c281246949da92cf3499f05f8354594/IMG_5804_-_Ojas_Singh.png",
-            "details": {
-              "size": 884153,
-              "image": {
-                "width": 1587,
-                "height": 2245
-              }
-            },
-            "fileName": "IMG_5804 - Ojas Singh.png",
-            "contentType": "image/png"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
           "id": "3ciHNwyuWL38iV4YBHUbMy",
           "type": "Asset",
           "createdAt": "2025-10-22T19:28:42.930Z",
@@ -11290,6 +11133,51 @@
               "id": "rr94wjxz7mfi"
             }
           },
+          "id": "3nw7CS2slVeq0d6csmB75A",
+          "type": "Asset",
+          "createdAt": "2025-10-22T19:44:07.482Z",
+          "updatedAt": "2025-10-22T19:44:07.482Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "healthcare poster final",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/3nw7CS2slVeq0d6csmB75A/4734274c934462d29d23903613704f02/healthcare_poster_final.jpg",
+            "details": {
+              "size": 136316,
+              "image": {
+                "width": 1017,
+                "height": 1280
+              }
+            },
+            "fileName": "healthcare_poster_final.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
           "id": "3pUB1yfe27UmuvY4lYsqBl",
           "type": "Asset",
           "createdAt": "2025-10-22T19:31:45.426Z",
@@ -11319,51 +11207,6 @@
             },
             "fileName": "IMG-20251021-WA0020 - Srija Dey 24BCE1684.jpg",
             "contentType": "image/jpeg"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
-          "id": "3rlLdZ0Qyo20q9uYbk5Mfy",
-          "type": "Asset",
-          "createdAt": "2025-10-22T13:50:50.896Z",
-          "updatedAt": "2025-10-22T13:50:50.896Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 3,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "Wireless Energy Make-a-Thon 1 - Shreyash Chaudhari",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/3rlLdZ0Qyo20q9uYbk5Mfy/b2be3f1f70c3aa88a95ae366e22ae23b/Wireless_Energy_Make-a-Thon_1_-_Shreyash_Chaudhari.png",
-            "details": {
-              "size": 845618,
-              "image": {
-                "width": 1587,
-                "height": 2245
-              }
-            },
-            "fileName": "Wireless Energy Make-a-Thon 1 - Shreyash Chaudhari.png",
-            "contentType": "image/png"
           }
         }
       },
@@ -11425,10 +11268,10 @@
               "id": "rr94wjxz7mfi"
             }
           },
-          "id": "3yzyY3MUtPEqFPM07t9CpQ",
+          "id": "44cBoqcd2fOUCLG8S8zOx9",
           "type": "Asset",
-          "createdAt": "2025-10-22T13:58:53.355Z",
-          "updatedAt": "2025-10-22T13:58:53.355Z",
+          "createdAt": "2025-10-22T19:51:31.939Z",
+          "updatedAt": "2025-10-22T19:51:31.939Z",
           "environment": {
             "sys": {
               "id": "master",
@@ -11441,64 +11284,19 @@
           "locale": "en-US"
         },
         "fields": {
-          "title": "Scan here to register 20251022 051927 0000 - G.K.Yuvasri",
+          "title": "WhatsApp Image 2025-10-20 at 00.25.43 5659238e - Darshini ツ",
           "description": "",
           "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/3yzyY3MUtPEqFPM07t9CpQ/a739410eaae9413ab313148ce9682b0f/Scan_here_to_register_20251022_051927_0000_-_G.K.Yuvasri.png",
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/44cBoqcd2fOUCLG8S8zOx9/adc25b41ca65782a2adf0a599b086252/WhatsApp_Image_2025-10-20_at_00.25.43_5659238e_-_Darshini_ã__.jpg",
             "details": {
-              "size": 539337,
+              "size": 317032,
               "image": {
-                "width": 654,
-                "height": 788
+                "width": 904,
+                "height": 1280
               }
             },
-            "fileName": "Scan here to register_20251022_051927_0000 - G.K.Yuvasri.png",
-            "contentType": "image/png"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
-          "id": "45s1YvV5HZJLOrUNAJHjgI",
-          "type": "Asset",
-          "createdAt": "2025-10-22T13:22:15.876Z",
-          "updatedAt": "2025-10-22T13:22:15.876Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 3,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "CookOff 2.0 Poster New - CodeChef VITCC",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/45s1YvV5HZJLOrUNAJHjgI/56af29f0b7ac9ca3a8538d803f8e96e5/CookOff_2.0_Poster_New_-_CodeChef_VITCC.png",
-            "details": {
-              "size": 507352,
-              "image": {
-                "width": 1587,
-                "height": 2245
-              }
-            },
-            "fileName": "CookOff 2.0 Poster New - CodeChef VITCC.png",
-            "contentType": "image/png"
+            "fileName": "WhatsApp Image 2025-10-20 at 00.25.43_5659238e - Darshini ツ.jpg",
+            "contentType": "image/jpeg"
           }
         }
       },
@@ -11587,96 +11385,6 @@
               }
             },
             "fileName": "escape_the_death_star (1) - Sharon Ramkumar.png",
-            "contentType": "image/png"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
-          "id": "4DcgIW180sTpIohAhVtC9q",
-          "type": "Asset",
-          "createdAt": "2025-10-22T13:58:02.440Z",
-          "updatedAt": "2025-10-22T13:58:02.440Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 3,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "ROBOTICS WORKSHOP - Nila S 25BME1038",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/4DcgIW180sTpIohAhVtC9q/e5d2917c7b61413213005b5f7ebb7ae7/ROBOTICS_WORKSHOP_-_Nila_S_25BME1038.jpeg",
-            "details": {
-              "size": 159664,
-              "image": {
-                "width": 1038,
-                "height": 1600
-              }
-            },
-            "fileName": "ROBOTICS WORKSHOP - Nila S 25BME1038.jpeg",
-            "contentType": "image/jpeg"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
-          "id": "4LE0CtM5YmdJkNbpJBxqrO",
-          "type": "Asset",
-          "createdAt": "2025-10-22T13:42:08.704Z",
-          "updatedAt": "2025-10-22T13:42:08.704Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 3,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "emotive fashion (2)",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/4LE0CtM5YmdJkNbpJBxqrO/54009ba9261c1e94d1c7428e424f0716/emotive_fashion__2_.png",
-            "details": {
-              "size": 717557,
-              "image": {
-                "width": 1587,
-                "height": 2245
-              }
-            },
-            "fileName": "emotive fashion (2).png",
             "contentType": "image/png"
           }
         }
@@ -11812,96 +11520,6 @@
               }
             },
             "fileName": "IMG-20251021-WA0003 - Aman Saxena.jpg",
-            "contentType": "image/jpeg"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
-          "id": "4V36f1x7blwPtBI1Erb8b8",
-          "type": "Asset",
-          "createdAt": "2025-10-22T13:38:53.233Z",
-          "updatedAt": "2025-10-22T13:38:53.233Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 3,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "Untitled Project - Dark Green Pop-Up Fashion Minimalist Maximalism (4)",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/4V36f1x7blwPtBI1Erb8b8/3f828533a8f33249da213d5a31e1d604/Untitled_Project_-_Dark_Green_Pop-Up_Fashion_Minimalist_Maximalism___4_.png",
-            "details": {
-              "size": 415926,
-              "image": {
-                "width": 640,
-                "height": 800
-              }
-            },
-            "fileName": "Untitled Project - Dark Green Pop-Up Fashion Minimalist Maximalism  (4).png",
-            "contentType": "image/png"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
-          "id": "4ZoUCAZbKDK7tpJ5IEyv5p",
-          "type": "Asset",
-          "createdAt": "2025-10-22T13:19:35.397Z",
-          "updatedAt": "2025-10-22T13:19:35.397Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 3,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "Car1 - KIRAN SAMPATH",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/4ZoUCAZbKDK7tpJ5IEyv5p/3dad2f3ce901e12a4a69b5b523654abb/Car1_-_KIRAN_SAMPATH.jpg",
-            "details": {
-              "size": 509473,
-              "image": {
-                "width": 1587,
-                "height": 2245
-              }
-            },
-            "fileName": "Car1 - KIRAN SAMPATH.jpg",
             "contentType": "image/jpeg"
           }
         }
@@ -12189,6 +11807,51 @@
               "id": "rr94wjxz7mfi"
             }
           },
+          "id": "57HKagG4rBSTJG3BX16MEn",
+          "type": "Asset",
+          "createdAt": "2025-10-22T19:40:47.140Z",
+          "updatedAt": "2025-10-22T19:40:47.140Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Trade of Titans",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/57HKagG4rBSTJG3BX16MEn/b3bdbf7aed617ac48e3f535520df966f/Trade_of_Titans.png",
+            "details": {
+              "size": 613734,
+              "image": {
+                "width": 1587,
+                "height": 2245
+              }
+            },
+            "fileName": "Trade_of_Titans.png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
           "id": "5Nem9eVSsuOylBBcDbtDoh",
           "type": "Asset",
           "createdAt": "2025-10-22T19:11:53.485Z",
@@ -12279,51 +11942,6 @@
               "id": "rr94wjxz7mfi"
             }
           },
-          "id": "5Zy8UBFU9tUejAsmvIvPZ",
-          "type": "Asset",
-          "createdAt": "2025-10-22T13:23:30.210Z",
-          "updatedAt": "2025-10-22T13:23:30.210Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 3,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "IMG-20251022-WA0014 - Dr. U. Vijayabanu",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/5Zy8UBFU9tUejAsmvIvPZ/a3fed27fc7b2b66e190a31ecb2b49699/IMG-20251022-WA0014_-_Dr._U._Vijayabanu.jpg",
-            "details": {
-              "size": 233472,
-              "image": {
-                "width": 1024,
-                "height": 1280
-              }
-            },
-            "fileName": "IMG-20251022-WA0014 - Dr. U. Vijayabanu.jpg",
-            "contentType": "image/jpeg"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
           "id": "5fvj06fh4m0SmrgNHO0etF",
           "type": "Asset",
           "createdAt": "2025-10-22T16:31:40.213Z",
@@ -12353,6 +11971,51 @@
             },
             "fileName": "5_20251018_104436_0004.png",
             "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "5g9lnRQzowmK1J23xMk2SG",
+          "type": "Asset",
+          "createdAt": "2025-10-22T19:43:02.896Z",
+          "updatedAt": "2025-10-22T19:43:02.896Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "SAVE 20251020 120815 - Sivvam Venkata Lakshmi Prasanna 25BEC1135",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/5g9lnRQzowmK1J23xMk2SG/2cd1c1dc0eca16058e2b632a0c0de609/SAVE_20251020_120815_-_Sivvam_Venkata_Lakshmi_Prasanna_25BEC1135.jpg",
+            "details": {
+              "size": 813214,
+              "image": {
+                "width": 1080,
+                "height": 1350
+              }
+            },
+            "fileName": "SAVE_20251020_120815 - Sivvam Venkata Lakshmi Prasanna 25BEC1135.jpg",
+            "contentType": "image/jpeg"
           }
         }
       },
@@ -12414,10 +12077,10 @@
               "id": "rr94wjxz7mfi"
             }
           },
-          "id": "5lpq7y3eZtZp8LKh6vR4Hp",
+          "id": "5l2Umov3w2rRFlN1ZlKFQR",
           "type": "Asset",
-          "createdAt": "2025-10-22T13:26:12.974Z",
-          "updatedAt": "2025-10-22T13:26:12.974Z",
+          "createdAt": "2025-10-22T19:41:29.619Z",
+          "updatedAt": "2025-10-22T19:41:29.619Z",
           "environment": {
             "sys": {
               "id": "master",
@@ -12425,24 +12088,24 @@
               "linkType": "Environment"
             }
           },
-          "publishedVersion": 3,
+          "publishedVersion": 4,
           "revision": 1,
           "locale": "en-US"
         },
         "fields": {
-          "title": "Black White Bold Astronomy Event Poster - noel",
+          "title": "Innovate to Escape",
           "description": "",
           "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/5lpq7y3eZtZp8LKh6vR4Hp/f6cb5dbd40fe401a5ae2d6644eb956dd/Black_White_Bold_Astronomy_Event_Poster_-_noel.jpg",
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/5l2Umov3w2rRFlN1ZlKFQR/885f268188652aa3f34e6ec2509e55de/ITE_-_Ranvir_Amit_Deshmukh_23BAI1472.png",
             "details": {
-              "size": 524437,
+              "size": 864797,
               "image": {
                 "width": 1587,
                 "height": 2245
               }
             },
-            "fileName": "Black White Bold Astronomy Event Poster - noel.jpg",
-            "contentType": "image/jpeg"
+            "fileName": "ITE - Ranvir Amit Deshmukh 23BAI1472.png",
+            "contentType": "image/png"
           }
         }
       },
@@ -12504,6 +12167,51 @@
               "id": "rr94wjxz7mfi"
             }
           },
+          "id": "63MQ128DbQTZMwpTP385J5",
+          "type": "Asset",
+          "createdAt": "2025-10-22T19:41:36.606Z",
+          "updatedAt": "2025-10-22T19:41:36.606Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Matlabathon poster",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/63MQ128DbQTZMwpTP385J5/201bca8ac6eb5bbbdcf28fcbafd437fe/Matlabathon_poster.png",
+            "details": {
+              "size": 1800166,
+              "image": {
+                "width": 1587,
+                "height": 2245
+              }
+            },
+            "fileName": "Matlabathon_poster.png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
           "id": "63sRM1Qhhw3kSzdwtfdcPR",
           "type": "Asset",
           "createdAt": "2025-10-22T18:56:28.533Z",
@@ -12533,6 +12241,51 @@
             },
             "fileName": "Code Mafia DAO X IEEERAS Compressed - Nitish Kumar 24BCE1520.jpg",
             "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "64m2b1bkZPgWpTEn3sJX6T",
+          "type": "Asset",
+          "createdAt": "2025-10-22T19:47:01.524Z",
+          "updatedAt": "2025-10-22T19:47:01.524Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Technoprix",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/64m2b1bkZPgWpTEn3sJX6T/36d6faa2361206ef51081a522b8d9c6b/1_-_Anay_Patil.png",
+            "details": {
+              "size": 573298,
+              "image": {
+                "width": 1024,
+                "height": 1280
+              }
+            },
+            "fileName": "1 - Anay Patil.png",
+            "contentType": "image/png"
           }
         }
       },
@@ -12639,6 +12392,51 @@
               "id": "rr94wjxz7mfi"
             }
           },
+          "id": "6VofLNV1tjZKeQ1oUcxxMO",
+          "type": "Asset",
+          "createdAt": "2025-10-22T19:46:00.799Z",
+          "updatedAt": "2025-10-22T19:46:00.799Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "TCAD Workshop Poster (3)-1- - Vishnuvarthan M 24BLC1395",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/6VofLNV1tjZKeQ1oUcxxMO/79cc848a86387845f35e7489044eedd0/TCAD_Workshop_Poster__3_-1-_-_Vishnuvarthan_M_24BLC1395.png",
+            "details": {
+              "size": 563091,
+              "image": {
+                "width": 1600,
+                "height": 2000
+              }
+            },
+            "fileName": "TCAD Workshop Poster (3)-1- - Vishnuvarthan M 24BLC1395.png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
           "id": "6WZ2DkPoT6nMc8VRU0NbFy",
           "type": "Asset",
           "createdAt": "2025-10-22T19:38:09.822Z",
@@ -12729,10 +12527,10 @@
               "id": "rr94wjxz7mfi"
             }
           },
-          "id": "6qGCf3HHU16X9cT6ltbiN6",
+          "id": "73L08wLpoCOx37hS1yuM4I",
           "type": "Asset",
-          "createdAt": "2025-10-22T13:33:10.643Z",
-          "updatedAt": "2025-10-22T13:33:10.643Z",
+          "createdAt": "2025-10-22T19:43:57.175Z",
+          "updatedAt": "2025-10-22T19:43:57.175Z",
           "environment": {
             "sys": {
               "id": "master",
@@ -12740,68 +12538,23 @@
               "linkType": "Environment"
             }
           },
-          "publishedVersion": 3,
+          "publishedVersion": 4,
           "revision": 1,
           "locale": "en-US"
         },
         "fields": {
-          "title": "IMG-20251021-WA0018 - Rakesh Raja 25BRS1382",
+          "title": "Symmetria",
           "description": "",
           "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/6qGCf3HHU16X9cT6ltbiN6/a22725e9c9fde7b7664996197aa4b4e9/IMG-20251021-WA0018_-_Rakesh_Raja_25BRS1382.jpg",
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/73L08wLpoCOx37hS1yuM4I/591fc623c0a1a1c617d375a8b262084d/SAVE_20251020_120820_-_Sivvam_Venkata_Lakshmi_Prasanna_25BEC1135.jpg",
             "details": {
-              "size": 318982,
+              "size": 992423,
               "image": {
-                "width": 1024,
-                "height": 1280
+                "width": 1080,
+                "height": 1350
               }
             },
-            "fileName": "IMG-20251021-WA0018 - Rakesh Raja 25BRS1382.jpg",
-            "contentType": "image/jpeg"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
-          "id": "7ELJ32aNdjqGblV38Q9Gji",
-          "type": "Asset",
-          "createdAt": "2025-10-22T13:27:55.146Z",
-          "updatedAt": "2025-10-22T13:27:55.146Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 3,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "Photo from Sathwik - Chittapragada Ragha Sathwik 24BEL1060",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/7ELJ32aNdjqGblV38Q9Gji/a7bda8bf1c572c5928c9c2c200d6852a/Photo_from_Sathwik_-_Chittapragada_Ragha_Sathwik_24BEL1060.jpg",
-            "details": {
-              "size": 322822,
-              "image": {
-                "width": 720,
-                "height": 1280
-              }
-            },
-            "fileName": "Photo from Sathwik - Chittapragada Ragha Sathwik 24BEL1060.jpg",
+            "fileName": "SAVE_20251020_120820 - Sivvam Venkata Lakshmi Prasanna 25BEC1135.jpg",
             "contentType": "image/jpeg"
           }
         }
@@ -12848,51 +12601,6 @@
             },
             "fileName": "4_20251018_104436_0003.png",
             "contentType": "image/png"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
-          "id": "7avmTc84aD0AK1ujNIGZ2f",
-          "type": "Asset",
-          "createdAt": "2025-10-22T13:44:48.104Z",
-          "updatedAt": "2025-10-22T13:44:48.104Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 3,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "Cursor create - Navitha E 22MIA1051",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/7avmTc84aD0AK1ujNIGZ2f/49f154097056dd206763a7828137c3eb/Cursor_create_-_Navitha_E_22MIA1051.jpeg",
-            "details": {
-              "size": 153250,
-              "image": {
-                "width": 989,
-                "height": 1214
-              }
-            },
-            "fileName": "Cursor create - Navitha E 22MIA1051.jpeg",
-            "contentType": "image/jpeg"
           }
         }
       },
@@ -12999,10 +12707,10 @@
               "id": "rr94wjxz7mfi"
             }
           },
-          "id": "7hezpA3VRrVe56W4zRsqIS",
+          "id": "7jeKvPZrqiD6ExDGMG4ZfT",
           "type": "Asset",
-          "createdAt": "2025-10-22T13:31:28.435Z",
-          "updatedAt": "2025-10-22T13:31:28.435Z",
+          "createdAt": "2025-10-22T19:48:20.432Z",
+          "updatedAt": "2025-10-22T19:48:20.432Z",
           "environment": {
             "sys": {
               "id": "master",
@@ -13015,18 +12723,63 @@
           "locale": "en-US"
         },
         "fields": {
-          "title": "IMG-20251022-WA0028 - Kabilan R",
+          "title": "Scriptwave",
           "description": "",
           "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/7hezpA3VRrVe56W4zRsqIS/368fb39c386732038fbd81e3379c3264/IMG-20251022-WA0028_-_Kabilan_R.jpg",
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/7jeKvPZrqiD6ExDGMG4ZfT/24cd5f7c4b9596cbe12de56e5c4d6abf/6_-_noel.jpg",
             "details": {
-              "size": 223875,
+              "size": 435607,
               "image": {
-                "width": 1024,
-                "height": 1280
+                "width": 1587,
+                "height": 2245
               }
             },
-            "fileName": "IMG-20251022-WA0028 - Kabilan R.jpg",
+            "fileName": "6 - noel.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "7tG4XEMSxxy5Tp7wQIcsu9",
+          "type": "Asset",
+          "createdAt": "2025-10-22T19:52:18.894Z",
+          "updatedAt": "2025-10-22T19:52:18.894Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "quantum meetsai poster final",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/7tG4XEMSxxy5Tp7wQIcsu9/1d44d1363e65e155a82e3e65e85fd79c/quantum_meetsai_poster_final.jpg",
+            "details": {
+              "size": 352386,
+              "image": {
+                "width": 1131,
+                "height": 1600
+              }
+            },
+            "fileName": "quantum meetsai_poster_final.jpg",
             "contentType": "image/jpeg"
           }
         }
@@ -13314,51 +13067,6 @@
               "id": "rr94wjxz7mfi"
             }
           },
-          "id": "JYXI182trsV32P4OHUeRB",
-          "type": "Asset",
-          "createdAt": "2025-10-22T13:29:23.944Z",
-          "updatedAt": "2025-10-22T13:29:23.944Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 3,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "7215 - Yarnagula Rohit Kumar 24BCL1011",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/JYXI182trsV32P4OHUeRB/7e65bfb530c1a8a79d3cc8b2b46c2be9/7215_-_Yarnagula_Rohit_Kumar_24BCL1011.png",
-            "details": {
-              "size": 280414,
-              "image": {
-                "width": 1587,
-                "height": 2245
-              }
-            },
-            "fileName": "7215 - Yarnagula Rohit Kumar 24BCL1011.png",
-            "contentType": "image/png"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
           "id": "WYSHnmQaRktR1YGkuDZB0",
           "type": "Asset",
           "createdAt": "2025-10-22T19:30:38.001Z",
@@ -13449,51 +13157,6 @@
               "id": "rr94wjxz7mfi"
             }
           },
-          "id": "Xpc8MNdVbM3mqbkEqBdMF",
-          "type": "Asset",
-          "createdAt": "2025-10-22T13:48:19.740Z",
-          "updatedAt": "2025-10-22T13:48:19.740Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 3,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "Poster final - Harsshitha B 24BCL1020",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/Xpc8MNdVbM3mqbkEqBdMF/bb28064196114670d5353100cda5f5dc/Poster_final_-_Harsshitha_B_24BCL1020.jpg",
-            "details": {
-              "size": 437237,
-              "image": {
-                "width": 1587,
-                "height": 2245
-              }
-            },
-            "fileName": "Poster final - Harsshitha B 24BCL1020.jpg",
-            "contentType": "image/jpeg"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
           "id": "eyDF5mq63L2HoA4gJPawR",
           "type": "Asset",
           "createdAt": "2025-10-22T19:27:41.937Z",
@@ -13539,51 +13202,6 @@
               "id": "rr94wjxz7mfi"
             }
           },
-          "id": "obl7LtghrOHitbGJEEIti",
-          "type": "Asset",
-          "createdAt": "2025-10-22T13:46:18.312Z",
-          "updatedAt": "2025-10-22T13:46:18.312Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 3,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "Screenshot 2025-10-21 at 1.49.41 PM - Indrani Yadav",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/obl7LtghrOHitbGJEEIti/4d72b70f6b1ca31c29020b25c306ad0c/Screenshot_2025-10-21_at_1.49.41â__PM_-_Indrani_Yadav.png",
-            "details": {
-              "size": 712878,
-              "image": {
-                "width": 508,
-                "height": 714
-              }
-            },
-            "fileName": "Screenshot 2025-10-21 at 1.49.41 PM - Indrani Yadav.png",
-            "contentType": "image/png"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
           "id": "pB2Ncw3ZaooAwtytLBTLe",
           "type": "Asset",
           "createdAt": "2025-10-22T19:35:17.170Z",
@@ -13612,6 +13230,51 @@
               }
             },
             "fileName": "WhatsApp Image 2025-10-21 at 23.38.24_fcab17a6 - Eshaan Adyanthaya.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "tOjH2Mx3wBHX3hZp5I3eY",
+          "type": "Asset",
+          "createdAt": "2025-10-22T19:48:46.995Z",
+          "updatedAt": "2025-10-22T19:48:46.995Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "aws deepracer poster - Nikhil Bansal V 23BPS1039",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/tOjH2Mx3wBHX3hZp5I3eY/131ec4d0e052d0c43537e2cd95fe0e56/aws_deepracer_poster_-_Nikhil_Bansal_V_23BPS1039.jpg",
+            "details": {
+              "size": 127967,
+              "image": {
+                "width": 793,
+                "height": 1122
+              }
+            },
+            "fileName": "aws_deepracer_poster - Nikhil Bansal V 23BPS1039.jpg",
             "contentType": "image/jpeg"
           }
         }
@@ -13674,10 +13337,10 @@
               "id": "rr94wjxz7mfi"
             }
           },
-          "id": "z2MsxBoCQI5qSKQUAVQ75",
+          "id": "17hgCoCi9rLyw4DBBUVvY2",
           "type": "Asset",
-          "createdAt": "2025-10-22T13:56:26.227Z",
-          "updatedAt": "2025-10-22T13:56:26.227Z",
+          "createdAt": "2025-10-22T13:54:10.131Z",
+          "updatedAt": "2025-10-22T13:54:10.131Z",
           "environment": {
             "sys": {
               "id": "master",
@@ -13690,19 +13353,19 @@
           "locale": "en-US"
         },
         "fields": {
-          "title": "WhatsApp Image 2025-10-21 at 16.50.52 fc9cbeb6 - Harisankar V",
+          "title": "WHODUNIT.EXE (3) (1) - Helix",
           "description": "",
           "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/z2MsxBoCQI5qSKQUAVQ75/3944dfa9be75c4c9e2a720a8e49fadec/WhatsApp_Image_2025-10-21_at_16.50.52_fc9cbeb6_-_Harisankar_V.jpg",
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/17hgCoCi9rLyw4DBBUVvY2/bb70666ad74be6c26cd3a89ba291fbe1/WHODUNIT.EXE__3___1__-_Helix.png",
             "details": {
-              "size": 138495,
+              "size": 686875,
               "image": {
-                "width": 794,
-                "height": 1123
+                "width": 1414,
+                "height": 2000
               }
             },
-            "fileName": "WhatsApp Image 2025-10-21 at 16.50.52_fc9cbeb6 - Harisankar V.jpg",
-            "contentType": "image/jpeg"
+            "fileName": "WHODUNIT.EXE (3) (1) - Helix.png",
+            "contentType": "image/png"
           }
         }
       },
@@ -13764,6 +13427,51 @@
               "id": "rr94wjxz7mfi"
             }
           },
+          "id": "3UAW2KLYHytZ3umzQOsaFJ",
+          "type": "Asset",
+          "createdAt": "2025-10-22T13:40:02.946Z",
+          "updatedAt": "2025-10-22T13:40:02.946Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "IMG 5804 - Ojas Singh",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/3UAW2KLYHytZ3umzQOsaFJ/5c281246949da92cf3499f05f8354594/IMG_5804_-_Ojas_Singh.png",
+            "details": {
+              "size": 884153,
+              "image": {
+                "width": 1587,
+                "height": 2245
+              }
+            },
+            "fileName": "IMG_5804 - Ojas Singh.png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
           "id": "3c0RbZTD8RgOllAOZ9N2c1",
           "type": "Asset",
           "createdAt": "2025-10-22T13:18:19.165Z",
@@ -13792,6 +13500,96 @@
               }
             },
             "fileName": "MMWars - Wadiyan Boi.png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "3rlLdZ0Qyo20q9uYbk5Mfy",
+          "type": "Asset",
+          "createdAt": "2025-10-22T13:50:50.896Z",
+          "updatedAt": "2025-10-22T13:50:50.896Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Wireless Energy Make-a-Thon 1 - Shreyash Chaudhari",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/3rlLdZ0Qyo20q9uYbk5Mfy/b2be3f1f70c3aa88a95ae366e22ae23b/Wireless_Energy_Make-a-Thon_1_-_Shreyash_Chaudhari.png",
+            "details": {
+              "size": 845618,
+              "image": {
+                "width": 1587,
+                "height": 2245
+              }
+            },
+            "fileName": "Wireless Energy Make-a-Thon 1 - Shreyash Chaudhari.png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "3yzyY3MUtPEqFPM07t9CpQ",
+          "type": "Asset",
+          "createdAt": "2025-10-22T13:58:53.355Z",
+          "updatedAt": "2025-10-22T13:58:53.355Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Scan here to register 20251022 051927 0000 - G.K.Yuvasri",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/3yzyY3MUtPEqFPM07t9CpQ/a739410eaae9413ab313148ce9682b0f/Scan_here_to_register_20251022_051927_0000_-_G.K.Yuvasri.png",
+            "details": {
+              "size": 539337,
+              "image": {
+                "width": 654,
+                "height": 788
+              }
+            },
+            "fileName": "Scan here to register_20251022_051927_0000 - G.K.Yuvasri.png",
             "contentType": "image/png"
           }
         }
@@ -13854,6 +13652,231 @@
               "id": "rr94wjxz7mfi"
             }
           },
+          "id": "45s1YvV5HZJLOrUNAJHjgI",
+          "type": "Asset",
+          "createdAt": "2025-10-22T13:22:15.876Z",
+          "updatedAt": "2025-10-22T13:22:15.876Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "CookOff 2.0 Poster New - CodeChef VITCC",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/45s1YvV5HZJLOrUNAJHjgI/56af29f0b7ac9ca3a8538d803f8e96e5/CookOff_2.0_Poster_New_-_CodeChef_VITCC.png",
+            "details": {
+              "size": 507352,
+              "image": {
+                "width": 1587,
+                "height": 2245
+              }
+            },
+            "fileName": "CookOff 2.0 Poster New - CodeChef VITCC.png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "4DcgIW180sTpIohAhVtC9q",
+          "type": "Asset",
+          "createdAt": "2025-10-22T13:58:02.440Z",
+          "updatedAt": "2025-10-22T13:58:02.440Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "ROBOTICS WORKSHOP - Nila S 25BME1038",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/4DcgIW180sTpIohAhVtC9q/e5d2917c7b61413213005b5f7ebb7ae7/ROBOTICS_WORKSHOP_-_Nila_S_25BME1038.jpeg",
+            "details": {
+              "size": 159664,
+              "image": {
+                "width": 1038,
+                "height": 1600
+              }
+            },
+            "fileName": "ROBOTICS WORKSHOP - Nila S 25BME1038.jpeg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "4LE0CtM5YmdJkNbpJBxqrO",
+          "type": "Asset",
+          "createdAt": "2025-10-22T13:42:08.704Z",
+          "updatedAt": "2025-10-22T13:42:08.704Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "emotive fashion (2)",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/4LE0CtM5YmdJkNbpJBxqrO/54009ba9261c1e94d1c7428e424f0716/emotive_fashion__2_.png",
+            "details": {
+              "size": 717557,
+              "image": {
+                "width": 1587,
+                "height": 2245
+              }
+            },
+            "fileName": "emotive fashion (2).png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "4V36f1x7blwPtBI1Erb8b8",
+          "type": "Asset",
+          "createdAt": "2025-10-22T13:38:53.233Z",
+          "updatedAt": "2025-10-22T13:38:53.233Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Untitled Project - Dark Green Pop-Up Fashion Minimalist Maximalism (4)",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/4V36f1x7blwPtBI1Erb8b8/3f828533a8f33249da213d5a31e1d604/Untitled_Project_-_Dark_Green_Pop-Up_Fashion_Minimalist_Maximalism___4_.png",
+            "details": {
+              "size": 415926,
+              "image": {
+                "width": 640,
+                "height": 800
+              }
+            },
+            "fileName": "Untitled Project - Dark Green Pop-Up Fashion Minimalist Maximalism  (4).png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "4ZoUCAZbKDK7tpJ5IEyv5p",
+          "type": "Asset",
+          "createdAt": "2025-10-22T13:19:35.397Z",
+          "updatedAt": "2025-10-22T13:19:35.397Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Car1 - KIRAN SAMPATH",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/4ZoUCAZbKDK7tpJ5IEyv5p/3dad2f3ce901e12a4a69b5b523654abb/Car1_-_KIRAN_SAMPATH.jpg",
+            "details": {
+              "size": 509473,
+              "image": {
+                "width": 1587,
+                "height": 2245
+              }
+            },
+            "fileName": "Car1 - KIRAN SAMPATH.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
           "id": "4g3fR6bgDIZ2dO9WQi8Wr7",
           "type": "Asset",
           "createdAt": "2025-10-15T11:20:50.394Z",
@@ -13899,10 +13922,10 @@
               "id": "rr94wjxz7mfi"
             }
           },
-          "id": "5BbpphceFveFOvtKxw9SK2",
+          "id": "5Zy8UBFU9tUejAsmvIvPZ",
           "type": "Asset",
-          "createdAt": "2025-10-14T18:41:49.311Z",
-          "updatedAt": "2025-10-14T18:41:49.311Z",
+          "createdAt": "2025-10-22T13:23:30.210Z",
+          "updatedAt": "2025-10-22T13:23:30.210Z",
           "environment": {
             "sys": {
               "id": "master",
@@ -13910,24 +13933,69 @@
               "linkType": "Environment"
             }
           },
-          "publishedVersion": 5,
+          "publishedVersion": 3,
           "revision": 1,
           "locale": "en-US"
         },
         "fields": {
-          "title": "Na",
-          "description": "This event will begin with an interactive workshop where participants learn the fundamentals of reinforcement learning and get hands-on experience building and training their own models on AWS Deepracer. Following the workshop, participants will put their knowledge into action in an exciting competition, racing their trained models to achieve the fastest lap times and showcase their skills.",
+          "title": "IMG-20251022-WA0014 - Dr. U. Vijayabanu",
+          "description": "",
           "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/5BbpphceFveFOvtKxw9SK2/c42365de6b6149dbbbc221504e7d745a/AWS-Deepracer_-_Nikhil_Bansal_V_23BPS1039.png",
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/5Zy8UBFU9tUejAsmvIvPZ/a3fed27fc7b2b66e190a31ecb2b49699/IMG-20251022-WA0014_-_Dr._U._Vijayabanu.jpg",
             "details": {
-              "size": 697210,
+              "size": 233472,
               "image": {
-                "width": 761,
-                "height": 1067
+                "width": 1024,
+                "height": 1280
               }
             },
-            "fileName": "AWS-Deepracer - Nikhil Bansal V 23BPS1039.png",
-            "contentType": "image/png"
+            "fileName": "IMG-20251022-WA0014 - Dr. U. Vijayabanu.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "5lpq7y3eZtZp8LKh6vR4Hp",
+          "type": "Asset",
+          "createdAt": "2025-10-22T13:26:12.974Z",
+          "updatedAt": "2025-10-22T13:26:12.974Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Black White Bold Astronomy Event Poster - noel",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/5lpq7y3eZtZp8LKh6vR4Hp/f6cb5dbd40fe401a5ae2d6644eb956dd/Black_White_Bold_Astronomy_Event_Poster_-_noel.jpg",
+            "details": {
+              "size": 524437,
+              "image": {
+                "width": 1587,
+                "height": 2245
+              }
+            },
+            "fileName": "Black White Bold Astronomy Event Poster - noel.jpg",
+            "contentType": "image/jpeg"
           }
         }
       },
@@ -13989,6 +14057,51 @@
               "id": "rr94wjxz7mfi"
             }
           },
+          "id": "6qGCf3HHU16X9cT6ltbiN6",
+          "type": "Asset",
+          "createdAt": "2025-10-22T13:33:10.643Z",
+          "updatedAt": "2025-10-22T13:33:10.643Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "IMG-20251021-WA0018 - Rakesh Raja 25BRS1382",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/6qGCf3HHU16X9cT6ltbiN6/a22725e9c9fde7b7664996197aa4b4e9/IMG-20251021-WA0018_-_Rakesh_Raja_25BRS1382.jpg",
+            "details": {
+              "size": 318982,
+              "image": {
+                "width": 1024,
+                "height": 1280
+              }
+            },
+            "fileName": "IMG-20251021-WA0018 - Rakesh Raja 25BRS1382.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
           "id": "6xVQmlw9iUvK3hIZJe9oqi",
           "type": "Asset",
           "createdAt": "2025-10-14T18:06:44.488Z",
@@ -14034,6 +14147,51 @@
               "id": "rr94wjxz7mfi"
             }
           },
+          "id": "7ELJ32aNdjqGblV38Q9Gji",
+          "type": "Asset",
+          "createdAt": "2025-10-22T13:27:55.146Z",
+          "updatedAt": "2025-10-22T13:27:55.146Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Photo from Sathwik - Chittapragada Ragha Sathwik 24BEL1060",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/7ELJ32aNdjqGblV38Q9Gji/a7bda8bf1c572c5928c9c2c200d6852a/Photo_from_Sathwik_-_Chittapragada_Ragha_Sathwik_24BEL1060.jpg",
+            "details": {
+              "size": 322822,
+              "image": {
+                "width": 720,
+                "height": 1280
+              }
+            },
+            "fileName": "Photo from Sathwik - Chittapragada Ragha Sathwik 24BEL1060.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
           "id": "7JFgrsoZmv6HZ50em4uowA",
           "type": "Asset",
           "createdAt": "2025-10-15T03:10:17.912Z",
@@ -14062,6 +14220,96 @@
               }
             },
             "fileName": "TechnoVITPosters - IT AUTOVIT (1).jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "7avmTc84aD0AK1ujNIGZ2f",
+          "type": "Asset",
+          "createdAt": "2025-10-22T13:44:48.104Z",
+          "updatedAt": "2025-10-22T13:44:48.104Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Cursor create - Navitha E 22MIA1051",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/7avmTc84aD0AK1ujNIGZ2f/49f154097056dd206763a7828137c3eb/Cursor_create_-_Navitha_E_22MIA1051.jpeg",
+            "details": {
+              "size": 153250,
+              "image": {
+                "width": 989,
+                "height": 1214
+              }
+            },
+            "fileName": "Cursor create - Navitha E 22MIA1051.jpeg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "7hezpA3VRrVe56W4zRsqIS",
+          "type": "Asset",
+          "createdAt": "2025-10-22T13:31:28.435Z",
+          "updatedAt": "2025-10-22T13:31:28.435Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "IMG-20251022-WA0028 - Kabilan R",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/7hezpA3VRrVe56W4zRsqIS/368fb39c386732038fbd81e3379c3264/IMG-20251022-WA0028_-_Kabilan_R.jpg",
+            "details": {
+              "size": 223875,
+              "image": {
+                "width": 1024,
+                "height": 1280
+              }
+            },
+            "fileName": "IMG-20251022-WA0028 - Kabilan R.jpg",
             "contentType": "image/jpeg"
           }
         }
@@ -14152,6 +14400,186 @@
               }
             },
             "fileName": "TechnoVITPosters (1) - KIRAN SAMPATH.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "JYXI182trsV32P4OHUeRB",
+          "type": "Asset",
+          "createdAt": "2025-10-22T13:29:23.944Z",
+          "updatedAt": "2025-10-22T13:29:23.944Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "7215 - Yarnagula Rohit Kumar 24BCL1011",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/JYXI182trsV32P4OHUeRB/7e65bfb530c1a8a79d3cc8b2b46c2be9/7215_-_Yarnagula_Rohit_Kumar_24BCL1011.png",
+            "details": {
+              "size": 280414,
+              "image": {
+                "width": 1587,
+                "height": 2245
+              }
+            },
+            "fileName": "7215 - Yarnagula Rohit Kumar 24BCL1011.png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "Xpc8MNdVbM3mqbkEqBdMF",
+          "type": "Asset",
+          "createdAt": "2025-10-22T13:48:19.740Z",
+          "updatedAt": "2025-10-22T13:48:19.740Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Poster final - Harsshitha B 24BCL1020",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/Xpc8MNdVbM3mqbkEqBdMF/bb28064196114670d5353100cda5f5dc/Poster_final_-_Harsshitha_B_24BCL1020.jpg",
+            "details": {
+              "size": 437237,
+              "image": {
+                "width": 1587,
+                "height": 2245
+              }
+            },
+            "fileName": "Poster final - Harsshitha B 24BCL1020.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "obl7LtghrOHitbGJEEIti",
+          "type": "Asset",
+          "createdAt": "2025-10-22T13:46:18.312Z",
+          "updatedAt": "2025-10-22T13:46:18.312Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Screenshot 2025-10-21 at 1.49.41 PM - Indrani Yadav",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/obl7LtghrOHitbGJEEIti/4d72b70f6b1ca31c29020b25c306ad0c/Screenshot_2025-10-21_at_1.49.41â__PM_-_Indrani_Yadav.png",
+            "details": {
+              "size": 712878,
+              "image": {
+                "width": 508,
+                "height": 714
+              }
+            },
+            "fileName": "Screenshot 2025-10-21 at 1.49.41 PM - Indrani Yadav.png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "z2MsxBoCQI5qSKQUAVQ75",
+          "type": "Asset",
+          "createdAt": "2025-10-22T13:56:26.227Z",
+          "updatedAt": "2025-10-22T13:56:26.227Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "WhatsApp Image 2025-10-21 at 16.50.52 fc9cbeb6 - Harisankar V",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/z2MsxBoCQI5qSKQUAVQ75/3944dfa9be75c4c9e2a720a8e49fadec/WhatsApp_Image_2025-10-21_at_16.50.52_fc9cbeb6_-_Harisankar_V.jpg",
+            "details": {
+              "size": 138495,
+              "image": {
+                "width": 794,
+                "height": 1123
+              }
+            },
+            "fileName": "WhatsApp Image 2025-10-21 at 16.50.52_fc9cbeb6 - Harisankar V.jpg",
             "contentType": "image/jpeg"
           }
         }
