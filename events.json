@@ -19,6 +19,62 @@
             "id": "rr94wjxz7mfi"
           }
         },
+        "id": "FhBKBmMhz3MVRRYwP4Obq",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:07:19.716Z",
+        "updatedAt": "2025-10-22T12:36:15.639Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 6,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Code Citadel",
+        "clubName": "MICROSOFT INNOVATION CLUB",
+        "eventType": "Workshop",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-27T14:00+00:00",
+        "endDateAndTime": "2025-10-27T17:30+00:00",
+        "pricePerPerson": 50,
+        "participationType": "Solo",
+        "eventVenue": "VOC Auditorium",
+        "shortDescription": "In this hands-on workshop, you'll become a web architect. 💻 Master the core blocks—**HTML, CSS, & JavaScript**—before advancing to responsive design and frontend frameworks. You'll learn modern best practices by building real-world projects.",
+        "longDescription": "The digital empire of tomorrow rests in the hands of its builders. This workshop empowers you to become an architect of the web, starting from the core building blocks — HTML, CSS, and JavaScript — to advanced frameworks and responsive design. You’ll work on real-world projects, learn modern best practices, and craft websites that are not just functional but breathtaking. Create experiences that leave a mark.\n Highlights: HTML, CSS, JavaScript, Responsive Design, Frontend Frameworks, Hands-on Project Building.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
         "id": "2w7ZcoQKCCRKUZvwg75jLJ",
         "type": "Entry",
         "createdAt": "2025-10-16T12:16:45.318Z",
@@ -5155,62 +5211,6 @@
         "eventVenue": "AB3 409",
         "shortDescription": "Hands on session for Mastering in Digital marketing techniques by building ideas to product.",
         "longDescription": "Hands on session for Mastering in Digital marketing techniques by building ideas to product.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "FhBKBmMhz3MVRRYwP4Obq",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:07:19.716Z",
-        "updatedAt": "2025-10-18T14:07:19.716Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Code Citadel",
-        "clubName": "MICROSOFT INNOVATION CLUB",
-        "eventType": "Workshop",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-27T08:00:00.000Z",
-        "endDateAndTime": "2025-10-27T15:00:00.000Z",
-        "pricePerPerson": 50,
-        "participationType": "Solo",
-        "eventVenue": "VOC Auditorium",
-        "shortDescription": "In this hands-on workshop, you'll become a web architect. 💻 Master the core blocks—**HTML, CSS, & JavaScript**—before advancing to responsive design and frontend frameworks. You'll learn modern best practices by building real-world projects.",
-        "longDescription": "The digital empire of tomorrow rests in the hands of its builders. This workshop empowers you to become an architect of the web, starting from the core building blocks — HTML, CSS, and JavaScript — to advanced frameworks and responsive design. You’ll work on real-world projects, learn modern best practices, and craft websites that are not just functional but breathtaking. Create experiences that leave a mark.\n Highlights: HTML, CSS, JavaScript, Responsive Design, Frontend Frameworks, Hands-on Project Building.",
         "specialEvent": false
       }
     },
