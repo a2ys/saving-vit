@@ -19,6 +19,1406 @@
             "id": "rr94wjxz7mfi"
           }
         },
+        "id": "2fvuoQ7DLegqkeL2CMaD47",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:11:12.542Z",
+        "updatedAt": "2025-10-22T19:19:01.140Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 6,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "IdeaXchange (Trio)",
+        "clubName": "FRENCH CLUB collab with CLOUDOPS",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "6BKTVmxaCKhzK5YZQDd0Yz"
+          }
+        },
+        "startDateAndTime": "2025-11-02T08:00+00:00",
+        "endDateAndTime": "2025-11-02T14:00+00:00",
+        "pricePerPerson": 259,
+        "participationType": "Trio",
+        "eventVenue": "Nethaji Auditorium",
+        "shortDescription": "Join the Cloud Ops Club's Idea Challenge! Analyze global solutions to societal issues, adapt them for India, and build tech prototypes like data visualizations or AI. Collaborate and innovate for change.",
+        "longDescription": "Join us for a dynamic Idea Challenge, in collaboration with the Cloud Ops Club, where participants explore how countries like France and India have tackled societal and developmental issues. Using a case study approach, you’ll analyze successful international models and creatively reimagine them to fit India’s unique cultural, economic, and policy landscape—without comparison or judgment.\n \n This challenge also includes a technical dimension, encouraging you to transform ideas into practical, tech-enabled solutions such as data analysis, interactive visualizations, digital prototypes, or AI-driven simulations. Collaborate, innovate, and build impactful solutions through cross-cultural learning and constructive problem-solving.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "2lHb72zDNYnAXFsQfLioYT",
+        "type": "Entry",
+        "createdAt": "2025-10-16T11:01:04.509Z",
+        "updatedAt": "2025-10-22T19:18:59.950Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 6,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Aerial Surveying using Drones",
+        "clubName": "CIVITEK",
+        "eventType": "Workshop",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "1OPtzCgeD7rmxmoRa5qfqW"
+          }
+        },
+        "startDateAndTime": "2025-10-29T09:00:00.000Z",
+        "endDateAndTime": "2025-10-29T16:30:00.000Z",
+        "pricePerPerson": 200,
+        "participationType": "Solo",
+        "eventVenue": "AB2 Soil Mechanics Lab",
+        "shortDescription": "Participants will be trained about aerial surveying using surveying drone including field surveys and post processing works in topographic map preparation",
+        "longDescription": "Participants will be trained about aerial surveying using surveying drone including field surveys and post processing works in topographic map preparation",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "RliXL9hD0hsr6zHRERqni",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:11:11.333Z",
+        "updatedAt": "2025-10-22T19:18:45.415Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 5,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "IdeaXchange (Duo)",
+        "clubName": "FRENCH CLUB collab with CLOUDOPS",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "6BKTVmxaCKhzK5YZQDd0Yz"
+          }
+        },
+        "startDateAndTime": "2025-11-02T08:00+00:00",
+        "endDateAndTime": "2025-11-02T14:00+00:00",
+        "pricePerPerson": 199,
+        "participationType": "Duo",
+        "eventVenue": "Nethaji Auditorium",
+        "shortDescription": "Join the Cloud Ops Club's Idea Challenge! Analyze global solutions to societal issues, adapt them for India, and build tech prototypes like data visualizations or AI. Collaborate and innovate for change.",
+        "longDescription": "Join us for a dynamic Idea Challenge, in collaboration with the Cloud Ops Club, where participants explore how countries like France and India have tackled societal and developmental issues. Using a case study approach, you’ll analyze successful international models and creatively reimagine them to fit India’s unique cultural, economic, and policy landscape—without comparison or judgment.\n \n This challenge also includes a technical dimension, encouraging you to transform ideas into practical, tech-enabled solutions such as data analysis, interactive visualizations, digital prototypes, or AI-driven simulations. Collaborate, innovate, and build impactful solutions through cross-cultural learning and constructive problem-solving.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "37ezSyHjYEAvAqUqPKB7Pa",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:12:11.806Z",
+        "updatedAt": "2025-10-22T19:18:04.950Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 6,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "International Online Workshop & 24 hours Netsim Hackathon",
+        "clubName": "IEEE PHOTONICS SOCIETY",
+        "eventType": "Hackathon",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "4pfNGubY7VXiosh3PZFyxH"
+          }
+        },
+        "startDateAndTime": "2025-10-30T11:30+00:00",
+        "endDateAndTime": "2025-10-31T11:30:00.000Z",
+        "pricePerPerson": 200,
+        "participationType": "Duo/Trio",
+        "eventVenue": "Online ",
+        "shortDescription": "This event is a International Online team event supported by Tetcos, Bangalore and IEEE photonics society.   Team Size is restricted to a minimum of 2 members to maximum of 3 members.  This event is primarily targeted for UG students who has essential knowledge or interests in Computer Networks. NetSim by Tetcos is a powerful network simulation software used to design, analyze, and visualize communication networks An online workshop familiarizes participants with hands-on network modeling and performance analysis using NetSim. The 24-hour online hackathon engages students in real-time problem-solving and innovation through multi-round simulation and debugging challenges.",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "1qDvKC9Fo90R2dYh7hS3Tk",
+        "type": "Entry",
+        "createdAt": "2025-10-21T15:01:05.801Z",
+        "updatedAt": "2025-10-22T19:17:40.730Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 14,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Sketch-A-Thon",
+        "clubName": "FINE ARTS CLUB (TFAC)",
+        "eventType": "Hackathon",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "1iBTvIc36yc0pdyyGs9Ioa"
+          }
+        },
+        "startDateAndTime": "2025-10-31T10:00+00:00",
+        "endDateAndTime": "2025-10-31T16:00+00:00",
+        "pricePerPerson": 150,
+        "participationType": "Solo",
+        "eventVenue": "AB1 Portico",
+        "shortDescription": "Join the \"Canvas for Tomorrow\" Sketch-A-Thon! 🎨 Project your ideas on a UN Sustainable Development Goal (SDG) through paintings and sketches. You must also propose a technical solution to achieve your chosen goal.",
+        "longDescription": "Join the \"Canvas for Tomorrow\" Sketch-A-Thon! 🎨 Project your ideas on a UN Sustainable Development Goal (SDG) through paintings and sketches. You must also propose a technical solution to achieve your chosen goal.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "1FdpR3Nx8x4xgtd9K5R8JU",
+        "type": "Entry",
+        "createdAt": "2025-10-16T11:49:09.401Z",
+        "updatedAt": "2025-10-22T19:16:49.586Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "IoT Project Display",
+        "clubName": "PRODINNO",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "2kmph90t1Mw8f9Bqcfnb9E"
+          }
+        },
+        "startDateAndTime": "2025-10-31T10:00:00.000Z",
+        "endDateAndTime": "2025-10-31T15:30:00.000Z",
+        "pricePerPerson": 99,
+        "participationType": "Solo",
+        "eventVenue": "AB3 101 Gallery Class Room",
+        "shortDescription": "National Level - Project Display on Internet of Things with Apps",
+        "longDescription": "National Level - Project Display on Internet of Things with Apps",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "7I5YXNi6O7aSrQQMZXdrRF",
+        "type": "Entry",
+        "createdAt": "2025-10-16T11:33:46.723Z",
+        "updatedAt": "2025-10-22T19:16:47.136Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 4,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "ROS2 Bootcamp",
+        "clubName": "IEEE ROBOTICS & AUTOMATION SOCIETY (IEEE-RAS) X Humanoid X",
+        "eventType": "Workshop",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "1PiTar8NvkS4rO86OdkgHL"
+          }
+        },
+        "startDateAndTime": "2025-10-30T09:00:00.000Z",
+        "endDateAndTime": "2025-10-30T17:00:00.000Z",
+        "pricePerPerson": 99,
+        "participationType": "Solo",
+        "eventVenue": "Nethaji Auditorium",
+        "shortDescription": "2 day Workshop starting from installation of ROS to basics of SLAM",
+        "longDescription": "2 day Workshop starting from installation of ROS to basics of SLAM",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "7MmV54K0fCWJxSq8eU7mCF",
+        "type": "Entry",
+        "createdAt": "2025-10-16T11:25:14.934Z",
+        "updatedAt": "2025-10-22T19:15:33.888Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Game Jam",
+        "clubName": "OPEN SOURCE PROGRAMMING CLUB X GDG",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "2E77GfWmH6ZUDA2auOu9HA"
+          }
+        },
+        "startDateAndTime": "2025-11-01T10:00:00.000Z",
+        "endDateAndTime": "2025-11-01T16:30:00.000Z",
+        "pricePerPerson": 50,
+        "participationType": "Solo",
+        "eventVenue": "AB3 - 301",
+        "shortDescription": "A one-day Game Jam where teams of 1–4 design and build playable games from scratch. Kickoff introduces theme and rules, followed by brainstorming, development, mentor guidance, and final demos. Awards are given for creativity, execution, and polish.",
+        "longDescription": "A one-day intensive Game Jam where participants design and build playable games from scratch.<br>Kickoff reveals the theme and rules, followed by brainstorming and planning sessions.<br>Teams develop core mechanics, polish visuals, and integrate sound within set blocks.<br>Mentors provide technical guidance; progress is checked mid-event.<br>Final demos are showcased, with feedback and awards for creativity and execution.<br><br>Team size: 1-4 members",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "4gL5cpDCK23mkgsm7OzKSI",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:14:45.860Z",
+        "updatedAt": "2025-10-22T19:15:21.729Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 6,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "The Realm of Minds",
+        "clubName": "MICROSOFT INNOVATION CLUB",
+        "eventType": "Workshop",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47X5a4peLLJ9uqJgqbYCKB"
+          }
+        },
+        "startDateAndTime": "2025-10-28T14:00:00.000Z",
+        "endDateAndTime": "2025-10-28T18:00:00.000Z",
+        "pricePerPerson": 50,
+        "participationType": "Solo",
+        "eventVenue": "VOC Auditorium",
+        "shortDescription": "Explore AI from fundamentals to deep learning in this hands-on workshop. Cover neural networks, NLP, and more through live coding and real-world projects. Learn to wield AI as a tool to build intelligent systems and solve modern challenges.",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "MT0YphIEdHtWXWMadmpZd",
+        "type": "Entry",
+        "createdAt": "2025-10-21T11:44:38.378Z",
+        "updatedAt": "2025-10-22T19:14:31.621Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 6,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Treasure Verse (Duo)",
+        "clubName": "Augmented & Virtual Reality (AVR) Club",
+        "eventType": "Entertainment",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "2CTDwli77JcpfUZ5ALpxat"
+          }
+        },
+        "startDateAndTime": "2025-10-31T09:00:00.000Z",
+        "endDateAndTime": "2025-10-31T17:00:00.000Z",
+        "pricePerPerson": 120,
+        "participationType": "Solo",
+        "eventVenue": "AB1 Amphitheatre",
+        "shortDescription": "The event involves a virtual treasure with the help of VR Headset kits where the participants will have to find the hidden treasure in the VR Model and will be timed. The winners will be chosen based on the quickest to figure out the hidden treasures/objects. The game will slightly resemble a variant of a virtual easter egg.",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "6pcXmfU9WCHRQh7o3d6p8P",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:25:00.321Z",
+        "updatedAt": "2025-10-22T19:14:16.716Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 5,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Treasure Verse (Solo)",
+        "clubName": "Augmented & Virtual Reality (AVR) Club",
+        "eventType": "Entertainment",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "2CTDwli77JcpfUZ5ALpxat"
+          }
+        },
+        "startDateAndTime": "2025-10-31T09:00:00.000Z",
+        "endDateAndTime": "2025-10-31T17:00:00.000Z",
+        "pricePerPerson": 75,
+        "participationType": "Solo",
+        "eventVenue": "AB1 Amphitheatre",
+        "shortDescription": "The event involves a virtual treasure with the help of VR Headset kits where the participants will have to find the hidden treasure in the VR Model and will be timed. The winners will be chosen based on the quickest to figure out the hidden treasures/objects. The game will slightly resemble a variant of a virtual easter egg.",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "1wmZB4nTD6wNdsrWA3VBhh",
+        "type": "Entry",
+        "createdAt": "2025-10-15T03:17:24.837Z",
+        "updatedAt": "2025-10-22T19:14:05.314Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 19,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "The Stranger Clues",
+        "clubName": "OPEN SOURCE PROGRAMMING CLUB",
+        "eventType": "Game",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "DGCrlidkDbUFEFm5pnbn6"
+          }
+        },
+        "startDateAndTime": "2025-10-29T13:00+00:00",
+        "endDateAndTime": "2025-10-29T00:00+00:00",
+        "pricePerPerson": 50,
+        "participationType": "Solo",
+        "eventVenue": " AB1 Mini Portico",
+        "shortDescription": "In this on-campus digital treasure hunt, teams of 1-4 will learn Open Source Intelligence (OSINT). Follow online and offline clues using cybersecurity skills to reach a finale where your choices determine how you find a missing person.",
+        "longDescription": "An engaging, on-campus digital treasure hunt designed to introduce participants to Open Source Intelligence (OSINT) techniques through a mix of real-world investigation and cybersecurity puzzles. Starting from a physical location within the college, participants follow clues that take them on various online and offline trails involving web research, digital footprints, and hidden leads. All paths lead to a thrilling three-way finale where participants’ choices determine how they find a missing person. This event provides students with a fun, interactive way to build foundational OSINT and cybersecurity skills while offering management a well-rounded, technically relevant learning experience.\n \n Team size: 1-4",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "wyF64aCoqRZPer0ZnKWPB",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:19:45.305Z",
+        "updatedAt": "2025-10-22T19:11:57.071Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 6,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Render Quest 2.0",
+        "clubName": "Augmented & Virtual Reality Club",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "5Nem9eVSsuOylBBcDbtDoh"
+          }
+        },
+        "startDateAndTime": "2025-11-01T13:30+00:00",
+        "endDateAndTime": "2025-11-01T17:30+00:00",
+        "pricePerPerson": 50,
+        "participationType": "Solo",
+        "eventVenue": "AB3-208",
+        "shortDescription": "People familiar and interested in blender are given a free hand for their creativities based on selective themes and will be judged by 3D modeling department of the club based on their skills, creativity and proficiency of Blender Software.",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "6umQynGhnQSG5x9W3c53d0",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:20:31.691Z",
+        "updatedAt": "2025-10-22T19:11:40.841Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 7,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Hack-Her(squad)",
+        "clubName": "WOMAN DEVELOPMENT CELL",
+        "eventType": "Hackathon",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "2uonryHwh2ISyi8FRJ3UtA"
+          }
+        },
+        "startDateAndTime": "2025-10-29T08:00:00.000Z",
+        "endDateAndTime": "2025-10-30T17:30:00.000Z",
+        "pricePerPerson": 400,
+        "participationType": "Squad",
+        "eventVenue": "Kasturba Hall",
+        "shortDescription": "Register as single person in the payment portal and then form teams. 24 hour all women hackathon based on sustainable development goals. The Women Development Cell (WDC) of VIT Chennai, in collaboration with HackClub, proudly presents a 24-Hour All-Women Hackathon as part of TechnoVIT.\n\nThis hackathon is more than just coding-it is about women paving the way for future tech. It proves that women are not only capable of excelling in hardcore tech, but also of leading the global conversation on sustainability. \nCentered around the United Nations Sustainable Development Goals (SDGs), the event challenges participants to innovate, design, and develop impactful solutions that address some of the world’s most pressing issues.\n\nOver 24 hours, brilliant women innovators will collaborate to create tech-driven solutions that advance sustainability while redefining what it means to be in technology. This is not just a hackathon-it’s a movement toward inclusivity, equality, and a sustainable future.",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "7EWXOu9hlQ9Jn1T4aQKKUN",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:19:48.840Z",
+        "updatedAt": "2025-10-22T19:11:12.769Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 6,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Hack-Her(trio)",
+        "clubName": "WOMAN DEVELOPMENT CELL",
+        "eventType": "Hackathon",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "2uonryHwh2ISyi8FRJ3UtA"
+          }
+        },
+        "startDateAndTime": "2025-10-29T08:00:00.000Z",
+        "endDateAndTime": "2025-10-30T17:30:00.000Z",
+        "pricePerPerson": 300,
+        "participationType": "Trio",
+        "eventVenue": "Kasturba Hall",
+        "shortDescription": "Register as single person in the payment portal and then form teams. 24 hour all women hackathon based on sustainable development goals. The Women Development Cell (WDC) of VIT Chennai, in collaboration with HackClub, proudly presents a 24-Hour All-Women Hackathon as part of TechnoVIT.\n\nThis hackathon is more than just coding-it is about women paving the way for future tech. It proves that women are not only capable of excelling in hardcore tech, but also of leading the global conversation on sustainability. \nCentered around the United Nations Sustainable Development Goals (SDGs), the event challenges participants to innovate, design, and develop impactful solutions that address some of the world’s most pressing issues.\n\nOver 24 hours, brilliant women innovators will collaborate to create tech-driven solutions that advance sustainability while redefining what it means to be in technology. This is not just a hackathon-it’s a movement toward inclusivity, equality, and a sustainable future.",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "5jTo3ukG6ULA5CQvciAaln",
+        "type": "Entry",
+        "createdAt": "2025-10-15T11:55:04.243Z",
+        "updatedAt": "2025-10-22T19:10:35.595Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 23,
+        "revision": 5,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Brainware",
+        "clubName": "ARTIFICIAL INTELLIGENCE CLUB",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "7b3CVsR1AwtJnaVm7owhh5"
+          }
+        },
+        "startDateAndTime": "2025-10-31T09:00+00:00",
+        "endDateAndTime": "2025-10-31T14:00+00:00",
+        "pricePerPerson": 100,
+        "participationType": "Solo/Duo",
+        "eventVenue": "AB3 201",
+        "shortDescription": "Quiz-based competition testing tech knowledge, problem-solving, and emerging technology awareness. Teams answer progressively challenging questions, fostering collaboration, quick thinking, and competitive spirit.",
+        "longDescription": "Brainware is an exciting quiz-based competition that brings a technological twist to the classic Kaun Banega Crorepati format. Participants will tackle rounds of progressively challenging questions spanning computer science, emerging technologies, logical problem-solving, and general tech knowledge. The event is designed to test technical expertise, quick thinking, and strategic decision-making in an engaging and competitive setup. Scheduled to be held on any one day of TechnoVIT, with a maximum team size of 2 members, Brainware promotes collaboration and knowledge sharing, making it a fun, intellectually stimulating highlight of TechnoVIT.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "2FwBfFcIx1jCb87x9S5B3V",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:25:01.405Z",
+        "updatedAt": "2025-10-22T19:09:34.754Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 4,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Unlock the value of IoT in Smart Buildings",
+        "clubName": "THE INDIAN SOCIETY OF HEATING, REFRIGERATING AND AIR CONDITIONING ENGINEERS (ISHRAE)",
+        "eventType": "Workshop",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "2U54bDyCUMeEZF85nuvCBj"
+          }
+        },
+        "startDateAndTime": "2025-10-29T11:40:00.000Z",
+        "endDateAndTime": "2025-10-29T13:20:00.000Z",
+        "pricePerPerson": 0,
+        "participationType": "Solo",
+        "eventVenue": "AB1-701",
+        "shortDescription": "Technical talk by an industrial expert- Mr.Hariprasath",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "5yi5DZ4Ag9jCbKPrGbgpv3",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:12:59.044Z",
+        "updatedAt": "2025-10-22T19:07:49.082Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 6,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Robo Soccer",
+        "clubName": "IEEE ROBOTICS & AUTOMATION SOCIETY (IEEE-RAS)",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "4R8W73luVXXbDYdtAUHntc"
+          }
+        },
+        "startDateAndTime": "2025-10-29T09:00:00.000Z",
+        "endDateAndTime": "2025-10-29T17:00:00.000Z",
+        "pricePerPerson": 150,
+        "participationType": "Duo",
+        "eventVenue": "AB3 Portico",
+        "shortDescription": "In Robo Soccer, a competition by the IEEE RAS Student Chapter at TechnoVIT, students design and program autonomous robots to play soccer. ⚽ This hands-on challenge is a platform to showcase skills in robotics, AI, and strategic teamwork.",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "26xPjgy5jNS9dKZm2xl7bf",
+        "type": "Entry",
+        "createdAt": "2025-10-16T14:13:11.781Z",
+        "updatedAt": "2025-10-22T19:06:53.154Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Chessathlon",
+        "clubName": "MATHEMATICS CLUB",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "1PdYgOuxpO9FCd08XZoJ3L"
+          }
+        },
+        "startDateAndTime": "2025-11-02T09:00:00.000Z",
+        "endDateAndTime": "2025-10-29T13:30:00.000Z",
+        "pricePerPerson": 100,
+        "participationType": "Solo",
+        "eventVenue": "AB3 512",
+        "shortDescription": "A GenAI workshop featuring an interactive session by industry experts from ManageEngine (Zoho) on GenAI in security domains, followed by a hands-on session by students exploring general applications, industry use cases, and MCP server creation.",
+        "longDescription": "A genAI workshop starting with a interactive session by Industry people form ManageEngine (Zoho) on usage of genAI on securiy domains followed by a hands-on workshop from students on genAI of general use and for industry related usecases, MCP server creation, usecases.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "5O5OaCBSuZAZyjZs3NTBWf",
+        "type": "Entry",
+        "createdAt": "2025-10-21T12:24:17.887Z",
+        "updatedAt": "2025-10-22T19:06:07.033Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 17,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Sustainable Robots",
+        "clubName": "BIS",
+        "eventType": "Hackathon",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "CfKWG3VNrzoaHMswSHw99"
+          }
+        },
+        "startDateAndTime": "2025-10-28T08:00+00:00",
+        "endDateAndTime": "2025-10-28T20:00+00:00",
+        "pricePerPerson": 0,
+        "participationType": "Squad",
+        "eventVenue": "AB3-701",
+        "shortDescription": "24-hour hackathon where teams build AI-driven robotic solutions. Focus on innovative automation standards and prototype development, combining coding, design, and engineering to redefine robotics automation benchmarks.",
+        "longDescription": "Sustainable robots is a 24-hour innovative hackathon designed to bring together coders, designers, and medical innovators to build groundbreaking solutions for standards in Robotics automation, AI-driven automation and more! Participants will work in teams to develop standards for products and prototypes that could define/redefine standards and redefine AI automated robotic solutions",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "5irmaUkOc2LDQGlL0QESRx",
+        "type": "Entry",
+        "createdAt": "2025-10-16T11:25:12.619Z",
+        "updatedAt": "2025-10-22T19:05:52.654Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 4,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "DecodeX",
+        "clubName": "NEXUS  ",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "1wUJgabf59tJg9bPkGA9a3"
+          }
+        },
+        "startDateAndTime": "2025-10-31T10:00:00.000Z",
+        "endDateAndTime": "2025-10-31T14:00:00.000Z",
+        "pricePerPerson": 49,
+        "participationType": "Solo",
+        "eventVenue": "AB3 501",
+        "shortDescription": "Competitive coding tournament where participants solve progressively harder problems, testing logic, speed, and problem-solving. Teams climb the leaderboard through multiple rounds, with only the sharpest coders advancing and prevailing.",
+        "longDescription": "Decodex is an electrifying competitive coding tournament where sharp minds battle through rounds of challenging problems. Test your logic, speed, and problem-solving skills as you climb the leaderboard. With each stage tougher than the last, only the best coders will prevail. Code. Compete. Conquer.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "3HXFwcoR7Iasx3cTNCGAHG",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:24:53.602Z",
+        "updatedAt": "2025-10-22T19:04:38.436Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 6,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Laser Tag(squad)",
+        "clubName": "CLOUD COMPUTING CLUB",
+        "eventType": "Game",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "2DjoogiKkAUD2TqebItIsA"
+          }
+        },
+        "startDateAndTime": "2025-10-31T10:00:00.000Z",
+        "endDateAndTime": "2025-11-02T18:00+00:00",
+        "pricePerPerson": 250,
+        "participationType": "5+ Members",
+        "eventVenue": "AB4 -314",
+        "shortDescription": "LaserTag is a thrilling 5v5 arena game where you race to score the most points with laser guns against opponents. Surrounded by glowing UV lights, lasers, and vibrant artwork, the arena creates a fun, competitive vibe. Safe, beginner-friendly, and adrenaline-packed, it’s an experience you won’t forget. Step in, gear up, and let the battle begin!",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "6G7E6XMMQllE3ds5hrNQyR",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:24:52.716Z",
+        "updatedAt": "2025-10-22T19:04:20.308Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 7,
+        "revision": 4,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Laser Tag(duo)",
+        "clubName": "CLOUD COMPUTING CLUB",
+        "eventType": "Game",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "2DjoogiKkAUD2TqebItIsA"
+          }
+        },
+        "startDateAndTime": "2025-10-31T10:00:00.000Z",
+        "endDateAndTime": "2025-11-02T18:00+00:00",
+        "pricePerPerson": 550,
+        "participationType": "Duo",
+        "eventVenue": "AB4 -314",
+        "shortDescription": "LaserTag is a thrilling 5v5 arena game where you race to score the most points with laser guns against opponents. Surrounded by glowing UV lights, lasers, and vibrant artwork, the arena creates a fun, competitive vibe. Safe, beginner-friendly, and adrenaline-packed, it’s an experience you won’t forget. Step in, gear up, and let the battle begin!",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "7Av1c0a4wglMB1DPQWfaPw",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:24:51.577Z",
+        "updatedAt": "2025-10-22T19:04:03.484Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 5,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Laser Tag(solo)",
+        "clubName": "CLOUD COMPUTING CLUB",
+        "eventType": "Game",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "2DjoogiKkAUD2TqebItIsA"
+          }
+        },
+        "startDateAndTime": "2025-10-31T10:00:00.000Z",
+        "endDateAndTime": "2025-11-02T18:00+00:00",
+        "pricePerPerson": 300,
+        "participationType": "Solo",
+        "eventVenue": "AB4 -314",
+        "shortDescription": "LaserTag is a thrilling 5v5 arena game where you race to score the most points with laser guns against opponents. Surrounded by glowing UV lights, lasers, and vibrant artwork, the arena creates a fun, competitive vibe. Safe, beginner-friendly, and adrenaline-packed, it’s an experience you won’t forget. Step in, gear up, and let the battle begin!",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "55AkgdoFq2enx2DqHFarg5",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:07:15.382Z",
+        "updatedAt": "2025-10-22T19:03:21.713Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 5,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Capture The FlagDroid",
+        "clubName": "ANDROID CLUB",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "2ZYkXtCI7ppwnPpv9t7RCR"
+          }
+        },
+        "startDateAndTime": "2025-11-02T10:00+00:00",
+        "endDateAndTime": "2025-11-02T16:00+00:00",
+        "pricePerPerson": 100,
+        "participationType": "Trio/Squad",
+        "eventVenue": "AB1 502",
+        "shortDescription": "Capture the FlagDroid is a developer-style CTF. Solve development challenges to find hidden flags that double as parts of a .env file. Only teams that collect every flag can successfully deploy their application and win the competition.",
+        "longDescription": "Capture the FlagDroid is an innovative developer-style CTF where participants advance through a series of development challenges, each revealing a hidden flag that earns them points. The competition combines traditional Capture the Flag mechanics, hands-on development, and engaging bonus twists to create a challenging and educational experience. Each flag includes fun and interactive elements and also represents a part of the project’s .env file, so only teams that collect all the flags can successfully deploy their application.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
         "id": "6btjeCZmGKpoRMsUXx0X7q",
         "type": "Entry",
         "createdAt": "2025-10-16T12:28:10.543Z",
@@ -1979,62 +3379,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "4gL5cpDCK23mkgsm7OzKSI",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:14:45.860Z",
-        "updatedAt": "2025-10-22T13:06:55.997Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 4,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "The Realm of Minds",
-        "clubName": "MICROSOFT INNOVATION CLUB",
-        "eventType": "Workshop",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "116XdfkqFdiQuo0ofHFUm6"
-          }
-        },
-        "startDateAndTime": "2025-10-28T14:00:00.000Z",
-        "endDateAndTime": "2025-10-28T18:00:00.000Z",
-        "pricePerPerson": 50,
-        "participationType": "Solo",
-        "eventVenue": "VOC Auditorium",
-        "shortDescription": "Explore AI from fundamentals to deep learning in this hands-on workshop. Cover neural networks, NLP, and more through live coding and real-world projects. Learn to wield AI as a tool to build intelligent systems and solve modern challenges.",
-        "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "FhBKBmMhz3MVRRYwP4Obq",
         "type": "Entry",
         "createdAt": "2025-10-18T14:07:19.716Z",
@@ -2203,62 +3547,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "1qDvKC9Fo90R2dYh7hS3Tk",
-        "type": "Entry",
-        "createdAt": "2025-10-21T15:01:05.801Z",
-        "updatedAt": "2025-10-21T15:01:05.801Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 12,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Sketch-A-Thon",
-        "clubName": "FINE ARTS CLUB (TFAC)",
-        "eventType": "Hackathon",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T10:00+00:00",
-        "endDateAndTime": "2025-10-31T16:00+00:00",
-        "pricePerPerson": 150,
-        "participationType": "Solo",
-        "eventVenue": "AB1 Portico",
-        "shortDescription": "Join the \"Canvas for Tomorrow\" Sketch-A-Thon! 🎨 Project your ideas on a UN Sustainable Development Goal (SDG) through paintings and sketches. You must also propose a technical solution to achieve your chosen goal.",
-        "longDescription": "Join the \"Canvas for Tomorrow\" Sketch-A-Thon! 🎨 Project your ideas on a UN Sustainable Development Goal (SDG) through paintings and sketches. You must also propose a technical solution to achieve your chosen goal.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "1LuLOsUObUBGGaaZLk1JYl",
         "type": "Entry",
         "createdAt": "2025-10-18T14:29:45.388Z",
@@ -2410,174 +3698,6 @@
         "participationType": "Solo",
         "eventVenue": "Kasturba Hall",
         "shortDescription": "Join Hackatronics, a 24-hour hackathon with separate hardware and software tracks. Tackle diverse challenges in areas like IoT, healthcare, and ML. Ideate, design, and build solutions under pressure, and gain insights from an industry expert.",
-        "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "37ezSyHjYEAvAqUqPKB7Pa",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:12:11.806Z",
-        "updatedAt": "2025-10-21T13:33:21.561Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 4,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "International Online Workshop & 24 hours Netsim Hackathon",
-        "clubName": "IEEE PHOTONICS SOCIETY",
-        "eventType": "Hackathon",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-30T11:30+00:00",
-        "endDateAndTime": "2025-10-31T11:30:00.000Z",
-        "pricePerPerson": 200,
-        "participationType": "Duo/Trio",
-        "eventVenue": "Online ",
-        "shortDescription": "This event is a International Online team event supported by Tetcos, Bangalore and IEEE photonics society.   Team Size is restricted to a minimum of 2 members to maximum of 3 members.  This event is primarily targeted for UG students who has essential knowledge or interests in Computer Networks. NetSim by Tetcos is a powerful network simulation software used to design, analyze, and visualize communication networks An online workshop familiarizes participants with hands-on network modeling and performance analysis using NetSim. The 24-hour online hackathon engages students in real-time problem-solving and innovation through multi-round simulation and debugging challenges.",
-        "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "7EWXOu9hlQ9Jn1T4aQKKUN",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:19:48.840Z",
-        "updatedAt": "2025-10-21T13:29:35.499Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 4,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Hack-Her(trio)",
-        "clubName": "WOMAN DEVELOPMENT CELL",
-        "eventType": "Hackathon",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-29T08:00:00.000Z",
-        "endDateAndTime": "2025-10-30T17:30:00.000Z",
-        "pricePerPerson": 300,
-        "participationType": "Trio",
-        "eventVenue": "Kasturba Hall",
-        "shortDescription": "Register as single person in the payment portal and then form teams. 24 hour all women hackathon based on sustainable development goals. The Women Development Cell (WDC) of VIT Chennai, in collaboration with HackClub, proudly presents a 24-Hour All-Women Hackathon as part of TechnoVIT.\n\nThis hackathon is more than just coding-it is about women paving the way for future tech. It proves that women are not only capable of excelling in hardcore tech, but also of leading the global conversation on sustainability. \nCentered around the United Nations Sustainable Development Goals (SDGs), the event challenges participants to innovate, design, and develop impactful solutions that address some of the world’s most pressing issues.\n\nOver 24 hours, brilliant women innovators will collaborate to create tech-driven solutions that advance sustainability while redefining what it means to be in technology. This is not just a hackathon-it’s a movement toward inclusivity, equality, and a sustainable future.",
-        "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "6umQynGhnQSG5x9W3c53d0",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:20:31.691Z",
-        "updatedAt": "2025-10-21T13:29:26.919Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 4,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Hack-Her(squad)",
-        "clubName": "WOMAN DEVELOPMENT CELL",
-        "eventType": "Hackathon",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-29T08:00:00.000Z",
-        "endDateAndTime": "2025-10-30T17:30:00.000Z",
-        "pricePerPerson": 400,
-        "participationType": "Squad",
-        "eventVenue": "Kasturba Hall",
-        "shortDescription": "Register as single person in the payment portal and then form teams. 24 hour all women hackathon based on sustainable development goals. The Women Development Cell (WDC) of VIT Chennai, in collaboration with HackClub, proudly presents a 24-Hour All-Women Hackathon as part of TechnoVIT.\n\nThis hackathon is more than just coding-it is about women paving the way for future tech. It proves that women are not only capable of excelling in hardcore tech, but also of leading the global conversation on sustainability. \nCentered around the United Nations Sustainable Development Goals (SDGs), the event challenges participants to innovate, design, and develop impactful solutions that address some of the world’s most pressing issues.\n\nOver 24 hours, brilliant women innovators will collaborate to create tech-driven solutions that advance sustainability while redefining what it means to be in technology. This is not just a hackathon-it’s a movement toward inclusivity, equality, and a sustainable future.",
         "longDescription": "",
         "specialEvent": false
       }
@@ -2763,62 +3883,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "5yi5DZ4Ag9jCbKPrGbgpv3",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:12:59.044Z",
-        "updatedAt": "2025-10-21T12:27:46.595Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 3,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Robo Soccer",
-        "clubName": "IEEE ROBOTICS & AUTOMATION SOCIETY (IEEE-RAS)",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-29T09:00:00.000Z",
-        "endDateAndTime": "2025-10-29T17:00:00.000Z",
-        "pricePerPerson": 150,
-        "participationType": "Duo",
-        "eventVenue": "AB3 Portico",
-        "shortDescription": "In Robo Soccer, a competition by the IEEE RAS Student Chapter at TechnoVIT, students design and program autonomous robots to play soccer. ⚽ This hands-on challenge is a platform to showcase skills in robotics, AI, and strategic teamwork.",
-        "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "4xqIFFh2yuBAwN05g89cuC",
         "type": "Entry",
         "createdAt": "2025-10-16T11:33:48.821Z",
@@ -2915,62 +3979,6 @@
         "eventVenue": "AB3 Terrace",
         "shortDescription": "We'll get hydrogen alpha telescope to enable students to watch the sun, sunspots, solar flares etc. Along with this we'll also teach people how to operate a telescope.",
         "longDescription": "We'll get hydrogen alpha telescope to enable students to watch the sun, sunspots, solar flares etc. Along with this we'll also teach people how to operate a telescope.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "5O5OaCBSuZAZyjZs3NTBWf",
-        "type": "Entry",
-        "createdAt": "2025-10-21T12:24:17.887Z",
-        "updatedAt": "2025-10-21T12:24:17.887Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 14,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Sustainable Robots",
-        "clubName": "BIS",
-        "eventType": "Hackathon",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-28T08:00+00:00",
-        "endDateAndTime": "2025-10-28T20:00+00:00",
-        "pricePerPerson": 0,
-        "participationType": "Squad",
-        "eventVenue": "AB3-701",
-        "shortDescription": "24-hour hackathon where teams build AI-driven robotic solutions. Focus on innovative automation standards and prototype development, combining coding, design, and engineering to redefine robotics automation benchmarks.",
-        "longDescription": "Sustainable robots is a 24-hour innovative hackathon designed to bring together coders, designers, and medical innovators to build groundbreaking solutions for standards in Robotics automation, AI-driven automation and more! Participants will work in teams to develop standards for products and prototypes that could define/redefine standards and redefine AI automated robotic solutions",
         "specialEvent": false
       }
     },
@@ -3491,174 +4499,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "6G7E6XMMQllE3ds5hrNQyR",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:24:52.716Z",
-        "updatedAt": "2025-10-21T11:54:44.864Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 5,
-        "revision": 3,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Laser Tag(duo)",
-        "clubName": "CLOUD COMPUTING CLUB",
-        "eventType": "Game",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T10:00:00.000Z",
-        "endDateAndTime": "2025-11-02T18:00+00:00",
-        "pricePerPerson": 550,
-        "participationType": "Duo",
-        "eventVenue": "AB4 -314",
-        "shortDescription": "LaserTag is a thrilling 5v5 arena game where you race to score the most points with laser guns against opponents. Surrounded by glowing UV lights, lasers, and vibrant artwork, the arena creates a fun, competitive vibe. Safe, beginner-friendly, and adrenaline-packed, it’s an experience you won’t forget. Step in, gear up, and let the battle begin!",
-        "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "6pcXmfU9WCHRQh7o3d6p8P",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:25:00.321Z",
-        "updatedAt": "2025-10-21T11:44:55.277Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 3,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Treasure Verse (Solo)",
-        "clubName": "Augmented & Virtual Reality (AVR) Club",
-        "eventType": "Entertainment",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T09:00:00.000Z",
-        "endDateAndTime": "2025-10-31T17:00:00.000Z",
-        "pricePerPerson": 75,
-        "participationType": "Solo",
-        "eventVenue": "AB1 Amphitheatre",
-        "shortDescription": "The event involves a virtual treasure with the help of VR Headset kits where the participants will have to find the hidden treasure in the VR Model and will be timed. The winners will be chosen based on the quickest to figure out the hidden treasures/objects. The game will slightly resemble a variant of a virtual easter egg.",
-        "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "MT0YphIEdHtWXWMadmpZd",
-        "type": "Entry",
-        "createdAt": "2025-10-21T11:44:38.378Z",
-        "updatedAt": "2025-10-21T11:44:38.378Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 4,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Treasure Verse (Duo)",
-        "clubName": "Augmented & Virtual Reality (AVR) Club",
-        "eventType": "Entertainment",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T09:00:00.000Z",
-        "endDateAndTime": "2025-10-31T17:00:00.000Z",
-        "pricePerPerson": 120,
-        "participationType": "Solo",
-        "eventVenue": "AB1 Amphitheatre",
-        "shortDescription": "The event involves a virtual treasure with the help of VR Headset kits where the participants will have to find the hidden treasure in the VR Model and will be timed. The winners will be chosen based on the quickest to figure out the hidden treasures/objects. The game will slightly resemble a variant of a virtual easter egg.",
-        "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "2WL91OUjopT3MHVNgCDpAb",
         "type": "Entry",
         "createdAt": "2025-10-16T11:25:11.467Z",
@@ -3827,62 +4667,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "5jTo3ukG6ULA5CQvciAaln",
-        "type": "Entry",
-        "createdAt": "2025-10-15T11:55:04.243Z",
-        "updatedAt": "2025-10-21T11:17:19.832Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 21,
-        "revision": 4,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Brainware",
-        "clubName": "ARTIFICIAL INTELLIGENCE CLUB",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "5WM0Gam15m4DSf8VUuLJqD"
-          }
-        },
-        "startDateAndTime": "2025-10-31T09:00+00:00",
-        "endDateAndTime": "2025-10-31T14:00+00:00",
-        "pricePerPerson": 100,
-        "participationType": "Solo/Duo",
-        "eventVenue": "AB3 201",
-        "shortDescription": "Quiz-based competition testing tech knowledge, problem-solving, and emerging technology awareness. Teams answer progressively challenging questions, fostering collaboration, quick thinking, and competitive spirit.",
-        "longDescription": "Brainware is an exciting quiz-based competition that brings a technological twist to the classic Kaun Banega Crorepati format. Participants will tackle rounds of progressively challenging questions spanning computer science, emerging technologies, logical problem-solving, and general tech knowledge. The event is designed to test technical expertise, quick thinking, and strategic decision-making in an engaging and competitive setup. Scheduled to be held on any one day of TechnoVIT, with a maximum team size of 2 members, Brainware promotes collaboration and knowledge sharing, making it a fun, intellectually stimulating highlight of TechnoVIT.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "2OLKhBX7VGal2Z9maaQf0V",
         "type": "Entry",
         "createdAt": "2025-10-16T14:13:14.609Z",
@@ -3979,62 +4763,6 @@
         "eventVenue": "AB3 602",
         "shortDescription": "Interactive event designed to teach participants the practical skills of designing and fabricating electronic circuits on PCB platforms.",
         "longDescription": "Interactive event designed to teach participants the practical skills of designing and fabricating electronic circuits on PCB platforms.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "1wmZB4nTD6wNdsrWA3VBhh",
-        "type": "Entry",
-        "createdAt": "2025-10-15T03:17:24.837Z",
-        "updatedAt": "2025-10-21T11:05:31.016Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 16,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "The Stranger Clues",
-        "clubName": "OPEN SOURCE PROGRAMMING CLUB",
-        "eventType": "Game",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "7v2AZm2eZOhEHXan7lQktJ"
-          }
-        },
-        "startDateAndTime": "2025-10-29T13:00+00:00",
-        "endDateAndTime": "2025-10-29T00:00+00:00",
-        "pricePerPerson": 50,
-        "participationType": "Solo",
-        "eventVenue": " AB1 Mini Portico",
-        "shortDescription": "In this on-campus digital treasure hunt, teams of 1-4 will learn Open Source Intelligence (OSINT). Follow online and offline clues using cybersecurity skills to reach a finale where your choices determine how you find a missing person.",
-        "longDescription": "An engaging, on-campus digital treasure hunt designed to introduce participants to Open Source Intelligence (OSINT) techniques through a mix of real-world investigation and cybersecurity puzzles. Starting from a physical location within the college, participants follow clues that take them on various online and offline trails involving web research, digital footprints, and hidden leads. All paths lead to a thrilling three-way finale where participants’ choices determine how they find a missing person. This event provides students with a fun, interactive way to build foundational OSINT and cybersecurity skills while offering management a well-rounded, technically relevant learning experience.\n \n Team size: 1-4",
         "specialEvent": false
       }
     },
@@ -4259,62 +4987,6 @@
         "eventVenue": "AB3 Portico",
         "shortDescription": "Its a robosoccer event (2v2) . Two bots designed by the club engineers per team equipped with shooting mechanisms are provided to be controlled by the participants.",
         "longDescription": "Its a robosoccer event (2v2) . Two bots designed by the club engineers per team equipped with shooting mechanisms are provided to be controlled by the participants.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "2lHb72zDNYnAXFsQfLioYT",
-        "type": "Entry",
-        "createdAt": "2025-10-16T11:01:04.509Z",
-        "updatedAt": "2025-10-21T10:16:03.541Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 3,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Aerial Surveying using Drones",
-        "clubName": "CIVITEK",
-        "eventType": "Workshop",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-29T09:00:00.000Z",
-        "endDateAndTime": "2025-10-29T16:30:00.000Z",
-        "pricePerPerson": 200,
-        "participationType": "Solo",
-        "eventVenue": "AB2 Soil Mechanics Lab",
-        "shortDescription": "Participants will be trained about aerial surveying using surveying drone including field surveys and post processing works in topographic map preparation",
-        "longDescription": "Participants will be trained about aerial surveying using surveying drone including field surveys and post processing works in topographic map preparation",
         "specialEvent": false
       }
     },
@@ -4611,62 +5283,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "7Av1c0a4wglMB1DPQWfaPw",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:24:51.577Z",
-        "updatedAt": "2025-10-21T05:31:57.083Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 3,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Laser Tag(solo)",
-        "clubName": "CLOUD COMPUTING CLUB",
-        "eventType": "Game",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T10:00:00.000Z",
-        "endDateAndTime": "2025-11-02T18:00+00:00",
-        "pricePerPerson": 300,
-        "participationType": "Solo",
-        "eventVenue": "AB4 -314",
-        "shortDescription": "LaserTag is a thrilling 5v5 arena game where you race to score the most points with laser guns against opponents. Surrounded by glowing UV lights, lasers, and vibrant artwork, the arena creates a fun, competitive vibe. Safe, beginner-friendly, and adrenaline-packed, it’s an experience you won’t forget. Step in, gear up, and let the battle begin!",
-        "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "4zVVEMtX9QqnAjQRn3SyTF",
         "type": "Entry",
         "createdAt": "2025-10-18T14:07:21.884Z",
@@ -4707,118 +5323,6 @@
         "eventVenue": "AB3 512",
         "shortDescription": "\"Talk the Talk\" blends tech knowledge with fun communication games. 🎤 Compete in Tech Taboo, Pitch an Object, quick-fire debates, and meme presentations. It's the perfect platform for techies and speakers to test their wit.",
         "longDescription": "Step into a world where technology meets creativity, and ideas come alive through games and laughter! Talk the Talk is a one-of-a-kind event that blends technical wit with spontaneous communication challenges.\n\nGet ready for:\nTech Taboo – explain technical jargon without the obvious buzzwords.\nPitch an Object – sell a pen, a bottle, or even a slipper as if it’s the next big tech invention.\n404 Error – guess the hidden technical term before your time runs out.\nReverse Engineering – decode quirky product descriptions to reveal the invention.\nTech Debate Showdown – battle it out on fun, geeky topics in quick-fire debates.\nMeme the Machine – turn memes into epic mini-presentations.\nWhether you’re a techie, a speaker, or just someone who loves a good laugh, this event has something for you. Come join us, test your wit, and most importantly—Talk the Talk",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "3HXFwcoR7Iasx3cTNCGAHG",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:24:53.602Z",
-        "updatedAt": "2025-10-21T05:30:01.028Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 3,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Laser Tag(squad)",
-        "clubName": "CLOUD COMPUTING CLUB",
-        "eventType": "Game",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T10:00:00.000Z",
-        "endDateAndTime": "2025-11-02T18:00+00:00",
-        "pricePerPerson": 250,
-        "participationType": "5+ Members",
-        "eventVenue": "AB4 -314",
-        "shortDescription": "LaserTag is a thrilling 5v5 arena game where you race to score the most points with laser guns against opponents. Surrounded by glowing UV lights, lasers, and vibrant artwork, the arena creates a fun, competitive vibe. Safe, beginner-friendly, and adrenaline-packed, it’s an experience you won’t forget. Step in, gear up, and let the battle begin!",
-        "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "55AkgdoFq2enx2DqHFarg5",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:07:15.382Z",
-        "updatedAt": "2025-10-21T05:26:20.222Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 3,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Capture The FlagDroid",
-        "clubName": "ANDROID CLUB",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-11-02T10:00+00:00",
-        "endDateAndTime": "2025-11-02T16:00+00:00",
-        "pricePerPerson": 100,
-        "participationType": "Trio/Squad",
-        "eventVenue": "AB1 502",
-        "shortDescription": "Capture the FlagDroid is a developer-style CTF. Solve development challenges to find hidden flags that double as parts of a .env file. Only teams that collect every flag can successfully deploy their application and win the competition.",
-        "longDescription": "Capture the FlagDroid is an innovative developer-style CTF where participants advance through a series of development challenges, each revealing a hidden flag that earns them points. The competition combines traditional Capture the Flag mechanics, hands-on development, and engaging bonus twists to create a challenging and educational experience. Each flag includes fun and interactive elements and also represents a part of the project’s .env file, so only teams that collect all the flags can successfully deploy their application.",
         "specialEvent": false
       }
     },
@@ -4947,62 +5451,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "RliXL9hD0hsr6zHRERqni",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:11:11.333Z",
-        "updatedAt": "2025-10-21T05:23:54.701Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 3,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "IdeaXchange (Duo)",
-        "clubName": "FRENCH CLUB collab with CLOUDOPS",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-11-02T08:00+00:00",
-        "endDateAndTime": "2025-11-02T14:00+00:00",
-        "pricePerPerson": 199,
-        "participationType": "Duo",
-        "eventVenue": "Nethaji Auditorium",
-        "shortDescription": "Join the Cloud Ops Club's Idea Challenge! Analyze global solutions to societal issues, adapt them for India, and build tech prototypes like data visualizations or AI. Collaborate and innovate for change.",
-        "longDescription": "Join us for a dynamic Idea Challenge, in collaboration with the Cloud Ops Club, where participants explore how countries like France and India have tackled societal and developmental issues. Using a case study approach, you’ll analyze successful international models and creatively reimagine them to fit India’s unique cultural, economic, and policy landscape—without comparison or judgment.\n \n This challenge also includes a technical dimension, encouraging you to transform ideas into practical, tech-enabled solutions such as data analysis, interactive visualizations, digital prototypes, or AI-driven simulations. Collaborate, innovate, and build impactful solutions through cross-cultural learning and constructive problem-solving.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "3xOsMRfujFgC8GlfL79jd1",
         "type": "Entry",
         "createdAt": "2025-10-18T14:11:13.749Z",
@@ -5043,118 +5491,6 @@
         "eventVenue": "Nethaji Auditorium",
         "shortDescription": "Join the Cloud Ops Club's Idea Challenge! Analyze global solutions to societal issues, adapt them for India, and build tech prototypes like data visualizations or AI. Collaborate and innovate for change.",
         "longDescription": "Join us for a dynamic Idea Challenge, in collaboration with the Cloud Ops Club, where participants explore how countries like France and India have tackled societal and developmental issues. Using a case study approach, you’ll analyze successful international models and creatively reimagine them to fit India’s unique cultural, economic, and policy landscape—without comparison or judgment.\n \n This challenge also includes a technical dimension, encouraging you to transform ideas into practical, tech-enabled solutions such as data analysis, interactive visualizations, digital prototypes, or AI-driven simulations. Collaborate, innovate, and build impactful solutions through cross-cultural learning and constructive problem-solving.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "2fvuoQ7DLegqkeL2CMaD47",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:11:12.542Z",
-        "updatedAt": "2025-10-21T05:23:27.035Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 3,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "IdeaXchange (Trio)",
-        "clubName": "FRENCH CLUB collab with CLOUDOPS",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-11-02T08:00+00:00",
-        "endDateAndTime": "2025-11-02T14:00+00:00",
-        "pricePerPerson": 259,
-        "participationType": "Trio",
-        "eventVenue": "Nethaji Auditorium",
-        "shortDescription": "Join the Cloud Ops Club's Idea Challenge! Analyze global solutions to societal issues, adapt them for India, and build tech prototypes like data visualizations or AI. Collaborate and innovate for change.",
-        "longDescription": "Join us for a dynamic Idea Challenge, in collaboration with the Cloud Ops Club, where participants explore how countries like France and India have tackled societal and developmental issues. Using a case study approach, you’ll analyze successful international models and creatively reimagine them to fit India’s unique cultural, economic, and policy landscape—without comparison or judgment.\n \n This challenge also includes a technical dimension, encouraging you to transform ideas into practical, tech-enabled solutions such as data analysis, interactive visualizations, digital prototypes, or AI-driven simulations. Collaborate, innovate, and build impactful solutions through cross-cultural learning and constructive problem-solving.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "wyF64aCoqRZPer0ZnKWPB",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:19:45.305Z",
-        "updatedAt": "2025-10-21T05:14:51.954Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 4,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Render Quest 2.0",
-        "clubName": "Augmented & Virtual Reality Club",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-11-01T13:30+00:00",
-        "endDateAndTime": "2025-11-01T17:30+00:00",
-        "pricePerPerson": 50,
-        "participationType": "Solo",
-        "eventVenue": "AB3-208",
-        "shortDescription": "People familiar and interested in blender are given a free hand for their creativities based on selective themes and will be judged by 3D modeling department of the club based on their skills, creativity and proficiency of Blender Software.",
-        "longDescription": "",
         "specialEvent": false
       }
     },
@@ -5434,62 +5770,6 @@
         "participationType": "Solo",
         "eventVenue": "AB3 501 and AB3 Amphitheatre ",
         "shortDescription": "In association with Bureau of Indian Standards (BIS), 24Hr IOT Based Hackathon.",
-        "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "2FwBfFcIx1jCb87x9S5B3V",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:25:01.405Z",
-        "updatedAt": "2025-10-18T14:25:01.405Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Unlock the value of IoT in Smart Buildings",
-        "clubName": "THE INDIAN SOCIETY OF HEATING, REFRIGERATING AND AIR CONDITIONING ENGINEERS (ISHRAE)",
-        "eventType": "Workshop",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-29T11:40:00.000Z",
-        "endDateAndTime": "2025-10-29T13:20:00.000Z",
-        "pricePerPerson": 0,
-        "participationType": "Solo",
-        "eventVenue": "AB1-701",
-        "shortDescription": "Technical talk by an industrial expert- Mr.Hariprasath",
         "longDescription": "",
         "specialEvent": false
       }
@@ -7803,62 +8083,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "26xPjgy5jNS9dKZm2xl7bf",
-        "type": "Entry",
-        "createdAt": "2025-10-16T14:13:11.781Z",
-        "updatedAt": "2025-10-16T14:13:11.781Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Chessathlon",
-        "clubName": "MATHEMATICS CLUB",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-11-02T09:00:00.000Z",
-        "endDateAndTime": "2025-10-29T13:30:00.000Z",
-        "pricePerPerson": 100,
-        "participationType": "Solo",
-        "eventVenue": "AB3 512",
-        "shortDescription": "A GenAI workshop featuring an interactive session by industry experts from ManageEngine (Zoho) on GenAI in security domains, followed by a hands-on session by students exploring general applications, industry use cases, and MCP server creation.",
-        "longDescription": "A genAI workshop starting with a interactive session by Industry people form ManageEngine (Zoho) on usage of genAI on securiy domains followed by a hands-on workshop from students on genAI of general use and for industry related usecases, MCP server creation, usecases.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "3nEYqIqPakXxkb0IPP06jF",
         "type": "Entry",
         "createdAt": "2025-10-16T14:12:02.949Z",
@@ -8699,62 +8923,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "1FdpR3Nx8x4xgtd9K5R8JU",
-        "type": "Entry",
-        "createdAt": "2025-10-16T11:49:09.401Z",
-        "updatedAt": "2025-10-16T11:49:09.401Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "IoT Project Display",
-        "clubName": "PRODINNO",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T10:00:00.000Z",
-        "endDateAndTime": "2025-10-31T15:30:00.000Z",
-        "pricePerPerson": 99,
-        "participationType": "Solo",
-        "eventVenue": "AB3 101 Gallery Class Room",
-        "shortDescription": "National Level - Project Display on Internet of Things with Apps",
-        "longDescription": "National Level - Project Display on Internet of Things with Apps",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "3UWj8lvOip5ZEEXKSoko3t",
         "type": "Entry",
         "createdAt": "2025-10-16T11:49:08.406Z",
@@ -9019,174 +9187,6 @@
         "eventVenue": "AB1 601",
         "shortDescription": "Survival simulation on a sinking ship. Participants assume corporate roles and must persuade why their role is critical for survival and rebuilding society, testing creativity, logic, and debate. The audience and judges decide who makes it into the lifeboat.",
         "longDescription": " “Shipwreck” is an engaging and thought-provoking event where participants are placed in a survival scenario aboard a sinking ship. Each participant is assigned a corporate role (e.g., Data Analyst, Marketing Head, AI Specialist, UI/UX Designer, HR Manager, Finance Lead, etc.). When the ship begins to sink, there is only one spot left in the lifeboat. Each participant must pitch and defend their case on why their role is the most critical for survival and the future rebuilding of society.<br>This event tests persuasion, creativity, roleplay skills, and logical reasoning. The audience and judges decide who makes it into the lifeboat.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "7I5YXNi6O7aSrQQMZXdrRF",
-        "type": "Entry",
-        "createdAt": "2025-10-16T11:33:46.723Z",
-        "updatedAt": "2025-10-16T11:33:46.723Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "ROS2 Bootcamp",
-        "clubName": "IEEE ROBOTICS & AUTOMATION SOCIETY (IEEE-RAS) X Humanoid X",
-        "eventType": "Workshop",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-30T09:00:00.000Z",
-        "endDateAndTime": "2025-10-30T17:00:00.000Z",
-        "pricePerPerson": 99,
-        "participationType": "Solo",
-        "eventVenue": "Nethaji Auditorium",
-        "shortDescription": "2 day Workshop starting from installation of ROS to basics of SLAM",
-        "longDescription": "2 day Workshop starting from installation of ROS to basics of SLAM",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "7MmV54K0fCWJxSq8eU7mCF",
-        "type": "Entry",
-        "createdAt": "2025-10-16T11:25:14.934Z",
-        "updatedAt": "2025-10-16T11:25:14.934Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Game Jam",
-        "clubName": "OPEN SOURCE PROGRAMMING CLUB X GDG",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-11-01T10:00:00.000Z",
-        "endDateAndTime": "2025-11-01T16:30:00.000Z",
-        "pricePerPerson": 50,
-        "participationType": "Solo",
-        "eventVenue": "AB3 - 301",
-        "shortDescription": "A one-day Game Jam where teams of 1–4 design and build playable games from scratch. Kickoff introduces theme and rules, followed by brainstorming, development, mentor guidance, and final demos. Awards are given for creativity, execution, and polish.",
-        "longDescription": "A one-day intensive Game Jam where participants design and build playable games from scratch.<br>Kickoff reveals the theme and rules, followed by brainstorming and planning sessions.<br>Teams develop core mechanics, polish visuals, and integrate sound within set blocks.<br>Mentors provide technical guidance; progress is checked mid-event.<br>Final demos are showcased, with feedback and awards for creativity and execution.<br><br>Team size: 1-4 members",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "5irmaUkOc2LDQGlL0QESRx",
-        "type": "Entry",
-        "createdAt": "2025-10-16T11:25:12.619Z",
-        "updatedAt": "2025-10-16T11:25:12.619Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "DecodeX",
-        "clubName": "NEXUS  ",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T10:00:00.000Z",
-        "endDateAndTime": "2025-10-31T14:00:00.000Z",
-        "pricePerPerson": 49,
-        "participationType": "Solo",
-        "eventVenue": "AB3 501",
-        "shortDescription": "Competitive coding tournament where participants solve progressively harder problems, testing logic, speed, and problem-solving. Teams climb the leaderboard through multiple rounds, with only the sharpest coders advancing and prevailing.",
-        "longDescription": "Decodex is an electrifying competitive coding tournament where sharp minds battle through rounds of challenging problems. Test your logic, speed, and problem-solving skills as you climb the leaderboard. With each stage tougher than the last, only the best coders will prevail. Code. Compete. Conquer.",
         "specialEvent": false
       }
     },
@@ -9996,50 +9996,6 @@
               "id": "rr94wjxz7mfi"
             }
           },
-          "id": "116XdfkqFdiQuo0ofHFUm6",
-          "type": "Asset",
-          "createdAt": "2025-10-22T13:03:57.859Z",
-          "updatedAt": "2025-10-22T13:03:57.859Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 5,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "realm of minds",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/116XdfkqFdiQuo0ofHFUm6/30b994521af917a08811c56d9da5eebb/1_-_Anuraag.png",
-            "details": {
-              "size": 415019,
-              "image": {
-                "width": 1191,
-                "height": 1684
-              }
-            },
-            "fileName": "1 - Anuraag.png",
-            "contentType": "image/png"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
           "id": "17hgCoCi9rLyw4DBBUVvY2",
           "type": "Asset",
           "createdAt": "2025-10-22T13:54:10.131Z",
@@ -10085,6 +10041,231 @@
               "id": "rr94wjxz7mfi"
             }
           },
+          "id": "1OPtzCgeD7rmxmoRa5qfqW",
+          "type": "Asset",
+          "createdAt": "2025-10-22T19:18:53.810Z",
+          "updatedAt": "2025-10-22T19:18:53.810Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Aerial surveying using drones",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/1OPtzCgeD7rmxmoRa5qfqW/9e2948dfd7312fe107a611ebe1f5288d/Aerial_surveying_using_drones.jpeg",
+            "details": {
+              "size": 271787,
+              "image": {
+                "width": 905,
+                "height": 1280
+              }
+            },
+            "fileName": "Aerial surveying using drones.jpeg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "1PdYgOuxpO9FCd08XZoJ3L",
+          "type": "Asset",
+          "createdAt": "2025-10-22T19:06:47.782Z",
+          "updatedAt": "2025-10-22T19:06:47.782Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "chess",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/1PdYgOuxpO9FCd08XZoJ3L/237ebf61fd9feec94054d69482d8a7b4/event_poster_-_Ishan_Chaudhary.jpg",
+            "details": {
+              "size": 359230,
+              "image": {
+                "width": 1024,
+                "height": 1280
+              }
+            },
+            "fileName": "event poster - Ishan Chaudhary.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "1PiTar8NvkS4rO86OdkgHL",
+          "type": "Asset",
+          "createdAt": "2025-10-22T19:16:40.826Z",
+          "updatedAt": "2025-10-22T19:16:40.826Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "ros2",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/1PiTar8NvkS4rO86OdkgHL/9af130027de30e3778f5480f75dc2e06/ROS2_Bootcamp_poster_-_Abhijit_B_Rao_23BEC1026.jpg",
+            "details": {
+              "size": 297600,
+              "image": {
+                "width": 904,
+                "height": 1280
+              }
+            },
+            "fileName": "ROS2 Bootcamp poster - Abhijit B Rao 23BEC1026.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "1iBTvIc36yc0pdyyGs9Ioa",
+          "type": "Asset",
+          "createdAt": "2025-10-22T19:17:36.915Z",
+          "updatedAt": "2025-10-22T19:17:36.915Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "sketch",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/1iBTvIc36yc0pdyyGs9Ioa/4f2eeb4a45fc4238ba6682c550ad5565/IMG-20251022-WA0126_-_Shreya_Ranjitha_M_23BLC1039.jpg",
+            "details": {
+              "size": 321885,
+              "image": {
+                "width": 904,
+                "height": 1280
+              }
+            },
+            "fileName": "IMG-20251022-WA0126 - Shreya Ranjitha M 23BLC1039.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "1wUJgabf59tJg9bPkGA9a3",
+          "type": "Asset",
+          "createdAt": "2025-10-22T19:05:48.401Z",
+          "updatedAt": "2025-10-22T19:05:48.401Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "decodex",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/1wUJgabf59tJg9bPkGA9a3/0415b5c157e2a96ef665349564c9cec0/Screenshot_2025-10-22-21-45-12-86_c0d35d5c8ea536686f7fb1c9f2f8f274_-_Akshat_Shukla.jpg",
+            "details": {
+              "size": 741258,
+              "image": {
+                "width": 999,
+                "height": 1246
+              }
+            },
+            "fileName": "Screenshot_2025-10-22-21-45-12-86_c0d35d5c8ea536686f7fb1c9f2f8f274 - Akshat Shukla.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
           "id": "257CYCXEkgi6hx36RNRnHq",
           "type": "Asset",
           "createdAt": "2025-10-22T13:10:50.853Z",
@@ -10114,6 +10295,321 @@
             },
             "fileName": "CRAFTMYSITE.png",
             "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "2CTDwli77JcpfUZ5ALpxat",
+          "type": "Asset",
+          "createdAt": "2025-10-22T19:14:12.849Z",
+          "updatedAt": "2025-10-22T19:14:12.849Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Treasure Verse Final Poster - Hariharan S 22BME1058",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/2CTDwli77JcpfUZ5ALpxat/693183e9cf33e12732aa39a45714097d/Treasure_Verse_Final_Poster_-_Hariharan_S_22BME1058.jpg",
+            "details": {
+              "size": 314157,
+              "image": {
+                "width": 1080,
+                "height": 1920
+              }
+            },
+            "fileName": "Treasure Verse Final Poster - Hariharan S 22BME1058.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "2DjoogiKkAUD2TqebItIsA",
+          "type": "Asset",
+          "createdAt": "2025-10-22T19:03:57.197Z",
+          "updatedAt": "2025-10-22T19:03:57.197Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "lasertag",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/2DjoogiKkAUD2TqebItIsA/603e27fddee0e4830aee35b12aec7ff1/Screenshot_2025-10-22_233537_-_IEEE_Computer_Society_Student_Chapter_VIT_Chennai.png",
+            "details": {
+              "size": 620290,
+              "image": {
+                "width": 780,
+                "height": 1079
+              }
+            },
+            "fileName": "Screenshot 2025-10-22 233537 - IEEE Computer Society Student Chapter VIT Chennai.png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "2E77GfWmH6ZUDA2auOu9HA",
+          "type": "Asset",
+          "createdAt": "2025-10-22T19:15:29.672Z",
+          "updatedAt": "2025-10-22T19:15:29.672Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "game",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/2E77GfWmH6ZUDA2auOu9HA/38ce245a9fdeedbaab5d876cda82857c/Game_Jam_Poster__3__-_Ashif.jpg",
+            "details": {
+              "size": 267890,
+              "image": {
+                "width": 1063,
+                "height": 1890
+              }
+            },
+            "fileName": "Game Jam Poster (3) - Ashif.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "2U54bDyCUMeEZF85nuvCBj",
+          "type": "Asset",
+          "createdAt": "2025-10-22T19:09:29.221Z",
+          "updatedAt": "2025-10-22T19:09:29.221Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "unlock",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/2U54bDyCUMeEZF85nuvCBj/fb7caaf4ee679ae8e10d9208c5179a70/WhatsApp_Image_2025-10-20_at_17.27.57_080f94db_-_Pranav_Balaji_C_24BEC1149.jpg",
+            "details": {
+              "size": 323127,
+              "image": {
+                "width": 1024,
+                "height": 1280
+              }
+            },
+            "fileName": "WhatsApp Image 2025-10-20 at 17.27.57_080f94db - Pranav Balaji C 24BEC1149.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "2ZYkXtCI7ppwnPpv9t7RCR",
+          "type": "Asset",
+          "createdAt": "2025-10-22T19:03:14.958Z",
+          "updatedAt": "2025-10-22T19:03:14.958Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "capture the flagdroid",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/2ZYkXtCI7ppwnPpv9t7RCR/8547858cf53723d482c2a51319d2ec0a/Event_name_2-min_-_Aditi_Babu.png",
+            "details": {
+              "size": 470158,
+              "image": {
+                "width": 1080,
+                "height": 1350
+              }
+            },
+            "fileName": "Event name 2-min - Aditi Babu.png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "2kmph90t1Mw8f9Bqcfnb9E",
+          "type": "Asset",
+          "createdAt": "2025-10-22T19:16:46.166Z",
+          "updatedAt": "2025-10-22T19:16:46.166Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "iot",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/2kmph90t1Mw8f9Bqcfnb9E/26849484dea8ae2c7831411e48f73c19/IoT_Project_Display_-_ProdInno_VITC.png",
+            "details": {
+              "size": 462299,
+              "image": {
+                "width": 1587,
+                "height": 2245
+              }
+            },
+            "fileName": "IoT_Project_Display - ProdInno VITC.png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "2uonryHwh2ISyi8FRJ3UtA",
+          "type": "Asset",
+          "createdAt": "2025-10-22T19:11:07.438Z",
+          "updatedAt": "2025-10-22T19:11:07.438Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "hack-her",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/2uonryHwh2ISyi8FRJ3UtA/263e7fd18ffc6bc744e3437310e6b877/Hacker_-_Ivan_Varghese_George_24BYB1097.jpg",
+            "details": {
+              "size": 160585,
+              "image": {
+                "width": 1024,
+                "height": 1280
+              }
+            },
+            "fileName": "Hacker - Ivan Varghese George 24BYB1097.jpg",
+            "contentType": "image/jpeg"
           }
         }
       },
@@ -10445,6 +10941,51 @@
               "id": "rr94wjxz7mfi"
             }
           },
+          "id": "47X5a4peLLJ9uqJgqbYCKB",
+          "type": "Asset",
+          "createdAt": "2025-10-22T19:15:17.042Z",
+          "updatedAt": "2025-10-22T19:15:17.042Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "realm of minds",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/47X5a4peLLJ9uqJgqbYCKB/392355656053ba4d3415a5a4443a07d6/1_-_Anuraag.png",
+            "details": {
+              "size": 415019,
+              "image": {
+                "width": 1191,
+                "height": 1684
+              }
+            },
+            "fileName": "1 - Anuraag.png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
           "id": "47Xb2cPhpwsklnk79zlQto",
           "type": "Asset",
           "createdAt": "2025-10-15T19:41:42.624Z",
@@ -10608,6 +11149,51 @@
             },
             "fileName": "1_20251018_104436_0000.png",
             "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "4R8W73luVXXbDYdtAUHntc",
+          "type": "Asset",
+          "createdAt": "2025-10-22T19:07:43.622Z",
+          "updatedAt": "2025-10-22T19:07:43.622Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "robo soccer",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/4R8W73luVXXbDYdtAUHntc/3173167005cebc186c5b6645260d157b/robosoccerFin_-_Vaibhav_P.jpeg",
+            "details": {
+              "size": 294575,
+              "image": {
+                "width": 904,
+                "height": 1280
+              }
+            },
+            "fileName": "robosoccerFin - Vaibhav P.jpeg",
+            "contentType": "image/jpeg"
           }
         }
       },
@@ -10804,6 +11390,51 @@
               "id": "rr94wjxz7mfi"
             }
           },
+          "id": "4pfNGubY7VXiosh3PZFyxH",
+          "type": "Asset",
+          "createdAt": "2025-10-22T19:17:57.434Z",
+          "updatedAt": "2025-10-22T19:17:57.434Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "netsim",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/4pfNGubY7VXiosh3PZFyxH/abf827a4687961636e0ee93eeae32fd2/Netsim_Online_24_hours_Hackathon_-_Jayavignesh_Thyagarajan.jpg",
+            "details": {
+              "size": 266465,
+              "image": {
+                "width": 1080,
+                "height": 1350
+              }
+            },
+            "fileName": "Netsim Online 24 hours Hackathon - Jayavignesh Thyagarajan.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
           "id": "4vBiFZeJmZcb4E4SdwPdh9",
           "type": "Asset",
           "createdAt": "2025-10-22T16:23:30.156Z",
@@ -10849,10 +11480,10 @@
               "id": "rr94wjxz7mfi"
             }
           },
-          "id": "5WM0Gam15m4DSf8VUuLJqD",
+          "id": "5Nem9eVSsuOylBBcDbtDoh",
           "type": "Asset",
-          "createdAt": "2025-10-15T11:34:03.308Z",
-          "updatedAt": "2025-10-15T11:34:03.308Z",
+          "createdAt": "2025-10-22T19:11:53.485Z",
+          "updatedAt": "2025-10-22T19:11:53.485Z",
           "environment": {
             "sys": {
               "id": "master",
@@ -10860,24 +11491,24 @@
               "linkType": "Environment"
             }
           },
-          "publishedVersion": 3,
+          "publishedVersion": 4,
           "revision": 1,
           "locale": "en-US"
         },
         "fields": {
-          "title": "Brainware (updated) - Kaushik Saravanan",
+          "title": "render",
           "description": "",
           "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/5WM0Gam15m4DSf8VUuLJqD/e2fcf4903c142226e1a41a0f2714b195/Brainware__updated__-_Kaushik_Saravanan.jpg",
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/5Nem9eVSsuOylBBcDbtDoh/14125e70584cd5f2b799c0e107c278fb/Render_Quest_2.0_Final_Poster-min_-_Hariharan_Srinivasan.png",
             "details": {
-              "size": 378924,
+              "size": 316888,
               "image": {
-                "width": 1587,
-                "height": 2245
+                "width": 1080,
+                "height": 1920
               }
             },
-            "fileName": "Brainware (updated) - Kaushik Saravanan.jpg",
-            "contentType": "image/jpeg"
+            "fileName": "Render Quest 2.0 Final Poster-min - Hariharan Srinivasan.png",
+            "contentType": "image/png"
           }
         }
       },
@@ -11164,6 +11795,51 @@
               "id": "rr94wjxz7mfi"
             }
           },
+          "id": "6BKTVmxaCKhzK5YZQDd0Yz",
+          "type": "Asset",
+          "createdAt": "2025-10-22T19:18:41.570Z",
+          "updatedAt": "2025-10-22T19:18:41.570Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "ideax",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/6BKTVmxaCKhzK5YZQDd0Yz/c453a2f2ef0e2bb0bb024754a0897eb6/IMG_5588_-_Anagh_Vasishtha_23BCE1560.jpeg",
+            "details": {
+              "size": 113478,
+              "image": {
+                "width": 1080,
+                "height": 1350
+              }
+            },
+            "fileName": "IMG_5588 - Anagh Vasishtha 23BCE1560.jpeg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
           "id": "6qGCf3HHU16X9cT6ltbiN6",
           "type": "Asset",
           "createdAt": "2025-10-22T13:33:10.643Z",
@@ -11344,6 +12020,51 @@
               "id": "rr94wjxz7mfi"
             }
           },
+          "id": "7b3CVsR1AwtJnaVm7owhh5",
+          "type": "Asset",
+          "createdAt": "2025-10-22T19:10:31.645Z",
+          "updatedAt": "2025-10-22T19:10:31.645Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "brainware",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/7b3CVsR1AwtJnaVm7owhh5/b076e0f319965b0b2c5374486b74c6b5/1000042058_-_Mahalakshmi_Labels.png",
+            "details": {
+              "size": 229551,
+              "image": {
+                "width": 986,
+                "height": 1225
+              }
+            },
+            "fileName": "1000042058 - Mahalakshmi Labels.png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
           "id": "7hezpA3VRrVe56W4zRsqIS",
           "type": "Asset",
           "createdAt": "2025-10-22T13:31:28.435Z",
@@ -11372,51 +12093,6 @@
               }
             },
             "fileName": "IMG-20251022-WA0028 - Kabilan R.jpg",
-            "contentType": "image/jpeg"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
-          "id": "7v2AZm2eZOhEHXan7lQktJ",
-          "type": "Asset",
-          "createdAt": "2025-10-15T03:14:25.877Z",
-          "updatedAt": "2025-10-15T03:14:25.877Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 3,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "THE STRANGER CLUES - Open Source Programming Club",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/7v2AZm2eZOhEHXan7lQktJ/e5141a97f23315fce2e6ce4c7dc57d43/THE_STRANGER_CLUES_-_Open_Source_Programming_Club.jpg",
-            "details": {
-              "size": 973369,
-              "image": {
-                "width": 1587,
-                "height": 2245
-              }
-            },
-            "fileName": "THE STRANGER CLUES - Open Source Programming Club.jpg",
             "contentType": "image/jpeg"
           }
         }
@@ -11463,6 +12139,96 @@
             },
             "fileName": "TechnoVITPosters (1) - KIRAN SAMPATH.jpg",
             "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "CfKWG3VNrzoaHMswSHw99",
+          "type": "Asset",
+          "createdAt": "2025-10-22T19:05:59.874Z",
+          "updatedAt": "2025-10-22T19:05:59.874Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "sustainable robots",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/CfKWG3VNrzoaHMswSHw99/6b91298b51aa2868651eb29bf8408cdc/Sustainable-robots_-_Rama_krishnan.jpeg",
+            "details": {
+              "size": 1022356,
+              "image": {
+                "width": 1080,
+                "height": 1350
+              }
+            },
+            "fileName": "Sustainable-robots - Rama krishnan.jpeg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "DGCrlidkDbUFEFm5pnbn6",
+          "type": "Asset",
+          "createdAt": "2025-10-22T19:13:57.242Z",
+          "updatedAt": "2025-10-22T19:13:57.242Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "stranger clues",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/DGCrlidkDbUFEFm5pnbn6/5fb431a6171b3ececdbf807910dd65b0/StrangerClues_-_Rishika_Cherukuri_24BAI1596.png",
+            "details": {
+              "size": 513286,
+              "image": {
+                "width": 439,
+                "height": 618
+              }
+            },
+            "fileName": "StrangerClues - Rishika Cherukuri 24BAI1596.png",
+            "contentType": "image/png"
           }
         }
       },
