@@ -19,6 +19,342 @@
             "id": "rr94wjxz7mfi"
           }
         },
+        "id": "2w7ZcoQKCCRKUZvwg75jLJ",
+        "type": "Entry",
+        "createdAt": "2025-10-16T12:16:45.318Z",
+        "updatedAt": "2025-10-22T16:44:33.072Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 10,
+        "revision": 5,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Decoding Time  A Journey into TIME SERIES ANALYSIS",
+        "clubName": "ARTIFICIAL INTELLIGENCE CLUB",
+        "eventType": "Workshop",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-29T09:00+00:00",
+        "endDateAndTime": "2025-10-29T16:00+00:00",
+        "pricePerPerson": 150,
+        "participationType": "Solo",
+        "eventVenue": "Online",
+        "shortDescription": "This workshop provides a gentle intro on the applications which requires time series analysis and hands-on session on - Introduction to time-series and stationary data handling, data smoothing, autocorrelation, and AutoRegressive Integrated Moving Average (ARIMA) models and handling the Temporal data imbalance in Python,",
+        "longDescription": "This workshop provides a gentle intro on the applications which requires time series analysis and hands-on session on - Introduction to time-series and stationary data handling, data smoothing, autocorrelation, and AutoRegressive Integrated Moving Average (ARIMA) models and handling the Temporal data imbalance in Python,",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "7wtkB7Wpme4okkOUS3pyUc",
+        "type": "Entry",
+        "createdAt": "2025-10-16T10:43:50.324Z",
+        "updatedAt": "2025-10-22T16:43:40.381Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 5,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "CraftMySite",
+        "clubName": "OPEN SOURCE PROGRAMMING CLUB",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "257CYCXEkgi6hx36RNRnHq"
+          }
+        },
+        "startDateAndTime": "2025-10-31T08:00+00:00",
+        "endDateAndTime": "2025-10-31T16:00:00.000Z",
+        "pricePerPerson": 100,
+        "participationType": "Solo",
+        "eventVenue": "VOC  Auditorium",
+        "shortDescription": "Participants build standout personal portfolio websites using AI tools and coding. Projects are judged on design, functionality, responsiveness, and presentation. Attendees gain skills to create impressive, professional portfolios from scratch.",
+        "longDescription": "A dynamic workshop and contest where you build standout personal portfolio websites fast. Learn to harness AI tools and code from scratch to create portfolios that grab attention. Projects will be judged on design, functionality, responsiveness, and presentation. Attendees will gain walkaway with the ability to build impressive portfolios.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "3nZ5jh6pLpp2OI09eTJoaG",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:13:02.174Z",
+        "updatedAt": "2025-10-22T16:38:52.028Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 7,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "ServoCore\n",
+        "clubName": "ROBOTICS CLUB X Dreadnought Robotics X AUVC (Autonomous Unmanned Vehicles Club)",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-28T10:00:00.000Z",
+        "endDateAndTime": "2025-10-29T08:00:00.000Z",
+        "pricePerPerson": 300,
+        "participationType": "Solo",
+        "eventVenue": "Kasturba Hall",
+        "shortDescription": "Students in teams of 4, guided by a mentor, will build a phone-controlled RC car with a servo-operated pick and drop system using 3D printed parts. They'll then compete in a championship to move blocks across a terrain in the shortest time.",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "ha5lhqtqY6jKVmVoG6qwp",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:07:17.547Z",
+        "updatedAt": "2025-10-22T16:35:41.032Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 7,
+        "revision": 4,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Circuit-A-Thon",
+        "clubName": "INTEGRATED CIRCUITS & SYSTEM DESIGN (ICSD)",
+        "eventType": "Hackathon",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-11-01T08:00+00:00",
+        "endDateAndTime": "2025-11-02T08:00+00:00",
+        "pricePerPerson": 600,
+        "participationType": "Trio",
+        "eventVenue": "AB1 505",
+        "shortDescription": "Circuit-A-Thon is a fast-paced hardware buildathon where teams design and demo circuits (analog, mixed-signal, IoT, FPGA). With guided checkpoints, mentor hours, and on-bench testing, participants turn ideas into measurable, demo-ready prototypes.",
+        "longDescription": "Circuit-A-Thon is a fast-paced hardware buildathon where teams design, prototype, and demo working electronic circuits—from analog front-ends and mixed-signal blocks to embedded/IoT systems and FPGA logic. Guided checkpoints, mentor hours, and on-bench testing help participants turn ideas into measurable, demo-ready prototypes.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "6k7xRLK4Q1MZolXPA4DOgt",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:07:14.294Z",
+        "updatedAt": "2025-10-22T16:33:51.465Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 5,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Camera- Handling Workshop",
+        "clubName": "VITSION FILM MAKERS CLUB",
+        "eventType": "Workshop",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-11-02T10:00+00:00",
+        "endDateAndTime": "2025-11-02T13:00+00:00",
+        "pricePerPerson": 100,
+        "participationType": "Solo",
+        "eventVenue": "AB3 601",
+        "shortDescription": "This practical cinematography session teaches you to shoot like a pro. 🎥 Master essential camera skills like framing, panning, zooming, and stability, along with lighting, angles, and shot composition to capture truly cinematic stories.",
+        "longDescription": "Before you can direct your masterpiece, you need to learn how to handle the camera like a pro. In this practical session, you’ll master framing, panning, zooming, and stability- everything needed to shoot a scene like Scorsese or Nolan. With guidance on lighting, angles, and shot composition, you’ll be ready to capture stories that feel truly cinematic.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "2jX51tsw4V5TLKZftr0suH",
+        "type": "Entry",
+        "createdAt": "2025-10-18T05:42:11.168Z",
+        "updatedAt": "2025-10-22T16:31:53.546Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 21,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Rogue Route",
+        "clubName": "TechnoVIT",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "5fvj06fh4m0SmrgNHO0etF"
+          }
+        },
+        "startDateAndTime": "2025-11-01T10:00+00:00",
+        "endDateAndTime": "2025-11-01T18:00+00:00",
+        "pricePerPerson": 1500,
+        "participationType": "Solo/Duo/Trio/Squad",
+        "eventVenue": "AB3 Amphitheatre",
+        "shortDescription": "Get ready to witness the thrill of speed and precision as cutting-edge technology takes flight! Fast reflexes and skill decide who takes the sky! Drone Racing",
+        "longDescription": "Whether you’re a drone enthusiast, a tech innovator, or just a thrill-seeker, this event promises an adrenaline rush like no other. Experience the perfect blend of aerodynamics, innovation, and competitive spirit - where every millisecond counts!",
+        "specialEvent": true
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
         "id": "2AVoalUcxDCQGCz2Q1sSF6",
         "type": "Entry",
         "createdAt": "2025-10-18T05:48:11.080Z",
@@ -1587,62 +1923,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "2w7ZcoQKCCRKUZvwg75jLJ",
-        "type": "Entry",
-        "createdAt": "2025-10-16T12:16:45.318Z",
-        "updatedAt": "2025-10-22T11:46:14.417Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 7,
-        "revision": 4,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Decoding Time  A Journey into TIME SERIES ANALYSIS",
-        "clubName": "ARTIFICIAL INTELLIGENCE CLUB",
-        "eventType": "Workshop",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-29T09:00+00:00",
-        "endDateAndTime": "2025-10-29T16:00+00:00",
-        "pricePerPerson": 150,
-        "participationType": "Solo",
-        "eventVenue": "Online",
-        "shortDescription": "This workshop provides a gentle intro on the applications which requires time series analysis and hands-on session on - Introduction to time-series and stationary data handling, data smoothing, autocorrelation, and AutoRegressive Integrated Moving Average (ARIMA) models and handling the Temporal data imbalance in Python,",
-        "longDescription": "This workshop provides a gentle intro on the applications which requires time series analysis and hands-on session on - Introduction to time-series and stationary data handling, data smoothing, autocorrelation, and AutoRegressive Integrated Moving Average (ARIMA) models and handling the Temporal data imbalance in Python,",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "6EOS8pWl5ZOsCkskCt3WMH",
         "type": "Entry",
         "createdAt": "2025-10-16T11:58:03.984Z",
@@ -1867,62 +2147,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "2jX51tsw4V5TLKZftr0suH",
-        "type": "Entry",
-        "createdAt": "2025-10-18T05:42:11.168Z",
-        "updatedAt": "2025-10-21T14:15:33.259Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 19,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Rogue Route",
-        "clubName": "TechnoVIT",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-11-01T10:00+00:00",
-        "endDateAndTime": "2025-11-01T18:00+00:00",
-        "pricePerPerson": 1500,
-        "participationType": "Solo/Duo/Trio/Squad",
-        "eventVenue": "AB3 Amphitheatre",
-        "shortDescription": "Get ready to witness the thrill of speed and precision as cutting-edge technology takes flight! Fast reflexes and skill decide who takes the sky! Drone Racing",
-        "longDescription": "Whether you’re a drone enthusiast, a tech innovator, or just a thrill-seeker, this event promises an adrenaline rush like no other. Experience the perfect blend of aerodynamics, innovation, and competitive spirit - where every millisecond counts!",
-        "specialEvent": true
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "REUv3A4bQMHaQBrdwrYYm",
         "type": "Entry",
         "createdAt": "2025-10-18T14:14:44.014Z",
@@ -1963,62 +2187,6 @@
         "eventVenue": "AB3 312",
         "shortDescription": "ScriptWave is a hands-on hackathon where teams tackle scripting and verification challenges. Create scripts, build testbenches,and debug digital designs to gain practical experience with industry tools in a collaborative, problem-solving environment.\n\n",
         "longDescription": "ScriptWave is a hands-on hackathon where participants dive into scripting and verification challenges to test and validate digital designs. Teams will create scripts, build testbenches, and debug solutions in a collaborative environment, gaining practical experience with industry-relevant tools and methodologies. The event emphasizes problem-solving, innovation, and efficiency, giving participants a real taste of digital design verification in action.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "3nZ5jh6pLpp2OI09eTJoaG",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:13:02.174Z",
-        "updatedAt": "2025-10-21T13:59:53.065Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 5,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "ServoCore\n",
-        "clubName": "ROBOTICS CLUB X Dreadnought Robotics X AUVC (Autonomous Unmanned Vehicles Club)",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-28T10:00:00.000Z",
-        "endDateAndTime": "2025-10-29T08:00:00.000Z",
-        "pricePerPerson": 1200,
-        "participationType": "Squad",
-        "eventVenue": "Kasturba Hall",
-        "shortDescription": "Students in teams of 4, guided by a mentor, will build a phone-controlled RC car with a servo-operated pick and drop system using 3D printed parts. They'll then compete in a championship to move blocks across a terrain in the shortest time.",
-        "longDescription": "",
         "specialEvent": false
       }
     },
@@ -3491,62 +3659,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "ha5lhqtqY6jKVmVoG6qwp",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:07:17.547Z",
-        "updatedAt": "2025-10-21T11:22:23.496Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 5,
-        "revision": 3,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Circuit-A-Thon",
-        "clubName": "INTEGRATED CIRCUITS & SYSTEM DESIGN (ICSD)",
-        "eventType": "Hackathon",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-11-01T08:00+00:00",
-        "endDateAndTime": "2025-11-01T08:00+00:00",
-        "pricePerPerson": 600,
-        "participationType": "Trio",
-        "eventVenue": "AB1 505",
-        "shortDescription": "Circuit-A-Thon is a fast-paced hardware buildathon where teams design and demo circuits (analog, mixed-signal, IoT, FPGA). With guided checkpoints, mentor hours, and on-bench testing, participants turn ideas into measurable, demo-ready prototypes.",
-        "longDescription": "Circuit-A-Thon is a fast-paced hardware buildathon where teams design, prototype, and demo working electronic circuits—from analog front-ends and mixed-signal blocks to embedded/IoT systems and FPGA logic. Guided checkpoints, mentor hours, and on-bench testing help participants turn ideas into measurable, demo-ready prototypes.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "5jTo3ukG6ULA5CQvciAaln",
         "type": "Entry",
         "createdAt": "2025-10-15T11:55:04.243Z",
@@ -4483,62 +4595,6 @@
         "eventVenue": "AB4 -314",
         "shortDescription": "LaserTag is a thrilling 5v5 arena game where you race to score the most points with laser guns against opponents. Surrounded by glowing UV lights, lasers, and vibrant artwork, the arena creates a fun, competitive vibe. Safe, beginner-friendly, and adrenaline-packed, it’s an experience you won’t forget. Step in, gear up, and let the battle begin!",
         "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "6k7xRLK4Q1MZolXPA4DOgt",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:07:14.294Z",
-        "updatedAt": "2025-10-21T05:26:42.977Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 3,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Camera- Handling Workshop",
-        "clubName": "VITSION FILM MAKERS CLUB",
-        "eventType": "Workshop",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-11-02T10:00+00:00",
-        "endDateAndTime": "2025-11-02T13:00+00:00",
-        "pricePerPerson": 100,
-        "participationType": "Solo",
-        "eventVenue": "AB3 701",
-        "shortDescription": "This practical cinematography session teaches you to shoot like a pro. 🎥 Master essential camera skills like framing, panning, zooming, and stability, along with lighting, angles, and shot composition to capture truly cinematic stories.",
-        "longDescription": "Before you can direct your masterpiece, you need to learn how to handle the camera like a pro. In this practical session, you’ll master framing, panning, zooming, and stability- everything needed to shoot a scene like Scorsese or Nolan. With guidance on lighting, angles, and shot composition, you’ll be ready to capture stories that feel truly cinematic.",
         "specialEvent": false
       }
     },
@@ -6443,62 +6499,6 @@
         "eventVenue": "AB3 201",
         "shortDescription": "In this challenge, teams of 2 have 45 minutes to build a catapult using only provided materials. The objective is to launch projectiles and knock down targets. Points are awarded for accuracy, power, and creative design, with penalties for delays.\n",
         "longDescription": "The Angry Bird Stem event is a hands-on building and targeting challenge. \n Objective: Participants must design and build a miniature catapult that can launch projectiles to knock down the target. Accuracy and distance both matter.\n Competition: Team of 2 people. All the teams compete with each other. Each and every team will be given 45 mins to build and design their own catapult and launch. Points will be awarded for hitting the target, knocking them down, creative design and if they do not finish it on time their points will be reduced. The team with the highest score or fastest completion wins.\n Rules: Participants can only use the materials provided by the club. Creativity in building and designing the catapult is encouraged. Safety must be maintained while launching projectiles",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "7wtkB7Wpme4okkOUS3pyUc",
-        "type": "Entry",
-        "createdAt": "2025-10-16T10:43:50.324Z",
-        "updatedAt": "2025-10-17T07:18:56.844Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 3,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "CraftMySite",
-        "clubName": "OPEN SOURCE PROGRAMMING CLUB",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T08:00+00:00",
-        "endDateAndTime": "2025-10-31T16:00:00.000Z",
-        "pricePerPerson": 100,
-        "participationType": "Solo",
-        "eventVenue": "VOC  Auditorium",
-        "shortDescription": "Participants build standout personal portfolio websites using AI tools and coding. Projects are judged on design, functionality, responsiveness, and presentation. Attendees gain skills to create impressive, professional portfolios from scratch.",
-        "longDescription": "A dynamic workshop and contest where you build standout personal portfolio websites fast. Learn to harness AI tools and code from scratch to create portfolios that grab attention. Projects will be judged on design, functionality, responsiveness, and presentation. Attendees will gain walkaway with the ability to build impressive portfolios.",
         "specialEvent": false
       }
     },
@@ -10141,6 +10141,51 @@
               "id": "rr94wjxz7mfi"
             }
           },
+          "id": "257CYCXEkgi6hx36RNRnHq",
+          "type": "Asset",
+          "createdAt": "2025-10-22T13:10:50.853Z",
+          "updatedAt": "2025-10-22T13:10:50.853Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "craftmysite",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/257CYCXEkgi6hx36RNRnHq/faf0072bbd59e33f7eb95b054c3dadc6/CRAFTMYSITE.png",
+            "details": {
+              "size": 479895,
+              "image": {
+                "width": 1587,
+                "height": 2245
+              }
+            },
+            "fileName": "CRAFTMYSITE.png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
           "id": "3UAW2KLYHytZ3umzQOsaFJ",
           "type": "Asset",
           "createdAt": "2025-10-22T13:40:02.946Z",
@@ -10934,6 +10979,51 @@
             },
             "fileName": "IMG-20251022-WA0014 - Dr. U. Vijayabanu.jpg",
             "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "5fvj06fh4m0SmrgNHO0etF",
+          "type": "Asset",
+          "createdAt": "2025-10-22T16:31:40.213Z",
+          "updatedAt": "2025-10-22T16:31:40.213Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Rogue Route",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/5fvj06fh4m0SmrgNHO0etF/1b381c68966f26d6fdcd0b85b68be3f1/5_20251018_104436_0004.png",
+            "details": {
+              "size": 3403062,
+              "image": {
+                "width": 1587,
+                "height": 2245
+              }
+            },
+            "fileName": "5_20251018_104436_0004.png",
+            "contentType": "image/png"
           }
         }
       },
