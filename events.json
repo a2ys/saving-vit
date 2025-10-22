@@ -2,10 +2,234 @@
   "sys": {
     "type": "Array"
   },
-  "total": 175,
+  "total": 176,
   "skip": 0,
-  "limit": 175,
+  "limit": 176,
   "items": [
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "2Hq7m0eLbsI99y8LqBu6if",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:13:01.109Z",
+        "updatedAt": "2025-10-22T20:08:05.673Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 7,
+        "revision": 4,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Robo Tug of War",
+        "clubName": "TechnoVIT",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "3e0iW3BFAoqT3GqLc7TWvt"
+          }
+        },
+        "startDateAndTime": "2025-10-31T10:00:00.000Z",
+        "endDateAndTime": "2025-10-31T18:00:00.000Z",
+        "pricePerPerson": 500,
+        "participationType": "Solo",
+        "eventVenue": "AB3 Outside parking",
+        "shortDescription": "Robot Tug of War",
+        "longDescription": "Robot Tug of War",
+        "specialEvent": true
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "5yi5DZ4Ag9jCbKPrGbgpv3",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:12:59.044Z",
+        "updatedAt": "2025-10-22T20:07:45.520Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 10,
+        "revision": 5,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Robo Soccer",
+        "clubName": "IEEE ROBOTICS & AUTOMATION SOCIETY (IEEE-RAS)",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "4R8W73luVXXbDYdtAUHntc"
+          }
+        },
+        "startDateAndTime": "2025-10-29T09:00:00.000Z",
+        "endDateAndTime": "2025-10-29T17:00:00.000Z",
+        "pricePerPerson": 150,
+        "participationType": "Duo",
+        "eventVenue": "AB3 Portico",
+        "shortDescription": "In Robo Soccer, a competition by the IEEE RAS Student Chapter at TechnoVIT, students design and program autonomous robots to play soccer. ⚽ This hands-on challenge is a platform to showcase skills in robotics, AI, and strategic teamwork.",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "1Vfr8gzXmRDeHVHifTugFS",
+        "type": "Entry",
+        "createdAt": "2025-10-22T19:54:52.707Z",
+        "updatedAt": "2025-10-22T19:54:52.707Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 12,
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Build-a-Chip: CMOS Chip Design Workshop",
+        "clubName": "INTEGRATED CIRCUITS & SYSTEM DESIGN (ICSD)",
+        "eventType": "Workshop",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "BN39clI3REG2ZZA41648I"
+          }
+        },
+        "startDateAndTime": "2025-11-02T09:00+00:00",
+        "endDateAndTime": "2025-11-02T15:00+00:00",
+        "pricePerPerson": 50,
+        "participationType": "Solo",
+        "eventVenue": "AB3 406",
+        "shortDescription": "Workshop on CMOS technology and implementation. Participants will learn about CMOS and how to use them to create logic gates and make a standard cell library. Virtuoso Tool will be used to teach these concepts.",
+        "longDescription": "Workshop on CMOS technology and implementation. Participants will learn about CMOS and how to use them to create logic gates and make a standard cell library. Virtuoso Tool will be used to teach these concepts.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "7JaelZHtZouCjXBZzdhxG",
+        "type": "Entry",
+        "createdAt": "2025-10-16T11:20:27.945Z",
+        "updatedAt": "2025-10-22T19:53:14.988Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 5,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Sungazing",
+        "clubName": "SEDS ANTARIKSH CHAPTER",
+        "eventType": "Workshop",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "4qx30hr7Zx5exBbfS2B6Eh"
+          }
+        },
+        "startDateAndTime": "2025-10-31T14:00:00.000Z",
+        "endDateAndTime": "2025-11-02T17:30:00.000Z",
+        "pricePerPerson": 140,
+        "participationType": "Solo",
+        "eventVenue": "AB3 Terrace",
+        "shortDescription": "We'll get hydrogen alpha telescope to enable students to watch the sun, sunspots, solar flares etc. Along with this we'll also teach people how to operate a telescope.",
+        "longDescription": "We'll get hydrogen alpha telescope to enable students to watch the sun, sunspots, solar flares etc. Along with this we'll also teach people how to operate a telescope.",
+        "specialEvent": false
+      }
+    },
     {
       "metadata": {
         "tags": [],
@@ -4561,62 +4785,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "5yi5DZ4Ag9jCbKPrGbgpv3",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:12:59.044Z",
-        "updatedAt": "2025-10-22T19:07:49.082Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 6,
-        "revision": 3,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Robo Soccer",
-        "clubName": "IEEE ROBOTICS & AUTOMATION SOCIETY (IEEE-RAS)",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "4R8W73luVXXbDYdtAUHntc"
-          }
-        },
-        "startDateAndTime": "2025-10-29T09:00:00.000Z",
-        "endDateAndTime": "2025-10-29T17:00:00.000Z",
-        "pricePerPerson": 150,
-        "participationType": "Duo",
-        "eventVenue": "AB3 Portico",
-        "shortDescription": "In Robo Soccer, a competition by the IEEE RAS Student Chapter at TechnoVIT, students design and program autonomous robots to play soccer. ⚽ This hands-on challenge is a platform to showcase skills in robotics, AI, and strategic teamwork.",
-        "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "26xPjgy5jNS9dKZm2xl7bf",
         "type": "Entry",
         "createdAt": "2025-10-16T14:13:11.781Z",
@@ -5386,62 +5554,6 @@
         "shortDescription": "Dive into the future with Drone VR! Experience the thrill of piloting drones in immersive virtual reality. Test your reflexes, precision, and control as you race through stunning digital skies and futuristic arenas.",
         "longDescription": "Dive into the future with Drone VR! Experience the thrill of piloting drones in immersive virtual reality. Test your reflexes, precision, and control as you race through stunning digital skies and futuristic arenas.",
         "specialEvent": true
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "2Hq7m0eLbsI99y8LqBu6if",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:13:01.109Z",
-        "updatedAt": "2025-10-22T16:24:48.770Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 5,
-        "revision": 3,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Robo Tug of War",
-        "clubName": "TechnoVIT",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "3e0iW3BFAoqT3GqLc7TWvt"
-          }
-        },
-        "startDateAndTime": "2025-10-31T10:00:00.000Z",
-        "endDateAndTime": "2025-10-31T18:00:00.000Z",
-        "pricePerPerson": 500,
-        "participationType": "Solo",
-        "eventVenue": "AB3 Outside parking",
-        "shortDescription": "Robot Tug of War",
-        "longDescription": "Robot Tug of War",
-        "specialEvent": false
       }
     },
     {
@@ -7065,62 +7177,6 @@
         "eventVenue": "AB3 701",
         "shortDescription": "Participants transform initial sketches into fully functional apps/websites addressing real-world problems. Teams design, develop and pitch solutions, judged on innovation, functionality, usability, and presentation.",
         "longDescription": "Sketch2Stage will be an event organized by Hack Club, designed to inspire creativity, innovation, and problem-solving among students. This event challenges participants to transform their initial ideas the “sketch” into fully functional digital solutions and pitch it on “stage”<br> Participants will be presented with a set of real-world problem statements and will have a fixed time to design and develop an app or website particularly the design and user experience that addresses these challenges. The event emphasizes not just technical skills, but also innovation, usability, and the ability to communicate ideas effectively.<br> Once development concludes, teams will get the opportunity to pitch their solutions to a panel of judges. The pitch is a crucial part of the competition, allowing participants to showcase their product’s features, the problem it solves, and their vision for impact.<br> Winners will be selected based on criteria such as originality, relevance to the problem statement, functionality, user experience, and presentation skills.<br> Sketch2Stage will allow students to gain hands-on experience in product development, learn to work collaboratively under deadlines, and enhance their pitching and presentation abilities all while competing in a fun, energetic, and innovation-driven environment.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "7JaelZHtZouCjXBZzdhxG",
-        "type": "Entry",
-        "createdAt": "2025-10-16T11:20:27.945Z",
-        "updatedAt": "2025-10-21T12:26:12.818Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 3,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Sungazing",
-        "clubName": "SEDS ANTARIKSH CHAPTER",
-        "eventType": "Workshop",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T14:00:00.000Z",
-        "endDateAndTime": "2025-11-02T17:30:00.000Z",
-        "pricePerPerson": 140,
-        "participationType": "Solo",
-        "eventVenue": "AB3 Terrace",
-        "shortDescription": "We'll get hydrogen alpha telescope to enable students to watch the sun, sunspots, solar flares etc. Along with this we'll also teach people how to operate a telescope.",
-        "longDescription": "We'll get hydrogen alpha telescope to enable students to watch the sun, sunspots, solar flares etc. Along with this we'll also teach people how to operate a telescope.",
         "specialEvent": false
       }
     },
@@ -11402,51 +11458,6 @@
               "id": "rr94wjxz7mfi"
             }
           },
-          "id": "4Qln3dKHzHzjSLZ25rmVcG",
-          "type": "Asset",
-          "createdAt": "2025-10-22T16:20:52.506Z",
-          "updatedAt": "2025-10-22T16:20:52.506Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 4,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "Robo Race",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/4Qln3dKHzHzjSLZ25rmVcG/3b23b6ef74b587b5c3e307553d0b9af1/1_20251018_104436_0000.png",
-            "details": {
-              "size": 3474194,
-              "image": {
-                "width": 1587,
-                "height": 2245
-              }
-            },
-            "fileName": "1_20251018_104436_0000.png",
-            "contentType": "image/png"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
           "id": "4R8W73luVXXbDYdtAUHntc",
           "type": "Asset",
           "createdAt": "2025-10-22T19:07:43.622Z",
@@ -11537,51 +11548,6 @@
               "id": "rr94wjxz7mfi"
             }
           },
-          "id": "4dSsALEHAwaIuQ7O4w92xi",
-          "type": "Asset",
-          "createdAt": "2025-10-22T14:01:32.663Z",
-          "updatedAt": "2025-10-22T14:01:32.663Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 3,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "Copy of Copy of Copy of Technovit Poster (2) - Sanjai G 24BEE1264",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/4dSsALEHAwaIuQ7O4w92xi/712c8278101d5a65658e5083a93dcbe6/Copy_of_Copy_of_Copy_of_Technovit_Poster___2__-_Sanjai_G_24BEE1264.png",
-            "details": {
-              "size": 528855,
-              "image": {
-                "width": 1080,
-                "height": 1350
-              }
-            },
-            "fileName": "Copy of Copy of Copy of Technovit Poster  (2) - Sanjai G 24BEE1264.png",
-            "contentType": "image/png"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
           "id": "4kPV6qLRI4m2DRjRXbpA2G",
           "type": "Asset",
           "createdAt": "2025-10-22T19:20:26.195Z",
@@ -11656,6 +11622,51 @@
             },
             "fileName": "Netsim Online 24 hours Hackathon - Jayavignesh Thyagarajan.jpg",
             "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "4qx30hr7Zx5exBbfS2B6Eh",
+          "type": "Asset",
+          "createdAt": "2025-10-22T19:53:10.831Z",
+          "updatedAt": "2025-10-22T19:53:10.831Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "sungazing final - Darshini ツ",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/4qx30hr7Zx5exBbfS2B6Eh/4a0cb3977cd404a494005485e7d18da6/sungazing_final_-_Darshini_ã__.png",
+            "details": {
+              "size": 684117,
+              "image": {
+                "width": 628,
+                "height": 901
+              }
+            },
+            "fileName": "sungazing final - Darshini ツ.png",
+            "contentType": "image/png"
           }
         }
       },
@@ -12842,6 +12853,50 @@
               "id": "rr94wjxz7mfi"
             }
           },
+          "id": "BN39clI3REG2ZZA41648I",
+          "type": "Asset",
+          "createdAt": "2025-10-15T12:44:47.351Z",
+          "updatedAt": "2025-10-15T12:44:47.351Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 5,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "TemporaryLogoTechnoVIT",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/BN39clI3REG2ZZA41648I/2f52cfc9cfdc09810be67242e0f2e8e1/264a8d534413ff5e0b32db657bcbcbd7.png",
+            "details": {
+              "size": 1256483,
+              "image": {
+                "width": 3375,
+                "height": 4219
+              }
+            },
+            "fileName": "264a8d534413ff5e0b32db657bcbcbd7.png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
           "id": "Cf9EZ9kOLWeBnvnzOHrXf",
           "type": "Asset",
           "createdAt": "2025-10-22T19:39:22.156Z",
@@ -13787,6 +13842,51 @@
               "id": "rr94wjxz7mfi"
             }
           },
+          "id": "4Qln3dKHzHzjSLZ25rmVcG",
+          "type": "Asset",
+          "createdAt": "2025-10-22T16:20:52.506Z",
+          "updatedAt": "2025-10-22T16:20:52.506Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Robo Race",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/4Qln3dKHzHzjSLZ25rmVcG/3b23b6ef74b587b5c3e307553d0b9af1/1_20251018_104436_0000.png",
+            "details": {
+              "size": 3474194,
+              "image": {
+                "width": 1587,
+                "height": 2245
+              }
+            },
+            "fileName": "1_20251018_104436_0000.png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
           "id": "4V36f1x7blwPtBI1Erb8b8",
           "type": "Asset",
           "createdAt": "2025-10-22T13:38:53.233Z",
@@ -13861,6 +13961,51 @@
             },
             "fileName": "Car1 - KIRAN SAMPATH.jpg",
             "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "4dSsALEHAwaIuQ7O4w92xi",
+          "type": "Asset",
+          "createdAt": "2025-10-22T14:01:32.663Z",
+          "updatedAt": "2025-10-22T14:01:32.663Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Copy of Copy of Copy of Technovit Poster (2) - Sanjai G 24BEE1264",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/4dSsALEHAwaIuQ7O4w92xi/712c8278101d5a65658e5083a93dcbe6/Copy_of_Copy_of_Copy_of_Technovit_Poster___2__-_Sanjai_G_24BEE1264.png",
+            "details": {
+              "size": 528855,
+              "image": {
+                "width": 1080,
+                "height": 1350
+              }
+            },
+            "fileName": "Copy of Copy of Copy of Technovit Poster  (2) - Sanjai G 24BEE1264.png",
+            "contentType": "image/png"
           }
         }
       },
