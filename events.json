@@ -19,6 +19,62 @@
             "id": "rr94wjxz7mfi"
           }
         },
+        "id": "3nZ5jh6pLpp2OI09eTJoaG",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:13:02.174Z",
+        "updatedAt": "2025-10-22T16:57:22.783Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 11,
+        "revision": 5,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "ServoCore\n",
+        "clubName": "ROBOTICS CLUB X Dreadnought Robotics X AUVC (Autonomous Unmanned Vehicles Club)",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-28T10:00:00.000Z",
+        "endDateAndTime": "2025-10-29T08:00:00.000Z",
+        "pricePerPerson": 300,
+        "participationType": "Solo",
+        "eventVenue": "Kasturba Hall",
+        "shortDescription": "Students in teams of 4, guided by a mentor, will build a phone-controlled RC car with a servo-operated pick and drop system using 3D printed parts. They'll then compete in a championship to move blocks across a terrain in the shortest time.",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
         "id": "2w7ZcoQKCCRKUZvwg75jLJ",
         "type": "Entry",
         "createdAt": "2025-10-16T12:16:45.318Z",
@@ -115,62 +171,6 @@
         "eventVenue": "VOC  Auditorium",
         "shortDescription": "Participants build standout personal portfolio websites using AI tools and coding. Projects are judged on design, functionality, responsiveness, and presentation. Attendees gain skills to create impressive, professional portfolios from scratch.",
         "longDescription": "A dynamic workshop and contest where you build standout personal portfolio websites fast. Learn to harness AI tools and code from scratch to create portfolios that grab attention. Projects will be judged on design, functionality, responsiveness, and presentation. Attendees will gain walkaway with the ability to build impressive portfolios.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "3nZ5jh6pLpp2OI09eTJoaG",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:13:02.174Z",
-        "updatedAt": "2025-10-22T16:38:52.028Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 7,
-        "revision": 3,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "ServoCore\n",
-        "clubName": "ROBOTICS CLUB X Dreadnought Robotics X AUVC (Autonomous Unmanned Vehicles Club)",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-28T10:00:00.000Z",
-        "endDateAndTime": "2025-10-29T08:00:00.000Z",
-        "pricePerPerson": 300,
-        "participationType": "Solo",
-        "eventVenue": "Kasturba Hall",
-        "shortDescription": "Students in teams of 4, guided by a mentor, will build a phone-controlled RC car with a servo-operated pick and drop system using 3D printed parts. They'll then compete in a championship to move blocks across a terrain in the shortest time.",
-        "longDescription": "",
         "specialEvent": false
       }
     },
