@@ -2,10 +2,626 @@
   "sys": {
     "type": "Array"
   },
-  "total": 178,
+  "total": 179,
   "skip": 0,
-  "limit": 178,
+  "limit": 179,
   "items": [
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "2TnwvkgwBrQXaw2BZaUgO2",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:12:19.400Z",
+        "updatedAt": "2025-10-22T13:48:23.303Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 8,
+        "revision": 4,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Quiz - O - Mania",
+        "clubName": "INDIAN CONCRETE INSTITUTE STUDENT CHAPTER",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "Xpc8MNdVbM3mqbkEqBdMF"
+          }
+        },
+        "startDateAndTime": "2025-11-01T09:00+00:00",
+        "endDateAndTime": "2025-11-01T15:00+00:00",
+        "pricePerPerson": 50,
+        "participationType": "Duo/Trio",
+        "eventVenue": "AB3 101",
+        "shortDescription": "Quiz-o-Mania (Visual Civil Quiz)\n \n Identify structures, famous bridges, construction failures, or equipment from pictures.",
+        "longDescription": "Quiz-o-Mania (Visual Civil Quiz)\n \n Identify structures, famous bridges, construction failures, or equipment from pictures.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "3wQJGzbO1B5XNvy4t7YsmY",
+        "type": "Entry",
+        "createdAt": "2025-10-16T12:09:14.157Z",
+        "updatedAt": "2025-10-22T13:46:21.876Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Wolf of D Street Trio",
+        "clubName": "Fraternity of Young Innovators",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "obl7LtghrOHitbGJEEIti"
+          }
+        },
+        "startDateAndTime": "2025-10-30T14:00:00.000Z",
+        "endDateAndTime": "2025-10-30T07:20:00.000Z",
+        "pricePerPerson": 150,
+        "participationType": "Trio",
+        "eventVenue": "AB3 601",
+        "shortDescription": "Wolf of D Street on 30th Oct brings the stock market to campus. Students engage in simulations and challenges to learn investing, financial decisions, and sustainable economic growth, promoting financial literacy and aligning with SDG 8.",
+        "longDescription": "Get ready to dive into the dynamic world of finance with Wolf of D Street, an exciting event that brings the thrill of the stock market to campus! <br>Happening on 30th October, this event aims to promote financial literacy among students and encourage smart, sustainable economic growth — aligning with SDG 8: Decent Work and Economic Growth. <br>Through engaging activities, simulations, and challenges, participants will get a hands-on experience of , investing, and making financial decisions — just like the real wolves of Dalal Street! <br>",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "HDeV2aCpvzlGGHUqCGhqY",
+        "type": "Entry",
+        "createdAt": "2025-10-16T14:12:04.156Z",
+        "updatedAt": "2025-10-22T13:44:51.407Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Cursor Create Your First Website in a Day",
+        "clubName": "ARTIFICIAL INTELLIGENCE CLUB",
+        "eventType": "Workshop",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "7avmTc84aD0AK1ujNIGZ2f"
+          }
+        },
+        "startDateAndTime": "2025-11-01T09:00:00.000Z",
+        "endDateAndTime": "2025-11-01T15:00:00.000Z",
+        "pricePerPerson": 50,
+        "participationType": "Solo",
+        "eventVenue": "AB1 601",
+        "shortDescription": "Beginner-friendly workshop building a personal portfolio website with Cursor AI. Learn HTML/CSS, code with AI assistance, and create a fully customized site, ending with a showcase of participants’ completed projects.",
+        "longDescription": "“Cursor Create: Your First Website in a Day” is a beginner-friendly hands-on workshop where students will learn to build their very own personal portfolio website with the help of Cursor AI. Without needing prior coding experience, participants will explore the basics of HTML and CSS, see how AI can assist in writing and debugging code, and leave with a fully customized website they can proudly showcase on their resumes, LinkedIn, or GitHub. The event ends with a showcase round where students present their creations, making it both a learning and celebratory experience.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "7hx7dSGtIK5lNziHU8XO8x",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:08:45.744Z",
+        "updatedAt": "2025-10-22T13:42:12.294Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Emotive Fashion: Designing Micro-Couture",
+        "clubName": "Designers Club",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "4LE0CtM5YmdJkNbpJBxqrO"
+          }
+        },
+        "startDateAndTime": "2025-10-31T14:00:00.000Z",
+        "endDateAndTime": "2025-10-31T16:00:00.000Z",
+        "pricePerPerson": 150,
+        "participationType": "Solo",
+        "eventVenue": "AB3 404",
+        "shortDescription": "Design miniature costumes for emotional storytelling. Use AI to generate mood-based color palettes and motifs. Present your final creation and its emotional concept in a mini-exhibition.",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "6FIhYpR5KudoUTqHlhlLkd",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:07:20.788Z",
+        "updatedAt": "2025-10-22T13:40:06.769Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 7,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Codegolf",
+        "clubName": "THE HACK CLUB",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "3UAW2KLYHytZ3umzQOsaFJ"
+          }
+        },
+        "startDateAndTime": "2025-11-01T09:00+00:00",
+        "endDateAndTime": "2025-11-01T13:00+00:00",
+        "pricePerPerson": 50,
+        "participationType": "Solo",
+        "eventVenue": "AB3 102",
+        "shortDescription": "In Code Golf, solve coding problems with the shortest possible code. Every character counts in this high-energy challenge. The winner is the one who writes the leanest, most elegant solution in a battle of logic, creativity, and brevity.",
+        "longDescription": "Code Golf is a high-energy coding challenge where participants must solve problems with the shortest possible code. Every character counts, and the winner is the one who trims their logic down to the leanest, most elegant solution. It’s a battle of logic, creativity, and brevity—where less truly is more.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "4mYQCTuwUAvjiPANvvxgDZ",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:07:13.249Z",
+        "updatedAt": "2025-10-22T13:38:56.939Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "AIdeas in Fashion: The Poster Challenge",
+        "clubName": "Designers Club",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "4V36f1x7blwPtBI1Erb8b8"
+          }
+        },
+        "startDateAndTime": "2025-10-31T09:00:00.000Z",
+        "endDateAndTime": "2025-10-31T16:00:00.000Z",
+        "pricePerPerson": 100,
+        "participationType": "Solo",
+        "eventVenue": "AB1 601, AB1 602 ",
+        "shortDescription": "In this visionary competition, conceptualize a fashion product rooted in emotional intelligence, healing, and AI. Showcase your innovation in a brochure detailing its development process, brand identity, and sustainable design.",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "6vYUa6HqpFFLNfL4LqP4jv",
+        "type": "Entry",
+        "createdAt": "2025-10-16T14:14:22.197Z",
+        "updatedAt": "2025-10-22T13:33:14.536Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 4,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Prompt Wars AI Image Challenge Duo",
+        "clubName": "POP CULTURE CLUB",
+        "eventType": "Game",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "6qGCf3HHU16X9cT6ltbiN6"
+          }
+        },
+        "startDateAndTime": "2025-10-28T10:00:00.000Z",
+        "endDateAndTime": "2025-10-28T14:00:00.000Z",
+        "pricePerPerson": 80,
+        "participationType": "Duo",
+        "eventVenue": "Clock Court",
+        "shortDescription": "Participants will see an AI-generated image made by the club and must craft the most accurate prompt using an AI image generation tool to recreate it. The participant whose output best matches the original image will be declared the winner.",
+        "longDescription": "Participants will be shown an AI-generated image created by the club. Their task is to craft the most accurate prompt using an AI image generation tool to recreate the image as closely as possible.The participant whose output most closely matches the original image will be declared the winner",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "2DAWktgDhdSV4JUM5gw6PI",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:19:41.921Z",
+        "updatedAt": "2025-10-22T13:31:37.457Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 7,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Red Ribbon Workshop - Digital Detox",
+        "clubName": "RED RIBBON CLUB",
+        "eventType": "Workshop",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "7hezpA3VRrVe56W4zRsqIS"
+          }
+        },
+        "startDateAndTime": "2025-10-31T10:00:00.000Z",
+        "endDateAndTime": "2025-10-31T12:00:00.000Z",
+        "pricePerPerson": 250,
+        "participationType": "Solo",
+        "eventVenue": "AB2 702",
+        "shortDescription": "Digital detox - workshop for students to detox from digital addiction to enhance productivity and time management, which will result in stress reduction and mental health recovery.",
+        "longDescription": "Digital detox - workshop for students to detox from digital addiction to enhance productivity and time management, which will result in stress reduction and mental health recovery.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "3Swp0MqSkjfaM41pb3ZGlx",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:07:10.125Z",
+        "updatedAt": "2025-10-22T13:29:34.759Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "\"Quantity Surveying With PlanSwift\"",
+        "clubName": "CIVITEK",
+        "eventType": "Workshop",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "JYXI182trsV32P4OHUeRB"
+          }
+        },
+        "startDateAndTime": "2025-10-29T09:30:00.000Z",
+        "endDateAndTime": "2025-10-29T17:00:00.000Z",
+        "pricePerPerson": 100,
+        "participationType": "Solo",
+        "eventVenue": "AB1 514",
+        "shortDescription": "Use PlanSwift for quantity surveying to perform take-offs directly from digital drawings (PDFs/CAD). This streamlines Bill of Quantities (BOQ) preparation, boosting accuracy and reducing manual errors for civil, structural, and MEP works.",
+        "longDescription": "\"Quantity Surveying with PlanSwift\" refers to using the PlanSwift software to perform quantity take-offs for construction projects, which streamlines the Bill of Quantities (BOQ) preparation by directly measuring elements from digital drawings like PDFs and CAD files. This technique enhances efficiency and accuracy, benefiting quantity surveyors by reducing manual errors in estimating material quantities for civil, structural, and MEP (Mechanical, Electrical, and Plumbing) works",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "6mzi6vStgbe2YJ7V7rdGYu",
+        "type": "Entry",
+        "createdAt": "2025-10-16T12:16:46.267Z",
+        "updatedAt": "2025-10-22T13:28:00.444Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 8,
+        "revision": 4,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "CTRL FUN",
+        "clubName": "SAHAYATHA",
+        "eventType": "Game",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "7ELJ32aNdjqGblV38Q9Gji"
+          }
+        },
+        "startDateAndTime": "2025-10-27T11:30:00.000Z",
+        "endDateAndTime": "2025-10-27T16:00:00.000Z",
+        "pricePerPerson": 50,
+        "participationType": "Solo",
+        "eventVenue": "AB1 Portico, Handball Court",
+        "shortDescription": "Participants navigate a multi-round event: exploring the campus to solve clues, debugging Python code snippets, competing in fun games, and popping balloons with riddles or tasks. Teams earn points each round, and the highest scorer wins.",
+        "longDescription": "Event Rounds Description<br> Round 1: Campus Hunting<br> Participants will explore the campus to solve clues and find hidden locations. This round tests<br> observation, teamwork, and problem-solving skills. The fastest teams to complete the hunt will<br> move on to the next round.<br> Round 2: Debugging in Python<br> Participants will be given Python code snippets containing errors. The task is to debug and correct<br> the code within the given time limit. This round evaluates programming knowledge, logic, and<br> accuracy.<br> Round 3: Fun Games<br> This round will consist of 4 short and exciting fun games. They are designed to bring energy,<br> laughter, and friendly competition among participants. Performance in these games will also<br> contribute to overall scores.<br> Round 4: Balloon Pop Game<br> In the final round, balloons filled with chits containing riddles or tasks will be placed. Each team<br> pops a balloon and must solve the riddle or complete the task within the time limit. Correct answers<br> or successful attempts earn points. The team with the highest score at the end is declared the<br> winner. This round is fun, fast, and decisive.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "RBVudOLZeTyNJjbSP0EiL",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:12:12.939Z",
+        "updatedAt": "2025-10-22T13:26:20.519Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 5,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "OhmegaHack",
+        "clubName": "INTEGRATED CIRCUITS & SYSTEM DESIGN (ICSD)",
+        "eventType": "Hackathon",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "5lpq7y3eZtZp8LKh6vR4Hp"
+          }
+        },
+        "startDateAndTime": "2025-11-01T09:00+00:00",
+        "endDateAndTime": "2025-11-01T18:00+00:00",
+        "pricePerPerson": 150,
+        "participationType": "Trio",
+        "eventVenue": "AB2 001",
+        "shortDescription": "Join our single-stage hackathon on **VLSI and general electronics**! 🚀 Participants will choose a problem statement on the event day. Solutions will be judged on **innovation, creativity, and originality** by a panel of faculty and students.",
+        "longDescription": "Hackathon with problem statements on VLSI and general electronics. A single stage hackathon in which participants will be given problem statements to choose from on the day. They will then be judged based on multiple criteria such as innovation, creativity, originality etc by a mix of faculty and students.",
+        "specialEvent": false
+      }
+    },
     {
       "metadata": {
         "tags": [],
@@ -915,62 +1531,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "2DAWktgDhdSV4JUM5gw6PI",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:19:41.921Z",
-        "updatedAt": "2025-10-21T13:47:10.216Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 5,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Red Ribbon Workshop - Digital Detox",
-        "clubName": "RED RIBBON CLUB",
-        "eventType": "Workshop",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T10:00:00.000Z",
-        "endDateAndTime": "2025-10-31T12:00:00.000Z",
-        "pricePerPerson": 250,
-        "participationType": "Solo",
-        "eventVenue": "AB2 702",
-        "shortDescription": "Digital detox - workshop for students to detox from digital addiction to enhance productivity and time management, which will result in stress reduction and mental health recovery.",
-        "longDescription": "Digital detox - workshop for students to detox from digital addiction to enhance productivity and time management, which will result in stress reduction and mental health recovery.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "280g7INoI1oVqNP6d9TGNe",
         "type": "Entry",
         "createdAt": "2025-10-18T14:11:06.594Z",
@@ -1627,62 +2187,6 @@
         "eventVenue": "AB3 Terrace",
         "shortDescription": "We'll get hydrogen alpha telescope to enable students to watch the sun, sunspots, solar flares etc. Along with this we'll also teach people how to operate a telescope.",
         "longDescription": "We'll get hydrogen alpha telescope to enable students to watch the sun, sunspots, solar flares etc. Along with this we'll also teach people how to operate a telescope.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "2TnwvkgwBrQXaw2BZaUgO2",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:12:19.400Z",
-        "updatedAt": "2025-10-21T12:25:02.500Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 6,
-        "revision": 3,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Quiz - O - Mania",
-        "clubName": "INDIAN CONCRETE INSTITUTE STUDENT CHAPTER",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-11-01T09:00+00:00",
-        "endDateAndTime": "2025-11-01T15:00+00:00",
-        "pricePerPerson": 50,
-        "participationType": "Duo/Trio",
-        "eventVenue": "AB3 101",
-        "shortDescription": "Quiz-o-Mania (Visual Civil Quiz)\n \n Identify structures, famous bridges, construction failures, or equipment from pictures.",
-        "longDescription": "Quiz-o-Mania (Visual Civil Quiz)\n \n Identify structures, famous bridges, construction failures, or equipment from pictures.",
         "specialEvent": false
       }
     },
@@ -2467,62 +2971,6 @@
         "eventVenue": "AB1 607B",
         "shortDescription": "Design the Device is a workshop to help students understand the basics of semiconductor device simulation. It gives a simple introduction to how TCAD tools are used in research and industry for designing and analyzing electronic devices.",
         "longDescription": "Design the Device is a workshop to help students understand the basics of semiconductor device simulation. It gives a simple introduction to how TCAD tools are used in research and industry for designing and analyzing electronic devices.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "6mzi6vStgbe2YJ7V7rdGYu",
-        "type": "Entry",
-        "createdAt": "2025-10-16T12:16:46.267Z",
-        "updatedAt": "2025-10-21T11:37:26.837Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 6,
-        "revision": 3,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "CTRL FUN",
-        "clubName": "SAHAYATHA",
-        "eventType": "Game",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-27T11:30:00.000Z",
-        "endDateAndTime": "2025-10-27T16:00:00.000Z",
-        "pricePerPerson": 50,
-        "participationType": "Solo",
-        "eventVenue": "AB1 Portico, Handball Court",
-        "shortDescription": "Participants navigate a multi-round event: exploring the campus to solve clues, debugging Python code snippets, competing in fun games, and popping balloons with riddles or tasks. Teams earn points each round, and the highest scorer wins.",
-        "longDescription": "Event Rounds Description<br> Round 1: Campus Hunting<br> Participants will explore the campus to solve clues and find hidden locations. This round tests<br> observation, teamwork, and problem-solving skills. The fastest teams to complete the hunt will<br> move on to the next round.<br> Round 2: Debugging in Python<br> Participants will be given Python code snippets containing errors. The task is to debug and correct<br> the code within the given time limit. This round evaluates programming knowledge, logic, and<br> accuracy.<br> Round 3: Fun Games<br> This round will consist of 4 short and exciting fun games. They are designed to bring energy,<br> laughter, and friendly competition among participants. Performance in these games will also<br> contribute to overall scores.<br> Round 4: Balloon Pop Game<br> In the final round, balloons filled with chits containing riddles or tasks will be placed. Each team<br> pops a balloon and must solve the riddle or complete the task within the time limit. Correct answers<br> or successful attempts earn points. The team with the highest score at the end is declared the<br> winner. This round is fun, fast, and decisive.",
         "specialEvent": false
       }
     },
@@ -4107,62 +4555,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "RBVudOLZeTyNJjbSP0EiL",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:12:12.939Z",
-        "updatedAt": "2025-10-21T05:18:07.496Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 3,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "OhmegaHack",
-        "clubName": "INTEGRATED CIRCUITS & SYSTEM DESIGN (ICSD)",
-        "eventType": "Hackathon",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-11-01T09:00+00:00",
-        "endDateAndTime": "2025-11-01T18:00+00:00",
-        "pricePerPerson": 150,
-        "participationType": "Trio",
-        "eventVenue": "AB2 001",
-        "shortDescription": "Join our single-stage hackathon on **VLSI and general electronics**! 🚀 Participants will choose a problem statement on the event day. Solutions will be judged on **innovation, creativity, and originality** by a panel of faculty and students.",
-        "longDescription": "Hackathon with problem statements on VLSI and general electronics. A single stage hackathon in which participants will be given problem statements to choose from on the day. They will then be judged based on multiple criteria such as innovation, creativity, originality etc by a mix of faculty and students.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "wyF64aCoqRZPer0ZnKWPB",
         "type": "Entry",
         "createdAt": "2025-10-18T14:19:45.305Z",
@@ -5171,62 +5563,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "7hx7dSGtIK5lNziHU8XO8x",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:08:45.744Z",
-        "updatedAt": "2025-10-18T14:08:45.744Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Emotive Fashion: Designing Micro-Couture",
-        "clubName": "Designers Club",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T14:00:00.000Z",
-        "endDateAndTime": "2025-10-31T16:00:00.000Z",
-        "pricePerPerson": 150,
-        "participationType": "Solo",
-        "eventVenue": "AB3 404",
-        "shortDescription": "Design miniature costumes for emotional storytelling. Use AI to generate mood-based color palettes and motifs. Present your final creation and its emotional concept in a mini-exhibition.",
-        "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "3MHEYRiyseMvaK6XJJJ8UA",
         "type": "Entry",
         "createdAt": "2025-10-18T14:08:44.573Z",
@@ -5339,62 +5675,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "4mYQCTuwUAvjiPANvvxgDZ",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:07:13.249Z",
-        "updatedAt": "2025-10-18T14:07:13.249Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "AIdeas in Fashion: The Poster Challenge",
-        "clubName": "Designers Club",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T09:00:00.000Z",
-        "endDateAndTime": "2025-10-31T16:00:00.000Z",
-        "pricePerPerson": 100,
-        "participationType": "Solo",
-        "eventVenue": "AB1 601, AB1 602 ",
-        "shortDescription": "In this visionary competition, conceptualize a fashion product rooted in emotional intelligence, healing, and AI. Showcase your innovation in a brochure detailing its development process, brand identity, and sustainable design.",
-        "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "1pjlBMZ0yr5SdMAOdsoRoQ",
         "type": "Entry",
         "createdAt": "2025-10-18T14:07:12.240Z",
@@ -5491,62 +5771,6 @@
         "eventVenue": "Clock Court",
         "shortDescription": "Unleash your creativity in our tote bag design workshop! Transform a plain bag into a unique masterpiece using block printing, fabric markers, and vibrant paints. This hands-on session promotes sustainability and artistic expression. No prior experience is needed!",
         "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "3Swp0MqSkjfaM41pb3ZGlx",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:07:10.125Z",
-        "updatedAt": "2025-10-18T14:07:10.125Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "\"Quantity Surveying With PlanSwift\"",
-        "clubName": "CIVITEK",
-        "eventType": "Workshop",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-29T09:30:00.000Z",
-        "endDateAndTime": "2025-10-29T17:00:00.000Z",
-        "pricePerPerson": 100,
-        "participationType": "Solo",
-        "eventVenue": "AB1 514",
-        "shortDescription": "Use PlanSwift for quantity surveying to perform take-offs directly from digital drawings (PDFs/CAD). This streamlines Bill of Quantities (BOQ) preparation, boosting accuracy and reducing manual errors for civil, structural, and MEP works.",
-        "longDescription": "\"Quantity Surveying with PlanSwift\" refers to using the PlanSwift software to perform quantity take-offs for construction projects, which streamlines the Bill of Quantities (BOQ) preparation by directly measuring elements from digital drawings like PDFs and CAD files. This technique enhances efficiency and accuracy, benefiting quantity surveyors by reducing manual errors in estimating material quantities for civil, structural, and MEP (Mechanical, Electrical, and Plumbing) works",
         "specialEvent": false
       }
     },
@@ -6515,62 +6739,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "6vYUa6HqpFFLNfL4LqP4jv",
-        "type": "Entry",
-        "createdAt": "2025-10-16T14:14:22.197Z",
-        "updatedAt": "2025-10-16T14:14:22.197Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Prompt Wars AI Image Challenge Duo",
-        "clubName": "POP CULTURE CLUB",
-        "eventType": "Game",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-28T10:00:00.000Z",
-        "endDateAndTime": "2025-10-28T14:00:00.000Z",
-        "pricePerPerson": 80,
-        "participationType": "Duo",
-        "eventVenue": "Clock Court",
-        "shortDescription": "Participants will see an AI-generated image made by the club and must craft the most accurate prompt using an AI image generation tool to recreate it. The participant whose output best matches the original image will be declared the winner.",
-        "longDescription": "Participants will be shown an AI-generated image created by the club. Their task is to craft the most accurate prompt using an AI image generation tool to recreate the image as closely as possible.The participant whose output most closely matches the original image will be declared the winner",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "6g6ggIcOAYLDzusKGVd9sj",
         "type": "Entry",
         "createdAt": "2025-10-16T14:14:21.076Z",
@@ -7451,62 +7619,6 @@
         "eventVenue": "AB3 512",
         "shortDescription": "A GenAI workshop featuring an interactive session by industry experts from ManageEngine (Zoho) on GenAI in security domains, followed by a hands-on session by students exploring general applications, industry use cases, and MCP server creation.",
         "longDescription": "A genAI workshop starting with a interactive session by Industry people form ManageEngine (Zoho) on usage of genAI on securiy domains followed by a hands-on workshop from students on genAI of general use and for industry related usecases, MCP server creation, usecases.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "HDeV2aCpvzlGGHUqCGhqY",
-        "type": "Entry",
-        "createdAt": "2025-10-16T14:12:04.156Z",
-        "updatedAt": "2025-10-16T14:12:04.156Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Cursor Create Your First Website in a Day",
-        "clubName": "ARTIFICIAL INTELLIGENCE CLUB",
-        "eventType": "Workshop",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-11-01T09:00:00.000Z",
-        "endDateAndTime": "2025-11-01T15:00:00.000Z",
-        "pricePerPerson": 50,
-        "participationType": "Solo",
-        "eventVenue": "AB1 601",
-        "shortDescription": "Beginner-friendly workshop building a personal portfolio website with Cursor AI. Learn HTML/CSS, code with AI assistance, and create a fully customized site, ending with a showcase of participants’ completed projects.",
-        "longDescription": "“Cursor Create: Your First Website in a Day” is a beginner-friendly hands-on workshop where students will learn to build their very own personal portfolio website with the help of Cursor AI. Without needing prior coding experience, participants will explore the basics of HTML and CSS, see how AI can assist in writing and debugging code, and leave with a fully customized website they can proudly showcase on their resumes, LinkedIn, or GitHub. The event ends with a showcase round where students present their creations, making it both a learning and celebratory experience.",
         "specialEvent": false
       }
     },
@@ -8456,62 +8568,6 @@
         "endDateAndTime": "2025-10-30T07:20:00.000Z",
         "pricePerPerson": 120,
         "participationType": "Duo",
-        "eventVenue": "AB3 601",
-        "shortDescription": "Wolf of D Street on 30th Oct brings the stock market to campus. Students engage in simulations and challenges to learn investing, financial decisions, and sustainable economic growth, promoting financial literacy and aligning with SDG 8.",
-        "longDescription": "Get ready to dive into the dynamic world of finance with Wolf of D Street, an exciting event that brings the thrill of the stock market to campus! <br>Happening on 30th October, this event aims to promote financial literacy among students and encourage smart, sustainable economic growth — aligning with SDG 8: Decent Work and Economic Growth. <br>Through engaging activities, simulations, and challenges, participants will get a hands-on experience of , investing, and making financial decisions — just like the real wolves of Dalal Street! <br>",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "3wQJGzbO1B5XNvy4t7YsmY",
-        "type": "Entry",
-        "createdAt": "2025-10-16T12:09:14.157Z",
-        "updatedAt": "2025-10-16T12:09:14.157Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Wolf of D Street Trio",
-        "clubName": "Fraternity of Young Innovators",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-30T14:00:00.000Z",
-        "endDateAndTime": "2025-10-30T07:20:00.000Z",
-        "pricePerPerson": 150,
-        "participationType": "Trio",
         "eventVenue": "AB3 601",
         "shortDescription": "Wolf of D Street on 30th Oct brings the stock market to campus. Students engage in simulations and challenges to learn investing, financial decisions, and sustainable economic growth, promoting financial literacy and aligning with SDG 8.",
         "longDescription": "Get ready to dive into the dynamic world of finance with Wolf of D Street, an exciting event that brings the thrill of the stock market to campus! <br>Happening on 30th October, this event aims to promote financial literacy among students and encourage smart, sustainable economic growth — aligning with SDG 8: Decent Work and Economic Growth. <br>Through engaging activities, simulations, and challenges, participants will get a hands-on experience of , investing, and making financial decisions — just like the real wolves of Dalal Street! <br>",
@@ -10040,6 +10096,51 @@
               "id": "rr94wjxz7mfi"
             }
           },
+          "id": "3UAW2KLYHytZ3umzQOsaFJ",
+          "type": "Asset",
+          "createdAt": "2025-10-22T13:40:02.946Z",
+          "updatedAt": "2025-10-22T13:40:02.946Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "IMG 5804 - Ojas Singh",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/3UAW2KLYHytZ3umzQOsaFJ/5c281246949da92cf3499f05f8354594/IMG_5804_-_Ojas_Singh.png",
+            "details": {
+              "size": 884153,
+              "image": {
+                "width": 1587,
+                "height": 2245
+              }
+            },
+            "fileName": "IMG_5804 - Ojas Singh.png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
           "id": "3c0RbZTD8RgOllAOZ9N2c1",
           "type": "Asset",
           "createdAt": "2025-10-22T13:18:19.165Z",
@@ -10202,6 +10303,96 @@
               }
             },
             "fileName": "escape_the_death_star (1) - Sharon Ramkumar.png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "4LE0CtM5YmdJkNbpJBxqrO",
+          "type": "Asset",
+          "createdAt": "2025-10-22T13:42:08.704Z",
+          "updatedAt": "2025-10-22T13:42:08.704Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "emotive fashion (2)",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/4LE0CtM5YmdJkNbpJBxqrO/54009ba9261c1e94d1c7428e424f0716/emotive_fashion__2_.png",
+            "details": {
+              "size": 717557,
+              "image": {
+                "width": 1587,
+                "height": 2245
+              }
+            },
+            "fileName": "emotive fashion (2).png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "4V36f1x7blwPtBI1Erb8b8",
+          "type": "Asset",
+          "createdAt": "2025-10-22T13:38:53.233Z",
+          "updatedAt": "2025-10-22T13:38:53.233Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Untitled Project - Dark Green Pop-Up Fashion Minimalist Maximalism (4)",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/4V36f1x7blwPtBI1Erb8b8/3f828533a8f33249da213d5a31e1d604/Untitled_Project_-_Dark_Green_Pop-Up_Fashion_Minimalist_Maximalism___4_.png",
+            "details": {
+              "size": 415926,
+              "image": {
+                "width": 640,
+                "height": 800
+              }
+            },
+            "fileName": "Untitled Project - Dark Green Pop-Up Fashion Minimalist Maximalism  (4).png",
             "contentType": "image/png"
           }
         }
@@ -10399,6 +10590,51 @@
               "id": "rr94wjxz7mfi"
             }
           },
+          "id": "5lpq7y3eZtZp8LKh6vR4Hp",
+          "type": "Asset",
+          "createdAt": "2025-10-22T13:26:12.974Z",
+          "updatedAt": "2025-10-22T13:26:12.974Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Black White Bold Astronomy Event Poster - noel",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/5lpq7y3eZtZp8LKh6vR4Hp/f6cb5dbd40fe401a5ae2d6644eb956dd/Black_White_Bold_Astronomy_Event_Poster_-_noel.jpg",
+            "details": {
+              "size": 524437,
+              "image": {
+                "width": 1587,
+                "height": 2245
+              }
+            },
+            "fileName": "Black White Bold Astronomy Event Poster - noel.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
           "id": "5xGcUNgvVl7OWbNkT3agak",
           "type": "Asset",
           "createdAt": "2025-10-15T02:49:52.273Z",
@@ -10472,6 +10708,186 @@
               }
             },
             "fileName": "GreenCode (1) - Abirami S.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "6qGCf3HHU16X9cT6ltbiN6",
+          "type": "Asset",
+          "createdAt": "2025-10-22T13:33:10.643Z",
+          "updatedAt": "2025-10-22T13:33:10.643Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "IMG-20251021-WA0018 - Rakesh Raja 25BRS1382",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/6qGCf3HHU16X9cT6ltbiN6/a22725e9c9fde7b7664996197aa4b4e9/IMG-20251021-WA0018_-_Rakesh_Raja_25BRS1382.jpg",
+            "details": {
+              "size": 318982,
+              "image": {
+                "width": 1024,
+                "height": 1280
+              }
+            },
+            "fileName": "IMG-20251021-WA0018 - Rakesh Raja 25BRS1382.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "7ELJ32aNdjqGblV38Q9Gji",
+          "type": "Asset",
+          "createdAt": "2025-10-22T13:27:55.146Z",
+          "updatedAt": "2025-10-22T13:27:55.146Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Photo from Sathwik - Chittapragada Ragha Sathwik 24BEL1060",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/7ELJ32aNdjqGblV38Q9Gji/a7bda8bf1c572c5928c9c2c200d6852a/Photo_from_Sathwik_-_Chittapragada_Ragha_Sathwik_24BEL1060.jpg",
+            "details": {
+              "size": 322822,
+              "image": {
+                "width": 720,
+                "height": 1280
+              }
+            },
+            "fileName": "Photo from Sathwik - Chittapragada Ragha Sathwik 24BEL1060.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "7avmTc84aD0AK1ujNIGZ2f",
+          "type": "Asset",
+          "createdAt": "2025-10-22T13:44:48.104Z",
+          "updatedAt": "2025-10-22T13:44:48.104Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Cursor create - Navitha E 22MIA1051",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/7avmTc84aD0AK1ujNIGZ2f/49f154097056dd206763a7828137c3eb/Cursor_create_-_Navitha_E_22MIA1051.jpeg",
+            "details": {
+              "size": 153250,
+              "image": {
+                "width": 989,
+                "height": 1214
+              }
+            },
+            "fileName": "Cursor create - Navitha E 22MIA1051.jpeg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "7hezpA3VRrVe56W4zRsqIS",
+          "type": "Asset",
+          "createdAt": "2025-10-22T13:31:28.435Z",
+          "updatedAt": "2025-10-22T13:31:28.435Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "IMG-20251022-WA0028 - Kabilan R",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/7hezpA3VRrVe56W4zRsqIS/368fb39c386732038fbd81e3379c3264/IMG-20251022-WA0028_-_Kabilan_R.jpg",
+            "details": {
+              "size": 223875,
+              "image": {
+                "width": 1024,
+                "height": 1280
+              }
+            },
+            "fileName": "IMG-20251022-WA0028 - Kabilan R.jpg",
             "contentType": "image/jpeg"
           }
         }
@@ -10563,6 +10979,141 @@
             },
             "fileName": "TechnoVITPosters (1) - KIRAN SAMPATH.jpg",
             "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "JYXI182trsV32P4OHUeRB",
+          "type": "Asset",
+          "createdAt": "2025-10-22T13:29:23.944Z",
+          "updatedAt": "2025-10-22T13:29:23.944Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "7215 - Yarnagula Rohit Kumar 24BCL1011",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/JYXI182trsV32P4OHUeRB/7e65bfb530c1a8a79d3cc8b2b46c2be9/7215_-_Yarnagula_Rohit_Kumar_24BCL1011.png",
+            "details": {
+              "size": 280414,
+              "image": {
+                "width": 1587,
+                "height": 2245
+              }
+            },
+            "fileName": "7215 - Yarnagula Rohit Kumar 24BCL1011.png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "Xpc8MNdVbM3mqbkEqBdMF",
+          "type": "Asset",
+          "createdAt": "2025-10-22T13:48:19.740Z",
+          "updatedAt": "2025-10-22T13:48:19.740Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Poster final - Harsshitha B 24BCL1020",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/Xpc8MNdVbM3mqbkEqBdMF/bb28064196114670d5353100cda5f5dc/Poster_final_-_Harsshitha_B_24BCL1020.jpg",
+            "details": {
+              "size": 437237,
+              "image": {
+                "width": 1587,
+                "height": 2245
+              }
+            },
+            "fileName": "Poster final - Harsshitha B 24BCL1020.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "obl7LtghrOHitbGJEEIti",
+          "type": "Asset",
+          "createdAt": "2025-10-22T13:46:18.312Z",
+          "updatedAt": "2025-10-22T13:46:18.312Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Screenshot 2025-10-21 at 1.49.41 PM - Indrani Yadav",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/obl7LtghrOHitbGJEEIti/4d72b70f6b1ca31c29020b25c306ad0c/Screenshot_2025-10-21_at_1.49.41â__PM_-_Indrani_Yadav.png",
+            "details": {
+              "size": 712878,
+              "image": {
+                "width": 508,
+                "height": 714
+              }
+            },
+            "fileName": "Screenshot 2025-10-21 at 1.49.41 PM - Indrani Yadav.png",
+            "contentType": "image/png"
           }
         }
       },
