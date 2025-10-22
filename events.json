@@ -19,6 +19,342 @@
             "id": "rr94wjxz7mfi"
           }
         },
+        "id": "yR5hnn0lUzQZGnk6znExi",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:08:46.899Z",
+        "updatedAt": "2025-10-22T13:23:36.007Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 5,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "The Escape room Psych Lab lockdown",
+        "clubName": "RED RIBBON CLUB",
+        "eventType": "Game",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "5Zy8UBFU9tUejAsmvIvPZ"
+          }
+        },
+        "startDateAndTime": "2025-11-01T10:00+00:00",
+        "endDateAndTime": "2025-11-01T13:00+00:00",
+        "pricePerPerson": 500,
+        "participationType": "Squad",
+        "eventVenue": "AB2 701  psychometric lab",
+        "shortDescription": "A group of psychologists are trapped in a lab by their superiors. Forced to cooperate, they must overcome their differences and retrieve vital information to escape the deafening silence and the lab's confines.",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "3WCO3lWc4aXnz9AyHqvj9R",
+        "type": "Entry",
+        "createdAt": "2025-10-16T11:25:13.841Z",
+        "updatedAt": "2025-10-22T13:22:25.045Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 7,
+        "revision": 4,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Cook Off",
+        "clubName": "CODECHEF - VIT",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "45s1YvV5HZJLOrUNAJHjgI"
+          }
+        },
+        "startDateAndTime": "2025-11-02T08:00:00.000Z",
+        "endDateAndTime": "2025-11-02T15:00:00.000Z",
+        "pricePerPerson": 99,
+        "participationType": "Solo",
+        "eventVenue": "MG Auditorium",
+        "shortDescription": "Competitive programming round where participants will be solving cp questions and the top 3 will be awarded",
+        "longDescription": "Competitive programming round where participants will be solving cp questions and the top 3 will be awarded",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "7Mm759RYIax4Q2MNWHXq3v",
+        "type": "Entry",
+        "createdAt": "2025-10-17T08:22:10.279Z",
+        "updatedAt": "2025-10-22T13:20:12.548Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "F1 GRAND PRIX",
+        "clubName": "AUTOVIT",
+        "eventType": "Game",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "4ZoUCAZbKDK7tpJ5IEyv5p"
+          }
+        },
+        "startDateAndTime": "2025-10-31T09:00:00.000Z",
+        "endDateAndTime": "2025-11-01T09:00:00.000Z",
+        "pricePerPerson": 50,
+        "participationType": "Solo",
+        "eventVenue": "AB3 210 SATORI Lab",
+        "shortDescription": "A solo racing challenge on F1 25 where each participant first answers 10 rapid-fire technical questions. Every wrong answer adds +1 second penalty to their lap time. The fastest adjusted lap wins combining racing thrill with technical knowledge.",
+        "longDescription": "A solo racing challenge on F1 25 where each participant first answers 10 rapid-fire technical questions. Every wrong answer adds +1 second penalty to their lap time. The fastest adjusted lap wins combining racing thrill with technical knowledge.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "CWapoQx4WAgIjnAWsIzSb",
+        "type": "Entry",
+        "createdAt": "2025-10-16T11:39:09.475Z",
+        "updatedAt": "2025-10-22T13:18:25.531Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 6,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "ML Model wars",
+        "clubName": "PRODINNO",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "3c0RbZTD8RgOllAOZ9N2c1"
+          }
+        },
+        "startDateAndTime": "2025-11-02T09:00:00.000Z",
+        "endDateAndTime": "2025-11-02T13:00:00.000Z",
+        "pricePerPerson": 49,
+        "participationType": "Solo",
+        "eventVenue": "AB3 101",
+        "shortDescription": "The teams have to train a model that will perform best for the given dataset, the event will have 2 rounds, 1st round will be to familiarize the teams and will of carry minimum weightage and the second round will carry the rest of the points and based on metrics for the ML model the winner will be chosen",
+        "longDescription": "The teams have to train a model that will perform best for the given dataset, the event will have 2 rounds, 1st round will be to familiarize the teams and will of carry minimum weightage and the second round will carry the rest of the points and based on metrics for the ML model the winner will be chosen",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "braRd8Uq5WN8vxoQYnA1P",
+        "type": "Entry",
+        "createdAt": "2025-10-14T18:57:03.795Z",
+        "updatedAt": "2025-10-22T13:15:48.621Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 21,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Build A Bridge",
+        "clubName": "AUTOVIT",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "7xqzohVf1R3V6exzZ6KwuB"
+          }
+        },
+        "startDateAndTime": "2025-10-31T10:00+00:00",
+        "endDateAndTime": "2025-10-31T04:00+00:00",
+        "pricePerPerson": 300,
+        "participationType": "Trio",
+        "eventVenue": "AB3 208",
+        "shortDescription": "Teams of 3 get a fixed budget to build a bridge and load-bearing structure. Completing mini-challenges earns extra materials. Participants must optimize resources, time, and construction strategy to create the strongest, most efficient structure",
+        "longDescription": "we provide each participating team with a fixed budget, which they can spend on materials that we have in store and use to build a bridge to cross a gap and a structure that can take the maximum load. Participants are also given a chance to complete some small challenges to get more budget for materials. They now must optimize time spent on challenges materials and the time spent on constructing the bridge . Team of 3 will take on this challenge",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "4gL5cpDCK23mkgsm7OzKSI",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:14:45.860Z",
+        "updatedAt": "2025-10-22T13:06:55.997Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 4,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "The Realm of Minds",
+        "clubName": "MICROSOFT INNOVATION CLUB",
+        "eventType": "Workshop",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "116XdfkqFdiQuo0ofHFUm6"
+          }
+        },
+        "startDateAndTime": "2025-10-28T14:00:00.000Z",
+        "endDateAndTime": "2025-10-28T18:00:00.000Z",
+        "pricePerPerson": 50,
+        "participationType": "Solo",
+        "eventVenue": "VOC Auditorium",
+        "shortDescription": "Explore AI from fundamentals to deep learning in this hands-on workshop. Cover neural networks, NLP, and more through live coding and real-world projects. Learn to wield AI as a tool to build intelligent systems and solve modern challenges.",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
         "id": "FhBKBmMhz3MVRRYwP4Obq",
         "type": "Entry",
         "createdAt": "2025-10-18T14:07:19.716Z",
@@ -2203,62 +2539,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "3WCO3lWc4aXnz9AyHqvj9R",
-        "type": "Entry",
-        "createdAt": "2025-10-16T11:25:13.841Z",
-        "updatedAt": "2025-10-21T11:34:53.997Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 5,
-        "revision": 3,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Cook Off",
-        "clubName": "CODECHEF - VIT",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-11-02T08:00:00.000Z",
-        "endDateAndTime": "2025-11-02T15:00:00.000Z",
-        "pricePerPerson": 99,
-        "participationType": "Solo",
-        "eventVenue": "MG Auditorium",
-        "shortDescription": "Competitive programming round where participants will be solving cp questions and the top 3 will be awarded",
-        "longDescription": "Competitive programming round where participants will be solving cp questions and the top 3 will be awarded",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "2B9WmVUcMXnXXapgsvmdVu",
         "type": "Entry",
         "createdAt": "2025-10-16T11:45:12.418Z",
@@ -2635,62 +2915,6 @@
         "eventVenue": " AB1 Mini Portico",
         "shortDescription": "In this on-campus digital treasure hunt, teams of 1-4 will learn Open Source Intelligence (OSINT). Follow online and offline clues using cybersecurity skills to reach a finale where your choices determine how you find a missing person.",
         "longDescription": "An engaging, on-campus digital treasure hunt designed to introduce participants to Open Source Intelligence (OSINT) techniques through a mix of real-world investigation and cybersecurity puzzles. Starting from a physical location within the college, participants follow clues that take them on various online and offline trails involving web research, digital footprints, and hidden leads. All paths lead to a thrilling three-way finale where participants’ choices determine how they find a missing person. This event provides students with a fun, interactive way to build foundational OSINT and cybersecurity skills while offering management a well-rounded, technically relevant learning experience.\n \n Team size: 1-4",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "braRd8Uq5WN8vxoQYnA1P",
-        "type": "Entry",
-        "createdAt": "2025-10-14T18:57:03.795Z",
-        "updatedAt": "2025-10-21T11:03:39.034Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 16,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Build A Bridge",
-        "clubName": "AUTOVIT",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "7rpcxPKSUTTC2WmhukoQhO"
-          }
-        },
-        "startDateAndTime": "2025-10-31T10:00+00:00",
-        "endDateAndTime": "2025-10-31T04:00+00:00",
-        "pricePerPerson": 300,
-        "participationType": "Trio",
-        "eventVenue": "AB3 208",
-        "shortDescription": "Teams of 3 get a fixed budget to build a bridge and load-bearing structure. Completing mini-challenges earns extra materials. Participants must optimize resources, time, and construction strategy to create the strongest, most efficient structure",
-        "longDescription": "we provide each participating team with a fixed budget, which they can spend on materials that we have in store and use to build a bridge to cross a gap and a structure that can take the maximum load. Participants are also given a chance to complete some small challenges to get more budget for materials. They now must optimize time spent on challenges materials and the time spent on constructing the bridge . Team of 3 will take on this challenge",
         "specialEvent": false
       }
     },
@@ -3827,62 +4051,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "yR5hnn0lUzQZGnk6znExi",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:08:46.899Z",
-        "updatedAt": "2025-10-21T05:21:31.298Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 3,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "The Escape room Psych Lab lockdown",
-        "clubName": "RED RIBBON CLUB",
-        "eventType": "Game",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-11-01T10:00+00:00",
-        "endDateAndTime": "2025-11-01T13:00+00:00",
-        "pricePerPerson": 500,
-        "participationType": "Squad",
-        "eventVenue": "AB2 701  psychometric lab",
-        "shortDescription": "A group of psychologists are trapped in a lab by their superiors. Forced to cooperate, they must overcome their differences and retrieve vital information to escape the deafening silence and the lab's confines.",
-        "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "4hV4t7IBpjgRQoPAwlw8Ub",
         "type": "Entry",
         "createdAt": "2025-10-18T14:11:09.068Z",
@@ -4779,62 +4947,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "4gL5cpDCK23mkgsm7OzKSI",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:14:45.860Z",
-        "updatedAt": "2025-10-18T14:14:45.860Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "The Realm of Minds",
-        "clubName": "MICROSOFT INNOVATION CLUB",
-        "eventType": "Workshop",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-28T14:00:00.000Z",
-        "endDateAndTime": "2025-10-28T18:00:00.000Z",
-        "pricePerPerson": 50,
-        "participationType": "Solo",
-        "eventVenue": "VOC Auditorium",
-        "shortDescription": "Explore AI from fundamentals to deep learning in this hands-on workshop. Cover neural networks, NLP, and more through live coding and real-world projects. Learn to wield AI as a tool to build intelligent systems and solve modern challenges.",
-        "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "2RCN6Y7xm5TiT8f2Uy0pgx",
         "type": "Entry",
         "createdAt": "2025-10-18T14:14:42.912Z",
@@ -5507,62 +5619,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "CWapoQx4WAgIjnAWsIzSb",
-        "type": "Entry",
-        "createdAt": "2025-10-16T11:39:09.475Z",
-        "updatedAt": "2025-10-18T12:49:23.832Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 3,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "ML Model wars",
-        "clubName": "PRODINNO",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-11-02T09:00:00.000Z",
-        "endDateAndTime": "2025-11-02T13:00:00.000Z",
-        "pricePerPerson": 49,
-        "participationType": "Solo",
-        "eventVenue": "AB3 101",
-        "shortDescription": "The teams have to train a model that will perform best for the given dataset, the event will have 2 rounds, 1st round will be to familiarize the teams and will of carry minimum weightage and the second round will carry the rest of the points and based on metrics for the ML model the winner will be chosen",
-        "longDescription": "The teams have to train a model that will perform best for the given dataset, the event will have 2 rounds, 1st round will be to familiarize the teams and will of carry minimum weightage and the second round will carry the rest of the points and based on metrics for the ML model the winner will be chosen",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "3l8jy31mYX6fNqxp7m8gw3",
         "type": "Entry",
         "createdAt": "2025-10-16T14:12:00.297Z",
@@ -5827,62 +5883,6 @@
         "eventVenue": "Nethaji Auditorium",
         "shortDescription": "A genAI workshop featuring a session by ManageEngine (Zoho) on AI in security, followed by a hands-on session where students explore genAI for general and industry use cases, including MCP server creation.",
         "longDescription": "A GenAI workshop featuring an interactive session by industry experts from ManageEngine (Zoho) on GenAI in security domains, followed by a hands-on session by students exploring general applications, industry use cases, and MCP server creation.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "7Mm759RYIax4Q2MNWHXq3v",
-        "type": "Entry",
-        "createdAt": "2025-10-17T08:22:10.279Z",
-        "updatedAt": "2025-10-17T08:22:10.279Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "F1 GRAND PRIX",
-        "clubName": "AUTOVIT",
-        "eventType": "Game",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T09:00:00.000Z",
-        "endDateAndTime": "2025-11-01T09:00:00.000Z",
-        "pricePerPerson": 50,
-        "participationType": "Solo",
-        "eventVenue": "AB3 210 SATORI Lab",
-        "shortDescription": "A solo racing challenge on F1 25 where each participant first answers 10 rapid-fire technical questions. Every wrong answer adds +1 second penalty to their lap time. The fastest adjusted lap wins combining racing thrill with technical knowledge.",
-        "longDescription": "A solo racing challenge on F1 25 where each participant first answers 10 rapid-fire technical questions. Every wrong answer adds +1 second penalty to their lap time. The fastest adjusted lap wins combining racing thrill with technical knowledge.",
         "specialEvent": false
       }
     },
@@ -9996,6 +9996,95 @@
               "id": "rr94wjxz7mfi"
             }
           },
+          "id": "116XdfkqFdiQuo0ofHFUm6",
+          "type": "Asset",
+          "createdAt": "2025-10-22T13:03:57.859Z",
+          "updatedAt": "2025-10-22T13:03:57.859Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 5,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "realm of minds",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/116XdfkqFdiQuo0ofHFUm6/30b994521af917a08811c56d9da5eebb/1_-_Anuraag.png",
+            "details": {
+              "size": 415019,
+              "image": {
+                "width": 1191,
+                "height": 1684
+              }
+            },
+            "fileName": "1 - Anuraag.png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "3c0RbZTD8RgOllAOZ9N2c1",
+          "type": "Asset",
+          "createdAt": "2025-10-22T13:18:19.165Z",
+          "updatedAt": "2025-10-22T13:18:19.165Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "MMWars - Wadiyan Boi",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/3c0RbZTD8RgOllAOZ9N2c1/e239c9757c88bca0191c8a512bd3daef/MMWars_-_Wadiyan_Boi.png",
+            "details": {
+              "size": 939329,
+              "image": {
+                "width": 1587,
+                "height": 2245
+              }
+            },
+            "fileName": "MMWars - Wadiyan Boi.png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
           "id": "42jcutc0wBg63mfsz93rF5",
           "type": "Asset",
           "createdAt": "2025-10-14T18:29:28.330Z",
@@ -10041,10 +10130,10 @@
               "id": "rr94wjxz7mfi"
             }
           },
-          "id": "47Xb2cPhpwsklnk79zlQto",
+          "id": "45s1YvV5HZJLOrUNAJHjgI",
           "type": "Asset",
-          "createdAt": "2025-10-15T19:41:42.624Z",
-          "updatedAt": "2025-10-15T19:41:42.624Z",
+          "createdAt": "2025-10-22T13:22:15.876Z",
+          "updatedAt": "2025-10-22T13:22:15.876Z",
           "environment": {
             "sys": {
               "id": "master",
@@ -10052,23 +10141,113 @@
               "linkType": "Environment"
             }
           },
-          "publishedVersion": 4,
+          "publishedVersion": 3,
           "revision": 1,
           "locale": "en-US"
         },
         "fields": {
-          "title": "a4temporarylogo",
+          "title": "CookOff 2.0 Poster New - CodeChef VITCC",
+          "description": "",
           "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/47Xb2cPhpwsklnk79zlQto/2a8f703469bbedea6eb5fe26ad5be939/Untitled_design__6_.png",
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/45s1YvV5HZJLOrUNAJHjgI/56af29f0b7ac9ca3a8538d803f8e96e5/CookOff_2.0_Poster_New_-_CodeChef_VITCC.png",
             "details": {
-              "size": 380069,
+              "size": 507352,
               "image": {
                 "width": 1587,
                 "height": 2245
               }
             },
-            "fileName": "Untitled design (6).png",
+            "fileName": "CookOff 2.0 Poster New - CodeChef VITCC.png",
             "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "47Xb2cPhpwsklnk79zlQto",
+          "type": "Asset",
+          "createdAt": "2025-10-15T19:41:42.624Z",
+          "updatedAt": "2025-10-22T13:05:09.069Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 29,
+          "revision": 5,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Na",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/47Xb2cPhpwsklnk79zlQto/5f5976ee84a066134d92865144fb3834/escape_the_death_star__1__-_Sharon_Ramkumar.png",
+            "details": {
+              "size": 735841,
+              "image": {
+                "width": 1587,
+                "height": 2245
+              }
+            },
+            "fileName": "escape_the_death_star (1) - Sharon Ramkumar.png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "4ZoUCAZbKDK7tpJ5IEyv5p",
+          "type": "Asset",
+          "createdAt": "2025-10-22T13:19:35.397Z",
+          "updatedAt": "2025-10-22T13:19:35.397Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Car1 - KIRAN SAMPATH",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/4ZoUCAZbKDK7tpJ5IEyv5p/3dad2f3ce901e12a4a69b5b523654abb/Car1_-_KIRAN_SAMPATH.jpg",
+            "details": {
+              "size": 509473,
+              "image": {
+                "width": 1587,
+                "height": 2245
+              }
+            },
+            "fileName": "Car1 - KIRAN SAMPATH.jpg",
+            "contentType": "image/jpeg"
           }
         }
       },
@@ -10158,6 +10337,51 @@
               }
             },
             "fileName": "Brainware (updated) - Kaushik Saravanan.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "5Zy8UBFU9tUejAsmvIvPZ",
+          "type": "Asset",
+          "createdAt": "2025-10-22T13:23:30.210Z",
+          "updatedAt": "2025-10-22T13:23:30.210Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "IMG-20251022-WA0014 - Dr. U. Vijayabanu",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/5Zy8UBFU9tUejAsmvIvPZ/a3fed27fc7b2b66e190a31ecb2b49699/IMG-20251022-WA0014_-_Dr._U._Vijayabanu.jpg",
+            "details": {
+              "size": 233472,
+              "image": {
+                "width": 1024,
+                "height": 1280
+              }
+            },
+            "fileName": "IMG-20251022-WA0014 - Dr. U. Vijayabanu.jpg",
             "contentType": "image/jpeg"
           }
         }
@@ -10265,51 +10489,6 @@
               "id": "rr94wjxz7mfi"
             }
           },
-          "id": "7rpcxPKSUTTC2WmhukoQhO",
-          "type": "Asset",
-          "createdAt": "2025-10-14T18:56:06.663Z",
-          "updatedAt": "2025-10-14T18:56:06.663Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 4,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "Na",
-          "description": "we provide each participating team with a fixed budget, which they can spend on materials that we have in store and use to build a bridge to cross a gap and a structure that can take the maximum load. Participants are also given a chance to complete some small challenges to get more budget for materials. They now must optimize time spent on challenges materials and the time spent on constructing the bridge . Team of 3 will take on this challenge",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/7rpcxPKSUTTC2WmhukoQhO/94fe315a8b5880a8f91848328e4e3d96/TechnoVITPosters_-_IT_AUTOVIT.jpg",
-            "details": {
-              "size": 455585,
-              "image": {
-                "width": 1587,
-                "height": 2245
-              }
-            },
-            "fileName": "TechnoVITPosters - IT AUTOVIT.jpg",
-            "contentType": "image/jpeg"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
           "id": "7v2AZm2eZOhEHXan7lQktJ",
           "type": "Asset",
           "createdAt": "2025-10-15T03:14:25.877Z",
@@ -10338,6 +10517,51 @@
               }
             },
             "fileName": "THE STRANGER CLUES - Open Source Programming Club.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "7xqzohVf1R3V6exzZ6KwuB",
+          "type": "Asset",
+          "createdAt": "2025-10-22T13:15:40.530Z",
+          "updatedAt": "2025-10-22T13:15:40.530Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "build a bridge",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/7xqzohVf1R3V6exzZ6KwuB/84e7b345722543a28da2c77ec29b561e/TechnoVITPosters__1__-_KIRAN_SAMPATH.jpg",
+            "details": {
+              "size": 461036,
+              "image": {
+                "width": 1587,
+                "height": 2245
+              }
+            },
+            "fileName": "TechnoVITPosters (1) - KIRAN SAMPATH.jpg",
             "contentType": "image/jpeg"
           }
         }
