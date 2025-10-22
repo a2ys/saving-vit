@@ -19,6 +19,342 @@
             "id": "rr94wjxz7mfi"
           }
         },
+        "id": "mdSn0QUAM8dodM3qVTfoh",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:19:46.425Z",
+        "updatedAt": "2025-10-22T14:01:36.329Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "LumiNova",
+        "clubName": "ENERGY AND FUEL USER'S ASSOCIATION (ENFUSE)",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "4dSsALEHAwaIuQ7O4w92xi"
+          }
+        },
+        "startDateAndTime": "2025-10-31T21:30:00.000Z",
+        "endDateAndTime": "2025-10-31T13:00:00.000Z",
+        "pricePerPerson": 250,
+        "participationType": "Duo/Trio",
+        "eventVenue": "AB1 - 002",
+        "shortDescription": "A event where we’ll providing the participants with LEDs,resistors and Arduino UNO, the team with the most creative design of LEDs desigining will be the winner",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "4hV4t7IBpjgRQoPAwlw8Ub",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:11:09.068Z",
+        "updatedAt": "2025-10-22T14:00:33.469Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 5,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Healing Hues",
+        "clubName": "Designers Club",
+        "eventType": "Workshop",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "3yzyY3MUtPEqFPM07t9CpQ"
+          }
+        },
+        "startDateAndTime": "2025-11-01T10:00+00:00",
+        "endDateAndTime": "2025-11-01T12:00+00:00",
+        "pricePerPerson": 150,
+        "participationType": "Duo",
+        "eventVenue": "AB1 701",
+        "shortDescription": "Explore your inner world in this immersive face art competition. Generate a unique emotional prompt using AI or introspection. Transform your face into a canvas of healing and expression, interpreting yourself through color, symbolism, and design.\n\n",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "1hdhCcgA25q697lT6yUWds",
+        "type": "Entry",
+        "createdAt": "2025-10-17T16:15:47.409Z",
+        "updatedAt": "2025-10-22T13:58:11.369Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 15,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Robotic Metal Additive Manufacturing",
+        "clubName": "ASME STUDENT CHAPTER",
+        "eventType": "Workshop",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "4DcgIW180sTpIohAhVtC9q"
+          }
+        },
+        "startDateAndTime": "2025-11-01T08:30+00:00",
+        "endDateAndTime": "2025-11-01T04:30+00:00",
+        "pricePerPerson": 200,
+        "participationType": "Solo",
+        "eventVenue": "AB2 015",
+        "shortDescription": "Get hands-on experience with robotic metal additive manufacturing. In this session, you'll use a robotic arc wire direct energy deposition setup to manufacture your own product. Perfect for students who want to create their own custom metal parts.",
+        "longDescription": "Get hands-on experience with robotic metal additive manufacturing. In this session, you'll use a robotic arc wire direct energy deposition setup to manufacture your own product. Perfect for students who want to create their own custom metal parts.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "4eFEL6LEE4AASHEFcslTrQ",
+        "type": "Entry",
+        "createdAt": "2025-10-16T09:36:59.987Z",
+        "updatedAt": "2025-10-22T13:56:29.353Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 17,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Budgeting Challenge",
+        "clubName": "INDIAN CONCRETE INSTITUTE STUDENT CHAPTER",
+        "eventType": "Game",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "z2MsxBoCQI5qSKQUAVQ75"
+          }
+        },
+        "startDateAndTime": "2025-11-01T11:00+00:00",
+        "endDateAndTime": "2025-11-01T17:00+00:00",
+        "pricePerPerson": 100,
+        "participationType": "Duo/Trio/Squad",
+        "eventVenue": "AB3 401",
+        "shortDescription": "Teams manage a real-world civil engineering project with limited resources, preparing an optimized budget balancing quality, cost, and feasibility. The most practical and efficient plan wins, testing planning, strategy, and decision-making skills.",
+        "longDescription": "Test your planning and management skills! In this event, participants will be given a real-world civil engineering project scenario along with limited resources and constraints. The task is to prepare an efficient budget plan that balances quality, cost, and feasibility. The team with the most practical and optimized budget wins.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "4LR07ucaTXNlxYUUVYWFJo",
+        "type": "Entry",
+        "createdAt": "2025-10-16T14:16:08.719Z",
+        "updatedAt": "2025-10-22T13:54:15.552Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 4,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Whodunit exe",
+        "clubName": "THE HACK CLUB",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "17hgCoCi9rLyw4DBBUVvY2"
+          }
+        },
+        "startDateAndTime": "2025-11-01T09:00:00.000Z",
+        "endDateAndTime": "2025-11-01T16:00:00.000Z",
+        "pricePerPerson": 50,
+        "participationType": "Solo",
+        "eventVenue": "AB3 501",
+        "shortDescription": "Participants act as digital detectives in a CTF-style murder mystery. They uncover hidden clues, solve technical puzzles, and piece together evidence under time pressure, combining investigation, problem-solving, and teamwork.",
+        "longDescription": "Participants will step into the role of digital detectives in this thrilling capture-the-flag challenge, where they must unravel a gripping murder mystery by uncovering hidden clues, solving technical puzzles, and piecing together evidence. The event blends problem-solving, investigation, and teamwork under time pressure, offering an engaging and competitive experience for beginners and enthusiasts alike.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "4f7nRq9bjXpYBZpAR9dXmc",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:12:18.209Z",
+        "updatedAt": "2025-10-22T13:51:56.201Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Power in the Air: Wireless Energy Make-a-Thon",
+        "clubName": "AGRHI INNOVATORS CLUB",
+        "eventType": "Workshop",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "3rlLdZ0Qyo20q9uYbk5Mfy"
+          }
+        },
+        "startDateAndTime": "2025-10-31T14:00:00.000Z",
+        "endDateAndTime": "2025-10-31T17:00:00.000Z",
+        "pricePerPerson": 30,
+        "participationType": "Solo",
+        "eventVenue": "AB3 210 SATORI Lab ",
+        "shortDescription": "This workshop and Make-a-Thon focuses on wireless power transfer. ⚡ You'll learn the science behind air-cored coupled inductors, then design, build, and compete with your own prototypes to transfer electricity through the air.",
+        "longDescription": "Experience the future of power! This workshop and Make-a-Thon will guide you through designing air-cored coupled inductors to achieve electricity transfer through air. Learn the science, build your own prototypes, and compete with peers in creating innovative wireless power solutions. Gen Z innovation meets real-world energy transfer!",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
         "id": "2TnwvkgwBrQXaw2BZaUgO2",
         "type": "Entry",
         "createdAt": "2025-10-18T14:12:19.400Z",
@@ -4499,62 +4835,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "4hV4t7IBpjgRQoPAwlw8Ub",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:11:09.068Z",
-        "updatedAt": "2025-10-21T05:20:00.645Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 3,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Healing Hues",
-        "clubName": "Designers Club",
-        "eventType": "Workshop",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-11-01T10:00+00:00",
-        "endDateAndTime": "2025-11-01T12:00+00:00",
-        "pricePerPerson": 150,
-        "participationType": "Duo",
-        "eventVenue": "AB1 701",
-        "shortDescription": "Explore your inner world in this immersive face art competition. Generate a unique emotional prompt using AI or introspection. Transform your face into a canvas of healing and expression, interpreting yourself through color, symbolism, and design.\n\n",
-        "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "wyF64aCoqRZPer0ZnKWPB",
         "type": "Entry",
         "createdAt": "2025-10-18T14:19:45.305Z",
@@ -5059,62 +5339,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "mdSn0QUAM8dodM3qVTfoh",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:19:46.425Z",
-        "updatedAt": "2025-10-18T14:19:46.425Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "LumiNova",
-        "clubName": "ENERGY AND FUEL USER'S ASSOCIATION (ENFUSE)",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T21:30:00.000Z",
-        "endDateAndTime": "2025-10-31T13:00:00.000Z",
-        "pricePerPerson": 250,
-        "participationType": "Duo/Trio",
-        "eventVenue": "AB1 - 002",
-        "shortDescription": "A event where we’ll providing the participants with LEDs,resistors and Arduino UNO, the team with the most creative design of LEDs desigining will be the winner",
-        "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "2CTy938YxBJ6TJnh5iQHBc",
         "type": "Entry",
         "createdAt": "2025-10-18T14:19:44.220Z",
@@ -5379,62 +5603,6 @@
         "eventVenue": "AB3 312",
         "shortDescription": "Join a workshop on Scripting and Verification in VLSI Design, led by a VIT Chennai faculty member. This session provides practical exposure to industry-relevant scripting techniques and verification methodologies used in modern VLSI design flows.",
         "longDescription": "A Workshop on Scripting and Verification in VLSI Design and Technology will be conducted by a faculty member from VIT Chennai. The session will focus on scripting techniques, verification methodologies, and their applications in modern VLSI design flows. It is aimed at providing participants with both conceptual understanding and practical exposure to industry-relevant practices.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "4f7nRq9bjXpYBZpAR9dXmc",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:12:18.209Z",
-        "updatedAt": "2025-10-18T14:12:18.209Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Power in the Air: Wireless Energy Make-a-Thon",
-        "clubName": "AGRHI INNOVATORS CLUB",
-        "eventType": "Workshop",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T14:00:00.000Z",
-        "endDateAndTime": "2025-10-31T17:00:00.000Z",
-        "pricePerPerson": 30,
-        "participationType": "Solo",
-        "eventVenue": "AB3 210 SATORI Lab ",
-        "shortDescription": "This workshop and Make-a-Thon focuses on wireless power transfer. ⚡ You'll learn the science behind air-cored coupled inductors, then design, build, and compete with your own prototypes to transfer electricity through the air.",
-        "longDescription": "Experience the future of power! This workshop and Make-a-Thon will guide you through designing air-cored coupled inductors to achieve electricity transfer through air. Learn the science, build your own prototypes, and compete with peers in creating innovative wireless power solutions. Gen Z innovation meets real-world energy transfer!",
         "specialEvent": false
       }
     },
@@ -5940,62 +6108,6 @@
         "shortDescription": "Gear up for Robotics Racing! Claim the ultimate robotics champion title!",
         "longDescription": "Gear up for Robotics Racing! Claim the ultimate robotics champion title!",
         "specialEvent": true
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "1hdhCcgA25q697lT6yUWds",
-        "type": "Entry",
-        "createdAt": "2025-10-17T16:15:47.409Z",
-        "updatedAt": "2025-10-17T16:15:47.409Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 12,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Robotic Metal Additive Manufacturing",
-        "clubName": "ASME STUDENT CHAPTER",
-        "eventType": "Workshop",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-11-01T08:30+00:00",
-        "endDateAndTime": "2025-11-01T04:30+00:00",
-        "pricePerPerson": 200,
-        "participationType": "Solo",
-        "eventVenue": "AB2 015",
-        "shortDescription": "Get hands-on experience with robotic metal additive manufacturing. In this session, you'll use a robotic arc wire direct energy deposition setup to manufacture your own product. Perfect for students who want to create their own custom metal parts.",
-        "longDescription": "Get hands-on experience with robotic metal additive manufacturing. In this session, you'll use a robotic arc wire direct energy deposition setup to manufacture your own product. Perfect for students who want to create their own custom metal parts.",
-        "specialEvent": false
       }
     },
     {
@@ -6555,62 +6667,6 @@
         "eventVenue": "AB3 201",
         "shortDescription": "Explore quantum computing principles like superposition and entanglement to accelerate deep learning. Learn hybrid algorithms, quantum-inspired neural networks, and see hands-on demos highlighting future AI applications.",
         "longDescription": "This workshop explores how quantum computing principles, such as superposition and entanglement, can accelerate and transform deep learning models. Participants will learn about quantum-inspired neural networks, hybrid quantum-classical algorithms, and their potential in solving complex problems. Hands-on demonstrations and case studies will highlight the future of quantum-enhanced AI applications.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "4LR07ucaTXNlxYUUVYWFJo",
-        "type": "Entry",
-        "createdAt": "2025-10-16T14:16:08.719Z",
-        "updatedAt": "2025-10-16T14:16:08.719Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Whodunit exe",
-        "clubName": "THE HACK CLUB",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-11-01T09:00:00.000Z",
-        "endDateAndTime": "2025-11-01T16:00:00.000Z",
-        "pricePerPerson": 50,
-        "participationType": "Solo",
-        "eventVenue": "AB3 501",
-        "shortDescription": "Participants act as digital detectives in a CTF-style murder mystery. They uncover hidden clues, solve technical puzzles, and piece together evidence under time pressure, combining investigation, problem-solving, and teamwork.",
-        "longDescription": "Participants will step into the role of digital detectives in this thrilling capture-the-flag challenge, where they must unravel a gripping murder mystery by uncovering hidden clues, solving technical puzzles, and piecing together evidence. The event blends problem-solving, investigation, and teamwork under time pressure, offering an engaging and competitive experience for beginners and enthusiasts alike.",
         "specialEvent": false
       }
     },
@@ -9483,62 +9539,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "4eFEL6LEE4AASHEFcslTrQ",
-        "type": "Entry",
-        "createdAt": "2025-10-16T09:36:59.987Z",
-        "updatedAt": "2025-10-16T09:36:59.987Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 15,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Budgeting Challenge",
-        "clubName": "INDIAN CONCRETE INSTITUTE STUDENT CHAPTER",
-        "eventType": "Game",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-11-01T11:00+00:00",
-        "endDateAndTime": "2025-11-01T17:00+00:00",
-        "pricePerPerson": 100,
-        "participationType": "Duo/Trio/Squad",
-        "eventVenue": "AB3 401",
-        "shortDescription": "Teams manage a real-world civil engineering project with limited resources, preparing an optimized budget balancing quality, cost, and feasibility. The most practical and efficient plan wins, testing planning, strategy, and decision-making skills.",
-        "longDescription": "Test your planning and management skills! In this event, participants will be given a real-world civil engineering project scenario along with limited resources and constraints. The task is to prepare an efficient budget plan that balances quality, cost, and feasibility. The team with the most practical and optimized budget wins.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "TGKfsxsL7mNHgQTpVpTF3",
         "type": "Entry",
         "createdAt": "2025-10-16T09:23:44.062Z",
@@ -10096,6 +10096,51 @@
               "id": "rr94wjxz7mfi"
             }
           },
+          "id": "17hgCoCi9rLyw4DBBUVvY2",
+          "type": "Asset",
+          "createdAt": "2025-10-22T13:54:10.131Z",
+          "updatedAt": "2025-10-22T13:54:10.131Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "WHODUNIT.EXE (3) (1) - Helix",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/17hgCoCi9rLyw4DBBUVvY2/bb70666ad74be6c26cd3a89ba291fbe1/WHODUNIT.EXE__3___1__-_Helix.png",
+            "details": {
+              "size": 686875,
+              "image": {
+                "width": 1414,
+                "height": 2000
+              }
+            },
+            "fileName": "WHODUNIT.EXE (3) (1) - Helix.png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
           "id": "3UAW2KLYHytZ3umzQOsaFJ",
           "type": "Asset",
           "createdAt": "2025-10-22T13:40:02.946Z",
@@ -10169,6 +10214,96 @@
               }
             },
             "fileName": "MMWars - Wadiyan Boi.png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "3rlLdZ0Qyo20q9uYbk5Mfy",
+          "type": "Asset",
+          "createdAt": "2025-10-22T13:50:50.896Z",
+          "updatedAt": "2025-10-22T13:50:50.896Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Wireless Energy Make-a-Thon 1 - Shreyash Chaudhari",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/3rlLdZ0Qyo20q9uYbk5Mfy/b2be3f1f70c3aa88a95ae366e22ae23b/Wireless_Energy_Make-a-Thon_1_-_Shreyash_Chaudhari.png",
+            "details": {
+              "size": 845618,
+              "image": {
+                "width": 1587,
+                "height": 2245
+              }
+            },
+            "fileName": "Wireless Energy Make-a-Thon 1 - Shreyash Chaudhari.png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "3yzyY3MUtPEqFPM07t9CpQ",
+          "type": "Asset",
+          "createdAt": "2025-10-22T13:58:53.355Z",
+          "updatedAt": "2025-10-22T13:58:53.355Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Scan here to register 20251022 051927 0000 - G.K.Yuvasri",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/3yzyY3MUtPEqFPM07t9CpQ/a739410eaae9413ab313148ce9682b0f/Scan_here_to_register_20251022_051927_0000_-_G.K.Yuvasri.png",
+            "details": {
+              "size": 539337,
+              "image": {
+                "width": 654,
+                "height": 788
+              }
+            },
+            "fileName": "Scan here to register_20251022_051927_0000 - G.K.Yuvasri.png",
             "contentType": "image/png"
           }
         }
@@ -10320,6 +10455,51 @@
               "id": "rr94wjxz7mfi"
             }
           },
+          "id": "4DcgIW180sTpIohAhVtC9q",
+          "type": "Asset",
+          "createdAt": "2025-10-22T13:58:02.440Z",
+          "updatedAt": "2025-10-22T13:58:02.440Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "ROBOTICS WORKSHOP - Nila S 25BME1038",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/4DcgIW180sTpIohAhVtC9q/e5d2917c7b61413213005b5f7ebb7ae7/ROBOTICS_WORKSHOP_-_Nila_S_25BME1038.jpeg",
+            "details": {
+              "size": 159664,
+              "image": {
+                "width": 1038,
+                "height": 1600
+              }
+            },
+            "fileName": "ROBOTICS WORKSHOP - Nila S 25BME1038.jpeg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
           "id": "4LE0CtM5YmdJkNbpJBxqrO",
           "type": "Asset",
           "createdAt": "2025-10-22T13:42:08.704Z",
@@ -10439,6 +10619,51 @@
             },
             "fileName": "Car1 - KIRAN SAMPATH.jpg",
             "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "4dSsALEHAwaIuQ7O4w92xi",
+          "type": "Asset",
+          "createdAt": "2025-10-22T14:01:32.663Z",
+          "updatedAt": "2025-10-22T14:01:32.663Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Copy of Copy of Copy of Technovit Poster (2) - Sanjai G 24BEE1264",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/4dSsALEHAwaIuQ7O4w92xi/712c8278101d5a65658e5083a93dcbe6/Copy_of_Copy_of_Copy_of_Technovit_Poster___2__-_Sanjai_G_24BEE1264.png",
+            "details": {
+              "size": 528855,
+              "image": {
+                "width": 1080,
+                "height": 1350
+              }
+            },
+            "fileName": "Copy of Copy of Copy of Technovit Poster  (2) - Sanjai G 24BEE1264.png",
+            "contentType": "image/png"
           }
         }
       },
@@ -11114,6 +11339,51 @@
             },
             "fileName": "Screenshot 2025-10-21 at 1.49.41 PM - Indrani Yadav.png",
             "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "z2MsxBoCQI5qSKQUAVQ75",
+          "type": "Asset",
+          "createdAt": "2025-10-22T13:56:26.227Z",
+          "updatedAt": "2025-10-22T13:56:26.227Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "WhatsApp Image 2025-10-21 at 16.50.52 fc9cbeb6 - Harisankar V",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/z2MsxBoCQI5qSKQUAVQ75/3944dfa9be75c4c9e2a720a8e49fadec/WhatsApp_Image_2025-10-21_at_16.50.52_fc9cbeb6_-_Harisankar_V.jpg",
+            "details": {
+              "size": 138495,
+              "image": {
+                "width": 794,
+                "height": 1123
+              }
+            },
+            "fileName": "WhatsApp Image 2025-10-21 at 16.50.52_fc9cbeb6 - Harisankar V.jpg",
+            "contentType": "image/jpeg"
           }
         }
       },
