@@ -19,6 +19,230 @@
             "id": "rr94wjxz7mfi"
           }
         },
+        "id": "2AVoalUcxDCQGCz2Q1sSF6",
+        "type": "Entry",
+        "createdAt": "2025-10-18T05:48:11.080Z",
+        "updatedAt": "2025-10-22T16:28:08.183Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 17,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Rotor Rush",
+        "clubName": "TechnoVIT",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "7JGlt1jP0YnyVc18BK4RlG"
+          }
+        },
+        "startDateAndTime": "2025-11-01T14:00+00:00",
+        "endDateAndTime": "2025-11-01T20:00+00:00",
+        "pricePerPerson": 1500,
+        "participationType": "Solo/Duo/Trio/Squad",
+        "eventVenue": "MG Auditorium",
+        "shortDescription": "Dive into the future with Drone VR! Experience the thrill of piloting drones in immersive virtual reality. Test your reflexes, precision, and control as you race through stunning digital skies and futuristic arenas.",
+        "longDescription": "Dive into the future with Drone VR! Experience the thrill of piloting drones in immersive virtual reality. Test your reflexes, precision, and control as you race through stunning digital skies and futuristic arenas.",
+        "specialEvent": true
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "2Hq7m0eLbsI99y8LqBu6if",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:13:01.109Z",
+        "updatedAt": "2025-10-22T16:24:48.770Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 5,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Robo Tug of War",
+        "clubName": "TechnoVIT",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "3e0iW3BFAoqT3GqLc7TWvt"
+          }
+        },
+        "startDateAndTime": "2025-10-31T10:00:00.000Z",
+        "endDateAndTime": "2025-10-31T18:00:00.000Z",
+        "pricePerPerson": 500,
+        "participationType": "Solo",
+        "eventVenue": "AB3 Outside parking",
+        "shortDescription": "Robot Tug of War",
+        "longDescription": "Robot Tug of War",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "1qacEW3ugxuw6EQzbDQMwD",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:13:00.006Z",
+        "updatedAt": "2025-10-22T16:23:36.032Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 6,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Robo Sumo",
+        "clubName": "TechnoVIT",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "4vBiFZeJmZcb4E4SdwPdh9"
+          }
+        },
+        "startDateAndTime": "2025-10-31T10:00:00.000Z",
+        "endDateAndTime": "2025-10-31T18:00:00.000Z",
+        "pricePerPerson": 500,
+        "participationType": "Solo",
+        "eventVenue": "AB3 Amphitheatre",
+        "shortDescription": "Robot Sumo\n",
+        "longDescription": "Robot Sumo\n",
+        "specialEvent": true
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "vEhI713Gq4Rx9v4u1o2Zd",
+        "type": "Entry",
+        "createdAt": "2025-10-18T05:55:32.465Z",
+        "updatedAt": "2025-10-22T16:22:14.822Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 16,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Robo Race",
+        "clubName": "TechnoVIT",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "4Qln3dKHzHzjSLZ25rmVcG"
+          }
+        },
+        "startDateAndTime": "2025-10-31T10:00+00:00",
+        "endDateAndTime": "2025-10-31T06:00+00:00",
+        "pricePerPerson": 500,
+        "participationType": "Solo/Duo/Trio/Squad",
+        "eventVenue": "AB3 Lawn",
+        "shortDescription": "Gear up for Robotics Racing! Claim the ultimate robotics champion title!",
+        "longDescription": "Gear up for Robotics Racing! Claim the ultimate robotics champion title!",
+        "specialEvent": true
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
         "id": "mdSn0QUAM8dodM3qVTfoh",
         "type": "Entry",
         "createdAt": "2025-10-18T14:19:46.425Z",
@@ -1643,62 +1867,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "2AVoalUcxDCQGCz2Q1sSF6",
-        "type": "Entry",
-        "createdAt": "2025-10-18T05:48:11.080Z",
-        "updatedAt": "2025-10-21T14:20:02.721Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 15,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Rotor Rush",
-        "clubName": "TechnoVIT",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-11-01T14:00+00:00",
-        "endDateAndTime": "2025-11-01T20:00+00:00",
-        "pricePerPerson": 1500,
-        "participationType": "Solo/Duo/Trio/Squad",
-        "eventVenue": "MG Auditorium",
-        "shortDescription": "Dive into the future with Drone VR! Experience the thrill of piloting drones in immersive virtual reality. Test your reflexes, precision, and control as you race through stunning digital skies and futuristic arenas.",
-        "longDescription": "Dive into the future with Drone VR! Experience the thrill of piloting drones in immersive virtual reality. Test your reflexes, precision, and control as you race through stunning digital skies and futuristic arenas.",
-        "specialEvent": true
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "2jX51tsw4V5TLKZftr0suH",
         "type": "Entry",
         "createdAt": "2025-10-18T05:42:11.168Z",
@@ -2243,118 +2411,6 @@
         "eventVenue": "AB3 301",
         "shortDescription": "In this \"Shark Tank\" style event, aspiring directors fix an underperforming movie. 🎬 Dissect its flaws and pitch a new vision—covering story, characters, and visuals—to judges acting as producers. Negotiate to secure the most profitable deal.",
         "longDescription": "This event is based on shark tank where the business owners are replaced by aspiring young directors and the sharks are producers who are willing to finance their movies.\nOur event's main focus is for aspiring young directors to gain more knowledge on what goes behind making a successful movie.\nAs part of the event, we will be giving them each a movie which they will have to dissect and understand which part caused the movie's underperformance.\nFurther when they pitch the movie with their inputs to everything from the storyline, characters, camera aesthetics and sound effects.\nNow the new upgraded version of the movie will be narrated by them to the judges and negotiate with them and try to exceed the break-even amount thus making more profit making them the champion.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "2Hq7m0eLbsI99y8LqBu6if",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:13:01.109Z",
-        "updatedAt": "2025-10-21T12:28:52.313Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 3,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Robo Tug of War",
-        "clubName": "TechnoVIT",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T10:00:00.000Z",
-        "endDateAndTime": "2025-10-31T18:00:00.000Z",
-        "pricePerPerson": 500,
-        "participationType": "Solo",
-        "eventVenue": "AB3 Outside parking",
-        "shortDescription": "Robot Tug of War",
-        "longDescription": "Robot Tug of War",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "1qacEW3ugxuw6EQzbDQMwD",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:13:00.006Z",
-        "updatedAt": "2025-10-21T12:28:25.142Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 3,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Robo Sumo",
-        "clubName": "TechnoVIT",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T10:00:00.000Z",
-        "endDateAndTime": "2025-10-31T18:00:00.000Z",
-        "pricePerPerson": 500,
-        "participationType": "Solo",
-        "eventVenue": "AB3 Amphitheatre",
-        "shortDescription": "Robot Sumo\n",
-        "longDescription": "Robot Sumo\n",
         "specialEvent": false
       }
     },
@@ -6052,62 +6108,6 @@
         "shortDescription": "A SolidWorks/Fusion 360 event with a hands-on workshop on Day 1 and a design on Day 2. The 24 hr hackathon helps participants get the hang of CSWA & CSWP exam-taking, with a chance to win CSWA/CWSP coupons and a ₹10,000 cash prize pool.",
         "longDescription": "A SolidWorks/Fusion 360 event with a hands-on workshop on Day 1 and a design on Day 2. The 24 hr hackathon helps participants get the hang of CSWA & CSWP exam-taking, with a chance to win CSWA/CWSP coupons and a ₹10,000 cash prize pool.",
         "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "vEhI713Gq4Rx9v4u1o2Zd",
-        "type": "Entry",
-        "createdAt": "2025-10-18T05:55:32.465Z",
-        "updatedAt": "2025-10-18T05:55:32.465Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 14,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Robo Race",
-        "clubName": "TechnoVIT",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T10:00+00:00",
-        "endDateAndTime": "2025-10-31T06:00+00:00",
-        "pricePerPerson": 500,
-        "participationType": "Solo/Duo/Trio/Squad",
-        "eventVenue": "AB3 Lawn",
-        "shortDescription": "Gear up for Robotics Racing! Claim the ultimate robotics champion title!",
-        "longDescription": "Gear up for Robotics Racing! Claim the ultimate robotics champion title!",
-        "specialEvent": true
       }
     },
     {
@@ -10231,6 +10231,51 @@
               "id": "rr94wjxz7mfi"
             }
           },
+          "id": "3e0iW3BFAoqT3GqLc7TWvt",
+          "type": "Asset",
+          "createdAt": "2025-10-22T16:24:43.159Z",
+          "updatedAt": "2025-10-22T16:24:43.159Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 5,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Robo Tug of War",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/3e0iW3BFAoqT3GqLc7TWvt/836fa1dbe29ce4b2b944412c9d2564d1/3_20251018_104436_0002.png",
+            "details": {
+              "size": 5858250,
+              "image": {
+                "width": 1587,
+                "height": 2245
+              }
+            },
+            "fileName": "3_20251018_104436_0002.png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
           "id": "3rlLdZ0Qyo20q9uYbk5Mfy",
           "type": "Asset",
           "createdAt": "2025-10-22T13:50:50.896Z",
@@ -10545,6 +10590,51 @@
               "id": "rr94wjxz7mfi"
             }
           },
+          "id": "4Qln3dKHzHzjSLZ25rmVcG",
+          "type": "Asset",
+          "createdAt": "2025-10-22T16:20:52.506Z",
+          "updatedAt": "2025-10-22T16:20:52.506Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Robo Race",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/4Qln3dKHzHzjSLZ25rmVcG/3b23b6ef74b587b5c3e307553d0b9af1/1_20251018_104436_0000.png",
+            "details": {
+              "size": 3474194,
+              "image": {
+                "width": 1587,
+                "height": 2245
+              }
+            },
+            "fileName": "1_20251018_104436_0000.png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
           "id": "4V36f1x7blwPtBI1Erb8b8",
           "type": "Asset",
           "createdAt": "2025-10-22T13:38:53.233Z",
@@ -10709,6 +10799,51 @@
             },
             "fileName": "Poster_FoL - Fraternity Of Leaders.jpeg",
             "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "4vBiFZeJmZcb4E4SdwPdh9",
+          "type": "Asset",
+          "createdAt": "2025-10-22T16:23:30.156Z",
+          "updatedAt": "2025-10-22T16:23:30.156Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Robo Sumo",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/4vBiFZeJmZcb4E4SdwPdh9/21fdf3ed4c4fd4dbfa7b0d4a84748ca1/2_20251018_104436_0001.png",
+            "details": {
+              "size": 3398100,
+              "image": {
+                "width": 1587,
+                "height": 2245
+              }
+            },
+            "fileName": "2_20251018_104436_0001.png",
+            "contentType": "image/png"
           }
         }
       },
@@ -11024,6 +11159,51 @@
             },
             "fileName": "Photo from Sathwik - Chittapragada Ragha Sathwik 24BEL1060.jpg",
             "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "7JGlt1jP0YnyVc18BK4RlG",
+          "type": "Asset",
+          "createdAt": "2025-10-22T16:28:03.233Z",
+          "updatedAt": "2025-10-22T16:28:03.233Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Rotor rush",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/7JGlt1jP0YnyVc18BK4RlG/1087c1e3e1a71b40a4da8ee155eebe50/4_20251018_104436_0003.png",
+            "details": {
+              "size": 2049819,
+              "image": {
+                "width": 1587,
+                "height": 2245
+              }
+            },
+            "fileName": "4_20251018_104436_0003.png",
+            "contentType": "image/png"
           }
         }
       },
