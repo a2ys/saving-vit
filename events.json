@@ -19,6 +19,62 @@
             "id": "rr94wjxz7mfi"
           }
         },
+        "id": "2w7ZcoQKCCRKUZvwg75jLJ",
+        "type": "Entry",
+        "createdAt": "2025-10-16T12:16:45.318Z",
+        "updatedAt": "2025-10-22T11:46:14.417Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 7,
+        "revision": 4,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Decoding Time  A Journey into TIME SERIES ANALYSIS",
+        "clubName": "ARTIFICIAL INTELLIGENCE CLUB",
+        "eventType": "Workshop",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-29T09:00+00:00",
+        "endDateAndTime": "2025-10-29T16:00+00:00",
+        "pricePerPerson": 150,
+        "participationType": "Solo",
+        "eventVenue": "Online",
+        "shortDescription": "This workshop provides a gentle intro on the applications which requires time series analysis and hands-on session on - Introduction to time-series and stationary data handling, data smoothing, autocorrelation, and AutoRegressive Integrated Moving Average (ARIMA) models and handling the Temporal data imbalance in Python,",
+        "longDescription": "This workshop provides a gentle intro on the applications which requires time series analysis and hands-on session on - Introduction to time-series and stationary data handling, data smoothing, autocorrelation, and AutoRegressive Integrated Moving Average (ARIMA) models and handling the Temporal data imbalance in Python,",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
         "id": "6EOS8pWl5ZOsCkskCt3WMH",
         "type": "Entry",
         "createdAt": "2025-10-16T11:58:03.984Z",
@@ -2915,62 +2971,6 @@
         "eventVenue": "AB2 015",
         "shortDescription": "Students will be gain exposure on CNC machining simulation. Hands-on session to use CNC lathe and Vertical Machining Centre to manufacture their own product. This would be beneficial for students interested to make their own product out of metals and special teams making components for their vehicles.",
         "longDescription": "CNC machining workshop providing simulation and hands-on use of CNC lathe and vertical machining centers. Participants manufacture metal components, ideal for students creating custom parts for projects or vehicles",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "2w7ZcoQKCCRKUZvwg75jLJ",
-        "type": "Entry",
-        "createdAt": "2025-10-16T12:16:45.318Z",
-        "updatedAt": "2025-10-21T08:04:03.978Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 5,
-        "revision": 3,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Decoding Time  A Journey into TIME SERIES ANALYSIS",
-        "clubName": "ARTIFICIAL INTELLIGENCE CLUB",
-        "eventType": "Workshop",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-27T09:00:00.000Z",
-        "endDateAndTime": "2025-10-27T16:00+00:00",
-        "pricePerPerson": 150,
-        "participationType": "Solo",
-        "eventVenue": "Online",
-        "shortDescription": "This workshop provides a gentle intro on the applications which requires time series analysis and hands-on session on - Introduction to time-series and stationary data handling, data smoothing, autocorrelation, and AutoRegressive Integrated Moving Average (ARIMA) models and handling the Temporal data imbalance in Python,",
-        "longDescription": "This workshop provides a gentle intro on the applications which requires time series analysis and hands-on session on - Introduction to time-series and stationary data handling, data smoothing, autocorrelation, and AutoRegressive Integrated Moving Average (ARIMA) models and handling the Temporal data imbalance in Python,",
         "specialEvent": false
       }
     },
