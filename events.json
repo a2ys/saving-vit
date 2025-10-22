@@ -2,10 +2,178 @@
   "sys": {
     "type": "Array"
   },
-  "total": 179,
+  "total": 178,
   "skip": 0,
-  "limit": 179,
+  "limit": 178,
   "items": [
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "6btjeCZmGKpoRMsUXx0X7q",
+        "type": "Entry",
+        "createdAt": "2025-10-16T12:28:10.543Z",
+        "updatedAt": "2025-10-22T18:57:51.870Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 4,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Codemafia Trio",
+        "clubName": "DAO COMMUNITY X IEEERAS",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "63sRM1Qhhw3kSzdwtfdcPR"
+          }
+        },
+        "startDateAndTime": "2025-10-29T09:00:00.000Z",
+        "endDateAndTime": "2025-10-29T16:00:00.000Z",
+        "pricePerPerson": 120,
+        "participationType": "Trio",
+        "eventVenue": "VOC Auditorium",
+        "shortDescription": "Participants will join a Capture The Flag (CTF) competition featuring cryptography, web exploitation, reverse engineering, and forensics. This workshop-style event hones cybersecurity skills as teams race to capture flags and top the leaderboard.",
+        "longDescription": "In this event, participants will take part in a Capture The Flag (CTF) competition, solving challenges in areas like cryptography, web exploitation, reverse engineering, and forensics. The workshop-style setup will help participants sharpen their cybersecurity skills, and the competition format will make it engaging as teams race against time to capture the most flags and top the leaderboard.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "3JbFPsMpTYaDjMFZqY9cri",
+        "type": "Entry",
+        "createdAt": "2025-10-16T12:28:09.548Z",
+        "updatedAt": "2025-10-22T18:57:28.516Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 4,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Codemafia Duo",
+        "clubName": "DAO COMMUNITY X IEEERAS",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "63sRM1Qhhw3kSzdwtfdcPR"
+          }
+        },
+        "startDateAndTime": "2025-10-29T09:00:00.000Z",
+        "endDateAndTime": "2025-10-29T16:00:00.000Z",
+        "pricePerPerson": 80,
+        "participationType": "Duo",
+        "eventVenue": "VOC Auditorium",
+        "shortDescription": "Participants will join a Capture The Flag (CTF) competition featuring cryptography, web exploitation, reverse engineering, and forensics. This workshop-style event hones cybersecurity skills as teams race to capture flags and top the leaderboard.",
+        "longDescription": "In this event, participants will take part in a Capture The Flag (CTF) competition, solving challenges in areas like cryptography, web exploitation, reverse engineering, and forensics. The workshop-style setup will help participants sharpen their cybersecurity skills, and the competition format will make it engaging as teams race against time to capture the most flags and top the leaderboard.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "10B42RRk7itvMg9l8GIwne",
+        "type": "Entry",
+        "createdAt": "2025-10-16T12:28:08.578Z",
+        "updatedAt": "2025-10-22T18:56:43.916Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Codemafia Solo",
+        "clubName": "DAO COMMUNITY X IEEERAS",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "63sRM1Qhhw3kSzdwtfdcPR"
+          }
+        },
+        "startDateAndTime": "2025-10-29T09:00:00.000Z",
+        "endDateAndTime": "2025-10-29T16:00:00.000Z",
+        "pricePerPerson": 50,
+        "participationType": "Solo",
+        "eventVenue": "VOC Auditorium",
+        "shortDescription": "Participants will join a Capture The Flag (CTF) competition featuring cryptography, web exploitation, reverse engineering, and forensics. This workshop-style event hones cybersecurity skills as teams race to capture flags and top the leaderboard.",
+        "longDescription": "In this event, participants will take part in a Capture The Flag (CTF) competition, solving challenges in areas like cryptography, web exploitation, reverse engineering, and forensics. The workshop-style setup will help participants sharpen their cybersecurity skills, and the competition format will make it engaging as teams race against time to capture the most flags and top the leaderboard.",
+        "specialEvent": false
+      }
+    },
     {
       "metadata": {
         "tags": [],
@@ -7971,174 +8139,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "6btjeCZmGKpoRMsUXx0X7q",
-        "type": "Entry",
-        "createdAt": "2025-10-16T12:28:10.543Z",
-        "updatedAt": "2025-10-16T12:28:10.543Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Codemafia Trio",
-        "clubName": "DAO COMMUNITY X IEEERAS",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-29T09:00:00.000Z",
-        "endDateAndTime": "2025-10-29T16:00:00.000Z",
-        "pricePerPerson": 120,
-        "participationType": "Trio",
-        "eventVenue": "VOC Auditorium",
-        "shortDescription": "Participants will join a Capture The Flag (CTF) competition featuring cryptography, web exploitation, reverse engineering, and forensics. This workshop-style event hones cybersecurity skills as teams race to capture flags and top the leaderboard.",
-        "longDescription": "In this event, participants will take part in a Capture The Flag (CTF) competition, solving challenges in areas like cryptography, web exploitation, reverse engineering, and forensics. The workshop-style setup will help participants sharpen their cybersecurity skills, and the competition format will make it engaging as teams race against time to capture the most flags and top the leaderboard.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "3JbFPsMpTYaDjMFZqY9cri",
-        "type": "Entry",
-        "createdAt": "2025-10-16T12:28:09.548Z",
-        "updatedAt": "2025-10-16T12:28:09.548Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Codemafia Duo",
-        "clubName": "DAO COMMUNITY X IEEERAS",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-29T09:00:00.000Z",
-        "endDateAndTime": "2025-10-29T16:00:00.000Z",
-        "pricePerPerson": 80,
-        "participationType": "Duo",
-        "eventVenue": "VOC Auditorium",
-        "shortDescription": "Participants will join a Capture The Flag (CTF) competition featuring cryptography, web exploitation, reverse engineering, and forensics. This workshop-style event hones cybersecurity skills as teams race to capture flags and top the leaderboard.",
-        "longDescription": "In this event, participants will take part in a Capture The Flag (CTF) competition, solving challenges in areas like cryptography, web exploitation, reverse engineering, and forensics. The workshop-style setup will help participants sharpen their cybersecurity skills, and the competition format will make it engaging as teams race against time to capture the most flags and top the leaderboard.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "10B42RRk7itvMg9l8GIwne",
-        "type": "Entry",
-        "createdAt": "2025-10-16T12:28:08.578Z",
-        "updatedAt": "2025-10-16T12:28:08.578Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Codemafia Solo",
-        "clubName": "DAO COMMUNITY X IEEERAS",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-29T09:00:00.000Z",
-        "endDateAndTime": "2025-10-29T16:00:00.000Z",
-        "pricePerPerson": 50,
-        "participationType": "Solo",
-        "eventVenue": "VOC Auditorium",
-        "shortDescription": "Participants will join a Capture The Flag (CTF) competition featuring cryptography, web exploitation, reverse engineering, and forensics. This workshop-style event hones cybersecurity skills as teams race to capture flags and top the leaderboard.",
-        "longDescription": "In this event, participants will take part in a Capture The Flag (CTF) competition, solving challenges in areas like cryptography, web exploitation, reverse engineering, and forensics. The workshop-style setup will help participants sharpen their cybersecurity skills, and the competition format will make it engaging as teams race against time to capture the most flags and top the leaderboard.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "7zNzBsozIS4630shrEcQLx",
         "type": "Entry",
         "createdAt": "2025-10-16T12:16:44.386Z",
@@ -9937,62 +9937,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "2Hp5FF2FfSkvHizd9ewMVT",
-        "type": "Entry",
-        "createdAt": "2025-10-14T18:57:54.677Z",
-        "updatedAt": "2025-10-14T18:57:54.677Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 18,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Codemafia",
-        "clubName": "DAO COMMUNITY",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "4wlT4fRSMysakQAOn17vAq"
-          }
-        },
-        "startDateAndTime": "2025-10-29T09:00+00:00",
-        "endDateAndTime": "2025-10-29T16:00+00:00",
-        "pricePerPerson": 50,
-        "participationType": "Duo/Trio",
-        "eventVenue": "VOC Auditorium",
-        "shortDescription": "Participants will join a Capture The Flag (CTF) contest with cryptography, web, reverse engineering, and forensics challenges, sharpening cybersecurity skills as teams race to capture flags and lead the leaderboard.",
-        "longDescription": "Participants will join a Capture The Flag (CTF) competition featuring cryptography, web exploitation, reverse engineering, and forensics. This workshop-style event hones cybersecurity skills as teams race to capture flags and top the leaderboard.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "3Pct6xW10pQYuErVb9nRhp",
         "type": "Entry",
         "createdAt": "2025-10-14T18:57:32.370Z",
@@ -11175,6 +11119,51 @@
               "id": "rr94wjxz7mfi"
             }
           },
+          "id": "63sRM1Qhhw3kSzdwtfdcPR",
+          "type": "Asset",
+          "createdAt": "2025-10-22T18:56:28.533Z",
+          "updatedAt": "2025-10-22T18:56:28.533Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 5,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "codemafia",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/63sRM1Qhhw3kSzdwtfdcPR/672341065229f6b9c00d489640b09e84/Code_Mafia_DAO_X_IEEERAS_Compressed_-_Nitish_Kumar_24BCE1520.jpg",
+            "details": {
+              "size": 685688,
+              "image": {
+                "width": 5400,
+                "height": 7200
+              }
+            },
+            "fileName": "Code Mafia DAO X IEEERAS Compressed - Nitish Kumar 24BCE1520.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
           "id": "6qGCf3HHU16X9cT6ltbiN6",
           "type": "Asset",
           "createdAt": "2025-10-22T13:33:10.643Z",
@@ -11833,51 +11822,6 @@
               }
             },
             "fileName": "technovit event poster - Sangeetha.jpg",
-            "contentType": "image/jpeg"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
-          "id": "4wlT4fRSMysakQAOn17vAq",
-          "type": "Asset",
-          "createdAt": "2025-10-14T18:49:48.983Z",
-          "updatedAt": "2025-10-14T18:49:48.983Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 3,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "Code Mafia DAO X IEEERAS c - Sanjana PS",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/4wlT4fRSMysakQAOn17vAq/5e6be4ae535ec679d156923d0c091bdd/Code_Mafia_DAO_X_IEEERAS_c_-_Sanjana_PS.jpg",
-            "details": {
-              "size": 995066,
-              "image": {
-                "width": 5400,
-                "height": 7200
-              }
-            },
-            "fileName": "Code Mafia DAO X IEEERAS c - Sanjana PS.jpg",
             "contentType": "image/jpeg"
           }
         }
