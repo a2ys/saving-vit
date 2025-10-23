@@ -19,6 +19,62 @@
             "id": "rr94wjxz7mfi"
           }
         },
+        "id": "6GyFQnbgLlzmOFBMroJazY",
+        "type": "Entry",
+        "createdAt": "2025-10-16T11:33:49.944Z",
+        "updatedAt": "2025-10-23T18:22:39.634Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 5,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "RasPi Meets ML",
+        "clubName": "INTERNET OF THINGS COMMUNITY (IOTHINC)",
+        "eventType": "Workshop",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "1ExtFJZa6qgdl5IhckEPd6"
+          }
+        },
+        "startDateAndTime": "2025-11-01T09:00:00.000Z",
+        "endDateAndTime": "2025-11-01T16:00:00.000Z",
+        "pricePerPerson": 175,
+        "participationType": "Solo",
+        "eventVenue": "AB3 602",
+        "shortDescription": "Hands-on Raspberry Pi + ML workshop. Deploy lightweight ML models on edge devices, explore IoT applications, and build sensor-driven ML demos in resource-constrained environments.",
+        "longDescription": "RasPi Meets ML<br>This event brings together the power of Raspberry Pi with the intelligence of Machine Learning. Participants will explore how low-cost, versatile Raspberry Pi boards can serve as platforms for building real-world ML applications at the edge. Through hands-on sessions and demonstrations, the event will cover topics such as:<br><br>Fundamentals of Raspberry Pi for AI/ML projects<br><br>Deploying lightweight ML models on edge devices<br><br>Related Applications in IoT<br>Practical demos showcasing sensor-based ML algorithms<br><br>Designed for students, researchers, the event aims to bridge the gap between embedded systems and machine learning, fostering innovation in resource-constrained environments.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
         "id": "7Av1c0a4wglMB1DPQWfaPw",
         "type": "Entry",
         "createdAt": "2025-10-18T14:24:51.577Z",
@@ -3929,62 +3985,6 @@
         "eventVenue": "AB3 101 Gallery Class Room",
         "shortDescription": "One-day analytics challenge testing web scraping, dashboard creation, and data storytelling. Participants transform raw data into insights within hours and present findings for evaluation in a fast-paced environment.",
         "longDescription": "We are excited to propose “Insight Sprint: The Data Dive Challenge”, a 1-day analytics showdown designed to test participants’ skills in web scraping, dashboard creation, and data storytelling. The event is built around the theme “From Raw Data to Real Insights in Just 4 Hours”, creating a dynamic platform for data enthusiasts to showcase their talent under real-world time pressure.<br> <br> 📅 Event Timeline (9:00 AM – 1:00 PM)<br> 09:00 – 09:30 AM | Inauguration & Briefing<br> <br> 09:30 – 10:45 AM | Web Scraping Challenge<br> <br> 10:45 – 11:45 AM | Dashboard Creation Round<br> <br> 11:45 – 12:30 PM | Data Storytelling & Final Presentations<br> <br> 12:30 – 01:00 PM | Evaluation, Results & Closing Remarks",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "6GyFQnbgLlzmOFBMroJazY",
-        "type": "Entry",
-        "createdAt": "2025-10-16T11:33:49.944Z",
-        "updatedAt": "2025-10-22T19:20:20.090Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 3,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "RasPi Meets ML",
-        "clubName": "INTERNET OF THINGS COMMUNITY (IOTHINC)",
-        "eventType": "Workshop",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "1ExtFJZa6qgdl5IhckEPd6"
-          }
-        },
-        "startDateAndTime": "2025-11-01T09:00:00.000Z",
-        "endDateAndTime": "2025-11-01T16:00:00.000Z",
-        "pricePerPerson": 175,
-        "participationType": "Solo",
-        "eventVenue": "AB1 606A",
-        "shortDescription": "Hands-on Raspberry Pi + ML workshop. Deploy lightweight ML models on edge devices, explore IoT applications, and build sensor-driven ML demos in resource-constrained environments.",
-        "longDescription": "RasPi Meets ML<br>This event brings together the power of Raspberry Pi with the intelligence of Machine Learning. Participants will explore how low-cost, versatile Raspberry Pi boards can serve as platforms for building real-world ML applications at the edge. Through hands-on sessions and demonstrations, the event will cover topics such as:<br><br>Fundamentals of Raspberry Pi for AI/ML projects<br><br>Deploying lightweight ML models on edge devices<br><br>Related Applications in IoT<br>Practical demos showcasing sensor-based ML algorithms<br><br>Designed for students, researchers, the event aims to bridge the gap between embedded systems and machine learning, fostering innovation in resource-constrained environments.",
         "specialEvent": false
       }
     },
