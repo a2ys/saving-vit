@@ -19,6 +19,230 @@
             "id": "rr94wjxz7mfi"
           }
         },
+        "id": "2FwBfFcIx1jCb87x9S5B3V",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:25:01.405Z",
+        "updatedAt": "2025-10-23T18:53:41.589Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 6,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Unlock the value of IoT in Smart Buildings",
+        "clubName": "THE INDIAN SOCIETY OF HEATING, REFRIGERATING AND AIR CONDITIONING ENGINEERS (ISHRAE)",
+        "eventType": "Workshop",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "6dkdOFAfk9lKrC7x6gLw9m"
+          }
+        },
+        "startDateAndTime": "2025-10-29T11:40:00.000Z",
+        "endDateAndTime": "2025-10-29T13:20:00.000Z",
+        "pricePerPerson": 0,
+        "participationType": "Solo",
+        "eventVenue": "AB1-701",
+        "shortDescription": "Technical talk by an industrial expert- Mr.Hariprasath",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "2auAqu5RDWVSpXlC6kOJwm",
+        "type": "Entry",
+        "createdAt": "2025-10-16T14:13:21.480Z",
+        "updatedAt": "2025-10-23T18:50:45.298Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Cyber-0-Day 4.0",
+        "clubName": "LINUX CLUB",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "5FgHmo3HcHmTkriA7eToo1"
+          }
+        },
+        "startDateAndTime": "2025-11-01T10:00:00.000Z",
+        "endDateAndTime": "2025-11-02T10:00:00.000Z",
+        "pricePerPerson": 200,
+        "participationType": "Solo",
+        "eventVenue": "Kamaraj Auditorium",
+        "shortDescription": "A blend of cybersecurity and open-source learning through workshops, quizzes, overnight CTFs and showcases. It engages beginners and enthusiasts, fosters creativity and introduces students to inclusive FOSS and cybersecurity culture.",
+        "longDescription": "Cyber 0 Day is a community-driven cybersecurity and open-source event that blends technical learning, problem-solving, and creativity. The event is designed to engage beginners and enthusiasts in hands-on workshops, a technical quiz, overnight Capture the Flag (CTF) challenges, and interactive showcases.<br> By combining technical depth with fun, collaborative activities, Cyber 0 Day aims to introduce younger students to cybersecurity and FOSS culture while fostering an inclusive, community-oriented environment that encourages peer-to-peer learning and open-source contributions.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "4xqIFFh2yuBAwN05g89cuC",
+        "type": "Entry",
+        "createdAt": "2025-10-16T11:33:48.821Z",
+        "updatedAt": "2025-10-23T18:48:12.313Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 6,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "SKETCH2STAGE",
+        "clubName": "THE HACK CLUB",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "4piSmF3DIKS64nvT3lYe9b"
+          }
+        },
+        "startDateAndTime": "2025-10-31T09:00:00.000Z",
+        "endDateAndTime": "2025-10-31T13:00:00.000Z",
+        "pricePerPerson": 60,
+        "participationType": "Solo",
+        "eventVenue": "AB3 701",
+        "shortDescription": "Participants transform initial sketches into fully functional apps/websites addressing real-world problems. Teams design, develop and pitch solutions, judged on innovation, functionality, usability, and presentation.",
+        "longDescription": "Sketch2Stage will be an event organized by Hack Club, designed to inspire creativity, innovation, and problem-solving among students. This event challenges participants to transform their initial ideas the “sketch” into fully functional digital solutions and pitch it on “stage”<br> Participants will be presented with a set of real-world problem statements and will have a fixed time to design and develop an app or website particularly the design and user experience that addresses these challenges. The event emphasizes not just technical skills, but also innovation, usability, and the ability to communicate ideas effectively.<br> Once development concludes, teams will get the opportunity to pitch their solutions to a panel of judges. The pitch is a crucial part of the competition, allowing participants to showcase their product’s features, the problem it solves, and their vision for impact.<br> Winners will be selected based on criteria such as originality, relevance to the problem statement, functionality, user experience, and presentation skills.<br> Sketch2Stage will allow students to gain hands-on experience in product development, learn to work collaboratively under deadlines, and enhance their pitching and presentation abilities all while competing in a fun, energetic, and innovation-driven environment.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "5mkryCejPM0vEsT1r71rKt",
+        "type": "Entry",
+        "createdAt": "2025-10-15T03:12:14.380Z",
+        "updatedAt": "2025-10-23T18:38:45.485Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 17,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Drone Sim",
+        "clubName": "AUTOVIT",
+        "eventType": "Game",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "1JCA3RqxCZu2NJfgq3c5dk"
+          }
+        },
+        "startDateAndTime": "2025-10-31T09:00+00:00",
+        "endDateAndTime": "2025-11-01T17:30+00:00",
+        "pricePerPerson": 50,
+        "participationType": "Solo",
+        "eventVenue": "AB3 210 Satori Lab",
+        "shortDescription": "Fly drones in a realistic simulation using actual remote controllers. Participants will navigate virtual challenges, testing piloting skills in a safe environment linked to aerospace, control systems, and simulation engineering.",
+        "longDescription": "Fly drones in a realistic simulation using actual remote controllers. Participants will navigate virtual challenges, testing their piloting skills in a safe environment. The event connects to the technical domain through aerospace, control systems, and simulation engineering, showcasing real-world applications of drones in logistics, defense, and surveying.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
         "id": "6GyFQnbgLlzmOFBMroJazY",
         "type": "Entry",
         "createdAt": "2025-10-16T11:33:49.944Z",
@@ -4841,62 +5065,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "2FwBfFcIx1jCb87x9S5B3V",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:25:01.405Z",
-        "updatedAt": "2025-10-22T19:09:34.754Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 4,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Unlock the value of IoT in Smart Buildings",
-        "clubName": "THE INDIAN SOCIETY OF HEATING, REFRIGERATING AND AIR CONDITIONING ENGINEERS (ISHRAE)",
-        "eventType": "Workshop",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "2U54bDyCUMeEZF85nuvCBj"
-          }
-        },
-        "startDateAndTime": "2025-10-29T11:40:00.000Z",
-        "endDateAndTime": "2025-10-29T13:20:00.000Z",
-        "pricePerPerson": 0,
-        "participationType": "Solo",
-        "eventVenue": "AB1-701",
-        "shortDescription": "Technical talk by an industrial expert- Mr.Hariprasath",
-        "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "26xPjgy5jNS9dKZm2xl7bf",
         "type": "Entry",
         "createdAt": "2025-10-16T14:13:11.781Z",
@@ -7081,62 +7249,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "4xqIFFh2yuBAwN05g89cuC",
-        "type": "Entry",
-        "createdAt": "2025-10-16T11:33:48.821Z",
-        "updatedAt": "2025-10-21T12:27:25.316Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 3,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "SKETCH2STAGE",
-        "clubName": "THE HACK CLUB",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T09:00:00.000Z",
-        "endDateAndTime": "2025-10-31T13:00:00.000Z",
-        "pricePerPerson": 60,
-        "participationType": "Solo",
-        "eventVenue": "AB3 701",
-        "shortDescription": "Participants transform initial sketches into fully functional apps/websites addressing real-world problems. Teams design, develop and pitch solutions, judged on innovation, functionality, usability, and presentation.",
-        "longDescription": "Sketch2Stage will be an event organized by Hack Club, designed to inspire creativity, innovation, and problem-solving among students. This event challenges participants to transform their initial ideas the “sketch” into fully functional digital solutions and pitch it on “stage”<br> Participants will be presented with a set of real-world problem statements and will have a fixed time to design and develop an app or website particularly the design and user experience that addresses these challenges. The event emphasizes not just technical skills, but also innovation, usability, and the ability to communicate ideas effectively.<br> Once development concludes, teams will get the opportunity to pitch their solutions to a panel of judges. The pitch is a crucial part of the competition, allowing participants to showcase their product’s features, the problem it solves, and their vision for impact.<br> Winners will be selected based on criteria such as originality, relevance to the problem statement, functionality, user experience, and presentation skills.<br> Sketch2Stage will allow students to gain hands-on experience in product development, learn to work collaboratively under deadlines, and enhance their pitching and presentation abilities all while competing in a fun, energetic, and innovation-driven environment.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "Mmzh8wlk8mbwZIg94inuw",
         "type": "Entry",
         "createdAt": "2025-10-21T12:22:20.626Z",
@@ -8985,62 +9097,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "2auAqu5RDWVSpXlC6kOJwm",
-        "type": "Entry",
-        "createdAt": "2025-10-16T14:13:21.480Z",
-        "updatedAt": "2025-10-16T14:13:21.480Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Cyber-0-Day 4.0",
-        "clubName": "LINUX CLUB",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-11-01T10:00:00.000Z",
-        "endDateAndTime": "2025-11-02T10:00:00.000Z",
-        "pricePerPerson": 200,
-        "participationType": "Solo",
-        "eventVenue": "Kamaraj Auditorium",
-        "shortDescription": "A blend of cybersecurity and open-source learning through workshops, quizzes, overnight CTFs and showcases. It engages beginners and enthusiasts, fosters creativity and introduces students to inclusive FOSS and cybersecurity culture.",
-        "longDescription": "Cyber 0 Day is a community-driven cybersecurity and open-source event that blends technical learning, problem-solving, and creativity. The event is designed to engage beginners and enthusiasts in hands-on workshops, a technical quiz, overnight Capture the Flag (CTF) challenges, and interactive showcases.<br> By combining technical depth with fun, collaborative activities, Cyber 0 Day aims to introduce younger students to cybersecurity and FOSS culture while fostering an inclusive, community-oriented environment that encourages peer-to-peer learning and open-source contributions.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "197A5WHeEo1QPEUVhqtt2F",
         "type": "Entry",
         "createdAt": "2025-10-16T14:13:17.979Z",
@@ -9713,62 +9769,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "5mkryCejPM0vEsT1r71rKt",
-        "type": "Entry",
-        "createdAt": "2025-10-15T03:12:14.380Z",
-        "updatedAt": "2025-10-15T03:12:14.380Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 14,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Drone Sim",
-        "clubName": "AUTOVIT",
-        "eventType": "Game",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "7JFgrsoZmv6HZ50em4uowA"
-          }
-        },
-        "startDateAndTime": "2025-10-31T09:00+00:00",
-        "endDateAndTime": "2025-11-01T17:30+00:00",
-        "pricePerPerson": 50,
-        "participationType": "Solo",
-        "eventVenue": "AB3 210 Satori Lab",
-        "shortDescription": "Fly drones in a realistic simulation using actual remote controllers. Participants will navigate virtual challenges, testing piloting skills in a safe environment linked to aerospace, control systems, and simulation engineering.",
-        "longDescription": "Fly drones in a realistic simulation using actual remote controllers. Participants will navigate virtual challenges, testing their piloting skills in a safe environment. The event connects to the technical domain through aerospace, control systems, and simulation engineering, showcasing real-world applications of drones in logistics, defense, and surveying.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "3Pct6xW10pQYuErVb9nRhp",
         "type": "Entry",
         "createdAt": "2025-10-14T18:57:32.370Z",
@@ -9901,6 +9901,51 @@
               }
             },
             "fileName": "raspi-meets-ml_final - Pranav balaji.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "1JCA3RqxCZu2NJfgq3c5dk",
+          "type": "Asset",
+          "createdAt": "2025-10-23T18:38:39.848Z",
+          "updatedAt": "2025-10-23T18:38:39.848Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 5,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "autovit drone sim",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/1JCA3RqxCZu2NJfgq3c5dk/10afb2fdccef3b1020e3b7597d5fe20c/DRONE_-_KIRAN_SAMPATH.jpg",
+            "details": {
+              "size": 343675,
+              "image": {
+                "width": 1587,
+                "height": 2245
+              }
+            },
+            "fileName": "DRONE - KIRAN SAMPATH.jpg",
             "contentType": "image/jpeg"
           }
         }
@@ -10576,51 +10621,6 @@
               }
             },
             "fileName": "Game Jam Poster (3) - Ashif.jpg",
-            "contentType": "image/jpeg"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
-          "id": "2U54bDyCUMeEZF85nuvCBj",
-          "type": "Asset",
-          "createdAt": "2025-10-22T19:09:29.221Z",
-          "updatedAt": "2025-10-22T19:09:29.221Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 4,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "unlock",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/2U54bDyCUMeEZF85nuvCBj/fb7caaf4ee679ae8e10d9208c5179a70/WhatsApp_Image_2025-10-20_at_17.27.57_080f94db_-_Pranav_Balaji_C_24BEC1149.jpg",
-            "details": {
-              "size": 323127,
-              "image": {
-                "width": 1024,
-                "height": 1280
-              }
-            },
-            "fileName": "WhatsApp Image 2025-10-20 at 17.27.57_080f94db - Pranav Balaji C 24BEC1149.jpg",
             "contentType": "image/jpeg"
           }
         }
@@ -11402,51 +11402,6 @@
               "id": "rr94wjxz7mfi"
             }
           },
-          "id": "4Qln3dKHzHzjSLZ25rmVcG",
-          "type": "Asset",
-          "createdAt": "2025-10-22T16:20:52.506Z",
-          "updatedAt": "2025-10-22T16:20:52.506Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 4,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "Robo Race",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/4Qln3dKHzHzjSLZ25rmVcG/3b23b6ef74b587b5c3e307553d0b9af1/1_20251018_104436_0000.png",
-            "details": {
-              "size": 3474194,
-              "image": {
-                "width": 1587,
-                "height": 2245
-              }
-            },
-            "fileName": "1_20251018_104436_0000.png",
-            "contentType": "image/png"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
           "id": "4R8W73luVXXbDYdtAUHntc",
           "type": "Asset",
           "createdAt": "2025-10-22T19:07:43.622Z",
@@ -11627,6 +11582,51 @@
               "id": "rr94wjxz7mfi"
             }
           },
+          "id": "4piSmF3DIKS64nvT3lYe9b",
+          "type": "Asset",
+          "createdAt": "2025-10-23T18:48:07.205Z",
+          "updatedAt": "2025-10-23T18:48:07.205Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "sketch2stage",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/4piSmF3DIKS64nvT3lYe9b/82531aec300122d62ebfec8be72b380d/sketch2stage__1__-_Ivan_Varghese_George_24BYB1097.png",
+            "details": {
+              "size": 885228,
+              "image": {
+                "width": 1587,
+                "height": 2245
+              }
+            },
+            "fileName": "sketch2stage (1) - Ivan Varghese George 24BYB1097.png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
           "id": "4qx30hr7Zx5exBbfS2B6Eh",
           "type": "Asset",
           "createdAt": "2025-10-22T19:53:10.831Z",
@@ -11717,51 +11717,6 @@
               "id": "rr94wjxz7mfi"
             }
           },
-          "id": "4vBiFZeJmZcb4E4SdwPdh9",
-          "type": "Asset",
-          "createdAt": "2025-10-22T16:23:30.156Z",
-          "updatedAt": "2025-10-22T16:23:30.156Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 4,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "Robo Sumo",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/4vBiFZeJmZcb4E4SdwPdh9/21fdf3ed4c4fd4dbfa7b0d4a84748ca1/2_20251018_104436_0001.png",
-            "details": {
-              "size": 3398100,
-              "image": {
-                "width": 1587,
-                "height": 2245
-              }
-            },
-            "fileName": "2_20251018_104436_0001.png",
-            "contentType": "image/png"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
           "id": "4zxdfz11gjtphsSSFj2z39",
           "type": "Asset",
           "createdAt": "2025-10-22T19:29:37.977Z",
@@ -11836,6 +11791,51 @@
             },
             "fileName": "Trade_of_Titans.png",
             "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "5FgHmo3HcHmTkriA7eToo1",
+          "type": "Asset",
+          "createdAt": "2025-10-23T18:50:40.026Z",
+          "updatedAt": "2025-10-23T18:50:40.026Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "cyber - o - day",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/5FgHmo3HcHmTkriA7eToo1/07f078a8f77f20de152266bd3bc7828e/IMG-20251022-WA0091-min_-_Karthik_L.jpg",
+            "details": {
+              "size": 861975,
+              "image": {
+                "width": 2480,
+                "height": 3508
+              }
+            },
+            "fileName": "IMG-20251022-WA0091-min - Karthik L.jpg",
+            "contentType": "image/jpeg"
           }
         }
       },
@@ -12482,6 +12482,51 @@
               "id": "rr94wjxz7mfi"
             }
           },
+          "id": "6dkdOFAfk9lKrC7x6gLw9m",
+          "type": "Asset",
+          "createdAt": "2025-10-23T18:53:34.121Z",
+          "updatedAt": "2025-10-23T18:53:34.121Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 5,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "IOT in Smart buildings",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/6dkdOFAfk9lKrC7x6gLw9m/5bcae54d1443d22c231e586699ee78bc/hvac_final_-_Pranav_Balaji_C_24BEC1149.jpg",
+            "details": {
+              "size": 350093,
+              "image": {
+                "width": 904,
+                "height": 1280
+              }
+            },
+            "fileName": "hvac_final - Pranav Balaji C 24BEC1149.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
           "id": "6jIInD3h5A5coGH9d4A1JL",
           "type": "Asset",
           "createdAt": "2025-10-22T19:27:18.337Z",
@@ -12556,51 +12601,6 @@
             },
             "fileName": "SAVE_20251020_120820 - Sivvam Venkata Lakshmi Prasanna 25BEC1135.jpg",
             "contentType": "image/jpeg"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
-          "id": "7JGlt1jP0YnyVc18BK4RlG",
-          "type": "Asset",
-          "createdAt": "2025-10-22T16:28:03.233Z",
-          "updatedAt": "2025-10-22T16:28:03.233Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 4,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "Rotor rush",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/7JGlt1jP0YnyVc18BK4RlG/1087c1e3e1a71b40a4da8ee155eebe50/4_20251018_104436_0003.png",
-            "details": {
-              "size": 2049819,
-              "image": {
-                "width": 1587,
-                "height": 2245
-              }
-            },
-            "fileName": "4_20251018_104436_0003.png",
-            "contentType": "image/png"
           }
         }
       },
@@ -13831,6 +13831,51 @@
               "id": "rr94wjxz7mfi"
             }
           },
+          "id": "4Qln3dKHzHzjSLZ25rmVcG",
+          "type": "Asset",
+          "createdAt": "2025-10-22T16:20:52.506Z",
+          "updatedAt": "2025-10-22T16:20:52.506Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Robo Race",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/4Qln3dKHzHzjSLZ25rmVcG/3b23b6ef74b587b5c3e307553d0b9af1/1_20251018_104436_0000.png",
+            "details": {
+              "size": 3474194,
+              "image": {
+                "width": 1587,
+                "height": 2245
+              }
+            },
+            "fileName": "1_20251018_104436_0000.png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
           "id": "4V36f1x7blwPtBI1Erb8b8",
           "type": "Asset",
           "createdAt": "2025-10-22T13:38:53.233Z",
@@ -13995,6 +14040,51 @@
             },
             "fileName": "technovit event poster - Sangeetha.jpg",
             "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "4vBiFZeJmZcb4E4SdwPdh9",
+          "type": "Asset",
+          "createdAt": "2025-10-22T16:23:30.156Z",
+          "updatedAt": "2025-10-22T16:23:30.156Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Robo Sumo",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/4vBiFZeJmZcb4E4SdwPdh9/21fdf3ed4c4fd4dbfa7b0d4a84748ca1/2_20251018_104436_0001.png",
+            "details": {
+              "size": 3398100,
+              "image": {
+                "width": 1587,
+                "height": 2245
+              }
+            },
+            "fileName": "2_20251018_104436_0001.png",
+            "contentType": "image/png"
           }
         }
       },
@@ -14281,10 +14371,10 @@
               "id": "rr94wjxz7mfi"
             }
           },
-          "id": "7JFgrsoZmv6HZ50em4uowA",
+          "id": "7JGlt1jP0YnyVc18BK4RlG",
           "type": "Asset",
-          "createdAt": "2025-10-15T03:10:17.912Z",
-          "updatedAt": "2025-10-15T03:10:17.912Z",
+          "createdAt": "2025-10-22T16:28:03.233Z",
+          "updatedAt": "2025-10-22T16:28:03.233Z",
           "environment": {
             "sys": {
               "id": "master",
@@ -14292,24 +14382,24 @@
               "linkType": "Environment"
             }
           },
-          "publishedVersion": 3,
+          "publishedVersion": 4,
           "revision": 1,
           "locale": "en-US"
         },
         "fields": {
-          "title": "TechnoVITPosters - IT AUTOVIT (1)",
+          "title": "Rotor rush",
           "description": "",
           "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/7JFgrsoZmv6HZ50em4uowA/e3e8d2cc7c8d7d24e1bcde61d0426487/TechnoVITPosters_-_IT_AUTOVIT__1_.jpg",
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/7JGlt1jP0YnyVc18BK4RlG/1087c1e3e1a71b40a4da8ee155eebe50/4_20251018_104436_0003.png",
             "details": {
-              "size": 644593,
+              "size": 2049819,
               "image": {
                 "width": 1587,
                 "height": 2245
               }
             },
-            "fileName": "TechnoVITPosters - IT AUTOVIT (1).jpg",
-            "contentType": "image/jpeg"
+            "fileName": "4_20251018_104436_0003.png",
+            "contentType": "image/png"
           }
         }
       },
