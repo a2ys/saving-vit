@@ -2,10 +2,122 @@
   "sys": {
     "type": "Array"
   },
-  "total": 176,
+  "total": 175,
   "skip": 0,
-  "limit": 176,
+  "limit": 175,
   "items": [
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "7Av1c0a4wglMB1DPQWfaPw",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:24:51.577Z",
+        "updatedAt": "2025-10-23T11:21:45.752Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 7,
+        "revision": 4,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Laser Tag(solo)",
+        "clubName": "CLOUD COMPUTING CLUB x IEEE COMSOC",
+        "eventType": "Game",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "2DjoogiKkAUD2TqebItIsA"
+          }
+        },
+        "startDateAndTime": "2025-10-31T10:00:00.000Z",
+        "endDateAndTime": "2025-11-02T18:00+00:00",
+        "pricePerPerson": 300,
+        "participationType": "Solo",
+        "eventVenue": "AB4 -314",
+        "shortDescription": "LaserTag is a thrilling 5v5 arena game where you race to score the most points with laser guns against opponents. Surrounded by glowing UV lights, lasers, and vibrant artwork, the arena creates a fun, competitive vibe. Safe, beginner-friendly, and adrenaline-packed, it’s an experience you won’t forget. Step in, gear up, and let the battle begin!",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "6G7E6XMMQllE3ds5hrNQyR",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:24:52.716Z",
+        "updatedAt": "2025-10-23T11:21:35.022Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 10,
+        "revision": 5,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Laser Tag(duo)",
+        "clubName": "CLOUD COMPUTING CLUB x IEEE COMSOC",
+        "eventType": "Game",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "2DjoogiKkAUD2TqebItIsA"
+          }
+        },
+        "startDateAndTime": "2025-10-31T10:00:00.000Z",
+        "endDateAndTime": "2025-11-02T18:00+00:00",
+        "pricePerPerson": 550,
+        "participationType": "Duo",
+        "eventVenue": "AB4 -314",
+        "shortDescription": "LaserTag is a thrilling 5v5 arena game where you race to score the most points with laser guns against opponents. Surrounded by glowing UV lights, lasers, and vibrant artwork, the arena creates a fun, competitive vibe. Safe, beginner-friendly, and adrenaline-packed, it’s an experience you won’t forget. Step in, gear up, and let the battle begin!",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
     {
       "metadata": {
         "tags": [],
@@ -4937,174 +5049,6 @@
         "eventVenue": "AB3 501",
         "shortDescription": "Competitive coding tournament where participants solve progressively harder problems, testing logic, speed, and problem-solving. Teams climb the leaderboard through multiple rounds, with only the sharpest coders advancing and prevailing.",
         "longDescription": "Decodex is an electrifying competitive coding tournament where sharp minds battle through rounds of challenging problems. Test your logic, speed, and problem-solving skills as you climb the leaderboard. With each stage tougher than the last, only the best coders will prevail. Code. Compete. Conquer.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "3HXFwcoR7Iasx3cTNCGAHG",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:24:53.602Z",
-        "updatedAt": "2025-10-22T19:04:38.436Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 6,
-        "revision": 3,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Laser Tag(squad)",
-        "clubName": "CLOUD COMPUTING CLUB",
-        "eventType": "Game",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "2DjoogiKkAUD2TqebItIsA"
-          }
-        },
-        "startDateAndTime": "2025-10-31T10:00:00.000Z",
-        "endDateAndTime": "2025-11-02T18:00+00:00",
-        "pricePerPerson": 250,
-        "participationType": "5+ Members",
-        "eventVenue": "AB4 -314",
-        "shortDescription": "LaserTag is a thrilling 5v5 arena game where you race to score the most points with laser guns against opponents. Surrounded by glowing UV lights, lasers, and vibrant artwork, the arena creates a fun, competitive vibe. Safe, beginner-friendly, and adrenaline-packed, it’s an experience you won’t forget. Step in, gear up, and let the battle begin!",
-        "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "6G7E6XMMQllE3ds5hrNQyR",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:24:52.716Z",
-        "updatedAt": "2025-10-22T19:04:20.308Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 7,
-        "revision": 4,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Laser Tag(duo)",
-        "clubName": "CLOUD COMPUTING CLUB",
-        "eventType": "Game",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "2DjoogiKkAUD2TqebItIsA"
-          }
-        },
-        "startDateAndTime": "2025-10-31T10:00:00.000Z",
-        "endDateAndTime": "2025-11-02T18:00+00:00",
-        "pricePerPerson": 550,
-        "participationType": "Duo",
-        "eventVenue": "AB4 -314",
-        "shortDescription": "LaserTag is a thrilling 5v5 arena game where you race to score the most points with laser guns against opponents. Surrounded by glowing UV lights, lasers, and vibrant artwork, the arena creates a fun, competitive vibe. Safe, beginner-friendly, and adrenaline-packed, it’s an experience you won’t forget. Step in, gear up, and let the battle begin!",
-        "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "7Av1c0a4wglMB1DPQWfaPw",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:24:51.577Z",
-        "updatedAt": "2025-10-22T19:04:03.484Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 5,
-        "revision": 3,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Laser Tag(solo)",
-        "clubName": "CLOUD COMPUTING CLUB",
-        "eventType": "Game",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "2DjoogiKkAUD2TqebItIsA"
-          }
-        },
-        "startDateAndTime": "2025-10-31T10:00:00.000Z",
-        "endDateAndTime": "2025-11-02T18:00+00:00",
-        "pricePerPerson": 300,
-        "participationType": "Solo",
-        "eventVenue": "AB4 -314",
-        "shortDescription": "LaserTag is a thrilling 5v5 arena game where you race to score the most points with laser guns against opponents. Surrounded by glowing UV lights, lasers, and vibrant artwork, the arena creates a fun, competitive vibe. Safe, beginner-friendly, and adrenaline-packed, it’s an experience you won’t forget. Step in, gear up, and let the battle begin!",
-        "longDescription": "",
         "specialEvent": false
       }
     },
@@ -11458,6 +11402,51 @@
               "id": "rr94wjxz7mfi"
             }
           },
+          "id": "4Qln3dKHzHzjSLZ25rmVcG",
+          "type": "Asset",
+          "createdAt": "2025-10-22T16:20:52.506Z",
+          "updatedAt": "2025-10-22T16:20:52.506Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Robo Race",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/4Qln3dKHzHzjSLZ25rmVcG/3b23b6ef74b587b5c3e307553d0b9af1/1_20251018_104436_0000.png",
+            "details": {
+              "size": 3474194,
+              "image": {
+                "width": 1587,
+                "height": 2245
+              }
+            },
+            "fileName": "1_20251018_104436_0000.png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
           "id": "4R8W73luVXXbDYdtAUHntc",
           "type": "Asset",
           "createdAt": "2025-10-22T19:07:43.622Z",
@@ -13825,51 +13814,6 @@
               }
             },
             "fileName": "emotive fashion (2).png",
-            "contentType": "image/png"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
-          "id": "4Qln3dKHzHzjSLZ25rmVcG",
-          "type": "Asset",
-          "createdAt": "2025-10-22T16:20:52.506Z",
-          "updatedAt": "2025-10-22T16:20:52.506Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 4,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "Robo Race",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/4Qln3dKHzHzjSLZ25rmVcG/3b23b6ef74b587b5c3e307553d0b9af1/1_20251018_104436_0000.png",
-            "details": {
-              "size": 3474194,
-              "image": {
-                "width": 1587,
-                "height": 2245
-              }
-            },
-            "fileName": "1_20251018_104436_0000.png",
             "contentType": "image/png"
           }
         }
