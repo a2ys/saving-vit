@@ -19,6 +19,118 @@
             "id": "rr94wjxz7mfi"
           }
         },
+        "id": "EVUgVDNTBb8ofcB23oj1v",
+        "type": "Entry",
+        "createdAt": "2025-10-14T18:29:36.695Z",
+        "updatedAt": "2025-10-24T15:22:36.354Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 25,
+        "revision": 5,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Robosoccer",
+        "clubName": "INTERNET OF THINGS COMMUNITY (IOTHINC)",
+        "eventType": "Game",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "42jcutc0wBg63mfsz93rF5"
+          }
+        },
+        "startDateAndTime": "2025-10-31T09:00+00:00",
+        "endDateAndTime": "2025-11-02T18:00+00:00",
+        "pricePerPerson": 100,
+        "participationType": "Duo",
+        "eventVenue": "AB3 Portico",
+        "shortDescription": "Its a robosoccer event (2v2) . Two bots designed by the club engineers per team equipped with shooting mechanisms are provided to be controlled by the participants.",
+        "longDescription": "Its a robosoccer event (2v2) . Two bots designed by the club engineers per team equipped with shooting mechanisms are provided to be controlled by the participants.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "3MJxe4CtBFTi5yNUYy7rOy",
+        "type": "Entry",
+        "createdAt": "2025-10-14T18:10:48.549Z",
+        "updatedAt": "2025-10-24T15:16:56.878Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 23,
+        "revision": 5,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Hack A Cure",
+        "clubName": "CODECHEF ",
+        "eventType": "Hackathon",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "6xVQmlw9iUvK3hIZJe9oqi"
+          }
+        },
+        "startDateAndTime": "2025-10-28T08:00+00:00",
+        "endDateAndTime": "2025-10-29T08:00+00:00",
+        "pricePerPerson": 200,
+        "participationType": "Duo/Trio/Squad/5+ Members",
+        "eventVenue": "Kamaraj Auditorium",
+        "shortDescription": "In this 24-hour hackathon, teams will design medical AI systems using Retrieval Augmented Generation (RAG). Leverage medical literature to build solutions, deploy them as APIs, and compete based on accuracy, evidence citation, and reliability.",
+        "longDescription": "Hack A Cure is a 24-hour hackathon where participants design advanced medical AI systems using Retrieval Augmented Generation (RAG). Teams leverage extensive medical literature to integrate large language models with external knowledge sources, creating AI solutions that provide accurate, context-rich clinical insights.\n \n Participants deploy their solutions as APIs, which are assessed through automated medical query tests measuring accuracy, evidence citation, and reliability. The hackathon emphasizes developing AI tools that enhance diagnostics, improve patient outcomes, and reduce AI hallucinations.\n \n Beyond technical innovation, Hack A Cure offers hands-on experience with cutting-edge AI technologies, including vector and graph databases, preparing participants for real-world challenges in medical AI applications. The event fosters creativity, collaboration, and ethical AI development, showcasing the potential of retrieval-augmented generation in healthcare.\n \n By combining AI, data retrieval, and medical expertise, Hack A Cure equips students and professionals with practical skills to design robust, evidence-based AI systems, advancing the future of intelligent healthcare solutions.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
         "id": "2nW7giPavBJcmrJPqsmMpc",
         "type": "Entry",
         "createdAt": "2025-10-18T14:07:16.498Z",
@@ -7585,62 +7697,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "EVUgVDNTBb8ofcB23oj1v",
-        "type": "Entry",
-        "createdAt": "2025-10-14T18:29:36.695Z",
-        "updatedAt": "2025-10-21T10:46:22.538Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 23,
-        "revision": 4,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Robosoccer",
-        "clubName": "INTERNET OF THINGS COMMUNITY (IOTHINC) X VOICE IT",
-        "eventType": "Game",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "42jcutc0wBg63mfsz93rF5"
-          }
-        },
-        "startDateAndTime": "2025-10-31T09:00+00:00",
-        "endDateAndTime": "2025-11-02T18:00+00:00",
-        "pricePerPerson": 100,
-        "participationType": "Duo",
-        "eventVenue": "AB3 Portico",
-        "shortDescription": "Its a robosoccer event (2v2) . Two bots designed by the club engineers per team equipped with shooting mechanisms are provided to be controlled by the participants.",
-        "longDescription": "Its a robosoccer event (2v2) . Two bots designed by the club engineers per team equipped with shooting mechanisms are provided to be controlled by the participants.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "7C2UMB6gu3g6E906Sgm9Z9",
         "type": "Entry",
         "createdAt": "2025-10-16T12:16:47.431Z",
@@ -8466,62 +8522,6 @@
         "shortDescription": "A SolidWorks/Fusion 360 event with a hands-on workshop on Day 1 and a design on Day 2. The 24 hr hackathon helps participants get the hang of CSWA & CSWP exam-taking, with a chance to win CSWA/CWSP coupons and a ₹10,000 cash prize pool.",
         "longDescription": "A SolidWorks/Fusion 360 event with a hands-on workshop on Day 1 and a design on Day 2. The 24 hr hackathon helps participants get the hang of CSWA & CSWP exam-taking, with a chance to win CSWA/CWSP coupons and a ₹10,000 cash prize pool.",
         "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "3MJxe4CtBFTi5yNUYy7rOy",
-        "type": "Entry",
-        "createdAt": "2025-10-14T18:10:48.549Z",
-        "updatedAt": "2025-10-17T07:30:44.560Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 21,
-        "revision": 4,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Hack A Cure",
-        "clubName": "CODECHEF ",
-        "eventType": "Hackathon",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "6xVQmlw9iUvK3hIZJe9oqi"
-          }
-        },
-        "startDateAndTime": "2025-10-28T08:00+00:00",
-        "endDateAndTime": "2025-10-29T08:00+00:00",
-        "pricePerPerson": 200,
-        "participationType": "Duo/Trio/Squad/5+ Members",
-        "eventVenue": "Kamaraj Auditorium",
-        "shortDescription": "In this 24-hour hackathon, teams will design medical AI systems using Retrieval Augmented Generation (RAG). Leverage medical literature to build solutions, deploy them as APIs, and compete based on accuracy, evidence citation, and reliability.",
-        "longDescription": "Hack A Cure is a 24-hour hackathon where participants design advanced medical AI systems using Retrieval Augmented Generation (RAG). Teams leverage extensive medical literature to integrate large language models with external knowledge sources, creating AI solutions that provide accurate, context-rich clinical insights.\n \n Participants deploy their solutions as APIs, which are assessed through automated medical query tests measuring accuracy, evidence citation, and reliability. The hackathon emphasizes developing AI tools that enhance diagnostics, improve patient outcomes, and reduce AI hallucinations.\n \n Beyond technical innovation, Hack A Cure offers hands-on experience with cutting-edge AI technologies, including vector and graph databases, preparing participants for real-world challenges in medical AI applications. The event fosters creativity, collaboration, and ethical AI development, showcasing the potential of retrieval-augmented generation in healthcare.\n \n By combining AI, data retrieval, and medical expertise, Hack A Cure equips students and professionals with practical skills to design robust, evidence-based AI systems, advancing the future of intelligent healthcare solutions.",
-        "specialEvent": true
       }
     },
     {
@@ -11268,6 +11268,51 @@
               "id": "rr94wjxz7mfi"
             }
           },
+          "id": "42jcutc0wBg63mfsz93rF5",
+          "type": "Asset",
+          "createdAt": "2025-10-14T18:29:28.330Z",
+          "updatedAt": "2025-10-14T18:29:28.330Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "IMG-20251010-WA0013 - IoTHINC - VIT Chennai",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/42jcutc0wBg63mfsz93rF5/35a0b99f43aea055778e98acc289c7f2/IMG-20251010-WA0013_-_IoTHINC_-_VIT_Chennai.jpg",
+            "details": {
+              "size": 530506,
+              "image": {
+                "width": 988,
+                "height": 1280
+              }
+            },
+            "fileName": "IMG-20251010-WA0013 - IoTHINC - VIT Chennai.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
           "id": "44cBoqcd2fOUCLG8S8zOx9",
           "type": "Asset",
           "createdAt": "2025-10-22T19:51:31.939Z",
@@ -11942,51 +11987,6 @@
               "id": "rr94wjxz7mfi"
             }
           },
-          "id": "5fvj06fh4m0SmrgNHO0etF",
-          "type": "Asset",
-          "createdAt": "2025-10-22T16:31:40.213Z",
-          "updatedAt": "2025-10-22T16:31:40.213Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 4,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "Rogue Route",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/5fvj06fh4m0SmrgNHO0etF/1b381c68966f26d6fdcd0b85b68be3f1/5_20251018_104436_0004.png",
-            "details": {
-              "size": 3403062,
-              "image": {
-                "width": 1587,
-                "height": 2245
-              }
-            },
-            "fileName": "5_20251018_104436_0004.png",
-            "contentType": "image/png"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
           "id": "5g9lnRQzowmK1J23xMk2SG",
           "type": "Asset",
           "createdAt": "2025-10-22T19:43:02.896Z",
@@ -12556,6 +12556,51 @@
             },
             "fileName": "GreenCode 1 - Shreyash Chaudhari.png",
             "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "6xVQmlw9iUvK3hIZJe9oqi",
+          "type": "Asset",
+          "createdAt": "2025-10-14T18:06:44.488Z",
+          "updatedAt": "2025-10-14T18:06:44.488Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 7,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Hack  a cure",
+          "description": "In this 24-hour hackathon, teams will design medical AI systems using Retrieval Augmented Generation (RAG). Leverage medical literature to build solutions, deploy them as APIs, and compete based on accuracy, evidence citation, and reliability.",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/6xVQmlw9iUvK3hIZJe9oqi/8920e49c70ec86e9fef24fbd48b94117/IMG-20251014-WA0048_-_Aneeka_Reemaz_A_23BEL1058__1_.jpg",
+            "details": {
+              "size": 134983,
+              "image": {
+                "width": 890,
+                "height": 1280
+              }
+            },
+            "fileName": "IMG-20251014-WA0048 - Aneeka Reemaz A 23BEL1058 (1).jpg",
+            "contentType": "image/jpeg"
           }
         }
       },
@@ -13651,51 +13696,6 @@
               "id": "rr94wjxz7mfi"
             }
           },
-          "id": "42jcutc0wBg63mfsz93rF5",
-          "type": "Asset",
-          "createdAt": "2025-10-14T18:29:28.330Z",
-          "updatedAt": "2025-10-14T18:29:28.330Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 3,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "IMG-20251010-WA0013 - IoTHINC - VIT Chennai",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/42jcutc0wBg63mfsz93rF5/35a0b99f43aea055778e98acc289c7f2/IMG-20251010-WA0013_-_IoTHINC_-_VIT_Chennai.jpg",
-            "details": {
-              "size": 530506,
-              "image": {
-                "width": 988,
-                "height": 1280
-              }
-            },
-            "fileName": "IMG-20251010-WA0013 - IoTHINC - VIT Chennai.jpg",
-            "contentType": "image/jpeg"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
           "id": "45s1YvV5HZJLOrUNAJHjgI",
           "type": "Asset",
           "createdAt": "2025-10-22T13:22:15.876Z",
@@ -14146,6 +14146,51 @@
               "id": "rr94wjxz7mfi"
             }
           },
+          "id": "5fvj06fh4m0SmrgNHO0etF",
+          "type": "Asset",
+          "createdAt": "2025-10-22T16:31:40.213Z",
+          "updatedAt": "2025-10-22T16:31:40.213Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Rogue Route",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/5fvj06fh4m0SmrgNHO0etF/1b381c68966f26d6fdcd0b85b68be3f1/5_20251018_104436_0004.png",
+            "details": {
+              "size": 3403062,
+              "image": {
+                "width": 1587,
+                "height": 2245
+              }
+            },
+            "fileName": "5_20251018_104436_0004.png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
           "id": "5lpq7y3eZtZp8LKh6vR4Hp",
           "type": "Asset",
           "createdAt": "2025-10-22T13:26:12.974Z",
@@ -14264,51 +14309,6 @@
               }
             },
             "fileName": "IMG-20251021-WA0018 - Rakesh Raja 25BRS1382.jpg",
-            "contentType": "image/jpeg"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
-          "id": "6xVQmlw9iUvK3hIZJe9oqi",
-          "type": "Asset",
-          "createdAt": "2025-10-14T18:06:44.488Z",
-          "updatedAt": "2025-10-14T18:06:44.488Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 7,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "Hack  a cure",
-          "description": "In this 24-hour hackathon, teams will design medical AI systems using Retrieval Augmented Generation (RAG). Leverage medical literature to build solutions, deploy them as APIs, and compete based on accuracy, evidence citation, and reliability.",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/6xVQmlw9iUvK3hIZJe9oqi/8920e49c70ec86e9fef24fbd48b94117/IMG-20251014-WA0048_-_Aneeka_Reemaz_A_23BEL1058__1_.jpg",
-            "details": {
-              "size": 134983,
-              "image": {
-                "width": 890,
-                "height": 1280
-              }
-            },
-            "fileName": "IMG-20251014-WA0048 - Aneeka Reemaz A 23BEL1058 (1).jpg",
             "contentType": "image/jpeg"
           }
         }
