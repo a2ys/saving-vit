@@ -2,10 +2,234 @@
   "sys": {
     "type": "Array"
   },
-  "total": 177,
+  "total": 178,
   "skip": 0,
-  "limit": 177,
+  "limit": 178,
   "items": [
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "1E2ND2Hz0Eq3e18efvOf29",
+        "type": "Entry",
+        "createdAt": "2025-10-24T20:36:33.133Z",
+        "updatedAt": "2025-10-24T20:40:44.900Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 5,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Robo Race",
+        "clubName": "TechnoVIT",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "3liqLeqXL3SeP6YZAMOdQF"
+          }
+        },
+        "startDateAndTime": "2025-10-31T10:00:00.000Z",
+        "endDateAndTime": "2025-10-31T18:00:00.000Z",
+        "pricePerPerson": 500,
+        "participationType": "Solo/Duo/Trio/Squad",
+        "eventVenue": "AB3 Lawn",
+        "shortDescription": "Robotics Racing",
+        "longDescription": "Robo Race",
+        "specialEvent": true
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "1Vfr8gzXmRDeHVHifTugFS",
+        "type": "Entry",
+        "createdAt": "2025-10-22T19:54:52.707Z",
+        "updatedAt": "2025-10-24T20:39:17.129Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 14,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Build-a-Chip: CMOS Chip Design Workshop",
+        "clubName": "INTEGRATED CIRCUITS & SYSTEM DESIGN (ICSD)",
+        "eventType": "Workshop",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "7dNmgankcYTPXrRUfJ1jMt"
+          }
+        },
+        "startDateAndTime": "2025-11-02T09:00+00:00",
+        "endDateAndTime": "2025-11-02T15:00+00:00",
+        "pricePerPerson": 50,
+        "participationType": "Solo",
+        "eventVenue": "AB3 406",
+        "shortDescription": "Workshop on CMOS technology and implementation. Participants will learn about CMOS and how to use them to create logic gates and make a standard cell library. Virtuoso Tool will be used to teach these concepts.",
+        "longDescription": "Workshop on CMOS technology and implementation. Participants will learn about CMOS and how to use them to create logic gates and make a standard cell library. Virtuoso Tool will be used to teach these concepts.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "1qacEW3ugxuw6EQzbDQMwD",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:13:00.006Z",
+        "updatedAt": "2025-10-24T20:38:37.043Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 13,
+        "revision": 5,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Robo Sumo",
+        "clubName": "TechnoVIT",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "57Acxtm9ev6wdw9FpdQWbM"
+          }
+        },
+        "startDateAndTime": "2025-10-31T10:00:00.000Z",
+        "endDateAndTime": "2025-10-31T18:00:00.000Z",
+        "pricePerPerson": 500,
+        "participationType": "Solo/Duo/Trio",
+        "eventVenue": "AB3 Amphitheatre",
+        "shortDescription": "Robot Sumo\n",
+        "longDescription": "Robot Sumo\n",
+        "specialEvent": true
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "1C4eCYAhG38qbgbk8WWrmj",
+        "type": "Entry",
+        "createdAt": "2025-10-24T20:35:17.856Z",
+        "updatedAt": "2025-10-24T20:35:17.856Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 11,
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Prod-THON",
+        "clubName": "IEEE EDS CHAPTER",
+        "eventType": "Hackathon",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "2Xuf0pnqc4H5lld7rOYcwq"
+          }
+        },
+        "startDateAndTime": "2025-10-27T10:00+00:00",
+        "endDateAndTime": "2025-10-28T10:00+00:00",
+        "pricePerPerson": 59,
+        "participationType": "Solo",
+        "eventVenue": "AB3 201",
+        "shortDescription": "Prod-THON 2025 is a one-day innovative student event designed to engage young minds in the process of standards development. Participants will work in teams to draft a document for emerging technologies and everyday products, create short presentation decks, and produce innovative reels to communicate their proposed standards effectively.",
+        "longDescription": "Prod-THON 2025 is a one-day innovative student event designed to engage young minds in the process of standards development. Participants will work in teams to draft a document for emerging technologies and everyday products, create short presentation decks, and produce innovative reels to communicate their proposed standards effectively.",
+        "specialEvent": false
+      }
+    },
     {
       "metadata": {
         "tags": [],
@@ -2075,62 +2299,6 @@
         "eventVenue": "AB3 Portico",
         "shortDescription": "In Robo Soccer, a competition by the IEEE RAS Student Chapter at TechnoVIT, students design and program autonomous robots to play soccer. ⚽ This hands-on challenge is a platform to showcase skills in robotics, AI, and strategic teamwork.",
         "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "1Vfr8gzXmRDeHVHifTugFS",
-        "type": "Entry",
-        "createdAt": "2025-10-22T19:54:52.707Z",
-        "updatedAt": "2025-10-22T19:54:52.707Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 12,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Build-a-Chip: CMOS Chip Design Workshop",
-        "clubName": "INTEGRATED CIRCUITS & SYSTEM DESIGN (ICSD)",
-        "eventType": "Workshop",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "BN39clI3REG2ZZA41648I"
-          }
-        },
-        "startDateAndTime": "2025-11-02T09:00+00:00",
-        "endDateAndTime": "2025-11-02T15:00+00:00",
-        "pricePerPerson": 50,
-        "participationType": "Solo",
-        "eventVenue": "AB3 406",
-        "shortDescription": "Workshop on CMOS technology and implementation. Participants will learn about CMOS and how to use them to create logic gates and make a standard cell library. Virtuoso Tool will be used to teach these concepts.",
-        "longDescription": "Workshop on CMOS technology and implementation. Participants will learn about CMOS and how to use them to create logic gates and make a standard cell library. Virtuoso Tool will be used to teach these concepts.",
         "specialEvent": false
       }
     },
@@ -6913,118 +7081,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "1qacEW3ugxuw6EQzbDQMwD",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:13:00.006Z",
-        "updatedAt": "2025-10-22T16:23:36.032Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 6,
-        "revision": 3,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Robo Sumo",
-        "clubName": "TechnoVIT",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "4vBiFZeJmZcb4E4SdwPdh9"
-          }
-        },
-        "startDateAndTime": "2025-10-31T10:00:00.000Z",
-        "endDateAndTime": "2025-10-31T18:00:00.000Z",
-        "pricePerPerson": 500,
-        "participationType": "Solo",
-        "eventVenue": "AB3 Amphitheatre",
-        "shortDescription": "Robot Sumo\n",
-        "longDescription": "Robot Sumo\n",
-        "specialEvent": true
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "vEhI713Gq4Rx9v4u1o2Zd",
-        "type": "Entry",
-        "createdAt": "2025-10-18T05:55:32.465Z",
-        "updatedAt": "2025-10-22T16:22:14.822Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 16,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Robo Race",
-        "clubName": "TechnoVIT",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "4Qln3dKHzHzjSLZ25rmVcG"
-          }
-        },
-        "startDateAndTime": "2025-10-31T10:00+00:00",
-        "endDateAndTime": "2025-10-31T06:00+00:00",
-        "pricePerPerson": 500,
-        "participationType": "Solo/Duo/Trio/Squad",
-        "eventVenue": "AB3 Lawn",
-        "shortDescription": "Gear up for Robotics Racing! Claim the ultimate robotics champion title!",
-        "longDescription": "Gear up for Robotics Racing! Claim the ultimate robotics champion title!",
-        "specialEvent": true
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "mdSn0QUAM8dodM3qVTfoh",
         "type": "Entry",
         "createdAt": "2025-10-18T14:19:46.425Z",
@@ -10390,51 +10446,6 @@
               "id": "rr94wjxz7mfi"
             }
           },
-          "id": "20Fb2g2VjmBZox7DioE3IM",
-          "type": "Asset",
-          "createdAt": "2025-10-22T19:21:12.889Z",
-          "updatedAt": "2025-10-22T19:21:12.889Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 4,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "codyssey",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/20Fb2g2VjmBZox7DioE3IM/027e0b4f8b1a6f626625a9638be34cc8/Instagram_story_-_30_-_Anay_Patil.png",
-            "details": {
-              "size": 1013451,
-              "image": {
-                "width": 1080,
-                "height": 1920
-              }
-            },
-            "fileName": "Instagram story - 30 - Anay Patil.png",
-            "contentType": "image/png"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
           "id": "2DjoogiKkAUD2TqebItIsA",
           "type": "Asset",
           "createdAt": "2025-10-22T19:03:57.197Z",
@@ -10643,6 +10654,51 @@
               }
             },
             "fileName": "treasure hunt (1) - prithiv k.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "2Xuf0pnqc4H5lld7rOYcwq",
+          "type": "Asset",
+          "createdAt": "2025-10-24T16:25:25.373Z",
+          "updatedAt": "2025-10-24T16:25:25.373Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "PRODTHON - Srihari R B 24BLC1360 (1)",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/2Xuf0pnqc4H5lld7rOYcwq/ce04a1c2c296406635ee9a44122e44cf/PRODTHON_-_Srihari_R_B_24BLC1360__1_.jpeg",
+            "details": {
+              "size": 510515,
+              "image": {
+                "width": 1123,
+                "height": 1590
+              }
+            },
+            "fileName": "PRODTHON - Srihari R B 24BLC1360 (1).jpeg",
             "contentType": "image/jpeg"
           }
         }
@@ -11110,6 +11166,51 @@
               "id": "rr94wjxz7mfi"
             }
           },
+          "id": "3liqLeqXL3SeP6YZAMOdQF",
+          "type": "Asset",
+          "createdAt": "2025-10-24T16:11:03.817Z",
+          "updatedAt": "2025-10-24T16:11:03.817Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "robo race",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/3liqLeqXL3SeP6YZAMOdQF/bd3ad1a795ea65c8f6c264121176aee8/robo_race.jpeg",
+            "details": {
+              "size": 270074,
+              "image": {
+                "width": 904,
+                "height": 1280
+              }
+            },
+            "fileName": "robo race.jpeg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
           "id": "3nw7CS2slVeq0d6csmB75A",
           "type": "Asset",
           "createdAt": "2025-10-22T19:44:07.482Z",
@@ -11183,51 +11284,6 @@
               }
             },
             "fileName": "IMG-20251021-WA0020 - Srija Dey 24BCE1684.jpg",
-            "contentType": "image/jpeg"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
-          "id": "3xpagV659tSUeAlYmXN9c2",
-          "type": "Asset",
-          "createdAt": "2025-10-22T19:19:48.716Z",
-          "updatedAt": "2025-10-22T19:19:48.716Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 4,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "innohack",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/3xpagV659tSUeAlYmXN9c2/facaee8b32038c409e6d55609d475835/InnoHack_Innovation___IPR_Challenge_-_Mercy_Rajaselvi_Beaulah.jpg",
-            "details": {
-              "size": 412268,
-              "image": {
-                "width": 1080,
-                "height": 1350
-              }
-            },
-            "fileName": "InnoHack Innovation & IPR Challenge - Mercy Rajaselvi Beaulah.jpg",
             "contentType": "image/jpeg"
           }
         }
@@ -11498,51 +11554,6 @@
               }
             },
             "fileName": "IMG-20251023-WA0020 - CAD Club VITCC.jpg",
-            "contentType": "image/jpeg"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
-          "id": "4kPV6qLRI4m2DRjRXbpA2G",
-          "type": "Asset",
-          "createdAt": "2025-10-22T19:20:26.195Z",
-          "updatedAt": "2025-10-22T19:20:26.195Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 3,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "Colored Gradient Illustrator Data Analysis Instagram Story (1) - ELEPHANY",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/4kPV6qLRI4m2DRjRXbpA2G/a331540567c4b2b32c4839f566267347/Colored_Gradient_Illustrator_Data_Analysis_Instagram_Story__1__-_ELEPHANY.jpg",
-            "details": {
-              "size": 905745,
-              "image": {
-                "width": 1080,
-                "height": 1920
-              }
-            },
-            "fileName": "Colored Gradient Illustrator Data Analysis Instagram Story (1) - ELEPHANY.jpg",
             "contentType": "image/jpeg"
           }
         }
@@ -11949,6 +11960,51 @@
             },
             "fileName": "void poster-min - Arjuun B 23BDS1164.png",
             "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "57Acxtm9ev6wdw9FpdQWbM",
+          "type": "Asset",
+          "createdAt": "2025-10-24T16:14:49.545Z",
+          "updatedAt": "2025-10-24T16:14:49.545Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Robo Sumo Poster",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/57Acxtm9ev6wdw9FpdQWbM/24b6c706820cb31af529f682020e5c21/Robo_Sumo_Poster.jpg",
+            "details": {
+              "size": 2768114,
+              "image": {
+                "width": 2480,
+                "height": 3508
+              }
+            },
+            "fileName": "Robo_Sumo_Poster.jpg",
+            "contentType": "image/jpeg"
           }
         }
       },
@@ -12910,6 +12966,51 @@
               "id": "rr94wjxz7mfi"
             }
           },
+          "id": "7dNmgankcYTPXrRUfJ1jMt",
+          "type": "Asset",
+          "createdAt": "2025-10-23T09:08:07.725Z",
+          "updatedAt": "2025-10-23T09:08:07.725Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Build a chip",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/7dNmgankcYTPXrRUfJ1jMt/370881673390a98b557cd2d0c88074f8/CMOS_poster_final.jpg",
+            "details": {
+              "size": 122594,
+              "image": {
+                "width": 794,
+                "height": 1123
+              }
+            },
+            "fileName": "CMOS_poster_final.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
           "id": "7eHtrkWxKHGrcVtQXJZECL",
           "type": "Asset",
           "createdAt": "2025-10-22T19:37:09.148Z",
@@ -13073,50 +13174,6 @@
               }
             },
             "fileName": "Coder-s Heist - V Shriya.png",
-            "contentType": "image/png"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
-          "id": "BN39clI3REG2ZZA41648I",
-          "type": "Asset",
-          "createdAt": "2025-10-15T12:44:47.351Z",
-          "updatedAt": "2025-10-15T12:44:47.351Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 5,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "TemporaryLogoTechnoVIT",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/BN39clI3REG2ZZA41648I/2f52cfc9cfdc09810be67242e0f2e8e1/264a8d534413ff5e0b32db657bcbcbd7.png",
-            "details": {
-              "size": 1256483,
-              "image": {
-                "width": 3375,
-                "height": 4219
-              }
-            },
-            "fileName": "264a8d534413ff5e0b32db657bcbcbd7.png",
             "contentType": "image/png"
           }
         }
@@ -13854,6 +13911,51 @@
               "id": "rr94wjxz7mfi"
             }
           },
+          "id": "20Fb2g2VjmBZox7DioE3IM",
+          "type": "Asset",
+          "createdAt": "2025-10-22T19:21:12.889Z",
+          "updatedAt": "2025-10-22T19:21:12.889Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "codyssey",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/20Fb2g2VjmBZox7DioE3IM/027e0b4f8b1a6f626625a9638be34cc8/Instagram_story_-_30_-_Anay_Patil.png",
+            "details": {
+              "size": 1013451,
+              "image": {
+                "width": 1080,
+                "height": 1920
+              }
+            },
+            "fileName": "Instagram story - 30 - Anay Patil.png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
           "id": "257CYCXEkgi6hx36RNRnHq",
           "type": "Asset",
           "createdAt": "2025-10-22T13:10:50.853Z",
@@ -14304,6 +14406,51 @@
               "id": "rr94wjxz7mfi"
             }
           },
+          "id": "3xpagV659tSUeAlYmXN9c2",
+          "type": "Asset",
+          "createdAt": "2025-10-22T19:19:48.716Z",
+          "updatedAt": "2025-10-22T19:19:48.716Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "innohack",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/3xpagV659tSUeAlYmXN9c2/facaee8b32038c409e6d55609d475835/InnoHack_Innovation___IPR_Challenge_-_Mercy_Rajaselvi_Beaulah.jpg",
+            "details": {
+              "size": 412268,
+              "image": {
+                "width": 1080,
+                "height": 1350
+              }
+            },
+            "fileName": "InnoHack Innovation & IPR Challenge - Mercy Rajaselvi Beaulah.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
           "id": "3yzyY3MUtPEqFPM07t9CpQ",
           "type": "Asset",
           "createdAt": "2025-10-22T13:58:53.355Z",
@@ -14573,51 +14720,6 @@
               "id": "rr94wjxz7mfi"
             }
           },
-          "id": "4Qln3dKHzHzjSLZ25rmVcG",
-          "type": "Asset",
-          "createdAt": "2025-10-22T16:20:52.506Z",
-          "updatedAt": "2025-10-22T16:20:52.506Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 4,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "Robo Race",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/4Qln3dKHzHzjSLZ25rmVcG/3b23b6ef74b587b5c3e307553d0b9af1/1_20251018_104436_0000.png",
-            "details": {
-              "size": 3474194,
-              "image": {
-                "width": 1587,
-                "height": 2245
-              }
-            },
-            "fileName": "1_20251018_104436_0000.png",
-            "contentType": "image/png"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
           "id": "4V36f1x7blwPtBI1Erb8b8",
           "type": "Asset",
           "createdAt": "2025-10-22T13:38:53.233Z",
@@ -14798,6 +14900,51 @@
               "id": "rr94wjxz7mfi"
             }
           },
+          "id": "4kPV6qLRI4m2DRjRXbpA2G",
+          "type": "Asset",
+          "createdAt": "2025-10-22T19:20:26.195Z",
+          "updatedAt": "2025-10-22T19:20:26.195Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Colored Gradient Illustrator Data Analysis Instagram Story (1) - ELEPHANY",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/4kPV6qLRI4m2DRjRXbpA2G/a331540567c4b2b32c4839f566267347/Colored_Gradient_Illustrator_Data_Analysis_Instagram_Story__1__-_ELEPHANY.jpg",
+            "details": {
+              "size": 905745,
+              "image": {
+                "width": 1080,
+                "height": 1920
+              }
+            },
+            "fileName": "Colored Gradient Illustrator Data Analysis Instagram Story (1) - ELEPHANY.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
           "id": "4pfNGubY7VXiosh3PZFyxH",
           "type": "Asset",
           "createdAt": "2025-10-22T19:17:57.434Z",
@@ -14827,51 +14974,6 @@
             },
             "fileName": "Netsim Online 24 hours Hackathon - Jayavignesh Thyagarajan.jpg",
             "contentType": "image/jpeg"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
-          "id": "4vBiFZeJmZcb4E4SdwPdh9",
-          "type": "Asset",
-          "createdAt": "2025-10-22T16:23:30.156Z",
-          "updatedAt": "2025-10-22T16:23:30.156Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 4,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "Robo Sumo",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/4vBiFZeJmZcb4E4SdwPdh9/21fdf3ed4c4fd4dbfa7b0d4a84748ca1/2_20251018_104436_0001.png",
-            "details": {
-              "size": 3398100,
-              "image": {
-                "width": 1587,
-                "height": 2245
-              }
-            },
-            "fileName": "2_20251018_104436_0001.png",
-            "contentType": "image/png"
           }
         }
       },
