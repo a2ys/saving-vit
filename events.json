@@ -2,10 +2,738 @@
   "sys": {
     "type": "Array"
   },
-  "total": 175,
+  "total": 176,
   "skip": 0,
-  "limit": 175,
+  "limit": 176,
   "items": [
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "57due0zFThXucRYkPFk7FR",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:24:54.655Z",
+        "updatedAt": "2025-10-24T15:52:04.773Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 4,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "THE PRIVACY PARADOX ",
+        "clubName": "VITC DEBATE SOCIETY",
+        "eventType": "Entertainment",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "1MtBVFA9gOUJIvvAHVzOOV"
+          }
+        },
+        "startDateAndTime": "2025-10-29T09:00:00.000Z",
+        "endDateAndTime": "2025-10-29T16:00:00.000Z",
+        "pricePerPerson": 150,
+        "participationType": "Solo",
+        "eventVenue": "AB3 501",
+        "shortDescription": "A Model-UN style debate where each participant represents a country and deliberates on the pressing agenda: “Artificial Intelligence and Surveillance: Balancing National Security with the Right to Privacy.” The event will encourage critical thinking, negotiation, and global policy discussion on how nations can leverage AI for security without compromising fundamental human rights.",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "197A5WHeEo1QPEUVhqtt2F",
+        "type": "Entry",
+        "createdAt": "2025-10-16T14:13:17.979Z",
+        "updatedAt": "2025-10-24T15:51:15.401Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Frame it with Figma Trio",
+        "clubName": "CLOUD COMPUTING CLUB",
+        "eventType": "Workshop",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "715dYh7ZNXq5ynYnPnDErv"
+          }
+        },
+        "startDateAndTime": "2025-10-29T10:00:00.000Z",
+        "endDateAndTime": "2025-10-29T18:00:00.000Z",
+        "pricePerPerson": 250,
+        "participationType": "Trio",
+        "eventVenue": "Kamaraj Auditorium",
+        "shortDescription": "Participants will see an AI-generated image made by the club and must craft the most accurate prompt using an AI image generation tool to recreate it. The participant whose output best matches the original image will be declared the winner.",
+        "longDescription": "Participants will be shown an AI-generated image created by the club. Their task is to craft the most accurate prompt using an AI image generation tool to recreate the image as closely as possible.The participant whose output most closely matches the original image will be declared the winner",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "64Ep2n3Sq9kORfPsTahf5U",
+        "type": "Entry",
+        "createdAt": "2025-10-16T14:13:16.924Z",
+        "updatedAt": "2025-10-24T15:51:01.995Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Frame it with Figma Duo",
+        "clubName": "CLOUD COMPUTING CLUB",
+        "eventType": "Workshop",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "715dYh7ZNXq5ynYnPnDErv"
+          }
+        },
+        "startDateAndTime": "2025-10-29T10:00:00.000Z",
+        "endDateAndTime": "2025-10-29T18:00:00.000Z",
+        "pricePerPerson": 175,
+        "participationType": "Duo",
+        "eventVenue": "Kamaraj Auditorium",
+        "shortDescription": "Participants will see an AI-generated image made by the club and must craft the most accurate prompt using an AI image generation tool to recreate it. The participant whose output best matches the original image will be declared the winner.",
+        "longDescription": "Participants will be shown an AI-generated image created by the club. Their task is to craft the most accurate prompt using an AI image generation tool to recreate the image as closely as possible.The participant whose output most closely matches the original image will be declared the winner",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "3IXTggB9oDnfDJA6hmVEyf",
+        "type": "Entry",
+        "createdAt": "2025-10-16T14:13:15.848Z",
+        "updatedAt": "2025-10-24T15:50:48.567Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Frame it with Figma Solo",
+        "clubName": "CLOUD COMPUTING CLUB",
+        "eventType": "Workshop",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "715dYh7ZNXq5ynYnPnDErv"
+          }
+        },
+        "startDateAndTime": "2025-10-29T10:00:00.000Z",
+        "endDateAndTime": "2025-10-29T18:00:00.000Z",
+        "pricePerPerson": 100,
+        "participationType": "Solo",
+        "eventVenue": "Kamaraj Auditorium",
+        "shortDescription": "Participants will see an AI-generated image made by the club and must craft the most accurate prompt using an AI image generation tool to recreate it. The participant whose output best matches the original image will be declared the winner.",
+        "longDescription": "Participants will be shown an AI-generated image created by the club. Their task is to craft the most accurate prompt using an AI image generation tool to recreate the image as closely as possible.The participant whose output most closely matches the original image will be declared the winner",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "3nQxNqQp1xJICRkldIGkBS",
+        "type": "Entry",
+        "createdAt": "2025-10-16T14:11:26.426Z",
+        "updatedAt": "2025-10-24T15:49:55.354Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Surveying treasure hunt",
+        "clubName": "INDIAN CONCRETE INSTITUTE STUDENT CHAPTER",
+        "eventType": "Entertainment",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "2TZyIBqcsTt1R5QMawRing"
+          }
+        },
+        "startDateAndTime": "2025-10-27T10:00:00.000Z",
+        "endDateAndTime": "2025-10-27T03:00:00.000Z",
+        "pricePerPerson": 150,
+        "participationType": "Trio/Squad/5+ Members",
+        "eventVenue": "AB1 Amphitheatre",
+        "shortDescription": "Participants use leveling staff and basic surveying techniques to follow clues and find hidden checkpoints across campus. Each clue tests technical skills and teamwork, with the first team reaching the final treasure declared the winner.",
+        "longDescription": "An exciting twist to surveying! Participants will use leveling staff and basic surveying techniques to navigate clues and locate hidden checkpoints across the campus. Each clue leads to the next spot, testing both technical knowledge and teamwork. The team that finds the final treasure first wins the challenge.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "4V1lrplLakBFYoMHQx5fAP",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:19:40.804Z",
+        "updatedAt": "2025-10-24T15:48:38.027Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 7,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "VOID(5+ members)",
+        "clubName": "OPEN SOURCE PROGRAMMING CLUB",
+        "eventType": "Hackathon",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "50NGoVp06H5Goz3khQM0LF"
+          }
+        },
+        "startDateAndTime": "2025-10-28T09:00:00.000Z",
+        "endDateAndTime": "2025-10-29T10:00:00.000Z",
+        "pricePerPerson": 1000,
+        "participationType": "5+ Members",
+        "eventVenue": "MG Auditorium",
+        "shortDescription": "ONLY SHORTLISTED STUDENTS!! Join VØID:v1, a 24-hour hackathon where technology meets entrepreneurship. Go beyond coding to build a functional prototype and a comprehensive business plan, turning visionary ideas into viable businesses across diverse innovation tracks.",
+        "longDescription": "VØID:v1 is built for the restless and the bold - those who refuse to watch the future unfold and instead choose to shape it. Scheduled for 28th & 29th October 2025, this 24-hour hackathon is more than just a coding competition. It is an arena where creativity collides with technology, where ideas roar louder than Wall Street, and where teams don't just build projects - they spark movements. \n\nVOID is an innovation-focused hackathon where top minds converge to build groundbreaking, disruptive solutions. It's more than just a coding competition; it's a platform for turning visionary ideas into viable businesses. Participants will not only create groundbreaking, functional prototypes but will also develop comprehensive business plans, including pitch decks and Business Model Canvases (BMCs), preparing them for real-world application. VOID is where technology meets entrepreneurship, creating a future-ready cohort of innovators.\n\nPowered by the Open Source Programming Club (OSPC) and the Business Innovation Club (BIC) of VIT Chennai, and hosted on Devfolio, VØID provides the perfect platform to showcase talent, collaborate with like-minded peers, and turn visionary ideas into tangible, game-changing outcomes.\n\n🌐 Tracks:\n1. FinTech & Digital Payments\n2. HealthTech & EdTech\n3. RetailTech, SaaS & Smart Mobility\n4. AgriTech & SDG\n5. Open Innovation",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "4EJpp8ytXVo5ZZB1GWLfhs",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:19:39.679Z",
+        "updatedAt": "2025-10-24T15:48:19.320Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 6,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "VOID(squad)",
+        "clubName": "OPEN SOURCE PROGRAMMING CLUB",
+        "eventType": "Hackathon",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "50NGoVp06H5Goz3khQM0LF"
+          }
+        },
+        "startDateAndTime": "2025-10-28T09:00:00.000Z",
+        "endDateAndTime": "2025-10-29T10:00:00.000Z",
+        "pricePerPerson": 800,
+        "participationType": "Squad",
+        "eventVenue": "MG Auditorium",
+        "shortDescription": "ONLY SHORTLISTED TEAMS!! Join VØID:v1, a 24-hour hackathon where technology meets entrepreneurship. Go beyond coding to build a functional prototype and a comprehensive business plan, turning visionary ideas into viable businesses across diverse innovation tracks.",
+        "longDescription": "VØID:v1 is built for the restless and the bold - those who refuse to watch the future unfold and instead choose to shape it. Scheduled for 28th & 29th October 2025, this 24-hour hackathon is more than just a coding competition. It is an arena where creativity collides with technology, where ideas roar louder than Wall Street, and where teams don't just build projects - they spark movements. \n\nVOID is an innovation-focused hackathon where top minds converge to build groundbreaking, disruptive solutions. It's more than just a coding competition; it's a platform for turning visionary ideas into viable businesses. Participants will not only create groundbreaking, functional prototypes but will also develop comprehensive business plans, including pitch decks and Business Model Canvases (BMCs), preparing them for real-world application. VOID is where technology meets entrepreneurship, creating a future-ready cohort of innovators.\n\nPowered by the Open Source Programming Club (OSPC) and the Business Innovation Club (BIC) of VIT Chennai, and hosted on Devfolio, VØID provides the perfect platform to showcase talent, collaborate with like-minded peers, and turn visionary ideas into tangible, game-changing outcomes.\n\n🌐 Tracks:\n1. FinTech & Digital Payments\n2. HealthTech & EdTech\n3. RetailTech, SaaS & Smart Mobility\n4. AgriTech & SDG\n5. Open Innovation",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "Mmzh8wlk8mbwZIg94inuw",
+        "type": "Entry",
+        "createdAt": "2025-10-21T12:22:20.626Z",
+        "updatedAt": "2025-10-24T15:47:36.539Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 6,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "PlayThePrompt Duo",
+        "clubName": "GAME DEVELOPMENT CLUB",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "3bJrefDjARPE4I1yE9ajUd"
+          }
+        },
+        "startDateAndTime": "2025-10-31T18:00:00.000Z",
+        "endDateAndTime": "2025-11-01T20:00+00:00",
+        "pricePerPerson": 200,
+        "participationType": "Duo",
+        "eventVenue": "Online",
+        "shortDescription": "In this competition, the task is to design, test, and gamify prompts that push AI systems to perform in creative, challenging, and unexpected ways.",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "25wVgiLFxVyWGVMt0MT3iq",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:12:17.324Z",
+        "updatedAt": "2025-10-24T15:47:23.450Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 6,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "PlayThePrompt Solo",
+        "clubName": "GAME DEVELOPMENT CLUB",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "3bJrefDjARPE4I1yE9ajUd"
+          }
+        },
+        "startDateAndTime": "2025-10-31T18:00:00.000Z",
+        "endDateAndTime": "2025-11-01T20:00+00:00",
+        "pricePerPerson": 100,
+        "participationType": "Solo",
+        "eventVenue": "Online",
+        "shortDescription": "In this competition, the task is to design, test, and gamify prompts that push AI systems to perform in creative, challenging, and unexpected ways.",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "7C2UMB6gu3g6E906Sgm9Z9",
+        "type": "Entry",
+        "createdAt": "2025-10-16T12:16:47.431Z",
+        "updatedAt": "2025-10-24T15:46:37.629Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 5,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Make Your Own Product CNC Machining",
+        "clubName": "ASME STUDENT CHAPTER",
+        "eventType": "Workshop",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "2SHUZHVgn8s3JuLm8AvCuG"
+          }
+        },
+        "startDateAndTime": "2025-10-31T08:30:00.000Z",
+        "endDateAndTime": "2025-10-31T16:30:00.000Z",
+        "pricePerPerson": 500,
+        "participationType": "Trio",
+        "eventVenue": "AB2 015",
+        "shortDescription": "Students will be gain exposure on CNC machining simulation. Hands-on session to use CNC lathe and Vertical Machining Centre to manufacture their own product. This would be beneficial for students interested to make their own product out of metals and special teams making components for their vehicles.",
+        "longDescription": "CNC machining workshop providing simulation and hands-on use of CNC lathe and vertical machining centers. Participants manufacture metal components, ideal for students creating custom parts for projects or vehicles",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "7j5PY3GRPn4iK6XGTguKmn",
+        "type": "Entry",
+        "createdAt": "2025-10-16T14:14:16.708Z",
+        "updatedAt": "2025-10-24T15:45:51.677Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Innovation Technology protection of Human values",
+        "clubName": "ACM-W",
+        "eventType": "Workshop",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "2w2WWRRWXIOIvdMBYJK5Bj"
+          }
+        },
+        "startDateAndTime": "2025-11-01T09:00:00.000Z",
+        "endDateAndTime": "2025-11-01T13:00:00.000Z",
+        "pricePerPerson": 150,
+        "participationType": "Solo",
+        "eventVenue": "AB1-201",
+        "shortDescription": "Multidisciplinary Workshop on protection of Human values",
+        "longDescription": "Multidisciplinary Workshop on protection of Human values",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "1dD4990XWIxviME5LJ0Stt",
+        "type": "Entry",
+        "createdAt": "2025-10-16T12:28:12.518Z",
+        "updatedAt": "2025-10-24T15:44:29.796Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Code the Future ESP Workshop",
+        "clubName": "AGRHI INNOVATORS CLUB",
+        "eventType": "Workshop",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "6TDqBKv1wjpYkzZb4FIbzZ"
+          }
+        },
+        "startDateAndTime": "2025-10-31T09:00:00.000Z",
+        "endDateAndTime": "2025-10-31T14:00:00.000Z",
+        "pricePerPerson": 60,
+        "participationType": "Solo",
+        "eventVenue": "AB3 - 612",
+        "shortDescription": "Get hands-on with the Internet of Things! This workshop introduces you to the world of ESP microcontrollers, where hardware meets innovation. Learn to program, connect, and build exciting projects using ESP boards, from smart devices to real-world automation. Whether you’re a beginner or a tinkerer, this is your chance to code, create, and craft the connected future.",
+        "longDescription": "Get hands-on with IoT using ESP microcontrollers! Learn to program, connect, and build projects from smart devices to automation. Beginners and tinkerers alike will code, create, and craft innovative, connected solutions for real-world applications.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "30nPIg2jkTgWTmXQZdaLb2",
+        "type": "Entry",
+        "createdAt": "2025-10-17T10:23:50.018Z",
+        "updatedAt": "2025-10-24T15:43:38.250Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 10,
+        "revision": 5,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Obscur 33 Final Trace",
+        "clubName": "CYSCOM X FYI",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "1RFuznneTFzjQfWsdarrGu"
+          }
+        },
+        "startDateAndTime": "2025-10-31T08:00:00.000Z",
+        "endDateAndTime": "2025-11-01T08:00:00.000Z",
+        "pricePerPerson": 150,
+        "participationType": "Solo",
+        "eventVenue": "Kamaraj Auditorium",
+        "shortDescription": "Final Trace is a story-driven 24-hour cybersecurity CTF with dynamic challenges, branched endings, and a huge prize pool.",
+        "longDescription": "Get ready for Final Trace, the flagship 24-hour CTF by CYSCOM & FYI, with a ₹60,000+ prize pool. This is a story-driven hacking adventure where every choice you make changes the outcome. Solve dynamic flags, uncover hidden twists, and navigate multiple endings that keep you hooked from start to finish. It’s unlike any CTF you’ve tried before.\nAlong the way, join expert sessions on AI and cybersecurity, pick up cutting-edge techniques, and compete alongside top talent. Whether you’re chasing the prize, the thrill, or the challenge, Final Trace guarantees 24 hours of nonstop strategy, suspense, and fun. The story moves fast—be there to shape it.",
+        "specialEvent": false
+      }
+    },
     {
       "metadata": {
         "tags": [],
@@ -1403,118 +2131,6 @@
         "eventVenue": "Clock Court, MBA Amphi, AB1 Portico, AB3 Portico, AB1 Side Entrance, AB1 Mini Portico, AB3 First Floor Classroom, Outside/Near MG, and AB3 Amphi (Back Side) (Multiple checkpoints throughout the campus)",
         "shortDescription": "Techno Prix is a campus-wide event where teams of 4 navigate checkpoints, tackling challenges that test entrepreneurship and strategy. Compete in activities like Shark Tank pitches, SDG card trading, and meme marketing to win.",
         "longDescription": "Techno Prix is an interactive, campus-wide event designed to foster entrepreneurship, strategic thinking, collaborative problem-solving, and innovation among students. Teams of four will navigate a series of 10 checkpoints across the campus, participating in challenges that combine business creativity, negotiation, and gameplay.\n \n Participants will engage in activities such as:\n -Shark Tank Mini: Pitch creative business ideas to earn investment points.\n -SDG Deck Trade: Strategically negotiate and collect Sustainable Development Goal cards to maximize rewards.\n -Reverse Shark Tank: Present unconventional or humorous business ideas persuasively.\n -Customer Chaos Challenge: Demonstrate adaptability and sales skills by addressing unique customer demands.\n -Meme Marketing Mayhem: Develop marketing content for given products, emphasizing creativity and engagement.\n -GDG GameDev PlayZone: Experience and compete in games created by the GameDev team, earning points and advantages through interactive gameplay.\n \n The event aims to encourage entrepreneurial thinking, creativity, teamwork, and campus-wide interaction, while maintaining an enjoyable and competitive environment.\n \n Team Composition: 4 members per team\n Venue: Multiple checkpoints across the campus",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "4V1lrplLakBFYoMHQx5fAP",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:19:40.804Z",
-        "updatedAt": "2025-10-22T19:46:59.337Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 4,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "VOID(5+ members)",
-        "clubName": "OPEN SOURCE PROGRAMMING CLUB",
-        "eventType": "Hackathon",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-28T09:00:00.000Z",
-        "endDateAndTime": "2025-10-29T10:00:00.000Z",
-        "pricePerPerson": 1000,
-        "participationType": "5+ Members",
-        "eventVenue": "MG Auditorium",
-        "shortDescription": "ONLY SHORTLISTED STUDENTS!! Join VØID:v1, a 24-hour hackathon where technology meets entrepreneurship. Go beyond coding to build a functional prototype and a comprehensive business plan, turning visionary ideas into viable businesses across diverse innovation tracks.",
-        "longDescription": "VØID:v1 is built for the restless and the bold - those who refuse to watch the future unfold and instead choose to shape it. Scheduled for 28th & 29th October 2025, this 24-hour hackathon is more than just a coding competition. It is an arena where creativity collides with technology, where ideas roar louder than Wall Street, and where teams don't just build projects - they spark movements. \n\nVOID is an innovation-focused hackathon where top minds converge to build groundbreaking, disruptive solutions. It's more than just a coding competition; it's a platform for turning visionary ideas into viable businesses. Participants will not only create groundbreaking, functional prototypes but will also develop comprehensive business plans, including pitch decks and Business Model Canvases (BMCs), preparing them for real-world application. VOID is where technology meets entrepreneurship, creating a future-ready cohort of innovators.\n\nPowered by the Open Source Programming Club (OSPC) and the Business Innovation Club (BIC) of VIT Chennai, and hosted on Devfolio, VØID provides the perfect platform to showcase talent, collaborate with like-minded peers, and turn visionary ideas into tangible, game-changing outcomes.\n\n🌐 Tracks:\n1. FinTech & Digital Payments\n2. HealthTech & EdTech\n3. RetailTech, SaaS & Smart Mobility\n4. AgriTech & SDG\n5. Open Innovation",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "4EJpp8ytXVo5ZZB1GWLfhs",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:19:39.679Z",
-        "updatedAt": "2025-10-22T19:46:27.329Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 4,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "VOID(squad)",
-        "clubName": "OPEN SOURCE PROGRAMMING CLUB",
-        "eventType": "Hackathon",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-28T09:00:00.000Z",
-        "endDateAndTime": "2025-10-29T10:00:00.000Z",
-        "pricePerPerson": 800,
-        "participationType": "Squad",
-        "eventVenue": "MG Auditorium",
-        "shortDescription": "ONLY SHORTLISTED TEAMS!! Join VØID:v1, a 24-hour hackathon where technology meets entrepreneurship. Go beyond coding to build a functional prototype and a comprehensive business plan, turning visionary ideas into viable businesses across diverse innovation tracks.",
-        "longDescription": "VØID:v1 is built for the restless and the bold - those who refuse to watch the future unfold and instead choose to shape it. Scheduled for 28th & 29th October 2025, this 24-hour hackathon is more than just a coding competition. It is an arena where creativity collides with technology, where ideas roar louder than Wall Street, and where teams don't just build projects - they spark movements. \n\nVOID is an innovation-focused hackathon where top minds converge to build groundbreaking, disruptive solutions. It's more than just a coding competition; it's a platform for turning visionary ideas into viable businesses. Participants will not only create groundbreaking, functional prototypes but will also develop comprehensive business plans, including pitch decks and Business Model Canvases (BMCs), preparing them for real-world application. VOID is where technology meets entrepreneurship, creating a future-ready cohort of innovators.\n\nPowered by the Open Source Programming Club (OSPC) and the Business Innovation Club (BIC) of VIT Chennai, and hosted on Devfolio, VØID provides the perfect platform to showcase talent, collaborate with like-minded peers, and turn visionary ideas into tangible, game-changing outcomes.\n\n🌐 Tracks:\n1. FinTech & Digital Payments\n2. HealthTech & EdTech\n3. RetailTech, SaaS & Smart Mobility\n4. AgriTech & SDG\n5. Open Innovation",
         "specialEvent": false
       }
     },
@@ -7305,62 +7921,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "30nPIg2jkTgWTmXQZdaLb2",
-        "type": "Entry",
-        "createdAt": "2025-10-17T10:23:50.018Z",
-        "updatedAt": "2025-10-21T15:06:15.980Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 8,
-        "revision": 4,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Obscur 33 Final Trace",
-        "clubName": "CYSCOM X FYI",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T08:00:00.000Z",
-        "endDateAndTime": "2025-11-01T08:00:00.000Z",
-        "pricePerPerson": 150,
-        "participationType": "Solo",
-        "eventVenue": "Kamaraj Auditorium",
-        "shortDescription": "Final Trace is a story-driven 24-hour cybersecurity CTF with dynamic challenges, branched endings, and a huge prize pool.",
-        "longDescription": "Get ready for Final Trace, the flagship 24-hour CTF by CYSCOM & FYI, with a ₹60,000+ prize pool. This is a story-driven hacking adventure where every choice you make changes the outcome. Solve dynamic flags, uncover hidden twists, and navigate multiple endings that keep you hooked from start to finish. It’s unlike any CTF you’ve tried before.\nAlong the way, join expert sessions on AI and cybersecurity, pick up cutting-edge techniques, and compete alongside top talent. Whether you’re chasing the prize, the thrill, or the challenge, Final Trace guarantees 24 hours of nonstop strategy, suspense, and fun. The story moves fast—be there to shape it.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "79TD3bkEuPxdpxHHV06UTU",
         "type": "Entry",
         "createdAt": "2025-10-18T14:08:43.423Z",
@@ -7457,62 +8017,6 @@
         "eventVenue": "AB1 306 Control and Instrumentation Lab ",
         "shortDescription": "Register as single person in the payment portal and then form teams. Tackle a simple engineering design problem in ECE, EEE, or CSE. Your challenge is to create a theoretical design, build a mandatory hardware prototype on a breadboard or PCB, and validate your results using simulation software.",
         "longDescription": "Students will be given a simple engineering design problem related to Electrical, Electronics, Communication and Computer Engineering. Interested others may also join.\n \n Students have to identify the system, make a theoretical design, identify the components required and make a hardware prototype (mandatory) using breadboard or general purpose pcb. The results of the prototype shall be validated using any simulation software.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "Mmzh8wlk8mbwZIg94inuw",
-        "type": "Entry",
-        "createdAt": "2025-10-21T12:22:20.626Z",
-        "updatedAt": "2025-10-21T12:22:58.146Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 4,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "PlayThePrompt Duo",
-        "clubName": "GAME DEVELOPMENT CLUB",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T18:00:00.000Z",
-        "endDateAndTime": "2025-11-01T20:00+00:00",
-        "pricePerPerson": 200,
-        "participationType": "Duo",
-        "eventVenue": "Online",
-        "shortDescription": "In this competition, the task is to design, test, and gamify prompts that push AI systems to perform in creative, challenging, and unexpected ways.",
-        "longDescription": "",
         "specialEvent": false
       }
     },
@@ -7753,62 +8257,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "7C2UMB6gu3g6E906Sgm9Z9",
-        "type": "Entry",
-        "createdAt": "2025-10-16T12:16:47.431Z",
-        "updatedAt": "2025-10-21T08:05:27.755Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 3,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Make Your Own Product CNC Machining",
-        "clubName": "ASME STUDENT CHAPTER",
-        "eventType": "Workshop",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T08:30:00.000Z",
-        "endDateAndTime": "2025-10-31T16:30:00.000Z",
-        "pricePerPerson": 500,
-        "participationType": "Trio",
-        "eventVenue": "AB2 015",
-        "shortDescription": "Students will be gain exposure on CNC machining simulation. Hands-on session to use CNC lathe and Vertical Machining Centre to manufacture their own product. This would be beneficial for students interested to make their own product out of metals and special teams making components for their vehicles.",
-        "longDescription": "CNC machining workshop providing simulation and hands-on use of CNC lathe and vertical machining centers. Participants manufacture metal components, ideal for students creating custom parts for projects or vehicles",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "5RHAnKQlHLW3x1lPRRv2Pb",
         "type": "Entry",
         "createdAt": "2025-10-18T14:08:41.187Z",
@@ -7849,62 +8297,6 @@
         "eventVenue": "AB3 608",
         "shortDescription": "Quiz on environmental technologies—covering topics like green buildings, electric vehicles, renewable energy, and waste management. The quiz includes a mix of picture identifications, MCQs, rapid-fire rounds, and fun knowledge-building challenges\n\n",
         "longDescription": "Quiz on environmental technologies—covering topics like green buildings, electric vehicles, renewable energy, and waste management. The quiz should include a mix of picture identifications, MCQs, rapid-fire rounds, and fun knowledge-building challenges",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "25wVgiLFxVyWGVMt0MT3iq",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:12:17.324Z",
-        "updatedAt": "2025-10-21T05:32:17.784Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 3,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "PlayThePrompt",
-        "clubName": "GAME DEVELOPMENT CLUB",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T18:00:00.000Z",
-        "endDateAndTime": "2025-11-01T20:00+00:00",
-        "pricePerPerson": 100,
-        "participationType": "Solo",
-        "eventVenue": "Online",
-        "shortDescription": "In this competition, the task is to design, test, and gamify prompts that push AI systems to perform in creative, challenging, and unexpected ways.",
-        "longDescription": "",
         "specialEvent": false
       }
     },
@@ -8873,62 +9265,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "7j5PY3GRPn4iK6XGTguKmn",
-        "type": "Entry",
-        "createdAt": "2025-10-16T14:14:16.708Z",
-        "updatedAt": "2025-10-16T14:14:16.708Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Innovation Technology protection of Human values",
-        "clubName": "ACM-W",
-        "eventType": "Workshop",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-11-01T09:00:00.000Z",
-        "endDateAndTime": "2025-11-01T13:00:00.000Z",
-        "pricePerPerson": 150,
-        "participationType": "Solo",
-        "eventVenue": "AB1-201",
-        "shortDescription": "Multidisciplinary Workshop on protection of Human values",
-        "longDescription": "Multidisciplinary Workshop on protection of Human values",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "4GTPvR52lMyxifSqPECsQ4",
         "type": "Entry",
         "createdAt": "2025-10-16T14:14:15.672Z",
@@ -9097,174 +9433,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "197A5WHeEo1QPEUVhqtt2F",
-        "type": "Entry",
-        "createdAt": "2025-10-16T14:13:17.979Z",
-        "updatedAt": "2025-10-16T14:13:17.979Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Frame it with Figma Trio",
-        "clubName": "CLOUD COMPUTING CLUB",
-        "eventType": "Workshop",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-29T10:00:00.000Z",
-        "endDateAndTime": "2025-10-29T18:00:00.000Z",
-        "pricePerPerson": 250,
-        "participationType": "Trio",
-        "eventVenue": "Kamaraj Auditorium",
-        "shortDescription": "Participants will see an AI-generated image made by the club and must craft the most accurate prompt using an AI image generation tool to recreate it. The participant whose output best matches the original image will be declared the winner.",
-        "longDescription": "Participants will be shown an AI-generated image created by the club. Their task is to craft the most accurate prompt using an AI image generation tool to recreate the image as closely as possible.The participant whose output most closely matches the original image will be declared the winner",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "64Ep2n3Sq9kORfPsTahf5U",
-        "type": "Entry",
-        "createdAt": "2025-10-16T14:13:16.924Z",
-        "updatedAt": "2025-10-16T14:13:16.924Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Frame it with Figma Duo",
-        "clubName": "CLOUD COMPUTING CLUB",
-        "eventType": "Workshop",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-29T10:00:00.000Z",
-        "endDateAndTime": "2025-10-29T18:00:00.000Z",
-        "pricePerPerson": 175,
-        "participationType": "Duo",
-        "eventVenue": "Kamaraj Auditorium",
-        "shortDescription": "Participants will see an AI-generated image made by the club and must craft the most accurate prompt using an AI image generation tool to recreate it. The participant whose output best matches the original image will be declared the winner.",
-        "longDescription": "Participants will be shown an AI-generated image created by the club. Their task is to craft the most accurate prompt using an AI image generation tool to recreate the image as closely as possible.The participant whose output most closely matches the original image will be declared the winner",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "3IXTggB9oDnfDJA6hmVEyf",
-        "type": "Entry",
-        "createdAt": "2025-10-16T14:13:15.848Z",
-        "updatedAt": "2025-10-16T14:13:15.848Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Frame it with Figma Solo",
-        "clubName": "CLOUD COMPUTING CLUB",
-        "eventType": "Workshop",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-29T10:00:00.000Z",
-        "endDateAndTime": "2025-10-29T18:00:00.000Z",
-        "pricePerPerson": 100,
-        "participationType": "Solo",
-        "eventVenue": "Kamaraj Auditorium",
-        "shortDescription": "Participants will see an AI-generated image made by the club and must craft the most accurate prompt using an AI image generation tool to recreate it. The participant whose output best matches the original image will be declared the winner.",
-        "longDescription": "Participants will be shown an AI-generated image created by the club. Their task is to craft the most accurate prompt using an AI image generation tool to recreate the image as closely as possible.The participant whose output most closely matches the original image will be declared the winner",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "3hWx0I5LJffm1wBJoQ2JxR",
         "type": "Entry",
         "createdAt": "2025-10-16T14:12:01.584Z",
@@ -9305,118 +9473,6 @@
         "eventVenue": "AB1 402",
         "shortDescription": "\"Game to Survive: Escape Room,\" a high-intensity challenge where physical puzzles and technical CTFs collide. The team of 2-3 will be trapped in a room filled with props and hidden clues, but the key to freedom lies in a central laptop terminal. The team must decipher physical hints from the surroundings to execute the correct commands, unlocking files and revealing the path forward. With only 30 minutes on the clock, the team must work together to solve every puzzle, master every game, and hack the way to victory",
         "longDescription": "\"Game to Survive: Escape Room,\" a high-intensity challenge where physical puzzles and technical CTFs collide. The team of 2-3 will be trapped in a room filled with props and hidden clues, but the key to freedom lies in a central laptop terminal. The team must decipher physical hints from the surroundings to execute the correct commands, unlocking files and revealing the path forward. With only 30 minutes on the clock, the team must work together to solve every puzzle, master every game, and hack the way to victory",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "3nQxNqQp1xJICRkldIGkBS",
-        "type": "Entry",
-        "createdAt": "2025-10-16T14:11:26.426Z",
-        "updatedAt": "2025-10-16T14:11:26.426Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Surveying treasure hunt",
-        "clubName": "INDIAN CONCRETE INSTITUTE STUDENT CHAPTER",
-        "eventType": "Entertainment",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-27T10:00:00.000Z",
-        "endDateAndTime": "2025-10-27T03:00:00.000Z",
-        "pricePerPerson": 150,
-        "participationType": "Trio/Squad/5+ Members",
-        "eventVenue": "AB1 Amphitheatre",
-        "shortDescription": "Participants use leveling staff and basic surveying techniques to follow clues and find hidden checkpoints across campus. Each clue tests technical skills and teamwork, with the first team reaching the final treasure declared the winner.",
-        "longDescription": "An exciting twist to surveying! Participants will use leveling staff and basic surveying techniques to navigate clues and locate hidden checkpoints across the campus. Each clue leads to the next spot, testing both technical knowledge and teamwork. The team that finds the final treasure first wins the challenge.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "1dD4990XWIxviME5LJ0Stt",
-        "type": "Entry",
-        "createdAt": "2025-10-16T12:28:12.518Z",
-        "updatedAt": "2025-10-16T12:28:12.518Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Code the Future ESP Workshop",
-        "clubName": "AGRHI INNOVATORS CLUB",
-        "eventType": "Workshop",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T09:00:00.000Z",
-        "endDateAndTime": "2025-10-31T14:00:00.000Z",
-        "pricePerPerson": 60,
-        "participationType": "Solo",
-        "eventVenue": "AB3 - 612",
-        "shortDescription": "Get hands-on with the Internet of Things! This workshop introduces you to the world of ESP microcontrollers, where hardware meets innovation. Learn to program, connect, and build exciting projects using ESP boards, from smart devices to real-world automation. Whether you’re a beginner or a tinkerer, this is your chance to code, create, and craft the connected future.",
-        "longDescription": "Get hands-on with IoT using ESP microcontrollers! Learn to program, connect, and build projects from smart devices to automation. Beginners and tinkerers alike will code, create, and craft innovative, connected solutions for real-world applications.",
         "specialEvent": false
       }
     },
@@ -9963,6 +10019,51 @@
               "id": "rr94wjxz7mfi"
             }
           },
+          "id": "1MtBVFA9gOUJIvvAHVzOOV",
+          "type": "Asset",
+          "createdAt": "2025-10-24T15:52:02.214Z",
+          "updatedAt": "2025-10-24T15:52:02.214Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "privacy paradox FINAL ISTG - Shreya A Nair",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/1MtBVFA9gOUJIvvAHVzOOV/9c7a7bd6e354e9e95b5558d06cb7ea4c/privacy_paradox_FINAL_ISTG_-_Shreya_A_Nair.jpg",
+            "details": {
+              "size": 156780,
+              "image": {
+                "width": 756,
+                "height": 944
+              }
+            },
+            "fileName": "privacy paradox FINAL ISTG - Shreya A Nair.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
           "id": "1OPtzCgeD7rmxmoRa5qfqW",
           "type": "Asset",
           "createdAt": "2025-10-22T19:18:53.810Z",
@@ -9991,51 +10092,6 @@
               }
             },
             "fileName": "Aerial surveying using drones.jpeg",
-            "contentType": "image/jpeg"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
-          "id": "1PdYgOuxpO9FCd08XZoJ3L",
-          "type": "Asset",
-          "createdAt": "2025-10-22T19:06:47.782Z",
-          "updatedAt": "2025-10-22T19:06:47.782Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 4,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "chess",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/1PdYgOuxpO9FCd08XZoJ3L/237ebf61fd9feec94054d69482d8a7b4/event_poster_-_Ishan_Chaudhary.jpg",
-            "details": {
-              "size": 359230,
-              "image": {
-                "width": 1024,
-                "height": 1280
-              }
-            },
-            "fileName": "event poster - Ishan Chaudhary.jpg",
             "contentType": "image/jpeg"
           }
         }
@@ -10082,6 +10138,51 @@
             },
             "fileName": "ROS2 Bootcamp poster - Abhijit B Rao 23BEC1026.jpg",
             "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "1RFuznneTFzjQfWsdarrGu",
+          "type": "Asset",
+          "createdAt": "2025-10-24T15:43:35.003Z",
+          "updatedAt": "2025-10-24T15:43:35.003Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "FI (2)-min - PH Ramakrishnan",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/1RFuznneTFzjQfWsdarrGu/355e291cb7945936f488745cb3bcec73/FI__2_-min_-_PH_Ramakrishnan.png",
+            "details": {
+              "size": 736255,
+              "image": {
+                "width": 1414,
+                "height": 2000
+              }
+            },
+            "fileName": "FI (2)-min - PH Ramakrishnan.png",
+            "contentType": "image/png"
           }
         }
       },
@@ -10306,51 +10407,6 @@
               }
             },
             "fileName": "IMG_4775 - Akshayavarshini M 23BMH1145.jpeg",
-            "contentType": "image/jpeg"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
-          "id": "1wUJgabf59tJg9bPkGA9a3",
-          "type": "Asset",
-          "createdAt": "2025-10-22T19:05:48.401Z",
-          "updatedAt": "2025-10-22T19:05:48.401Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 4,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "decodex",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/1wUJgabf59tJg9bPkGA9a3/0415b5c157e2a96ef665349564c9cec0/Screenshot_2025-10-22-21-45-12-86_c0d35d5c8ea536686f7fb1c9f2f8f274_-_Akshat_Shukla.jpg",
-            "details": {
-              "size": 741258,
-              "image": {
-                "width": 999,
-                "height": 1246
-              }
-            },
-            "fileName": "Screenshot_2025-10-22-21-45-12-86_c0d35d5c8ea536686f7fb1c9f2f8f274 - Akshat Shukla.jpg",
             "contentType": "image/jpeg"
           }
         }
@@ -10593,10 +10649,10 @@
               "id": "rr94wjxz7mfi"
             }
           },
-          "id": "2ZYkXtCI7ppwnPpv9t7RCR",
+          "id": "2SHUZHVgn8s3JuLm8AvCuG",
           "type": "Asset",
-          "createdAt": "2025-10-22T19:03:14.958Z",
-          "updatedAt": "2025-10-22T19:03:14.958Z",
+          "createdAt": "2025-10-24T15:46:34.485Z",
+          "updatedAt": "2025-10-24T15:46:34.485Z",
           "environment": {
             "sys": {
               "id": "master",
@@ -10604,24 +10660,69 @@
               "linkType": "Environment"
             }
           },
-          "publishedVersion": 4,
+          "publishedVersion": 3,
           "revision": 1,
           "locale": "en-US"
         },
         "fields": {
-          "title": "capture the flagdroid",
+          "title": "Photo from ANUSH 😎 - Anush Kumar",
           "description": "",
           "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/2ZYkXtCI7ppwnPpv9t7RCR/8547858cf53723d482c2a51319d2ec0a/Event_name_2-min_-_Aditi_Babu.png",
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/2SHUZHVgn8s3JuLm8AvCuG/5bb93369511c0417c7161b558435455a/Photo_from_ANUSH_ð____-_Anush_Kumar.jpg",
             "details": {
-              "size": 470158,
+              "size": 187609,
               "image": {
-                "width": 1080,
-                "height": 1350
+                "width": 1131,
+                "height": 1600
               }
             },
-            "fileName": "Event name 2-min - Aditi Babu.png",
-            "contentType": "image/png"
+            "fileName": "Photo from ANUSH 😎 - Anush Kumar.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "2TZyIBqcsTt1R5QMawRing",
+          "type": "Asset",
+          "createdAt": "2025-10-24T15:49:51.308Z",
+          "updatedAt": "2025-10-24T15:49:51.308Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "treasure hunt (1) - prithiv k",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/2TZyIBqcsTt1R5QMawRing/36b75425c06467260fe0d1b13daaae06/treasure_hunt__1__-_prithiv_k.jpg",
+            "details": {
+              "size": 484818,
+              "image": {
+                "width": 1587,
+                "height": 2245
+              }
+            },
+            "fileName": "treasure hunt (1) - prithiv k.jpg",
+            "contentType": "image/jpeg"
           }
         }
       },
@@ -10683,10 +10784,10 @@
               "id": "rr94wjxz7mfi"
             }
           },
-          "id": "2uonryHwh2ISyi8FRJ3UtA",
+          "id": "2w2WWRRWXIOIvdMBYJK5Bj",
           "type": "Asset",
-          "createdAt": "2025-10-22T19:11:07.438Z",
-          "updatedAt": "2025-10-22T19:11:07.438Z",
+          "createdAt": "2025-10-24T15:45:47.847Z",
+          "updatedAt": "2025-10-24T15:45:47.847Z",
           "environment": {
             "sys": {
               "id": "master",
@@ -10694,23 +10795,23 @@
               "linkType": "Environment"
             }
           },
-          "publishedVersion": 4,
+          "publishedVersion": 3,
           "revision": 1,
           "locale": "en-US"
         },
         "fields": {
-          "title": "hack-her",
+          "title": "45494e4b-566c-4c5b-aa30-0d523e5e11e3 - Pradnya Carounagarane 22BLA1100",
           "description": "",
           "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/2uonryHwh2ISyi8FRJ3UtA/263e7fd18ffc6bc744e3437310e6b877/Hacker_-_Ivan_Varghese_George_24BYB1097.jpg",
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/2w2WWRRWXIOIvdMBYJK5Bj/9bd077831b3c1dea5777bb6b896b41d2/45494e4b-566c-4c5b-aa30-0d523e5e11e3_-_Pradnya_Carounagarane_22BLA1100.jpeg",
             "details": {
-              "size": 160585,
+              "size": 339814,
               "image": {
                 "width": 1024,
                 "height": 1280
               }
             },
-            "fileName": "Hacker - Ivan Varghese George 24BYB1097.jpg",
+            "fileName": "45494e4b-566c-4c5b-aa30-0d523e5e11e3 - Pradnya Carounagarane 22BLA1100.jpeg",
             "contentType": "image/jpeg"
           }
         }
@@ -10891,6 +10992,51 @@
               }
             },
             "fileName": "Sctipting and verification workshop - noel.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "3bJrefDjARPE4I1yE9ajUd",
+          "type": "Asset",
+          "createdAt": "2025-10-24T15:47:20.521Z",
+          "updatedAt": "2025-10-24T15:47:20.521Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "1000096035 - Pon Jeyakumar R 22MIS1035",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/3bJrefDjARPE4I1yE9ajUd/b4469360a7deff1cfcd5ffec4a32986f/1000096035_-_Pon_Jeyakumar_R_22MIS1035.jpg",
+            "details": {
+              "size": 328273,
+              "image": {
+                "width": 988,
+                "height": 1280
+              }
+            },
+            "fileName": "1000096035 - Pon Jeyakumar R 22MIS1035.jpg",
             "contentType": "image/jpeg"
           }
         }
@@ -11358,50 +11504,6 @@
               "id": "rr94wjxz7mfi"
             }
           },
-          "id": "47Xb2cPhpwsklnk79zlQto",
-          "type": "Asset",
-          "createdAt": "2025-10-15T19:41:42.624Z",
-          "updatedAt": "2025-10-23T08:22:30.863Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 35,
-          "revision": 6,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "Na",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/47Xb2cPhpwsklnk79zlQto/dca0648c6f6dd39ee765083752953268/techno_poster.png",
-            "details": {
-              "size": 1256483,
-              "image": {
-                "width": 3375,
-                "height": 4219
-              }
-            },
-            "fileName": "techno_poster.png",
-            "contentType": "image/png"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
           "id": "4R8W73luVXXbDYdtAUHntc",
           "type": "Asset",
           "createdAt": "2025-10-22T19:07:43.622Z",
@@ -11807,6 +11909,51 @@
               "id": "rr94wjxz7mfi"
             }
           },
+          "id": "50NGoVp06H5Goz3khQM0LF",
+          "type": "Asset",
+          "createdAt": "2025-10-24T15:48:15.972Z",
+          "updatedAt": "2025-10-24T15:48:15.972Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "void poster-min - Arjuun B 23BDS1164",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/50NGoVp06H5Goz3khQM0LF/fc21e56d1c5e9f14341eacc43359a848/void_poster-min_-_Arjuun_B_23BDS1164.png",
+            "details": {
+              "size": 810195,
+              "image": {
+                "width": 1080,
+                "height": 1350
+              }
+            },
+            "fileName": "void poster-min - Arjuun B 23BDS1164.png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
           "id": "57HKagG4rBSTJG3BX16MEn",
           "type": "Asset",
           "createdAt": "2025-10-22T19:40:47.140Z",
@@ -11881,51 +12028,6 @@
             },
             "fileName": "IMG-20251022-WA0091-min - Karthik L.jpg",
             "contentType": "image/jpeg"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
-          "id": "5Nem9eVSsuOylBBcDbtDoh",
-          "type": "Asset",
-          "createdAt": "2025-10-22T19:11:53.485Z",
-          "updatedAt": "2025-10-22T19:11:53.485Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 4,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "render",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/5Nem9eVSsuOylBBcDbtDoh/14125e70584cd5f2b799c0e107c278fb/Render_Quest_2.0_Final_Poster-min_-_Hariharan_Srinivasan.png",
-            "details": {
-              "size": 316888,
-              "image": {
-                "width": 1080,
-                "height": 1920
-              }
-            },
-            "fileName": "Render Quest 2.0 Final Poster-min - Hariharan Srinivasan.png",
-            "contentType": "image/png"
           }
         }
       },
@@ -12212,51 +12314,6 @@
               "id": "rr94wjxz7mfi"
             }
           },
-          "id": "63sRM1Qhhw3kSzdwtfdcPR",
-          "type": "Asset",
-          "createdAt": "2025-10-22T18:56:28.533Z",
-          "updatedAt": "2025-10-22T18:56:28.533Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 5,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "codemafia",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/63sRM1Qhhw3kSzdwtfdcPR/672341065229f6b9c00d489640b09e84/Code_Mafia_DAO_X_IEEERAS_Compressed_-_Nitish_Kumar_24BCE1520.jpg",
-            "details": {
-              "size": 685688,
-              "image": {
-                "width": 5400,
-                "height": 7200
-              }
-            },
-            "fileName": "Code Mafia DAO X IEEERAS Compressed - Nitish Kumar 24BCE1520.jpg",
-            "contentType": "image/jpeg"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
           "id": "64m2b1bkZPgWpTEn3sJX6T",
           "type": "Asset",
           "createdAt": "2025-10-22T19:47:01.524Z",
@@ -12376,6 +12433,51 @@
             },
             "fileName": "Cadathon poster - Surya Prakash P 24BCL1023.jpg",
             "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "6TDqBKv1wjpYkzZb4FIbzZ",
+          "type": "Asset",
+          "createdAt": "2025-10-24T15:44:26.483Z",
+          "updatedAt": "2025-10-24T15:44:26.483Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "ESP Workshop 1 - Vinay Santosh Belekar 24BEC1444",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/6TDqBKv1wjpYkzZb4FIbzZ/879c879c2e436a7ed4cf4afd9d65ac47/ESP_Workshop_1_-_Vinay_Santosh_Belekar_24BEC1444.png",
+            "details": {
+              "size": 746532,
+              "image": {
+                "width": 1587,
+                "height": 2245
+              }
+            },
+            "fileName": "ESP Workshop 1 - Vinay Santosh Belekar 24BEC1444.png",
+            "contentType": "image/png"
           }
         }
       },
@@ -12617,6 +12719,51 @@
               "id": "rr94wjxz7mfi"
             }
           },
+          "id": "715dYh7ZNXq5ynYnPnDErv",
+          "type": "Asset",
+          "createdAt": "2025-10-24T15:50:45.551Z",
+          "updatedAt": "2025-10-24T15:50:45.551Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "WhatsApp Image 2025-10-23 at 13.57.09 cebd8c4f - Ananti",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/715dYh7ZNXq5ynYnPnDErv/cc5cdc0f1d725217dc38a4519f64b976/WhatsApp_Image_2025-10-23_at_13.57.09_cebd8c4f_-_Ananti.jpg",
+            "details": {
+              "size": 349100,
+              "image": {
+                "width": 1236,
+                "height": 1600
+              }
+            },
+            "fileName": "WhatsApp Image 2025-10-23 at 13.57.09_cebd8c4f - Ananti.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
           "id": "73L08wLpoCOx37hS1yuM4I",
           "type": "Asset",
           "createdAt": "2025-10-22T19:43:57.175Z",
@@ -12646,51 +12793,6 @@
             },
             "fileName": "SAVE_20251020_120820 - Sivvam Venkata Lakshmi Prasanna 25BEC1135.jpg",
             "contentType": "image/jpeg"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
-          "id": "7b3CVsR1AwtJnaVm7owhh5",
-          "type": "Asset",
-          "createdAt": "2025-10-22T19:10:31.645Z",
-          "updatedAt": "2025-10-22T19:10:31.645Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 4,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "brainware",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/7b3CVsR1AwtJnaVm7owhh5/b076e0f319965b0b2c5374486b74c6b5/1000042058_-_Mahalakshmi_Labels.png",
-            "details": {
-              "size": 229551,
-              "image": {
-                "width": 986,
-                "height": 1225
-              }
-            },
-            "fileName": "1000042058 - Mahalakshmi Labels.png",
-            "contentType": "image/png"
           }
         }
       },
@@ -12959,96 +13061,6 @@
               }
             },
             "fileName": "AI+ToteUpdated - Jacob sam.png",
-            "contentType": "image/png"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
-          "id": "CfKWG3VNrzoaHMswSHw99",
-          "type": "Asset",
-          "createdAt": "2025-10-22T19:05:59.874Z",
-          "updatedAt": "2025-10-22T19:05:59.874Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 4,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "sustainable robots",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/CfKWG3VNrzoaHMswSHw99/6b91298b51aa2868651eb29bf8408cdc/Sustainable-robots_-_Rama_krishnan.jpeg",
-            "details": {
-              "size": 1022356,
-              "image": {
-                "width": 1080,
-                "height": 1350
-              }
-            },
-            "fileName": "Sustainable-robots - Rama krishnan.jpeg",
-            "contentType": "image/jpeg"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
-          "id": "DGCrlidkDbUFEFm5pnbn6",
-          "type": "Asset",
-          "createdAt": "2025-10-22T19:13:57.242Z",
-          "updatedAt": "2025-10-22T19:13:57.242Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 4,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "stranger clues",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/DGCrlidkDbUFEFm5pnbn6/5fb431a6171b3ececdbf807910dd65b0/StrangerClues_-_Rishika_Cherukuri_24BAI1596.png",
-            "details": {
-              "size": 513286,
-              "image": {
-                "width": 439,
-                "height": 618
-              }
-            },
-            "fileName": "StrangerClues - Rishika Cherukuri 24BAI1596.png",
             "contentType": "image/png"
           }
         }
@@ -13516,6 +13528,96 @@
               "id": "rr94wjxz7mfi"
             }
           },
+          "id": "1PdYgOuxpO9FCd08XZoJ3L",
+          "type": "Asset",
+          "createdAt": "2025-10-22T19:06:47.782Z",
+          "updatedAt": "2025-10-22T19:06:47.782Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "chess",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/1PdYgOuxpO9FCd08XZoJ3L/237ebf61fd9feec94054d69482d8a7b4/event_poster_-_Ishan_Chaudhary.jpg",
+            "details": {
+              "size": 359230,
+              "image": {
+                "width": 1024,
+                "height": 1280
+              }
+            },
+            "fileName": "event poster - Ishan Chaudhary.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "1wUJgabf59tJg9bPkGA9a3",
+          "type": "Asset",
+          "createdAt": "2025-10-22T19:05:48.401Z",
+          "updatedAt": "2025-10-22T19:05:48.401Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "decodex",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/1wUJgabf59tJg9bPkGA9a3/0415b5c157e2a96ef665349564c9cec0/Screenshot_2025-10-22-21-45-12-86_c0d35d5c8ea536686f7fb1c9f2f8f274_-_Akshat_Shukla.jpg",
+            "details": {
+              "size": 741258,
+              "image": {
+                "width": 999,
+                "height": 1246
+              }
+            },
+            "fileName": "Screenshot_2025-10-22-21-45-12-86_c0d35d5c8ea536686f7fb1c9f2f8f274 - Akshat Shukla.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
           "id": "257CYCXEkgi6hx36RNRnHq",
           "type": "Asset",
           "createdAt": "2025-10-22T13:10:50.853Z",
@@ -13589,6 +13691,96 @@
               }
             },
             "fileName": "TechnoVITPosters - IT AUTOVIT.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "2ZYkXtCI7ppwnPpv9t7RCR",
+          "type": "Asset",
+          "createdAt": "2025-10-22T19:03:14.958Z",
+          "updatedAt": "2025-10-22T19:03:14.958Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "capture the flagdroid",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/2ZYkXtCI7ppwnPpv9t7RCR/8547858cf53723d482c2a51319d2ec0a/Event_name_2-min_-_Aditi_Babu.png",
+            "details": {
+              "size": 470158,
+              "image": {
+                "width": 1080,
+                "height": 1350
+              }
+            },
+            "fileName": "Event name 2-min - Aditi Babu.png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "2uonryHwh2ISyi8FRJ3UtA",
+          "type": "Asset",
+          "createdAt": "2025-10-22T19:11:07.438Z",
+          "updatedAt": "2025-10-22T19:11:07.438Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "hack-her",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/2uonryHwh2ISyi8FRJ3UtA/263e7fd18ffc6bc744e3437310e6b877/Hacker_-_Ivan_Varghese_George_24BYB1097.jpg",
+            "details": {
+              "size": 160585,
+              "image": {
+                "width": 1024,
+                "height": 1280
+              }
+            },
+            "fileName": "Hacker - Ivan Varghese George 24BYB1097.jpg",
             "contentType": "image/jpeg"
           }
         }
@@ -13814,6 +14006,50 @@
               }
             },
             "fileName": "CookOff 2.0 Poster New - CodeChef VITCC.png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "47Xb2cPhpwsklnk79zlQto",
+          "type": "Asset",
+          "createdAt": "2025-10-15T19:41:42.624Z",
+          "updatedAt": "2025-10-23T08:22:30.863Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 35,
+          "revision": 6,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Na",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/47Xb2cPhpwsklnk79zlQto/dca0648c6f6dd39ee765083752953268/techno_poster.png",
+            "details": {
+              "size": 1256483,
+              "image": {
+                "width": 3375,
+                "height": 4219
+              }
+            },
+            "fileName": "techno_poster.png",
             "contentType": "image/png"
           }
         }
@@ -14191,6 +14427,51 @@
               "id": "rr94wjxz7mfi"
             }
           },
+          "id": "5Nem9eVSsuOylBBcDbtDoh",
+          "type": "Asset",
+          "createdAt": "2025-10-22T19:11:53.485Z",
+          "updatedAt": "2025-10-22T19:11:53.485Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "render",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/5Nem9eVSsuOylBBcDbtDoh/14125e70584cd5f2b799c0e107c278fb/Render_Quest_2.0_Final_Poster-min_-_Hariharan_Srinivasan.png",
+            "details": {
+              "size": 316888,
+              "image": {
+                "width": 1080,
+                "height": 1920
+              }
+            },
+            "fileName": "Render Quest 2.0 Final Poster-min - Hariharan Srinivasan.png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
           "id": "5Zy8UBFU9tUejAsmvIvPZ",
           "type": "Asset",
           "createdAt": "2025-10-22T13:23:30.210Z",
@@ -14355,6 +14636,51 @@
             },
             "fileName": "PCB workshop-Ieee-compsoc-final - Shruthi Reddy.png",
             "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "63sRM1Qhhw3kSzdwtfdcPR",
+          "type": "Asset",
+          "createdAt": "2025-10-22T18:56:28.533Z",
+          "updatedAt": "2025-10-22T18:56:28.533Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 5,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "codemafia",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/63sRM1Qhhw3kSzdwtfdcPR/672341065229f6b9c00d489640b09e84/Code_Mafia_DAO_X_IEEERAS_Compressed_-_Nitish_Kumar_24BCE1520.jpg",
+            "details": {
+              "size": 685688,
+              "image": {
+                "width": 5400,
+                "height": 7200
+              }
+            },
+            "fileName": "Code Mafia DAO X IEEERAS Compressed - Nitish Kumar 24BCE1520.jpg",
+            "contentType": "image/jpeg"
           }
         }
       },
@@ -14551,6 +14877,51 @@
               "id": "rr94wjxz7mfi"
             }
           },
+          "id": "7b3CVsR1AwtJnaVm7owhh5",
+          "type": "Asset",
+          "createdAt": "2025-10-22T19:10:31.645Z",
+          "updatedAt": "2025-10-22T19:10:31.645Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "brainware",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/7b3CVsR1AwtJnaVm7owhh5/b076e0f319965b0b2c5374486b74c6b5/1000042058_-_Mahalakshmi_Labels.png",
+            "details": {
+              "size": 229551,
+              "image": {
+                "width": 986,
+                "height": 1225
+              }
+            },
+            "fileName": "1000042058 - Mahalakshmi Labels.png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
           "id": "7hezpA3VRrVe56W4zRsqIS",
           "type": "Asset",
           "createdAt": "2025-10-22T13:31:28.435Z",
@@ -14670,6 +15041,96 @@
             },
             "fileName": "TechnoVITPosters (1) - KIRAN SAMPATH.jpg",
             "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "CfKWG3VNrzoaHMswSHw99",
+          "type": "Asset",
+          "createdAt": "2025-10-22T19:05:59.874Z",
+          "updatedAt": "2025-10-22T19:05:59.874Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "sustainable robots",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/CfKWG3VNrzoaHMswSHw99/6b91298b51aa2868651eb29bf8408cdc/Sustainable-robots_-_Rama_krishnan.jpeg",
+            "details": {
+              "size": 1022356,
+              "image": {
+                "width": 1080,
+                "height": 1350
+              }
+            },
+            "fileName": "Sustainable-robots - Rama krishnan.jpeg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "DGCrlidkDbUFEFm5pnbn6",
+          "type": "Asset",
+          "createdAt": "2025-10-22T19:13:57.242Z",
+          "updatedAt": "2025-10-22T19:13:57.242Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "stranger clues",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/DGCrlidkDbUFEFm5pnbn6/5fb431a6171b3ececdbf807910dd65b0/StrangerClues_-_Rishika_Cherukuri_24BAI1596.png",
+            "details": {
+              "size": 513286,
+              "image": {
+                "width": 439,
+                "height": 618
+              }
+            },
+            "fileName": "StrangerClues - Rishika Cherukuri 24BAI1596.png",
+            "contentType": "image/png"
           }
         }
       },
