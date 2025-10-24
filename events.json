@@ -19,6 +19,62 @@
             "id": "rr94wjxz7mfi"
           }
         },
+        "id": "2nW7giPavBJcmrJPqsmMpc",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:07:16.498Z",
+        "updatedAt": "2025-10-24T08:28:34.680Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 7,
+        "revision": 4,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Cine Sharks 2.o",
+        "clubName": "VITSION FILM MAKERS CLUB",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "4zxdfz11gjtphsSSFj2z39"
+          }
+        },
+        "startDateAndTime": "2025-10-31T09:00:00.000Z",
+        "endDateAndTime": "2025-10-31T16:00:00.000Z",
+        "pricePerPerson": 50,
+        "participationType": "Solo",
+        "eventVenue": "AB3 301",
+        "shortDescription": "In this \"Shark Tank\" style event, aspiring directors fix an underperforming movie. 🎬 Dissect its flaws and pitch a new vision—covering story, characters, and visuals—to judges acting as producers. Negotiate to secure the most profitable deal.",
+        "longDescription": "This event is based on shark tank where the business owners are replaced by aspiring young directors and the sharks are producers who are willing to finance their movies.\nOur event's main focus is for aspiring young directors to gain more knowledge on what goes behind making a successful movie.\nAs part of the event, we will be giving them each a movie which they will have to dissect and understand which part caused the movie's underperformance.\nFurther when they pitch the movie with their inputs to everything from the storyline, characters, camera aesthetics and sound effects.\nNow the new upgraded version of the movie will be narrated by them to the judges and negotiate with them and try to exceed the break-even amount thus making more profit making them the champion.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
         "id": "2FwBfFcIx1jCb87x9S5B3V",
         "type": "Entry",
         "createdAt": "2025-10-18T14:25:01.405Z",
@@ -3201,62 +3257,6 @@
         "eventVenue": "AB3 312",
         "shortDescription": "With a focus on the future of devices, this event seeks to highlight how advancements in semiconductor technology, quantum devices, flexible electronics, and AI-integrated systems are redefining industries and society.",
         "longDescription": "With a focus on the future of devices, this event seeks to highlight how advancements in semiconductor technology, quantum devices, flexible electronics, and AI-integrated systems are redefining industries and society.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "2nW7giPavBJcmrJPqsmMpc",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:07:16.498Z",
-        "updatedAt": "2025-10-22T19:29:42.067Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 5,
-        "revision": 3,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Cine Sharks 2.o",
-        "clubName": "VITSION FILM MAKERS CLUB",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "4zxdfz11gjtphsSSFj2z39"
-          }
-        },
-        "startDateAndTime": "2025-10-31T09:00:00.000Z",
-        "endDateAndTime": "2025-10-31T16:00:00.000Z",
-        "pricePerPerson": 100,
-        "participationType": "Solo",
-        "eventVenue": "AB3 301",
-        "shortDescription": "In this \"Shark Tank\" style event, aspiring directors fix an underperforming movie. 🎬 Dissect its flaws and pitch a new vision—covering story, characters, and visuals—to judges acting as producers. Negotiate to secure the most profitable deal.",
-        "longDescription": "This event is based on shark tank where the business owners are replaced by aspiring young directors and the sharks are producers who are willing to finance their movies.\nOur event's main focus is for aspiring young directors to gain more knowledge on what goes behind making a successful movie.\nAs part of the event, we will be giving them each a movie which they will have to dissect and understand which part caused the movie's underperformance.\nFurther when they pitch the movie with their inputs to everything from the storyline, characters, camera aesthetics and sound effects.\nNow the new upgraded version of the movie will be narrated by them to the judges and negotiate with them and try to exceed the break-even amount thus making more profit making them the champion.",
         "specialEvent": false
       }
     },
