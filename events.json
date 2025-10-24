@@ -19,6 +19,118 @@
             "id": "rr94wjxz7mfi"
           }
         },
+        "id": "1pjlBMZ0yr5SdMAOdsoRoQ",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:07:12.240Z",
+        "updatedAt": "2025-10-24T15:42:55.858Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Forged In Blender",
+        "clubName": "GAME DEVELOPMENT CLUB",
+        "eventType": "Workshop",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "MIxCxrLG9NTilUf8utJlz"
+          }
+        },
+        "startDateAndTime": "2025-10-31T09:00:00.000Z",
+        "endDateAndTime": "2025-10-31T16:00:00.000Z",
+        "pricePerPerson": 100,
+        "participationType": "Solo",
+        "eventVenue": "AB1 307",
+        "shortDescription": "AI based game development tool",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "IJoPRW3vuRBXg3LVgpo8b",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:07:18.618Z",
+        "updatedAt": "2025-10-24T15:42:12.003Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 7,
+        "revision": 4,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Code & Conquer Game-a-thon",
+        "clubName": "GAME DEVELOPMENT CLUB",
+        "eventType": "Hackathon",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "4tjrRsADom3C98vMVQ46CC"
+          }
+        },
+        "startDateAndTime": "2025-10-31T08:00:00.000Z",
+        "endDateAndTime": "2025-11-01T20:00+00:00",
+        "pricePerPerson": 50,
+        "participationType": "Solo",
+        "eventVenue": "AB1 401",
+        "shortDescription": "Code & Conquer Game-a-thon, where strategy meets skill in the ultimate gaming challenge!",
+        "longDescription": "Code & Conquer Game-a-thon, where strategy meets skill in the ultimate gaming challenge!",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
         "id": "EVUgVDNTBb8ofcB23oj1v",
         "type": "Entry",
         "createdAt": "2025-10-14T18:29:36.695Z",
@@ -7529,62 +7641,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "IJoPRW3vuRBXg3LVgpo8b",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:07:18.618Z",
-        "updatedAt": "2025-10-21T11:24:39.718Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 5,
-        "revision": 3,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Code & Conquer Game-a-thon",
-        "clubName": "GAME DEVELOPMENT CLUB",
-        "eventType": "Hackathon",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T08:00:00.000Z",
-        "endDateAndTime": "2025-11-01T20:00+00:00",
-        "pricePerPerson": 50,
-        "participationType": "Solo",
-        "eventVenue": "AB1 401",
-        "shortDescription": "Code & Conquer Game-a-thon, where strategy meets skill in the ultimate gaming challenge!",
-        "longDescription": "Code & Conquer Game-a-thon, where strategy meets skill in the ultimate gaming challenge!",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "2OLKhBX7VGal2Z9maaQf0V",
         "type": "Entry",
         "createdAt": "2025-10-16T14:13:14.609Z",
@@ -8409,62 +8465,6 @@
         "eventVenue": "AB3 409",
         "shortDescription": "Hands on session for Mastering in Digital marketing techniques by building ideas to product.",
         "longDescription": "Hands on session for Mastering in Digital marketing techniques by building ideas to product.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "1pjlBMZ0yr5SdMAOdsoRoQ",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:07:12.240Z",
-        "updatedAt": "2025-10-18T14:07:12.240Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Forged In Blender",
-        "clubName": "GAME DEVELOPMENT CLUB",
-        "eventType": "Workshop",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T09:00:00.000Z",
-        "endDateAndTime": "2025-10-31T16:00:00.000Z",
-        "pricePerPerson": 100,
-        "participationType": "Solo",
-        "eventVenue": "AB1 307",
-        "shortDescription": "AI based game development tool",
-        "longDescription": "",
         "specialEvent": false
       }
     },
@@ -10458,51 +10458,6 @@
               "id": "rr94wjxz7mfi"
             }
           },
-          "id": "257CYCXEkgi6hx36RNRnHq",
-          "type": "Asset",
-          "createdAt": "2025-10-22T13:10:50.853Z",
-          "updatedAt": "2025-10-22T13:10:50.853Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 4,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "craftmysite",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/257CYCXEkgi6hx36RNRnHq/faf0072bbd59e33f7eb95b054c3dadc6/CRAFTMYSITE.png",
-            "details": {
-              "size": 479895,
-              "image": {
-                "width": 1587,
-                "height": 2245
-              }
-            },
-            "fileName": "CRAFTMYSITE.png",
-            "contentType": "image/png"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
           "id": "2CTDwli77JcpfUZ5ALpxat",
           "type": "Asset",
           "createdAt": "2025-10-22T19:14:12.849Z",
@@ -11746,6 +11701,51 @@
             },
             "fileName": "ElectroVerse- 25 Poster - Harinandan M 24BLC1111.JPG",
             "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "4tjrRsADom3C98vMVQ46CC",
+          "type": "Asset",
+          "createdAt": "2025-10-24T15:42:08.016Z",
+          "updatedAt": "2025-10-24T15:42:08.016Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Code & Conquer new - Shashanka Sekar (Shanks)",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/4tjrRsADom3C98vMVQ46CC/eb8908630234c95151144b7c50c76bcb/Code___Conquer_new_-_Shashanka_Sekar__Shanks_.png",
+            "details": {
+              "size": 488395,
+              "image": {
+                "width": 1587,
+                "height": 2245
+              }
+            },
+            "fileName": "Code & Conquer new - Shashanka Sekar (Shanks).png",
+            "contentType": "image/png"
           }
         }
       },
@@ -13156,6 +13156,51 @@
               "id": "rr94wjxz7mfi"
             }
           },
+          "id": "MIxCxrLG9NTilUf8utJlz",
+          "type": "Asset",
+          "createdAt": "2025-10-24T15:42:50.995Z",
+          "updatedAt": "2025-10-24T15:42:50.995Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "ForgedInBlenderposte - Shashanka Sekar (Shanks)",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/MIxCxrLG9NTilUf8utJlz/8f881b4b1f9c42924af5deba45821f49/ForgedInBlenderposte_-_Shashanka_Sekar__Shanks_.jpeg",
+            "details": {
+              "size": 1047256,
+              "image": {
+                "width": 1131,
+                "height": 1600
+              }
+            },
+            "fileName": "ForgedInBlenderposte - Shashanka Sekar (Shanks).jpeg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
           "id": "WYSHnmQaRktR1YGkuDZB0",
           "type": "Asset",
           "createdAt": "2025-10-22T19:30:38.001Z",
@@ -13454,6 +13499,51 @@
               }
             },
             "fileName": "WHODUNIT.EXE (3) (1) - Helix.png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "257CYCXEkgi6hx36RNRnHq",
+          "type": "Asset",
+          "createdAt": "2025-10-22T13:10:50.853Z",
+          "updatedAt": "2025-10-22T13:10:50.853Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "craftmysite",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/257CYCXEkgi6hx36RNRnHq/faf0072bbd59e33f7eb95b054c3dadc6/CRAFTMYSITE.png",
+            "details": {
+              "size": 479895,
+              "image": {
+                "width": 1587,
+                "height": 2245
+              }
+            },
+            "fileName": "CRAFTMYSITE.png",
             "contentType": "image/png"
           }
         }
