@@ -2,10 +2,570 @@
   "sys": {
     "type": "Array"
   },
-  "total": 176,
+  "total": 177,
   "skip": 0,
-  "limit": 176,
+  "limit": 177,
   "items": [
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "6doYg5C4HaExBbtjcgIHUc",
+        "type": "Entry",
+        "createdAt": "2025-10-24T16:23:43.818Z",
+        "updatedAt": "2025-10-24T16:23:43.818Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 10,
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Building Agentic AI Systems with MCP: From Tool Use to Autonomous Problem Solving",
+        "clubName": "OPEN SOURCE PROGRAMMING CLUB",
+        "eventType": "Workshop",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "3IMlNl9MTg7r6H4HkzEiwR"
+          }
+        },
+        "startDateAndTime": "2025-10-27T09:00+00:00",
+        "endDateAndTime": "2025-10-27T16:00+00:00",
+        "pricePerPerson": 50,
+        "participationType": "Solo",
+        "eventVenue": "AB3 - 401",
+        "shortDescription": "\"The objective of this workshop is to enable participants to design and implement an Agentic AI system powered by MCP (Model Context Protocol) that can autonomously perform complex, multi-step tasks involving reasoning, planning, and tool use. By the end of the activity, participants will be able to:\n 1. Understand Agentic AI Concepts\n 2. Learn the Role of MCP in Agentic Systems\n 3. Build a Real-World Problem-Solving Agent\n 4. Demonstrate Autonomy & Reflection\n Participants will gain a hands-on implementation of an agentic workflow using MCP, ready to adapt for domains like education, healthcare, or business automation\"",
+        "longDescription": "\"The objective of this workshop is to enable participants to design and implement an Agentic AI system powered by MCP (Model Context Protocol) that can autonomously perform complex, multi-step tasks involving reasoning, planning, and tool use. By the end of the activity, participants will be able to:\n 1. Understand Agentic AI Concepts\n 2. Learn the Role of MCP in Agentic Systems\n 3. Build a Real-World Problem-Solving Agent\n 4. Demonstrate Autonomy & Reflection\n Participants will gain a hands-on implementation of an agentic workflow using MCP, ready to adapt for domains like education, healthcare, or business automation\"",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "7FqUFvC3aRPyNaNj3gpint",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:08:40.105Z",
+        "updatedAt": "2025-10-24T16:17:29.384Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Digital Marketing Workshop - Pitch your ideas to Products",
+        "clubName": "ENTREPRENEURSHIP CELL (E-CELL)",
+        "eventType": "Workshop",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "2R4jq7dfjVYzitNIwu8Pjt"
+          }
+        },
+        "startDateAndTime": "2025-10-31T10:00:00.000Z",
+        "endDateAndTime": "2025-10-31T13:00:00.000Z",
+        "pricePerPerson": 100,
+        "participationType": "Solo",
+        "eventVenue": "AB3 409",
+        "shortDescription": "Hands on session for Mastering in Digital marketing techniques by building ideas to product.",
+        "longDescription": "Hands on session for Mastering in Digital marketing techniques by building ideas to product.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "2jX51tsw4V5TLKZftr0suH",
+        "type": "Entry",
+        "createdAt": "2025-10-18T05:42:11.168Z",
+        "updatedAt": "2025-10-24T16:16:09.593Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 23,
+        "revision": 4,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Rogue Route",
+        "clubName": "TechnoVIT",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "4svCggsxnASbhuQwZ1RQDh"
+          }
+        },
+        "startDateAndTime": "2025-11-01T10:00+00:00",
+        "endDateAndTime": "2025-11-01T18:00+00:00",
+        "pricePerPerson": 1500,
+        "participationType": "Solo/Duo/Trio/Squad",
+        "eventVenue": "AB3 Amphitheatre",
+        "shortDescription": "Get ready to witness the thrill of speed and precision as cutting-edge technology takes flight! Fast reflexes and skill decide who takes the sky! Drone Racing",
+        "longDescription": "Whether you’re a drone enthusiast, a tech innovator, or just a thrill-seeker, this event promises an adrenaline rush like no other. Experience the perfect blend of aerodynamics, innovation, and competitive spirit - where every millisecond counts!",
+        "specialEvent": true
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "2AVoalUcxDCQGCz2Q1sSF6",
+        "type": "Entry",
+        "createdAt": "2025-10-18T05:48:11.080Z",
+        "updatedAt": "2025-10-24T16:15:32.062Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 19,
+        "revision": 4,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Rotor Rush",
+        "clubName": "TechnoVIT",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "6Skg3VNDWeUAF2NkxlvRpT"
+          }
+        },
+        "startDateAndTime": "2025-11-01T14:00+00:00",
+        "endDateAndTime": "2025-11-01T20:00+00:00",
+        "pricePerPerson": 1500,
+        "participationType": "Solo/Duo/Trio/Squad",
+        "eventVenue": "MG Auditorium",
+        "shortDescription": "Dive into the future with Drone VR! Experience the thrill of piloting drones in immersive virtual reality. Test your reflexes, precision, and control as you race through stunning digital skies and futuristic arenas.",
+        "longDescription": "Dive into the future with Drone VR! Experience the thrill of piloting drones in immersive virtual reality. Test your reflexes, precision, and control as you race through stunning digital skies and futuristic arenas.",
+        "specialEvent": true
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "2Hq7m0eLbsI99y8LqBu6if",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:13:01.109Z",
+        "updatedAt": "2025-10-24T16:13:07.250Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 9,
+        "revision": 5,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Robo Tug of War",
+        "clubName": "TechnoVIT",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "2E66hJixKsWqNbOoRZy0xe"
+          }
+        },
+        "startDateAndTime": "2025-10-31T10:00:00.000Z",
+        "endDateAndTime": "2025-10-31T18:00:00.000Z",
+        "pricePerPerson": 500,
+        "participationType": "Solo",
+        "eventVenue": "AB3 Outside parking",
+        "shortDescription": "Robot Tug of War",
+        "longDescription": "Robot Tug of War",
+        "specialEvent": true
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "3l8jy31mYX6fNqxp7m8gw3",
+        "type": "Entry",
+        "createdAt": "2025-10-16T14:12:00.297Z",
+        "updatedAt": "2025-10-24T16:12:18.692Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 5,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Grab the CAD",
+        "clubName": "CAD CLUB",
+        "eventType": "Hackathon",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "4P7w5HSDyz9fEclDkl9U3Q"
+          }
+        },
+        "startDateAndTime": "2025-10-31T09:00:00.000Z",
+        "endDateAndTime": "2025-11-01T17:00:00.000Z",
+        "pricePerPerson": 1000,
+        "participationType": "Duo",
+        "eventVenue": "Kasturba Hall",
+        "shortDescription": "A SolidWorks/Fusion 360 event with a hands-on workshop on Day 1 and a design on Day 2. The 24 hr hackathon helps participants get the hang of CSWA & CSWP exam-taking, with a chance to win CSWA/CWSP coupons and a ₹10,000 cash prize pool.",
+        "longDescription": "A SolidWorks/Fusion 360 event with a hands-on workshop on Day 1 and a design on Day 2. The 24 hr hackathon helps participants get the hang of CSWA & CSWP exam-taking, with a chance to win CSWA/CWSP coupons and a ₹10,000 cash prize pool.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "FhBKBmMhz3MVRRYwP4Obq",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:07:19.716Z",
+        "updatedAt": "2025-10-24T16:11:45.409Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 10,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Code Citadel",
+        "clubName": "MICROSOFT INNOVATION CLUB",
+        "eventType": "Workshop",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "6EdXRa7tyetcpmZrguhdEw"
+          }
+        },
+        "startDateAndTime": "2025-10-27T14:00+00:00",
+        "endDateAndTime": "2025-10-27T17:30+00:00",
+        "pricePerPerson": 50,
+        "participationType": "Solo",
+        "eventVenue": "VOC Auditorium",
+        "shortDescription": "In this hands-on workshop, you'll become a web architect. 💻 Master the core blocks—**HTML, CSS, & JavaScript**—before advancing to responsive design and frontend frameworks. You'll learn modern best practices by building real-world projects.",
+        "longDescription": "The digital empire of tomorrow rests in the hands of its builders. This workshop empowers you to become an architect of the web, starting from the core building blocks — HTML, CSS, and JavaScript — to advanced frameworks and responsive design. You’ll work on real-world projects, learn modern best practices, and craft websites that are not just functional but breathtaking. Create experiences that leave a mark.\n Highlights: HTML, CSS, JavaScript, Responsive Design, Frontend Frameworks, Hands-on Project Building.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "6AbhJPeYpG7LcBw66m5WfT",
+        "type": "Entry",
+        "createdAt": "2025-10-16T10:43:51.428Z",
+        "updatedAt": "2025-10-24T16:10:34.710Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Debug the Drama",
+        "clubName": "THE HACK CLUB",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "4uVzSUonqYbKGDwFi1ziKr"
+          }
+        },
+        "startDateAndTime": "2025-10-31T09:00:00.000Z",
+        "endDateAndTime": "2025-10-31T16:00:00.000Z",
+        "pricePerPerson": 50,
+        "participationType": "Solo",
+        "eventVenue": "AB3 601",
+        "shortDescription": "Debug the Drama is a team event where one member gets a secret movie or phrase and uses AI to create an image with visual clues. The team then guesses the answer within the time limit—faster guesses earn more points. The team with the highest score wins.",
+        "longDescription": "Debug the Drama is a team event where one member gets a secret movie or phrase and uses AI to create an image with visual clues. The team then guesses the answer within the time limit—faster guesses earn more points. The team with the highest score wins.<br>",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "3DLnSncIN3WvjQi8iU8tl5",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:08:39.041Z",
+        "updatedAt": "2025-10-24T16:09:15.220Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 5,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Design Derby",
+        "clubName": "CAD CLUB",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "4chaFtZ5RugRpMIC61ozTd"
+          }
+        },
+        "startDateAndTime": "2025-11-02T10:00+00:00",
+        "endDateAndTime": "2025-11-02T15:00+00:00",
+        "pricePerPerson": 100,
+        "participationType": "Solo",
+        "eventVenue": "AB1 406C",
+        "shortDescription": "This is a 2-phase CAD challenge! ⚙️ Phase 1 is a technical quiz on CAD and engineering fundamentals. Qualified teams advance to Phase 2, where they must create a complete 3D model from a 2D sketch. The highest combined score from both phases wins.",
+        "longDescription": "A combination of quiz followed by a cad modelling challenge. The event will be conducted in two phases:\n\nPhase 1 – Technical Quiz\nParticipants will face a quiz round focused on CAD concepts and core engineering fundamentals. Teams will be awarded points based on the accuracy and quality of their answers.\n\nPhase 2 – 3D Modeling Challenge\nQualified teams will be provided with a 2D sketch containing multiple views. Using this as reference, they must create a complete 3D model from scratch. The model’s precision, accuracy, and adherence to the given sketch will determine the points awarded.\n\nThe team with the highest combined score from both phases will be declared the winner.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "5P8ThUgT1SpAVUr7XmZUPY",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:24:55.895Z",
+        "updatedAt": "2025-10-24T16:08:28.607Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 6,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "THE PROJECT X",
+        "clubName": "VITC DEBATE SOCIETY",
+        "eventType": "Entertainment",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "4wezD8OYqfPGTX7YxuigtB"
+          }
+        },
+        "startDateAndTime": "2025-11-01T10:00+00:00",
+        "endDateAndTime": "2025-11-01T16:00+00:00",
+        "pricePerPerson": 150,
+        "participationType": "Solo",
+        "eventVenue": "AB3-601",
+        "shortDescription": "Step into a high-stakes world where a powerful corporation hides its darkest secrets. Project X is an interactive debate-meets-tech challenge where participants investigate a staged corporate cover-up. Teams will interrogate witnesses, uncover digital evidence, and hack through simulated firewalls to reveal the truth. With three thrilling rounds — The Interrogation Gauntlet, The Data Heist, and The Press Conference — this event blends sharp debating skills with technical forensics. Do you have what it takes to expose the truth or defend the indefensible?",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
     {
       "metadata": {
         "tags": [],
@@ -1460,62 +2020,6 @@
         "shortDescription": "Step into the next era of intelligent application design. The Agentic Shift is a hands-on workshop exploring how Google’s ADK, MCP Toolbox, and Gemini CLI empower developers to build autonomous, context-aware systems. From serverless deployments to vibe coding, participants will learn how to design AI-driven apps that don’t just respond, they reason, act, and evolve.",
         "longDescription": "Step into the next era of intelligent application design. The Agentic Shift is a hands-on workshop exploring how Google’s ADK, MCP Toolbox, and Gemini CLI empower developers to build autonomous, context-aware systems. From serverless deployments to vibe coding, participants will learn how to design AI-driven apps that don’t just respond, they reason, act, and evolve.",
         "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "2Hq7m0eLbsI99y8LqBu6if",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:13:01.109Z",
-        "updatedAt": "2025-10-22T20:08:05.673Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 7,
-        "revision": 4,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Robo Tug of War",
-        "clubName": "TechnoVIT",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "3e0iW3BFAoqT3GqLc7TWvt"
-          }
-        },
-        "startDateAndTime": "2025-10-31T10:00:00.000Z",
-        "endDateAndTime": "2025-10-31T18:00:00.000Z",
-        "pricePerPerson": 500,
-        "participationType": "Solo",
-        "eventVenue": "AB3 Outside parking",
-        "shortDescription": "Robot Tug of War",
-        "longDescription": "Robot Tug of War",
-        "specialEvent": true
       }
     },
     {
@@ -6409,118 +6913,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "2jX51tsw4V5TLKZftr0suH",
-        "type": "Entry",
-        "createdAt": "2025-10-18T05:42:11.168Z",
-        "updatedAt": "2025-10-22T16:31:53.546Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 21,
-        "revision": 3,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Rogue Route",
-        "clubName": "TechnoVIT",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "5fvj06fh4m0SmrgNHO0etF"
-          }
-        },
-        "startDateAndTime": "2025-11-01T10:00+00:00",
-        "endDateAndTime": "2025-11-01T18:00+00:00",
-        "pricePerPerson": 1500,
-        "participationType": "Solo/Duo/Trio/Squad",
-        "eventVenue": "AB3 Amphitheatre",
-        "shortDescription": "Get ready to witness the thrill of speed and precision as cutting-edge technology takes flight! Fast reflexes and skill decide who takes the sky! Drone Racing",
-        "longDescription": "Whether you’re a drone enthusiast, a tech innovator, or just a thrill-seeker, this event promises an adrenaline rush like no other. Experience the perfect blend of aerodynamics, innovation, and competitive spirit - where every millisecond counts!",
-        "specialEvent": true
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "2AVoalUcxDCQGCz2Q1sSF6",
-        "type": "Entry",
-        "createdAt": "2025-10-18T05:48:11.080Z",
-        "updatedAt": "2025-10-22T16:28:08.183Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 17,
-        "revision": 3,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Rotor Rush",
-        "clubName": "TechnoVIT",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "7JGlt1jP0YnyVc18BK4RlG"
-          }
-        },
-        "startDateAndTime": "2025-11-01T14:00+00:00",
-        "endDateAndTime": "2025-11-01T20:00+00:00",
-        "pricePerPerson": 1500,
-        "participationType": "Solo/Duo/Trio/Squad",
-        "eventVenue": "MG Auditorium",
-        "shortDescription": "Dive into the future with Drone VR! Experience the thrill of piloting drones in immersive virtual reality. Test your reflexes, precision, and control as you race through stunning digital skies and futuristic arenas.",
-        "longDescription": "Dive into the future with Drone VR! Experience the thrill of piloting drones in immersive virtual reality. Test your reflexes, precision, and control as you race through stunning digital skies and futuristic arenas.",
-        "specialEvent": true
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "1qacEW3ugxuw6EQzbDQMwD",
         "type": "Entry",
         "createdAt": "2025-10-18T14:13:00.006Z",
@@ -7865,62 +8257,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "FhBKBmMhz3MVRRYwP4Obq",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:07:19.716Z",
-        "updatedAt": "2025-10-22T12:36:15.639Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 6,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Code Citadel",
-        "clubName": "MICROSOFT INNOVATION CLUB",
-        "eventType": "Workshop",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-27T14:00+00:00",
-        "endDateAndTime": "2025-10-27T17:30+00:00",
-        "pricePerPerson": 50,
-        "participationType": "Solo",
-        "eventVenue": "VOC Auditorium",
-        "shortDescription": "In this hands-on workshop, you'll become a web architect. 💻 Master the core blocks—**HTML, CSS, & JavaScript**—before advancing to responsive design and frontend frameworks. You'll learn modern best practices by building real-world projects.",
-        "longDescription": "The digital empire of tomorrow rests in the hands of its builders. This workshop empowers you to become an architect of the web, starting from the core building blocks — HTML, CSS, and JavaScript — to advanced frameworks and responsive design. You’ll work on real-world projects, learn modern best practices, and craft websites that are not just functional but breathtaking. Create experiences that leave a mark.\n Highlights: HTML, CSS, JavaScript, Responsive Design, Frontend Frameworks, Hands-on Project Building.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "79TD3bkEuPxdpxHHV06UTU",
         "type": "Entry",
         "createdAt": "2025-10-18T14:08:43.423Z",
@@ -8369,62 +8705,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "3DLnSncIN3WvjQi8iU8tl5",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:08:39.041Z",
-        "updatedAt": "2025-10-21T05:25:20.832Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 3,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Design Derby",
-        "clubName": "CAD CLUB",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-11-02T10:00+00:00",
-        "endDateAndTime": "2025-11-02T15:00+00:00",
-        "pricePerPerson": 100,
-        "participationType": "Solo",
-        "eventVenue": "AB1 406C",
-        "shortDescription": "This is a 2-phase CAD challenge! ⚙️ Phase 1 is a technical quiz on CAD and engineering fundamentals. Qualified teams advance to Phase 2, where they must create a complete 3D model from a 2D sketch. The highest combined score from both phases wins.",
-        "longDescription": "A combination of quiz followed by a cad modelling challenge. The event will be conducted in two phases:\n\nPhase 1 – Technical Quiz\nParticipants will face a quiz round focused on CAD concepts and core engineering fundamentals. Teams will be awarded points based on the accuracy and quality of their answers.\n\nPhase 2 – 3D Modeling Challenge\nQualified teams will be provided with a 2D sketch containing multiple views. Using this as reference, they must create a complete 3D model from scratch. The model’s precision, accuracy, and adherence to the given sketch will determine the points awarded.\n\nThe team with the highest combined score from both phases will be declared the winner.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "4xICgNXbs8m7vnRmFYnVEJ",
         "type": "Entry",
         "createdAt": "2025-10-18T14:11:05.421Z",
@@ -8464,62 +8744,6 @@
         "participationType": "Solo",
         "eventVenue": "AB3-310",
         "shortDescription": "Become a digital guardian in our cyber defense workshop. Learn Linux essentials, networking, web vulnerabilities, and OSINT strategies with hands-on tools. Test your new skills in a final Capture-the-Flag (CTF) battle.",
-        "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "5P8ThUgT1SpAVUr7XmZUPY",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:24:55.895Z",
-        "updatedAt": "2025-10-21T05:11:50.573Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 4,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "THE PROJECT X",
-        "clubName": "VITC DEBATE SOCIETY",
-        "eventType": "Entertainment",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-11-01T10:00+00:00",
-        "endDateAndTime": "2025-11-01T16:00+00:00",
-        "pricePerPerson": 150,
-        "participationType": "Solo",
-        "eventVenue": "AB3-601",
-        "shortDescription": "Step into a high-stakes world where a powerful corporation hides its darkest secrets. Project X is an interactive debate-meets-tech challenge where participants investigate a staged corporate cover-up. Teams will interrogate witnesses, uncover digital evidence, and hack through simulated firewalls to reveal the truth. With three thrilling rounds — The Interrogation Gauntlet, The Data Heist, and The Press Conference — this event blends sharp debating skills with technical forensics. Do you have what it takes to expose the truth or defend the indefensible?",
         "longDescription": "",
         "specialEvent": false
       }
@@ -8801,118 +9025,6 @@
         "eventVenue": "VOC Auditorium",
         "shortDescription": "Join VITSOL's Youth Parliament 2025! A simulated debate for students on national & global issues. 🏛️ Draft resolutions and engage in dialogue to develop critical thinking, public speaking, and policy awareness.",
         "longDescription": "The Youth Parliament 2025, organized by the VITSOL Debate Society, is a dynamic platform for students to engage in simulated parliamentary debates on pressing national and global issues. Designed to foster critical thinking, policy awareness, and public speaking, the event encourages participants to voice diverse perspectives, draft resolutions, and experience the spirit of democratic dialogue. Through rigorous debate and collaboration, young minds will learn not just to argue; but to understand, persuade, and lead.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "7FqUFvC3aRPyNaNj3gpint",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:08:40.105Z",
-        "updatedAt": "2025-10-18T14:08:40.105Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Digital Marketing Workshop - Pitch your ideas to Products",
-        "clubName": "ENTREPRENEURSHIP CELL (E-CELL)",
-        "eventType": "Workshop",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T10:00:00.000Z",
-        "endDateAndTime": "2025-10-31T13:00:00.000Z",
-        "pricePerPerson": 100,
-        "participationType": "Solo",
-        "eventVenue": "AB3 409",
-        "shortDescription": "Hands on session for Mastering in Digital marketing techniques by building ideas to product.",
-        "longDescription": "Hands on session for Mastering in Digital marketing techniques by building ideas to product.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "3l8jy31mYX6fNqxp7m8gw3",
-        "type": "Entry",
-        "createdAt": "2025-10-16T14:12:00.297Z",
-        "updatedAt": "2025-10-18T12:43:19.191Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 3,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Grab the CAD",
-        "clubName": "CAD CLUB",
-        "eventType": "Hackathon",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T09:00:00.000Z",
-        "endDateAndTime": "2025-11-01T17:00:00.000Z",
-        "pricePerPerson": 1000,
-        "participationType": "Duo",
-        "eventVenue": "Kasturba Hall",
-        "shortDescription": "A SolidWorks/Fusion 360 event with a hands-on workshop on Day 1 and a design on Day 2. The 24 hr hackathon helps participants get the hang of CSWA & CSWP exam-taking, with a chance to win CSWA/CWSP coupons and a ₹10,000 cash prize pool.",
-        "longDescription": "A SolidWorks/Fusion 360 event with a hands-on workshop on Day 1 and a design on Day 2. The 24 hr hackathon helps participants get the hang of CSWA & CSWP exam-taking, with a chance to win CSWA/CWSP coupons and a ₹10,000 cash prize pool.",
         "specialEvent": false
       }
     },
@@ -9713,62 +9825,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "6AbhJPeYpG7LcBw66m5WfT",
-        "type": "Entry",
-        "createdAt": "2025-10-16T10:43:51.428Z",
-        "updatedAt": "2025-10-16T10:43:51.428Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Debug the Drama",
-        "clubName": "THE HACK CLUB",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T09:00:00.000Z",
-        "endDateAndTime": "2025-10-31T16:00:00.000Z",
-        "pricePerPerson": 50,
-        "participationType": "Solo",
-        "eventVenue": "AB3 601",
-        "shortDescription": "Debug the Drama is a team event where one member gets a secret movie or phrase and uses AI to create an image with visual clues. The team then guesses the answer within the time limit—faster guesses earn more points. The team with the highest score wins.",
-        "longDescription": "Debug the Drama is a team event where one member gets a secret movie or phrase and uses AI to create an image with visual clues. The team then guesses the answer within the time limit—faster guesses earn more points. The team with the highest score wins.<br>",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "5LLVFSvBDwijFDZZzJ8VdZ",
         "type": "Entry",
         "createdAt": "2025-10-15T11:20:56.073Z",
@@ -10064,96 +10120,6 @@
               "id": "rr94wjxz7mfi"
             }
           },
-          "id": "1OPtzCgeD7rmxmoRa5qfqW",
-          "type": "Asset",
-          "createdAt": "2025-10-22T19:18:53.810Z",
-          "updatedAt": "2025-10-22T19:18:53.810Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 3,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "Aerial surveying using drones",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/1OPtzCgeD7rmxmoRa5qfqW/9e2948dfd7312fe107a611ebe1f5288d/Aerial_surveying_using_drones.jpeg",
-            "details": {
-              "size": 271787,
-              "image": {
-                "width": 905,
-                "height": 1280
-              }
-            },
-            "fileName": "Aerial surveying using drones.jpeg",
-            "contentType": "image/jpeg"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
-          "id": "1PiTar8NvkS4rO86OdkgHL",
-          "type": "Asset",
-          "createdAt": "2025-10-22T19:16:40.826Z",
-          "updatedAt": "2025-10-22T19:16:40.826Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 4,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "ros2",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/1PiTar8NvkS4rO86OdkgHL/9af130027de30e3778f5480f75dc2e06/ROS2_Bootcamp_poster_-_Abhijit_B_Rao_23BEC1026.jpg",
-            "details": {
-              "size": 297600,
-              "image": {
-                "width": 904,
-                "height": 1280
-              }
-            },
-            "fileName": "ROS2 Bootcamp poster - Abhijit B Rao 23BEC1026.jpg",
-            "contentType": "image/jpeg"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
           "id": "1RFuznneTFzjQfWsdarrGu",
           "type": "Asset",
           "createdAt": "2025-10-24T15:43:35.003Z",
@@ -10334,51 +10300,6 @@
               "id": "rr94wjxz7mfi"
             }
           },
-          "id": "1iBTvIc36yc0pdyyGs9Ioa",
-          "type": "Asset",
-          "createdAt": "2025-10-22T19:17:36.915Z",
-          "updatedAt": "2025-10-22T19:17:36.915Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 4,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "sketch",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/1iBTvIc36yc0pdyyGs9Ioa/4f2eeb4a45fc4238ba6682c550ad5565/IMG-20251022-WA0126_-_Shreya_Ranjitha_M_23BLC1039.jpg",
-            "details": {
-              "size": 321885,
-              "image": {
-                "width": 904,
-                "height": 1280
-              }
-            },
-            "fileName": "IMG-20251022-WA0126 - Shreya Ranjitha M 23BLC1039.jpg",
-            "contentType": "image/jpeg"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
           "id": "1oJuVu7z9kQYUoaP60dvuG",
           "type": "Asset",
           "createdAt": "2025-10-22T19:25:04.218Z",
@@ -10514,51 +10435,6 @@
               "id": "rr94wjxz7mfi"
             }
           },
-          "id": "2CTDwli77JcpfUZ5ALpxat",
-          "type": "Asset",
-          "createdAt": "2025-10-22T19:14:12.849Z",
-          "updatedAt": "2025-10-22T19:14:12.849Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 3,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "Treasure Verse Final Poster - Hariharan S 22BME1058",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/2CTDwli77JcpfUZ5ALpxat/693183e9cf33e12732aa39a45714097d/Treasure_Verse_Final_Poster_-_Hariharan_S_22BME1058.jpg",
-            "details": {
-              "size": 314157,
-              "image": {
-                "width": 1080,
-                "height": 1920
-              }
-            },
-            "fileName": "Treasure Verse Final Poster - Hariharan S 22BME1058.jpg",
-            "contentType": "image/jpeg"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
           "id": "2DjoogiKkAUD2TqebItIsA",
           "type": "Asset",
           "createdAt": "2025-10-22T19:03:57.197Z",
@@ -10604,10 +10480,10 @@
               "id": "rr94wjxz7mfi"
             }
           },
-          "id": "2E77GfWmH6ZUDA2auOu9HA",
+          "id": "2E66hJixKsWqNbOoRZy0xe",
           "type": "Asset",
-          "createdAt": "2025-10-22T19:15:29.672Z",
-          "updatedAt": "2025-10-22T19:15:29.672Z",
+          "createdAt": "2025-10-24T16:13:03.288Z",
+          "updatedAt": "2025-10-24T16:13:03.288Z",
           "environment": {
             "sys": {
               "id": "master",
@@ -10615,23 +10491,68 @@
               "linkType": "Environment"
             }
           },
-          "publishedVersion": 4,
+          "publishedVersion": 3,
           "revision": 1,
           "locale": "en-US"
         },
         "fields": {
-          "title": "game",
+          "title": "Robo TugOfWar Poster",
           "description": "",
           "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/2E77GfWmH6ZUDA2auOu9HA/38ce245a9fdeedbaab5d876cda82857c/Game_Jam_Poster__3__-_Ashif.jpg",
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/2E66hJixKsWqNbOoRZy0xe/43a19c744ab7f31780150739d6fafecb/Robo_TugOfWar_Poster.jpg",
             "details": {
-              "size": 267890,
+              "size": 3786584,
               "image": {
-                "width": 1063,
-                "height": 1890
+                "width": 2480,
+                "height": 3508
               }
             },
-            "fileName": "Game Jam Poster (3) - Ashif.jpg",
+            "fileName": "Robo_TugOfWar_Poster.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "2R4jq7dfjVYzitNIwu8Pjt",
+          "type": "Asset",
+          "createdAt": "2025-10-24T16:17:26.608Z",
+          "updatedAt": "2025-10-24T16:17:26.608Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "digital marketing workshop",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/2R4jq7dfjVYzitNIwu8Pjt/472098b2ce246b0d97f45e649e10ffb0/digital_marketing_workshop.jpeg",
+            "details": {
+              "size": 290374,
+              "image": {
+                "width": 1080,
+                "height": 1350
+              }
+            },
+            "fileName": "digital marketing workshop.jpeg",
             "contentType": "image/jpeg"
           }
         }
@@ -10723,51 +10644,6 @@
             },
             "fileName": "treasure hunt (1) - prithiv k.jpg",
             "contentType": "image/jpeg"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
-          "id": "2kmph90t1Mw8f9Bqcfnb9E",
-          "type": "Asset",
-          "createdAt": "2025-10-22T19:16:46.166Z",
-          "updatedAt": "2025-10-22T19:16:46.166Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 4,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "iot",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/2kmph90t1Mw8f9Bqcfnb9E/26849484dea8ae2c7831411e48f73c19/IoT_Project_Display_-_ProdInno_VITC.png",
-            "details": {
-              "size": 462299,
-              "image": {
-                "width": 1587,
-                "height": 2245
-              }
-            },
-            "fileName": "IoT_Project_Display - ProdInno VITC.png",
-            "contentType": "image/png"
           }
         }
       },
@@ -10902,6 +10778,51 @@
               }
             },
             "fileName": "IMG-20251022-WA0019.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "3IMlNl9MTg7r6H4HkzEiwR",
+          "type": "Asset",
+          "createdAt": "2025-10-24T16:22:40.943Z",
+          "updatedAt": "2025-10-24T16:22:40.943Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "WhatsApp Image 2025-10-23 at 7.21.47 PM - Prannavakhanth (1)",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/3IMlNl9MTg7r6H4HkzEiwR/ca827d3507a40b8de3d863c85a829f61/WhatsApp_Image_2025-10-23_at_7.21.47_PM_-_Prannavakhanth__1_.jpeg",
+            "details": {
+              "size": 313156,
+              "image": {
+                "width": 1080,
+                "height": 1350
+              }
+            },
+            "fileName": "WhatsApp Image 2025-10-23 at 7.21.47 PM - Prannavakhanth (1).jpeg",
             "contentType": "image/jpeg"
           }
         }
@@ -11083,51 +11004,6 @@
             },
             "fileName": "IMG-20251019-WA0015 - Yoha Yazhini G 23BFT1010.jpg",
             "contentType": "image/jpeg"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
-          "id": "3e0iW3BFAoqT3GqLc7TWvt",
-          "type": "Asset",
-          "createdAt": "2025-10-22T16:24:43.159Z",
-          "updatedAt": "2025-10-22T16:24:43.159Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 5,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "Robo Tug of War",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/3e0iW3BFAoqT3GqLc7TWvt/836fa1dbe29ce4b2b944412c9d2564d1/3_20251018_104436_0002.png",
-            "details": {
-              "size": 5858250,
-              "image": {
-                "width": 1587,
-                "height": 2245
-              }
-            },
-            "fileName": "3_20251018_104436_0002.png",
-            "contentType": "image/png"
           }
         }
       },
@@ -11459,10 +11335,10 @@
               "id": "rr94wjxz7mfi"
             }
           },
-          "id": "47X5a4peLLJ9uqJgqbYCKB",
+          "id": "4P7w5HSDyz9fEclDkl9U3Q",
           "type": "Asset",
-          "createdAt": "2025-10-22T19:15:17.042Z",
-          "updatedAt": "2025-10-22T19:15:17.042Z",
+          "createdAt": "2025-10-24T16:12:16.224Z",
+          "updatedAt": "2025-10-24T16:12:16.224Z",
           "environment": {
             "sys": {
               "id": "master",
@@ -11475,18 +11351,18 @@
           "locale": "en-US"
         },
         "fields": {
-          "title": "realm of minds",
+          "title": "10A.M.- 1p.m - CAD Club VITCC",
           "description": "",
           "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/47X5a4peLLJ9uqJgqbYCKB/392355656053ba4d3415a5a4443a07d6/1_-_Anuraag.png",
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/4P7w5HSDyz9fEclDkl9U3Q/cf31ddf13e2ae700346f4bd2932d8f23/10A.M.-_1p.m_-_CAD_Club_VITCC.png",
             "details": {
-              "size": 415019,
+              "size": 466069,
               "image": {
-                "width": 1191,
-                "height": 1684
+                "width": 1080,
+                "height": 1350
               }
             },
-            "fileName": "1 - Anuraag.png",
+            "fileName": "10A.M.- 1p.m - CAD Club VITCC.png",
             "contentType": "image/png"
           }
         }
@@ -11594,6 +11470,51 @@
               "id": "rr94wjxz7mfi"
             }
           },
+          "id": "4chaFtZ5RugRpMIC61ozTd",
+          "type": "Asset",
+          "createdAt": "2025-10-24T16:09:10.074Z",
+          "updatedAt": "2025-10-24T16:09:10.074Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "IMG-20251023-WA0020 - CAD Club VITCC",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/4chaFtZ5RugRpMIC61ozTd/7f1ca3243fe8b87e19a0d22fc69e96b8/IMG-20251023-WA0020_-_CAD_Club_VITCC.jpg",
+            "details": {
+              "size": 83200,
+              "image": {
+                "width": 768,
+                "height": 1024
+              }
+            },
+            "fileName": "IMG-20251023-WA0020 - CAD Club VITCC.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
           "id": "4kPV6qLRI4m2DRjRXbpA2G",
           "type": "Asset",
           "createdAt": "2025-10-22T19:20:26.195Z",
@@ -11622,51 +11543,6 @@
               }
             },
             "fileName": "Colored Gradient Illustrator Data Analysis Instagram Story (1) - ELEPHANY.jpg",
-            "contentType": "image/jpeg"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
-          "id": "4pfNGubY7VXiosh3PZFyxH",
-          "type": "Asset",
-          "createdAt": "2025-10-22T19:17:57.434Z",
-          "updatedAt": "2025-10-22T19:17:57.434Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 4,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "netsim",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/4pfNGubY7VXiosh3PZFyxH/abf827a4687961636e0ee93eeae32fd2/Netsim_Online_24_hours_Hackathon_-_Jayavignesh_Thyagarajan.jpg",
-            "details": {
-              "size": 266465,
-              "image": {
-                "width": 1080,
-                "height": 1350
-              }
-            },
-            "fileName": "Netsim Online 24 hours Hackathon - Jayavignesh Thyagarajan.jpg",
             "contentType": "image/jpeg"
           }
         }
@@ -11774,6 +11650,51 @@
               "id": "rr94wjxz7mfi"
             }
           },
+          "id": "4svCggsxnASbhuQwZ1RQDh",
+          "type": "Asset",
+          "createdAt": "2025-10-24T16:16:06.856Z",
+          "updatedAt": "2025-10-24T16:16:06.856Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Rogue Route Poster",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/4svCggsxnASbhuQwZ1RQDh/0e3fb308e93879265a8433823e94bb9e/Rogue_Route_Poster.jpg",
+            "details": {
+              "size": 3546338,
+              "image": {
+                "width": 2480,
+                "height": 3508
+              }
+            },
+            "fileName": "Rogue_Route_Poster.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
           "id": "4tfMHmAikWRqMD5B0P6NKk",
           "type": "Asset",
           "createdAt": "2025-10-22T19:30:21.995Z",
@@ -11848,6 +11769,96 @@
             },
             "fileName": "Code & Conquer new - Shashanka Sekar (Shanks).png",
             "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "4uVzSUonqYbKGDwFi1ziKr",
+          "type": "Asset",
+          "createdAt": "2025-10-24T16:10:30.461Z",
+          "updatedAt": "2025-10-24T16:10:30.461Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "1000102413 (1587×2245) - Mahika Vyas 24BCE5175",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/4uVzSUonqYbKGDwFi1ziKr/937a850cdbe225e898707ccc19db517a/1000102413__1587Ã_2245__-_Mahika_Vyas_24BCE5175.png",
+            "details": {
+              "size": 448636,
+              "image": {
+                "width": 1587,
+                "height": 2245
+              }
+            },
+            "fileName": "1000102413 (1587×2245) - Mahika Vyas 24BCE5175.png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "4wezD8OYqfPGTX7YxuigtB",
+          "type": "Asset",
+          "createdAt": "2025-10-24T16:08:26.368Z",
+          "updatedAt": "2025-10-24T16:08:26.368Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "PROJECT X FINAL ISTG - Shreya A Nair",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/4wezD8OYqfPGTX7YxuigtB/eb67132b5bca2ff74998f10eda5bcf86/PROJECT_X_FINAL_ISTG_-_Shreya_A_Nair.jpg",
+            "details": {
+              "size": 181735,
+              "image": {
+                "width": 756,
+                "height": 944
+              }
+            },
+            "fileName": "PROJECT X FINAL ISTG - Shreya A Nair.jpg",
+            "contentType": "image/jpeg"
           }
         }
       },
@@ -12404,6 +12415,51 @@
               "id": "rr94wjxz7mfi"
             }
           },
+          "id": "6EdXRa7tyetcpmZrguhdEw",
+          "type": "Asset",
+          "createdAt": "2025-10-24T16:11:40.505Z",
+          "updatedAt": "2025-10-24T16:11:40.505Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "technovit 4 events (1) - Anuraag",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/6EdXRa7tyetcpmZrguhdEw/57d50daa7c1cca9ba1647f5644a3fab0/technovit_4_events__1__-_Anuraag.png",
+            "details": {
+              "size": 934205,
+              "image": {
+                "width": 1587,
+                "height": 2245
+              }
+            },
+            "fileName": "technovit 4 events (1) - Anuraag.png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
           "id": "6HHfDq4DfCvDcsuXWJBK9L",
           "type": "Asset",
           "createdAt": "2025-10-22T19:23:47.758Z",
@@ -12432,6 +12488,51 @@
               }
             },
             "fileName": "Cadathon poster - Surya Prakash P 24BCL1023.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "6Skg3VNDWeUAF2NkxlvRpT",
+          "type": "Asset",
+          "createdAt": "2025-10-24T16:15:29.962Z",
+          "updatedAt": "2025-10-24T16:15:29.962Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Rotor Rush Poster",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/6Skg3VNDWeUAF2NkxlvRpT/9d147d945ee5e6a15de25bef5c8a9200/Rotor_Rush_Poster.jpg",
+            "details": {
+              "size": 2807145,
+              "image": {
+                "width": 2480,
+                "height": 3508
+              }
+            },
+            "fileName": "Rotor_Rush_Poster.jpg",
             "contentType": "image/jpeg"
           }
         }
@@ -13528,6 +13629,51 @@
               "id": "rr94wjxz7mfi"
             }
           },
+          "id": "1OPtzCgeD7rmxmoRa5qfqW",
+          "type": "Asset",
+          "createdAt": "2025-10-22T19:18:53.810Z",
+          "updatedAt": "2025-10-22T19:18:53.810Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Aerial surveying using drones",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/1OPtzCgeD7rmxmoRa5qfqW/9e2948dfd7312fe107a611ebe1f5288d/Aerial_surveying_using_drones.jpeg",
+            "details": {
+              "size": 271787,
+              "image": {
+                "width": 905,
+                "height": 1280
+              }
+            },
+            "fileName": "Aerial surveying using drones.jpeg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
           "id": "1PdYgOuxpO9FCd08XZoJ3L",
           "type": "Asset",
           "createdAt": "2025-10-22T19:06:47.782Z",
@@ -13556,6 +13702,96 @@
               }
             },
             "fileName": "event poster - Ishan Chaudhary.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "1PiTar8NvkS4rO86OdkgHL",
+          "type": "Asset",
+          "createdAt": "2025-10-22T19:16:40.826Z",
+          "updatedAt": "2025-10-22T19:16:40.826Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "ros2",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/1PiTar8NvkS4rO86OdkgHL/9af130027de30e3778f5480f75dc2e06/ROS2_Bootcamp_poster_-_Abhijit_B_Rao_23BEC1026.jpg",
+            "details": {
+              "size": 297600,
+              "image": {
+                "width": 904,
+                "height": 1280
+              }
+            },
+            "fileName": "ROS2 Bootcamp poster - Abhijit B Rao 23BEC1026.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "1iBTvIc36yc0pdyyGs9Ioa",
+          "type": "Asset",
+          "createdAt": "2025-10-22T19:17:36.915Z",
+          "updatedAt": "2025-10-22T19:17:36.915Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "sketch",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/1iBTvIc36yc0pdyyGs9Ioa/4f2eeb4a45fc4238ba6682c550ad5565/IMG-20251022-WA0126_-_Shreya_Ranjitha_M_23BLC1039.jpg",
+            "details": {
+              "size": 321885,
+              "image": {
+                "width": 904,
+                "height": 1280
+              }
+            },
+            "fileName": "IMG-20251022-WA0126 - Shreya Ranjitha M 23BLC1039.jpg",
             "contentType": "image/jpeg"
           }
         }
@@ -13663,6 +13899,96 @@
               "id": "rr94wjxz7mfi"
             }
           },
+          "id": "2CTDwli77JcpfUZ5ALpxat",
+          "type": "Asset",
+          "createdAt": "2025-10-22T19:14:12.849Z",
+          "updatedAt": "2025-10-22T19:14:12.849Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Treasure Verse Final Poster - Hariharan S 22BME1058",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/2CTDwli77JcpfUZ5ALpxat/693183e9cf33e12732aa39a45714097d/Treasure_Verse_Final_Poster_-_Hariharan_S_22BME1058.jpg",
+            "details": {
+              "size": 314157,
+              "image": {
+                "width": 1080,
+                "height": 1920
+              }
+            },
+            "fileName": "Treasure Verse Final Poster - Hariharan S 22BME1058.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "2E77GfWmH6ZUDA2auOu9HA",
+          "type": "Asset",
+          "createdAt": "2025-10-22T19:15:29.672Z",
+          "updatedAt": "2025-10-22T19:15:29.672Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "game",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/2E77GfWmH6ZUDA2auOu9HA/38ce245a9fdeedbaab5d876cda82857c/Game_Jam_Poster__3__-_Ashif.jpg",
+            "details": {
+              "size": 267890,
+              "image": {
+                "width": 1063,
+                "height": 1890
+              }
+            },
+            "fileName": "Game Jam Poster (3) - Ashif.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
           "id": "2KvbDfRnjAwWUCladLBY9b",
           "type": "Asset",
           "createdAt": "2025-10-15T03:05:16.490Z",
@@ -13736,6 +14062,51 @@
               }
             },
             "fileName": "Event name 2-min - Aditi Babu.png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "2kmph90t1Mw8f9Bqcfnb9E",
+          "type": "Asset",
+          "createdAt": "2025-10-22T19:16:46.166Z",
+          "updatedAt": "2025-10-22T19:16:46.166Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "iot",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/2kmph90t1Mw8f9Bqcfnb9E/26849484dea8ae2c7831411e48f73c19/IoT_Project_Display_-_ProdInno_VITC.png",
+            "details": {
+              "size": 462299,
+              "image": {
+                "width": 1587,
+                "height": 2245
+              }
+            },
+            "fileName": "IoT_Project_Display - ProdInno VITC.png",
             "contentType": "image/png"
           }
         }
@@ -14006,6 +14377,51 @@
               }
             },
             "fileName": "CookOff 2.0 Poster New - CodeChef VITCC.png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "47X5a4peLLJ9uqJgqbYCKB",
+          "type": "Asset",
+          "createdAt": "2025-10-22T19:15:17.042Z",
+          "updatedAt": "2025-10-22T19:15:17.042Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "realm of minds",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/47X5a4peLLJ9uqJgqbYCKB/392355656053ba4d3415a5a4443a07d6/1_-_Anuraag.png",
+            "details": {
+              "size": 415019,
+              "image": {
+                "width": 1191,
+                "height": 1684
+              }
+            },
+            "fileName": "1 - Anuraag.png",
             "contentType": "image/png"
           }
         }
@@ -14382,6 +14798,51 @@
               "id": "rr94wjxz7mfi"
             }
           },
+          "id": "4pfNGubY7VXiosh3PZFyxH",
+          "type": "Asset",
+          "createdAt": "2025-10-22T19:17:57.434Z",
+          "updatedAt": "2025-10-22T19:17:57.434Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "netsim",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/4pfNGubY7VXiosh3PZFyxH/abf827a4687961636e0ee93eeae32fd2/Netsim_Online_24_hours_Hackathon_-_Jayavignesh_Thyagarajan.jpg",
+            "details": {
+              "size": 266465,
+              "image": {
+                "width": 1080,
+                "height": 1350
+              }
+            },
+            "fileName": "Netsim Online 24 hours Hackathon - Jayavignesh Thyagarajan.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
           "id": "4vBiFZeJmZcb4E4SdwPdh9",
           "type": "Asset",
           "createdAt": "2025-10-22T16:23:30.156Z",
@@ -14501,51 +14962,6 @@
             },
             "fileName": "IMG-20251022-WA0014 - Dr. U. Vijayabanu.jpg",
             "contentType": "image/jpeg"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
-          "id": "5fvj06fh4m0SmrgNHO0etF",
-          "type": "Asset",
-          "createdAt": "2025-10-22T16:31:40.213Z",
-          "updatedAt": "2025-10-22T16:31:40.213Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 4,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "Rogue Route",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/5fvj06fh4m0SmrgNHO0etF/1b381c68966f26d6fdcd0b85b68be3f1/5_20251018_104436_0004.png",
-            "details": {
-              "size": 3403062,
-              "image": {
-                "width": 1587,
-                "height": 2245
-              }
-            },
-            "fileName": "5_20251018_104436_0004.png",
-            "contentType": "image/png"
           }
         }
       },
@@ -14771,51 +15187,6 @@
             },
             "fileName": "Photo from Sathwik - Chittapragada Ragha Sathwik 24BEL1060.jpg",
             "contentType": "image/jpeg"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
-          "id": "7JGlt1jP0YnyVc18BK4RlG",
-          "type": "Asset",
-          "createdAt": "2025-10-22T16:28:03.233Z",
-          "updatedAt": "2025-10-22T16:28:03.233Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 4,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "Rotor rush",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/7JGlt1jP0YnyVc18BK4RlG/1087c1e3e1a71b40a4da8ee155eebe50/4_20251018_104436_0003.png",
-            "details": {
-              "size": 2049819,
-              "image": {
-                "width": 1587,
-                "height": 2245
-              }
-            },
-            "fileName": "4_20251018_104436_0003.png",
-            "contentType": "image/png"
           }
         }
       },
