@@ -19,6 +19,62 @@
             "id": "rr94wjxz7mfi"
           }
         },
+        "id": "7kBqOEThLj7az8BegWdl29",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:12:16.127Z",
+        "updatedAt": "2025-10-25T20:59:02.648Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 7,
+        "revision": 4,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "T Minus Zero: Model Rocketry",
+        "clubName": "SEDS ANTARIKSH CHAPTER",
+        "eventType": "Hackathon",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "44cBoqcd2fOUCLG8S8zOx9"
+          }
+        },
+        "startDateAndTime": "2025-11-01T09:00+00:00",
+        "endDateAndTime": "2025-11-01T17:00+00:00",
+        "pricePerPerson": 2200,
+        "participationType": "Duo",
+        "eventVenue": "AB1 602  & 604",
+        "shortDescription": "🚀 T Minus Zero: Model Rocketry- Get ready to ignite your passion for space! In this thrilling, hands-on event, students dive into the science of rocketry, design and build their own model rockets, and watch them soar sky-high during live launches. The best part? You get to take your very own rocket home—a souvenir of your first step into the world of rocketry!",
+        "longDescription": "",
+        "specialEvent": true
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
         "id": "DwBITTQxjUgdnhCxjB7Xs",
         "type": "Entry",
         "createdAt": "2025-10-25T18:23:18.944Z",
@@ -2523,62 +2579,6 @@
         "eventVenue": "AB3 201",
         "shortDescription": "Explore quantum computing principles like superposition and entanglement to accelerate deep learning. Learn hybrid algorithms, quantum-inspired neural networks, and see hands-on demos highlighting future AI applications.",
         "longDescription": "This workshop explores how quantum computing principles, such as superposition and entanglement, can accelerate and transform deep learning models. Participants will learn about quantum-inspired neural networks, hybrid quantum-classical algorithms, and their potential in solving complex problems. Hands-on demonstrations and case studies will highlight the future of quantum-enhanced AI applications.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "7kBqOEThLj7az8BegWdl29",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:12:16.127Z",
-        "updatedAt": "2025-10-22T19:51:35.605Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 5,
-        "revision": 3,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "T Minus Zero: Model Rocketry",
-        "clubName": "SEDS ANTARIKSH CHAPTER",
-        "eventType": "Hackathon",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "44cBoqcd2fOUCLG8S8zOx9"
-          }
-        },
-        "startDateAndTime": "2025-11-01T09:00+00:00",
-        "endDateAndTime": "2025-11-01T17:00+00:00",
-        "pricePerPerson": 2200,
-        "participationType": "Duo",
-        "eventVenue": "AB1 602  & 604",
-        "shortDescription": "🚀 T Minus Zero: Model Rocketry- Get ready to ignite your passion for space! In this thrilling, hands-on event, students dive into the science of rocketry, design and build their own model rockets, and watch them soar sky-high during live launches. The best part? You get to take your very own rocket home—a souvenir of your first step into the world of rocketry!",
-        "longDescription": "",
         "specialEvent": false
       }
     },
