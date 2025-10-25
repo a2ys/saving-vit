@@ -2,10 +2,66 @@
   "sys": {
     "type": "Array"
   },
-  "total": 178,
+  "total": 179,
   "skip": 0,
-  "limit": 178,
+  "limit": 179,
   "items": [
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "DwBITTQxjUgdnhCxjB7Xs",
+        "type": "Entry",
+        "createdAt": "2025-10-25T18:23:18.944Z",
+        "updatedAt": "2025-10-25T18:23:18.944Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 11,
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "IllumiNav - Navigation through Illumination",
+        "clubName": "SPIE STUDENT CHAPTER",
+        "eventType": "Workshop",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "5FsOT4xOYsbCM2Q9l9vGAb"
+          }
+        },
+        "startDateAndTime": "2025-11-02T09:30+00:00",
+        "endDateAndTime": "2025-11-02T13:00+00:00",
+        "pricePerPerson": 149,
+        "participationType": "Solo",
+        "eventVenue": "AB1 311",
+        "shortDescription": "Simulate it. Sense it. See it. Join us to explore how to achieve robust, real-time navigation using affordable components. We’ll bridge the gap between Gazebo virtual worlds and physical reality, using an IMU, a microcontroller, and the ubiquitous phone camera to conduct advanced VSLAM. Localization doesn't have to break the bank!",
+        "longDescription": "Simulate it. Sense it. See it. Join us to explore how to achieve robust, real-time navigation using affordable components. We’ll bridge the gap between Gazebo virtual worlds and physical reality, using an IMU, a microcontroller, and the ubiquitous phone camera to conduct advanced VSLAM. Localization doesn't have to break the bank!",
+        "specialEvent": false
+      }
+    },
     {
       "metadata": {
         "tags": [],
@@ -10806,51 +10862,6 @@
               "id": "rr94wjxz7mfi"
             }
           },
-          "id": "3AGZI94IjMFKuLDzEMarMo",
-          "type": "Asset",
-          "createdAt": "2025-10-22T19:21:31.759Z",
-          "updatedAt": "2025-10-22T19:21:31.759Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 4,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "personal finance",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/3AGZI94IjMFKuLDzEMarMo/4acccff8449d4a98a3c5e31f12815dba/final_personal_finance_-_VITCC_ACM_Student_Chapter.png",
-            "details": {
-              "size": 369739,
-              "image": {
-                "width": 1587,
-                "height": 2245
-              }
-            },
-            "fileName": "final_personal_finance - VITCC ACM Student Chapter.png",
-            "contentType": "image/png"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
           "id": "3BKEzPtDcvETcKzwh91Nrw",
           "type": "Asset",
           "createdAt": "2025-10-22T19:33:20.740Z",
@@ -12140,6 +12151,51 @@
             },
             "fileName": "IMG-20251022-WA0091-min - Karthik L.jpg",
             "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "5FsOT4xOYsbCM2Q9l9vGAb",
+          "type": "Asset",
+          "createdAt": "2025-10-25T18:21:02.618Z",
+          "updatedAt": "2025-10-25T18:21:02.618Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Illuminav",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/5FsOT4xOYsbCM2Q9l9vGAb/a01ca5603e033f4792223b360c64ecba/SPIE_TECHNOVIT_POSTER__2__-_Mouleshvar_B_24BMH1011.png",
+            "details": {
+              "size": 383161,
+              "image": {
+                "width": 1587,
+                "height": 2245
+              }
+            },
+            "fileName": "SPIE TECHNOVIT POSTER (2) - Mouleshvar B 24BMH1011.png",
+            "contentType": "image/png"
           }
         }
       },
@@ -14255,6 +14311,51 @@
             },
             "fileName": "Hacker - Ivan Varghese George 24BYB1097.jpg",
             "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "3AGZI94IjMFKuLDzEMarMo",
+          "type": "Asset",
+          "createdAt": "2025-10-22T19:21:31.759Z",
+          "updatedAt": "2025-10-22T19:21:31.759Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "personal finance",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/3AGZI94IjMFKuLDzEMarMo/4acccff8449d4a98a3c5e31f12815dba/final_personal_finance_-_VITCC_ACM_Student_Chapter.png",
+            "details": {
+              "size": 369739,
+              "image": {
+                "width": 1587,
+                "height": 2245
+              }
+            },
+            "fileName": "final_personal_finance - VITCC ACM Student Chapter.png",
+            "contentType": "image/png"
           }
         }
       },
