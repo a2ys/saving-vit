@@ -19,6 +19,62 @@
             "id": "rr94wjxz7mfi"
           }
         },
+        "id": "26xPjgy5jNS9dKZm2xl7bf",
+        "type": "Entry",
+        "createdAt": "2025-10-16T14:13:11.781Z",
+        "updatedAt": "2025-10-25T05:51:16.014Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 5,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Chessathlon",
+        "clubName": "MATHEMATICS CLUB",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "1PdYgOuxpO9FCd08XZoJ3L"
+          }
+        },
+        "startDateAndTime": "2025-11-02T09:00:00.000Z",
+        "endDateAndTime": "2025-10-29T13:30:00.000Z",
+        "pricePerPerson": 100,
+        "participationType": "Solo",
+        "eventVenue": "AB3 512",
+        "shortDescription": "The Chessathlon is the ultimate test of chess versatility. Compete in three disciplines: high-speed Blitz & Bullet, creative Fischer Random (Chess960), and a challenging Endgame Gauntlet. The highest cumulative score crowns the champion.",
+        "longDescription": "The Chessathlon is the ultimate test of chess versatility. Compete in three disciplines: high-speed Blitz & Bullet, creative Fischer Random (Chess960), and a challenging Endgame Gauntlet. The highest cumulative score crowns the champion.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
         "id": "1E2ND2Hz0Eq3e18efvOf29",
         "type": "Entry",
         "createdAt": "2025-10-24T20:36:33.133Z",
@@ -6577,62 +6633,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "26xPjgy5jNS9dKZm2xl7bf",
-        "type": "Entry",
-        "createdAt": "2025-10-16T14:13:11.781Z",
-        "updatedAt": "2025-10-22T19:06:53.154Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 3,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Chessathlon",
-        "clubName": "MATHEMATICS CLUB",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "1PdYgOuxpO9FCd08XZoJ3L"
-          }
-        },
-        "startDateAndTime": "2025-11-02T09:00:00.000Z",
-        "endDateAndTime": "2025-10-29T13:30:00.000Z",
-        "pricePerPerson": 100,
-        "participationType": "Solo",
-        "eventVenue": "AB3 512",
-        "shortDescription": "A GenAI workshop featuring an interactive session by industry experts from ManageEngine (Zoho) on GenAI in security domains, followed by a hands-on session by students exploring general applications, industry use cases, and MCP server creation.",
-        "longDescription": "A genAI workshop starting with a interactive session by Industry people form ManageEngine (Zoho) on usage of genAI on securiy domains followed by a hands-on workshop from students on genAI of general use and for industry related usecases, MCP server creation, usecases.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "5O5OaCBSuZAZyjZs3NTBWf",
         "type": "Entry",
         "createdAt": "2025-10-21T12:24:17.887Z",
@@ -10159,6 +10159,51 @@
               }
             },
             "fileName": "privacy paradox FINAL ISTG - Shreya A Nair.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "1PdYgOuxpO9FCd08XZoJ3L",
+          "type": "Asset",
+          "createdAt": "2025-10-22T19:06:47.782Z",
+          "updatedAt": "2025-10-22T19:06:47.782Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "chess",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/1PdYgOuxpO9FCd08XZoJ3L/237ebf61fd9feec94054d69482d8a7b4/event_poster_-_Ishan_Chaudhary.jpg",
+            "details": {
+              "size": 359230,
+              "image": {
+                "width": 1024,
+                "height": 1280
+              }
+            },
+            "fileName": "event poster - Ishan Chaudhary.jpg",
             "contentType": "image/jpeg"
           }
         }
@@ -13714,51 +13759,6 @@
               }
             },
             "fileName": "Aerial surveying using drones.jpeg",
-            "contentType": "image/jpeg"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
-          "id": "1PdYgOuxpO9FCd08XZoJ3L",
-          "type": "Asset",
-          "createdAt": "2025-10-22T19:06:47.782Z",
-          "updatedAt": "2025-10-22T19:06:47.782Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 4,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "chess",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/1PdYgOuxpO9FCd08XZoJ3L/237ebf61fd9feec94054d69482d8a7b4/event_poster_-_Ishan_Chaudhary.jpg",
-            "details": {
-              "size": 359230,
-              "image": {
-                "width": 1024,
-                "height": 1280
-              }
-            },
-            "fileName": "event poster - Ishan Chaudhary.jpg",
             "contentType": "image/jpeg"
           }
         }
