@@ -19,6 +19,62 @@
             "id": "rr94wjxz7mfi"
           }
         },
+        "id": "5P8ThUgT1SpAVUr7XmZUPY",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:24:55.895Z",
+        "updatedAt": "2025-10-25T08:30:56.562Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 9,
+        "revision": 4,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "THE PROJECT X",
+        "clubName": "VITC DEBATE SOCIETY X DAO COMMUNITY",
+        "eventType": "Entertainment",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "4wezD8OYqfPGTX7YxuigtB"
+          }
+        },
+        "startDateAndTime": "2025-11-01T10:00+00:00",
+        "endDateAndTime": "2025-11-01T16:00+00:00",
+        "pricePerPerson": 150,
+        "participationType": "Solo",
+        "eventVenue": "AB3-601",
+        "shortDescription": "Step into a high-stakes world where a powerful corporation hides its darkest secrets. Project X is an interactive debate-meets-tech challenge where participants investigate a staged corporate cover-up. Teams will interrogate witnesses, uncover digital evidence, and hack through simulated firewalls to reveal the truth. With three thrilling rounds — The Interrogation Gauntlet, The Data Heist, and The Press Conference — this event blends sharp debating skills with technical forensics. Do you have what it takes to expose the truth or defend the indefensible?",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
         "id": "26xPjgy5jNS9dKZm2xl7bf",
         "type": "Entry",
         "createdAt": "2025-10-16T14:13:11.781Z",
@@ -787,62 +843,6 @@
         "eventVenue": "AB1 406C",
         "shortDescription": "This is a 2-phase CAD challenge! ⚙️ Phase 1 is a technical quiz on CAD and engineering fundamentals. Qualified teams advance to Phase 2, where they must create a complete 3D model from a 2D sketch. The highest combined score from both phases wins.",
         "longDescription": "A combination of quiz followed by a cad modelling challenge. The event will be conducted in two phases:\n\nPhase 1 – Technical Quiz\nParticipants will face a quiz round focused on CAD concepts and core engineering fundamentals. Teams will be awarded points based on the accuracy and quality of their answers.\n\nPhase 2 – 3D Modeling Challenge\nQualified teams will be provided with a 2D sketch containing multiple views. Using this as reference, they must create a complete 3D model from scratch. The model’s precision, accuracy, and adherence to the given sketch will determine the points awarded.\n\nThe team with the highest combined score from both phases will be declared the winner.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "5P8ThUgT1SpAVUr7XmZUPY",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:24:55.895Z",
-        "updatedAt": "2025-10-24T16:08:28.607Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 6,
-        "revision": 3,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "THE PROJECT X",
-        "clubName": "VITC DEBATE SOCIETY",
-        "eventType": "Entertainment",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "4wezD8OYqfPGTX7YxuigtB"
-          }
-        },
-        "startDateAndTime": "2025-11-01T10:00+00:00",
-        "endDateAndTime": "2025-11-01T16:00+00:00",
-        "pricePerPerson": 150,
-        "participationType": "Solo",
-        "eventVenue": "AB3-601",
-        "shortDescription": "Step into a high-stakes world where a powerful corporation hides its darkest secrets. Project X is an interactive debate-meets-tech challenge where participants investigate a staged corporate cover-up. Teams will interrogate witnesses, uncover digital evidence, and hack through simulated firewalls to reveal the truth. With three thrilling rounds — The Interrogation Gauntlet, The Data Heist, and The Press Conference — this event blends sharp debating skills with technical forensics. Do you have what it takes to expose the truth or defend the indefensible?",
-        "longDescription": "",
         "specialEvent": false
       }
     },
