@@ -19,6 +19,118 @@
             "id": "rr94wjxz7mfi"
           }
         },
+        "id": "4ZRPUMNstStglwlJrqfPEH",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:24:58.161Z",
+        "updatedAt": "2025-10-27T05:46:35.702Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 7,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Business Case Study Competition(trio)",
+        "clubName": "BUSINESS AND INNOVATION COMMUNITY (BIC)",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "hhQbdy4VRbbt7EK0No427"
+          }
+        },
+        "startDateAndTime": "2025-11-01T10:00+00:00",
+        "endDateAndTime": "2025-11-01T13:00+00:00",
+        "pricePerPerson": 300,
+        "participationType": "Trio",
+        "eventVenue": "AB3 310",
+        "shortDescription": "A business case study competition where participants analyze real-world business problems and present practical, innovative solutions. The event aims to enhance strategic thinking, problem-solving, and presentation skills among participants.",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "4x9dshzvSO8WbfIrGHdRP2",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:24:57.019Z",
+        "updatedAt": "2025-10-27T05:46:13.402Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 6,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Business Case Study Competition(solo)",
+        "clubName": "BUSINESS AND INNOVATION COMMUNITY (BIC)",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "hhQbdy4VRbbt7EK0No427"
+          }
+        },
+        "startDateAndTime": "2025-11-01T10:00+00:00",
+        "endDateAndTime": "2025-11-01T13:00+00:00",
+        "pricePerPerson": 100,
+        "participationType": "Solo",
+        "eventVenue": "AB3 310",
+        "shortDescription": "A business case study competition where participants analyze real-world business problems and present practical, innovative solutions. The event aims to enhance strategic thinking, problem-solving, and presentation skills among participants.",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
         "id": "6kADSqkobOhdmzyhpdHd8x",
         "type": "Entry",
         "createdAt": "2025-10-18T14:24:59.218Z",
@@ -8929,118 +9041,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "4x9dshzvSO8WbfIrGHdRP2",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:24:57.019Z",
-        "updatedAt": "2025-10-19T15:46:40.144Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 4,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Business Case Study Competition(solo)",
-        "clubName": "BUSINESS AND INNOVATION COMMUNITY (BIC)",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-11-01T10:00+00:00",
-        "endDateAndTime": "2025-11-01T13:00+00:00",
-        "pricePerPerson": 100,
-        "participationType": "Solo",
-        "eventVenue": "AB3 310",
-        "shortDescription": "A business case study competition where participants analyze real-world business problems and present practical, innovative solutions. The event aims to enhance strategic thinking, problem-solving, and presentation skills among participants.",
-        "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "4ZRPUMNstStglwlJrqfPEH",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:24:58.161Z",
-        "updatedAt": "2025-10-19T15:45:57.134Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 4,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Business Case Study Competition(trio)",
-        "clubName": "BUSINESS AND INNOVATION COMMUNITY (BIC)",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-11-01T10:00+00:00",
-        "endDateAndTime": "2025-11-01T13:00+00:00",
-        "pricePerPerson": 300,
-        "participationType": "Trio",
-        "eventVenue": "AB3 310",
-        "shortDescription": "A business case study competition where participants analyze real-world business problems and present practical, innovative solutions. The event aims to enhance strategic thinking, problem-solving, and presentation skills among participants.",
-        "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "6pRGf7vnpZTittqLBz4lgZ",
         "type": "Entry",
         "createdAt": "2025-10-18T14:25:02.496Z",
@@ -12572,51 +12572,6 @@
               "id": "rr94wjxz7mfi"
             }
           },
-          "id": "6HHfDq4DfCvDcsuXWJBK9L",
-          "type": "Asset",
-          "createdAt": "2025-10-22T19:23:47.758Z",
-          "updatedAt": "2025-10-22T19:23:47.758Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 3,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "Cadathon poster - Surya Prakash P 24BCL1023",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/6HHfDq4DfCvDcsuXWJBK9L/cb397dab4e6c276163222af15391051c/Cadathon_poster_-_Surya_Prakash_P_24BCL1023.jpg",
-            "details": {
-              "size": 297937,
-              "image": {
-                "width": 904,
-                "height": 1280
-              }
-            },
-            "fileName": "Cadathon poster - Surya Prakash P 24BCL1023.jpg",
-            "contentType": "image/jpeg"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
           "id": "6RHaEXZh88L0Saik5MQmwF",
           "type": "Asset",
           "createdAt": "2025-10-27T05:34:20.711Z",
@@ -13247,51 +13202,6 @@
               "id": "rr94wjxz7mfi"
             }
           },
-          "id": "7vzY5dAdJjSBqTrjMOpOOS",
-          "type": "Asset",
-          "createdAt": "2025-10-22T19:23:39.891Z",
-          "updatedAt": "2025-10-22T19:23:39.891Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 4,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "heist",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/7vzY5dAdJjSBqTrjMOpOOS/73d0bea7f3ca567ebeae0232ffd153f9/Coder-s_Heist_-_V_Shriya.png",
-            "details": {
-              "size": 470620,
-              "image": {
-                "width": 1080,
-                "height": 1350
-              }
-            },
-            "fileName": "Coder-s Heist - V Shriya.png",
-            "contentType": "image/png"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
           "id": "Cf9EZ9kOLWeBnvnzOHrXf",
           "type": "Asset",
           "createdAt": "2025-10-22T19:39:22.156Z",
@@ -13591,6 +13501,51 @@
             },
             "fileName": "CameraHandling - Sam Rozario D 24BCE1196.jpeg",
             "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "hhQbdy4VRbbt7EK0No427",
+          "type": "Asset",
+          "createdAt": "2025-10-27T05:46:06.746Z",
+          "updatedAt": "2025-10-27T05:46:06.746Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "business case study ",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/hhQbdy4VRbbt7EK0No427/5df2a55a6c25eb1409fc14ac19f099b7/Poster__3_.png",
+            "details": {
+              "size": 2856012,
+              "image": {
+                "width": 1080,
+                "height": 1440
+              }
+            },
+            "fileName": "Poster (3).png",
+            "contentType": "image/png"
           }
         }
       },
@@ -15406,6 +15361,51 @@
               "id": "rr94wjxz7mfi"
             }
           },
+          "id": "6HHfDq4DfCvDcsuXWJBK9L",
+          "type": "Asset",
+          "createdAt": "2025-10-22T19:23:47.758Z",
+          "updatedAt": "2025-10-22T19:23:47.758Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Cadathon poster - Surya Prakash P 24BCL1023",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/6HHfDq4DfCvDcsuXWJBK9L/cb397dab4e6c276163222af15391051c/Cadathon_poster_-_Surya_Prakash_P_24BCL1023.jpg",
+            "details": {
+              "size": 297937,
+              "image": {
+                "width": 904,
+                "height": 1280
+              }
+            },
+            "fileName": "Cadathon poster - Surya Prakash P 24BCL1023.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
           "id": "6qGCf3HHU16X9cT6ltbiN6",
           "type": "Asset",
           "createdAt": "2025-10-22T13:33:10.643Z",
@@ -15615,6 +15615,51 @@
             },
             "fileName": "game poster - Benila S.jpg",
             "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "7vzY5dAdJjSBqTrjMOpOOS",
+          "type": "Asset",
+          "createdAt": "2025-10-22T19:23:39.891Z",
+          "updatedAt": "2025-10-22T19:23:39.891Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "heist",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/7vzY5dAdJjSBqTrjMOpOOS/73d0bea7f3ca567ebeae0232ffd153f9/Coder-s_Heist_-_V_Shriya.png",
+            "details": {
+              "size": 470620,
+              "image": {
+                "width": 1080,
+                "height": 1350
+              }
+            },
+            "fileName": "Coder-s Heist - V Shriya.png",
+            "contentType": "image/png"
           }
         }
       },
