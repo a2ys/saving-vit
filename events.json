@@ -19,6 +19,118 @@
             "id": "rr94wjxz7mfi"
           }
         },
+        "id": "2CTy938YxBJ6TJnh5iQHBc",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:19:44.220Z",
+        "updatedAt": "2025-10-27T10:37:06.029Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Youth Parliament",
+        "clubName": "VITSOL DEBATE SOCIETY",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-31T15:00+00:00",
+        "endDateAndTime": "2025-10-31T18:00+00:00",
+        "pricePerPerson": 200,
+        "participationType": "Solo",
+        "eventVenue": "VOC Auditorium",
+        "shortDescription": "Join VITSOL's Youth Parliament 2025! A simulated debate for students on national & global issues. 🏛️ Draft resolutions and engage in dialogue to develop critical thinking, public speaking, and policy awareness.",
+        "longDescription": "The Youth Parliament 2025, organized by the VITSOL Debate Society, is a dynamic platform for students to engage in simulated parliamentary debates on pressing national and global issues. Designed to foster critical thinking, policy awareness, and public speaking, the event encourages participants to voice diverse perspectives, draft resolutions, and experience the spirit of democratic dialogue. Through rigorous debate and collaboration, young minds will learn not just to argue; but to understand, persuade, and lead.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "7wtkB7Wpme4okkOUS3pyUc",
+        "type": "Entry",
+        "createdAt": "2025-10-16T10:43:50.324Z",
+        "updatedAt": "2025-10-27T10:36:30.628Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 7,
+        "revision": 4,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "CraftMySite",
+        "clubName": "OPEN SOURCE PROGRAMMING CLUB",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "257CYCXEkgi6hx36RNRnHq"
+          }
+        },
+        "startDateAndTime": "2025-10-31T10:00+00:00",
+        "endDateAndTime": "2025-10-31T15:00+00:00",
+        "pricePerPerson": 100,
+        "participationType": "Solo",
+        "eventVenue": "VOC  Auditorium",
+        "shortDescription": "Participants build standout personal portfolio websites using AI tools and coding. Projects are judged on design, functionality, responsiveness, and presentation. Attendees gain skills to create impressive, professional portfolios from scratch.",
+        "longDescription": "A dynamic workshop and contest where you build standout personal portfolio websites fast. Learn to harness AI tools and code from scratch to create portfolios that grab attention. Projects will be judged on design, functionality, responsiveness, and presentation. Attendees will gain walkaway with the ability to build impressive portfolios.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
         "id": "4ZRPUMNstStglwlJrqfPEH",
         "type": "Entry",
         "createdAt": "2025-10-18T14:24:58.161Z",
@@ -7193,62 +7305,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "7wtkB7Wpme4okkOUS3pyUc",
-        "type": "Entry",
-        "createdAt": "2025-10-16T10:43:50.324Z",
-        "updatedAt": "2025-10-22T16:43:40.381Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 5,
-        "revision": 3,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "CraftMySite",
-        "clubName": "OPEN SOURCE PROGRAMMING CLUB",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "257CYCXEkgi6hx36RNRnHq"
-          }
-        },
-        "startDateAndTime": "2025-10-31T08:00+00:00",
-        "endDateAndTime": "2025-10-31T16:00:00.000Z",
-        "pricePerPerson": 100,
-        "participationType": "Solo",
-        "eventVenue": "VOC  Auditorium",
-        "shortDescription": "Participants build standout personal portfolio websites using AI tools and coding. Projects are judged on design, functionality, responsiveness, and presentation. Attendees gain skills to create impressive, professional portfolios from scratch.",
-        "longDescription": "A dynamic workshop and contest where you build standout personal portfolio websites fast. Learn to harness AI tools and code from scratch to create portfolios that grab attention. Projects will be judged on design, functionality, responsiveness, and presentation. Attendees will gain walkaway with the ability to build impressive portfolios.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "ha5lhqtqY6jKVmVoG6qwp",
         "type": "Entry",
         "createdAt": "2025-10-18T14:07:17.547Z",
@@ -9097,62 +9153,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "2CTy938YxBJ6TJnh5iQHBc",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:19:44.220Z",
-        "updatedAt": "2025-10-18T14:19:44.220Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Youth Parliament",
-        "clubName": "VITSOL DEBATE SOCIETY",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T14:00:00.000Z",
-        "endDateAndTime": "2025-10-31T17:00:00.000Z",
-        "pricePerPerson": 200,
-        "participationType": "Solo",
-        "eventVenue": "VOC Auditorium",
-        "shortDescription": "Join VITSOL's Youth Parliament 2025! A simulated debate for students on national & global issues. 🏛️ Draft resolutions and engage in dialogue to develop critical thinking, public speaking, and policy awareness.",
-        "longDescription": "The Youth Parliament 2025, organized by the VITSOL Debate Society, is a dynamic platform for students to engage in simulated parliamentary debates on pressing national and global issues. Designed to foster critical thinking, policy awareness, and public speaking, the event encourages participants to voice diverse perspectives, draft resolutions, and experience the spirit of democratic dialogue. Through rigorous debate and collaboration, young minds will learn not just to argue; but to understand, persuade, and lead.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "2OtKGx5Ex4KJJn84NSTX0d",
         "type": "Entry",
         "createdAt": "2025-10-15T03:07:58.047Z",
@@ -10502,6 +10502,51 @@
               "id": "rr94wjxz7mfi"
             }
           },
+          "id": "257CYCXEkgi6hx36RNRnHq",
+          "type": "Asset",
+          "createdAt": "2025-10-22T13:10:50.853Z",
+          "updatedAt": "2025-10-22T13:10:50.853Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "craftmysite",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/257CYCXEkgi6hx36RNRnHq/faf0072bbd59e33f7eb95b054c3dadc6/CRAFTMYSITE.png",
+            "details": {
+              "size": 479895,
+              "image": {
+                "width": 1587,
+                "height": 2245
+              }
+            },
+            "fileName": "CRAFTMYSITE.png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
           "id": "2DjoogiKkAUD2TqebItIsA",
           "type": "Asset",
           "createdAt": "2025-10-22T19:03:57.197Z",
@@ -11431,6 +11476,50 @@
             },
             "fileName": "WhatsApp Image 2025-10-20 at 00.25.43_5659238e - Darshini ツ.jpg",
             "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "47Xb2cPhpwsklnk79zlQto",
+          "type": "Asset",
+          "createdAt": "2025-10-15T19:41:42.624Z",
+          "updatedAt": "2025-10-23T08:22:30.863Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 35,
+          "revision": 6,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Na",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/47Xb2cPhpwsklnk79zlQto/dca0648c6f6dd39ee765083752953268/techno_poster.png",
+            "details": {
+              "size": 1256483,
+              "image": {
+                "width": 3375,
+                "height": 4219
+              }
+            },
+            "fileName": "techno_poster.png",
+            "contentType": "image/png"
           }
         }
       },
@@ -14012,51 +14101,6 @@
               "id": "rr94wjxz7mfi"
             }
           },
-          "id": "257CYCXEkgi6hx36RNRnHq",
-          "type": "Asset",
-          "createdAt": "2025-10-22T13:10:50.853Z",
-          "updatedAt": "2025-10-22T13:10:50.853Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 4,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "craftmysite",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/257CYCXEkgi6hx36RNRnHq/faf0072bbd59e33f7eb95b054c3dadc6/CRAFTMYSITE.png",
-            "details": {
-              "size": 479895,
-              "image": {
-                "width": 1587,
-                "height": 2245
-              }
-            },
-            "fileName": "CRAFTMYSITE.png",
-            "contentType": "image/png"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
           "id": "2CTDwli77JcpfUZ5ALpxat",
           "type": "Asset",
           "createdAt": "2025-10-22T19:14:12.849Z",
@@ -14670,50 +14714,6 @@
               }
             },
             "fileName": "1 - Anuraag.png",
-            "contentType": "image/png"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
-          "id": "47Xb2cPhpwsklnk79zlQto",
-          "type": "Asset",
-          "createdAt": "2025-10-15T19:41:42.624Z",
-          "updatedAt": "2025-10-23T08:22:30.863Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 35,
-          "revision": 6,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "Na",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/47Xb2cPhpwsklnk79zlQto/dca0648c6f6dd39ee765083752953268/techno_poster.png",
-            "details": {
-              "size": 1256483,
-              "image": {
-                "width": 3375,
-                "height": 4219
-              }
-            },
-            "fileName": "techno_poster.png",
             "contentType": "image/png"
           }
         }
