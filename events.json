@@ -19,6 +19,62 @@
             "id": "rr94wjxz7mfi"
           }
         },
+        "id": "5P8ThUgT1SpAVUr7XmZUPY",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:24:55.895Z",
+        "updatedAt": "2025-10-27T17:02:28.165Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 11,
+        "revision": 5,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "THE PROJECT X",
+        "clubName": "VITC DEBATE SOCIETY X DAO COMMUNITY",
+        "eventType": "Entertainment",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "4wezD8OYqfPGTX7YxuigtB"
+          }
+        },
+        "startDateAndTime": "2025-11-01T10:00+00:00",
+        "endDateAndTime": "2025-11-01T16:00+00:00",
+        "pricePerPerson": 150,
+        "participationType": "Solo/Duo/Trio",
+        "eventVenue": "AB3-601",
+        "shortDescription": "Step into a high-stakes world where a powerful corporation hides its darkest secrets. Project X is an interactive debate-meets-tech challenge where participants investigate a staged corporate cover-up. Teams will interrogate witnesses, uncover digital evidence, and hack through simulated firewalls to reveal the truth. With three thrilling rounds — The Interrogation Gauntlet, The Data Heist, and The Press Conference — this event blends sharp debating skills with technical forensics. Do you have what it takes to expose the truth or defend the indefensible?",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
         "id": "2CTy938YxBJ6TJnh5iQHBc",
         "type": "Entry",
         "createdAt": "2025-10-18T14:19:44.220Z",
@@ -451,62 +507,6 @@
         "eventVenue": "AB1 311",
         "shortDescription": "Simulate it. Sense it. See it. Join us to explore how to achieve robust, real-time navigation using affordable components. We’ll bridge the gap between Gazebo virtual worlds and physical reality, using an IMU, a microcontroller, and the ubiquitous phone camera to conduct advanced VSLAM. Localization doesn't have to break the bank!",
         "longDescription": "Simulate it. Sense it. See it. Join us to explore how to achieve robust, real-time navigation using affordable components. We’ll bridge the gap between Gazebo virtual worlds and physical reality, using an IMU, a microcontroller, and the ubiquitous phone camera to conduct advanced VSLAM. Localization doesn't have to break the bank!",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "5P8ThUgT1SpAVUr7XmZUPY",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:24:55.895Z",
-        "updatedAt": "2025-10-25T08:30:56.562Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 9,
-        "revision": 4,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "THE PROJECT X",
-        "clubName": "VITC DEBATE SOCIETY X DAO COMMUNITY",
-        "eventType": "Entertainment",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "4wezD8OYqfPGTX7YxuigtB"
-          }
-        },
-        "startDateAndTime": "2025-11-01T10:00+00:00",
-        "endDateAndTime": "2025-11-01T16:00+00:00",
-        "pricePerPerson": 150,
-        "participationType": "Solo",
-        "eventVenue": "AB3-601",
-        "shortDescription": "Step into a high-stakes world where a powerful corporation hides its darkest secrets. Project X is an interactive debate-meets-tech challenge where participants investigate a staged corporate cover-up. Teams will interrogate witnesses, uncover digital evidence, and hack through simulated firewalls to reveal the truth. With three thrilling rounds — The Interrogation Gauntlet, The Data Heist, and The Press Conference — this event blends sharp debating skills with technical forensics. Do you have what it takes to expose the truth or defend the indefensible?",
-        "longDescription": "",
         "specialEvent": false
       }
     },
