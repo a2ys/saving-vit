@@ -19,6 +19,118 @@
             "id": "rr94wjxz7mfi"
           }
         },
+        "id": "6kADSqkobOhdmzyhpdHd8x",
+        "type": "Entry",
+        "createdAt": "2025-10-18T14:24:59.218Z",
+        "updatedAt": "2025-10-27T05:42:18.934Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Prompt Engineering 101: Building the Future of Business",
+        "clubName": "BUSINESS AND INNOVATION COMMUNITY (BIC)",
+        "eventType": "Workshop",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "40nqpdNNp56vpwVyeuJ403"
+          }
+        },
+        "startDateAndTime": "2025-10-31T11:00:00.000Z",
+        "endDateAndTime": "2025-10-31T12:30:00.000Z",
+        "pricePerPerson": 50,
+        "participationType": "Solo",
+        "eventVenue": "AB3 308",
+        "shortDescription": "A talk focused on introducing prompt engineering concepts to budding entrepreneurs. The session will guide participants through the process of using AI-driven tools to enhance business strategy and decision-making. The event aims to foster creativity, critical thinking, and innovation, while providing actionable insights into applying prompt engineering for business growth.",
+        "longDescription": "",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "5jTo3ukG6ULA5CQvciAaln",
+        "type": "Entry",
+        "createdAt": "2025-10-15T11:55:04.243Z",
+        "updatedAt": "2025-10-27T05:35:23.425Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 26,
+        "revision": 6,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Brainware",
+        "clubName": "ARTIFICIAL INTELLIGENCE CLUB",
+        "eventType": "Competition",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "6RHaEXZh88L0Saik5MQmwF"
+          }
+        },
+        "startDateAndTime": "2025-10-31T09:00+00:00",
+        "endDateAndTime": "2025-10-31T14:00+00:00",
+        "pricePerPerson": 100,
+        "participationType": "Solo/Duo",
+        "eventVenue": "AB3 201",
+        "shortDescription": "BrainWare is Kaun Banega Crorepati but Tech Edition.\nExperience the excitement of Amitabh's Kaun Banega Crorepati with a fun tech twist! Teams tackle challenging questions, lifelines, and rapid rounds to claim the title of ultimate Brain Ware champion!",
+        "longDescription": "Brainware is an exciting quiz-based competition that brings a technological twist to the classic Kaun Banega Crorepati format. Participants will tackle rounds of progressively challenging questions spanning computer science, emerging technologies, logical problem-solving, and general tech knowledge. The event is designed to test technical expertise, quick thinking, and strategic decision-making in an engaging and competitive setup. Scheduled to be held on any one day of TechnoVIT, with a maximum team size of 2 members, Brainware promotes collaboration and knowledge sharing, making it a fun, intellectually stimulating highlight of TechnoVIT.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
         "id": "7kBqOEThLj7az8BegWdl29",
         "type": "Entry",
         "createdAt": "2025-10-18T14:12:16.127Z",
@@ -6633,62 +6745,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "5jTo3ukG6ULA5CQvciAaln",
-        "type": "Entry",
-        "createdAt": "2025-10-15T11:55:04.243Z",
-        "updatedAt": "2025-10-22T19:10:35.595Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 23,
-        "revision": 5,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Brainware",
-        "clubName": "ARTIFICIAL INTELLIGENCE CLUB",
-        "eventType": "Competition",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "7b3CVsR1AwtJnaVm7owhh5"
-          }
-        },
-        "startDateAndTime": "2025-10-31T09:00+00:00",
-        "endDateAndTime": "2025-10-31T14:00+00:00",
-        "pricePerPerson": 100,
-        "participationType": "Solo/Duo",
-        "eventVenue": "AB3 201",
-        "shortDescription": "Quiz-based competition testing tech knowledge, problem-solving, and emerging technology awareness. Teams answer progressively challenging questions, fostering collaboration, quick thinking, and competitive spirit.",
-        "longDescription": "Brainware is an exciting quiz-based competition that brings a technological twist to the classic Kaun Banega Crorepati format. Participants will tackle rounds of progressively challenging questions spanning computer science, emerging technologies, logical problem-solving, and general tech knowledge. The event is designed to test technical expertise, quick thinking, and strategic decision-making in an engaging and competitive setup. Scheduled to be held on any one day of TechnoVIT, with a maximum team size of 2 members, Brainware promotes collaboration and knowledge sharing, making it a fun, intellectually stimulating highlight of TechnoVIT.",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "5O5OaCBSuZAZyjZs3NTBWf",
         "type": "Entry",
         "createdAt": "2025-10-21T12:24:17.887Z",
@@ -9041,62 +9097,6 @@
             "id": "rr94wjxz7mfi"
           }
         },
-        "id": "6kADSqkobOhdmzyhpdHd8x",
-        "type": "Entry",
-        "createdAt": "2025-10-18T14:24:59.218Z",
-        "updatedAt": "2025-10-18T14:24:59.218Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Prompt Engineering 101: Building the Future of Business",
-        "clubName": "BUSINESS AND INNOVATION COMMUNITY (BIC)",
-        "eventType": "Workshop",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "47Xb2cPhpwsklnk79zlQto"
-          }
-        },
-        "startDateAndTime": "2025-10-31T11:00:00.000Z",
-        "endDateAndTime": "2025-10-31T12:30:00.000Z",
-        "pricePerPerson": 50,
-        "participationType": "Solo",
-        "eventVenue": "AB3 308",
-        "shortDescription": "A talk focused on introducing prompt engineering concepts to budding entrepreneurs. The session will guide participants through the process of using AI-driven tools to enhance business strategy and decision-making. The event aims to foster creativity, critical thinking, and innovation, while providing actionable insights into applying prompt engineering for business growth.",
-        "longDescription": "",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
         "id": "2CTy938YxBJ6TJnh5iQHBc",
         "type": "Entry",
         "createdAt": "2025-10-18T14:19:44.220Z",
@@ -10502,51 +10502,6 @@
               "id": "rr94wjxz7mfi"
             }
           },
-          "id": "204cjNvGvib06m0PxZK5yi",
-          "type": "Asset",
-          "createdAt": "2025-10-22T19:22:29.448Z",
-          "updatedAt": "2025-10-22T19:22:29.448Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 4,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "designfactory",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/204cjNvGvib06m0PxZK5yi/0b2c9ad117e647f1261ad817be922bdb/TechnoVITPosters__1__-_KIRAN_SAMPATH.jpg",
-            "details": {
-              "size": 446258,
-              "image": {
-                "width": 1587,
-                "height": 2245
-              }
-            },
-            "fileName": "TechnoVITPosters (1) - KIRAN SAMPATH.jpg",
-            "contentType": "image/jpeg"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
           "id": "2DjoogiKkAUD2TqebItIsA",
           "type": "Asset",
           "createdAt": "2025-10-22T19:03:57.197Z",
@@ -11340,6 +11295,51 @@
               }
             },
             "fileName": "IMG-20251021-WA0020 - Srija Dey 24BCE1684.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "40nqpdNNp56vpwVyeuJ403",
+          "type": "Asset",
+          "createdAt": "2025-10-27T05:38:18.433Z",
+          "updatedAt": "2025-10-27T05:38:18.433Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "bic new poster",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/40nqpdNNp56vpwVyeuJ403/ec0bbc62d7e3205ea4c5f531746c1ebb/93d4b3d7-d7ee-4ce7-b078-da234e122f42.jpg",
+            "details": {
+              "size": 351824,
+              "image": {
+                "width": 904,
+                "height": 1280
+              }
+            },
+            "fileName": "93d4b3d7-d7ee-4ce7-b078-da234e122f42.jpg",
             "contentType": "image/jpeg"
           }
         }
@@ -12392,51 +12392,6 @@
               "id": "rr94wjxz7mfi"
             }
           },
-          "id": "5qhwN7BVDBqiaeufcrLmdP",
-          "type": "Asset",
-          "createdAt": "2025-10-22T19:22:16.563Z",
-          "updatedAt": "2025-10-22T19:22:16.563Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 3,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "10 - ELEPHANY",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/5qhwN7BVDBqiaeufcrLmdP/3d623fe4d3c591677de8d65e5046ec57/10_-_ELEPHANY.jpg",
-            "details": {
-              "size": 132935,
-              "image": {
-                "width": 1080,
-                "height": 1350
-              }
-            },
-            "fileName": "10 - ELEPHANY.jpg",
-            "contentType": "image/jpeg"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
           "id": "63MQ128DbQTZMwpTP385J5",
           "type": "Asset",
           "createdAt": "2025-10-22T19:41:36.606Z",
@@ -12645,6 +12600,51 @@
               }
             },
             "fileName": "Cadathon poster - Surya Prakash P 24BCL1023.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "6RHaEXZh88L0Saik5MQmwF",
+          "type": "Asset",
+          "createdAt": "2025-10-27T05:34:20.711Z",
+          "updatedAt": "2025-10-27T05:34:20.711Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "brainware new",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/6RHaEXZh88L0Saik5MQmwF/e008f3b330c90818c4d846e6a6456d50/38d1b9a6-5684-4439-aca5-287452a5ae66.jpg",
+            "details": {
+              "size": 296673,
+              "image": {
+                "width": 1024,
+                "height": 1280
+              }
+            },
+            "fileName": "38d1b9a6-5684-4439-aca5-287452a5ae66.jpg",
             "contentType": "image/jpeg"
           }
         }
@@ -13967,6 +13967,51 @@
               "id": "rr94wjxz7mfi"
             }
           },
+          "id": "204cjNvGvib06m0PxZK5yi",
+          "type": "Asset",
+          "createdAt": "2025-10-22T19:22:29.448Z",
+          "updatedAt": "2025-10-22T19:22:29.448Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "designfactory",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/204cjNvGvib06m0PxZK5yi/0b2c9ad117e647f1261ad817be922bdb/TechnoVITPosters__1__-_KIRAN_SAMPATH.jpg",
+            "details": {
+              "size": 446258,
+              "image": {
+                "width": 1587,
+                "height": 2245
+              }
+            },
+            "fileName": "TechnoVITPosters (1) - KIRAN SAMPATH.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
           "id": "20Fb2g2VjmBZox7DioE3IM",
           "type": "Asset",
           "createdAt": "2025-10-22T19:21:12.889Z",
@@ -15226,6 +15271,51 @@
               "id": "rr94wjxz7mfi"
             }
           },
+          "id": "5qhwN7BVDBqiaeufcrLmdP",
+          "type": "Asset",
+          "createdAt": "2025-10-22T19:22:16.563Z",
+          "updatedAt": "2025-10-22T19:22:16.563Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "10 - ELEPHANY",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/5qhwN7BVDBqiaeufcrLmdP/3d623fe4d3c591677de8d65e5046ec57/10_-_ELEPHANY.jpg",
+            "details": {
+              "size": 132935,
+              "image": {
+                "width": 1080,
+                "height": 1350
+              }
+            },
+            "fileName": "10 - ELEPHANY.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
           "id": "5xGcUNgvVl7OWbNkT3agak",
           "type": "Asset",
           "createdAt": "2025-10-15T02:49:52.273Z",
@@ -15435,51 +15525,6 @@
             },
             "fileName": "Cursor create - Navitha E 22MIA1051.jpeg",
             "contentType": "image/jpeg"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
-          "id": "7b3CVsR1AwtJnaVm7owhh5",
-          "type": "Asset",
-          "createdAt": "2025-10-22T19:10:31.645Z",
-          "updatedAt": "2025-10-22T19:10:31.645Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 4,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "brainware",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/7b3CVsR1AwtJnaVm7owhh5/b076e0f319965b0b2c5374486b74c6b5/1000042058_-_Mahalakshmi_Labels.png",
-            "details": {
-              "size": 229551,
-              "image": {
-                "width": 986,
-                "height": 1225
-              }
-            },
-            "fileName": "1000042058 - Mahalakshmi Labels.png",
-            "contentType": "image/png"
           }
         }
       },
