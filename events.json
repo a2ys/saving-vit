@@ -2,10 +2,122 @@
   "sys": {
     "type": "Array"
   },
-  "total": 179,
+  "total": 181,
   "skip": 0,
-  "limit": 179,
+  "limit": 181,
   "items": [
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "5Rjmqv3bvPPcWcsnBCz1Uw",
+        "type": "Entry",
+        "createdAt": "2025-10-28T06:37:40.601Z",
+        "updatedAt": "2025-10-28T06:45:19.072Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 19,
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Go Karting",
+        "clubName": "Event Managers Club",
+        "eventType": "Entertainment",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "6XydzEZJhLGbDb1ie2coMV"
+          }
+        },
+        "startDateAndTime": "2025-10-31T09:00+00:00",
+        "endDateAndTime": "2025-10-02T18:00+00:00",
+        "pricePerPerson": 300,
+        "participationType": "Solo",
+        "eventVenue": "AB3 - North Square Junction",
+        "shortDescription": "Get ready to experience the thrill of speed! \nThe Go-Karting event at TechnoVIT 2025 brings you an exciting opportunity to race around a dedicated track inside the VIT Chennai campus. Feel the adrenaline as you take the driver’s seat and enjoy a safe, fun-filled ride guided by professionals. Register now and be part of one of the most thrilling attractions of the fest!",
+        "longDescription": "Get ready to experience the thrill of speed! \nThe Go-Karting event at TechnoVIT 2025 brings you an exciting opportunity to race around a dedicated track inside the VIT Chennai campus. Feel the adrenaline as you take the driver’s seat and enjoy a safe, fun-filled ride guided by professionals. Register now and be part of one of the most thrilling attractions of the fest!",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "BUvo7dGBJJvgunH7m0qsI",
+        "type": "Entry",
+        "createdAt": "2025-10-28T06:43:25.061Z",
+        "updatedAt": "2025-10-28T06:43:25.061Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 12,
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Calibrate Right 2025",
+        "clubName": "Havoltz Club",
+        "eventType": "Workshop",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "5aCKfAsyXgQr7vAJ2A7FcU"
+          }
+        },
+        "startDateAndTime": "2025-10-31T09:00+05:30",
+        "endDateAndTime": "2025-10-31T17:00+05:30",
+        "pricePerPerson": 99,
+        "participationType": "Solo",
+        "eventVenue": "AB4 - 001",
+        "shortDescription": "This session aims to provide participants with practical exposure to instrument calibration techniques and quality assurance standards.",
+        "longDescription": "This session aims to provide participants with practical exposure to instrument calibration techniques and quality assurance standards.",
+        "specialEvent": false
+      }
+    },
     {
       "metadata": {
         "tags": [],
@@ -10322,51 +10434,6 @@
               "id": "rr94wjxz7mfi"
             }
           },
-          "id": "1WIOgffAtE5PqITePTZMoF",
-          "type": "Asset",
-          "createdAt": "2025-10-22T19:25:33.353Z",
-          "updatedAt": "2025-10-22T19:25:33.353Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 4,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "8 minutes to win",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/rr94wjxz7mfi/1WIOgffAtE5PqITePTZMoF/fb54163f1203d7e7c986a5f235c159b7/2_-_Harisankar_V.jpg",
-            "details": {
-              "size": 409963,
-              "image": {
-                "width": 1587,
-                "height": 2245
-              }
-            },
-            "fileName": "2 - Harisankar V.jpg",
-            "contentType": "image/jpeg"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
           "id": "1Z4CTaEG0wlu9GY7P3qWUl",
           "type": "Asset",
           "createdAt": "2025-10-22T19:39:23.775Z",
@@ -12346,6 +12413,51 @@
               "id": "rr94wjxz7mfi"
             }
           },
+          "id": "5aCKfAsyXgQr7vAJ2A7FcU",
+          "type": "Asset",
+          "createdAt": "2025-10-28T06:42:50.976Z",
+          "updatedAt": "2025-10-28T06:42:50.976Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 5,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "CALIBRATE",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/5aCKfAsyXgQr7vAJ2A7FcU/2f0618a73eaaa6af54d61951e83fa241/f9517276-7eb0-4c58-b591-bef28c2df210.jpg",
+            "details": {
+              "size": 135977,
+              "image": {
+                "width": 995,
+                "height": 1280
+              }
+            },
+            "fileName": "f9517276-7eb0-4c58-b591-bef28c2df210.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
           "id": "5g9lnRQzowmK1J23xMk2SG",
           "type": "Asset",
           "createdAt": "2025-10-22T19:43:02.896Z",
@@ -12869,6 +12981,51 @@
               }
             },
             "fileName": "IMG-20251021-WA0042 - Pritom Talukdar.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "6XydzEZJhLGbDb1ie2coMV",
+          "type": "Asset",
+          "createdAt": "2025-10-28T06:45:07.130Z",
+          "updatedAt": "2025-10-28T06:45:07.130Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "GO KARTING",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/6XydzEZJhLGbDb1ie2coMV/c1798bdf05a39e4c07ae0b45e710aa5b/b0c9e8eb-e60f-4d54-b6fa-8be752583abb.jpg",
+            "details": {
+              "size": 95424,
+              "image": {
+                "width": 438,
+                "height": 613
+              }
+            },
+            "fileName": "b0c9e8eb-e60f-4d54-b6fa-8be752583abb.jpg",
             "contentType": "image/jpeg"
           }
         }
@@ -13904,6 +14061,51 @@
               }
             },
             "fileName": "ROS2 Bootcamp poster - Abhijit B Rao 23BEC1026.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "1WIOgffAtE5PqITePTZMoF",
+          "type": "Asset",
+          "createdAt": "2025-10-22T19:25:33.353Z",
+          "updatedAt": "2025-10-22T19:25:33.353Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "8 minutes to win",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/rr94wjxz7mfi/1WIOgffAtE5PqITePTZMoF/fb54163f1203d7e7c986a5f235c159b7/2_-_Harisankar_V.jpg",
+            "details": {
+              "size": 409963,
+              "image": {
+                "width": 1587,
+                "height": 2245
+              }
+            },
+            "fileName": "2 - Harisankar V.jpg",
             "contentType": "image/jpeg"
           }
         }
