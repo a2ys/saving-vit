@@ -2,10 +2,66 @@
   "sys": {
     "type": "Array"
   },
-  "total": 181,
+  "total": 182,
   "skip": 0,
-  "limit": 181,
+  "limit": 182,
   "items": [
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
+        "id": "6jFY0Kkr8QhrRAi08mje9S",
+        "type": "Entry",
+        "createdAt": "2025-10-29T09:59:54.799Z",
+        "updatedAt": "2025-10-29T09:59:54.799Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 15,
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": " Technical Seminar on \"Corrosion\"",
+        "clubName": "Bureau of Indian Standards (BIS)",
+        "eventType": "Workshop",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "47Xb2cPhpwsklnk79zlQto"
+          }
+        },
+        "startDateAndTime": "2025-10-31T14:00+00:00",
+        "endDateAndTime": "2025-10-31T15:30+00:00",
+        "pricePerPerson": 0,
+        "participationType": "Solo",
+        "eventVenue": " VALEO Lab (AB1- Ground Floor) ",
+        "shortDescription": "A Technical Seminar on \"Corrosion\" by Scientists from the Bureau of Indian Standards (BIS)",
+        "longDescription": "A Technical Seminar on \"Corrosion\" by Scientists from the Bureau of Indian Standards (BIS)",
+        "specialEvent": false
+      }
+    },
     {
       "metadata": {
         "tags": [],
@@ -10524,51 +10580,6 @@
               "id": "rr94wjxz7mfi"
             }
           },
-          "id": "1oJuVu7z9kQYUoaP60dvuG",
-          "type": "Asset",
-          "createdAt": "2025-10-22T19:25:04.218Z",
-          "updatedAt": "2025-10-22T19:25:04.218Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "publishedVersion": 3,
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "ignite",
-          "description": "",
-          "file": {
-            "url": "/posters/IMG_4775 - Akshayavarshini M 23BMH1145.jpeg",
-            "details": {
-              "size": 277576,
-              "image": {
-                "width": 1080,
-                "height": 1350
-              }
-            },
-            "fileName": "IMG_4775 - Akshayavarshini M 23BMH1145.jpeg",
-            "contentType": "image/jpeg"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": [],
-          "concepts": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "rr94wjxz7mfi"
-            }
-          },
           "id": "257CYCXEkgi6hx36RNRnHq",
           "type": "Asset",
           "createdAt": "2025-10-22T13:10:50.853Z",
@@ -14151,6 +14162,51 @@
               }
             },
             "fileName": "IMG-20251022-WA0126 - Shreya Ranjitha M 23BLC1039.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "rr94wjxz7mfi"
+            }
+          },
+          "id": "1oJuVu7z9kQYUoaP60dvuG",
+          "type": "Asset",
+          "createdAt": "2025-10-22T19:25:04.218Z",
+          "updatedAt": "2025-10-22T19:25:04.218Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "ignite",
+          "description": "",
+          "file": {
+            "url": "/posters/IMG_4775 - Akshayavarshini M 23BMH1145.jpeg",
+            "details": {
+              "size": 277576,
+              "image": {
+                "width": 1080,
+                "height": 1350
+              }
+            },
+            "fileName": "IMG_4775 - Akshayavarshini M 23BMH1145.jpeg",
             "contentType": "image/jpeg"
           }
         }
