@@ -19,6 +19,62 @@
             "id": "rr94wjxz7mfi"
           }
         },
+        "id": "1dD4990XWIxviME5LJ0Stt",
+        "type": "Entry",
+        "createdAt": "2025-10-16T12:28:12.518Z",
+        "updatedAt": "2025-10-30T15:16:31.252Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 5,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "eventName": "Code the Future ESP Workshop",
+        "clubName": "AGRHI INNOVATORS CLUB",
+        "eventType": "Workshop",
+        "poster": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "6TDqBKv1wjpYkzZb4FIbzZ"
+          }
+        },
+        "startDateAndTime": "2025-10-31T09:00:00.000Z",
+        "endDateAndTime": "2025-10-31T14:00:00.000Z",
+        "pricePerPerson": 60,
+        "participationType": "Solo",
+        "eventVenue": "AB3 - 210",
+        "shortDescription": "Get hands-on with the Internet of Things! This workshop introduces you to the world of ESP microcontrollers, where hardware meets innovation. Learn to program, connect, and build exciting projects using ESP boards, from smart devices to real-world automation. Whether you’re a beginner or a tinkerer, this is your chance to code, create, and craft the connected future.",
+        "longDescription": "Get hands-on with IoT using ESP microcontrollers! Learn to program, connect, and build projects from smart devices to automation. Beginners and tinkerers alike will code, create, and craft innovative, connected solutions for real-world applications.",
+        "specialEvent": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rr94wjxz7mfi"
+          }
+        },
         "id": "6jFY0Kkr8QhrRAi08mje9S",
         "type": "Entry",
         "createdAt": "2025-10-29T09:59:54.799Z",
@@ -2131,62 +2187,6 @@
         "eventVenue": "AB1-201",
         "shortDescription": "Multidisciplinary Workshop on protection of Human values",
         "longDescription": "Multidisciplinary Workshop on protection of Human values",
-        "specialEvent": false
-      }
-    },
-    {
-      "metadata": {
-        "tags": [],
-        "concepts": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "rr94wjxz7mfi"
-          }
-        },
-        "id": "1dD4990XWIxviME5LJ0Stt",
-        "type": "Entry",
-        "createdAt": "2025-10-16T12:28:12.518Z",
-        "updatedAt": "2025-10-24T15:44:29.796Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 3,
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "event"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "eventName": "Code the Future ESP Workshop",
-        "clubName": "AGRHI INNOVATORS CLUB",
-        "eventType": "Workshop",
-        "poster": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Asset",
-            "id": "6TDqBKv1wjpYkzZb4FIbzZ"
-          }
-        },
-        "startDateAndTime": "2025-10-31T09:00:00.000Z",
-        "endDateAndTime": "2025-10-31T14:00:00.000Z",
-        "pricePerPerson": 60,
-        "participationType": "Solo",
-        "eventVenue": "AB3 - 612",
-        "shortDescription": "Get hands-on with the Internet of Things! This workshop introduces you to the world of ESP microcontrollers, where hardware meets innovation. Learn to program, connect, and build exciting projects using ESP boards, from smart devices to real-world automation. Whether you’re a beginner or a tinkerer, this is your chance to code, create, and craft the connected future.",
-        "longDescription": "Get hands-on with IoT using ESP microcontrollers! Learn to program, connect, and build projects from smart devices to automation. Beginners and tinkerers alike will code, create, and craft innovative, connected solutions for real-world applications.",
         "specialEvent": false
       }
     },
